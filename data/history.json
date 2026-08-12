@@ -61,7 +61,8 @@
             "A direct military war between the USA and USSR"
           ],
           "answerIndex": 0,
-          "explanation": "The notes explicitly define the Cold War as not an actual war but a state of hostility involving non-cooperation, propaganda and economic measures."
+          "explanation": "The notes explicitly define the Cold War as not an actual war but a state of hostility involving non-cooperation, propaganda and economic measures.",
+          "d": 1
         },
         {
           "question": "Under a command economy (USSR), who determines prices and production?",
@@ -72,7 +73,8 @@
             "Market competition"
           ],
           "answerIndex": 2,
-          "explanation": "Communism used a state-controlled command economy where the government decided production and prices."
+          "explanation": "Communism used a state-controlled command economy where the government decided production and prices.",
+          "d": 1
         },
         {
           "question": "What political structure did the USSR use?",
@@ -83,7 +85,8 @@
             "One-party authoritarian dictatorship"
           ],
           "answerIndex": 3,
-          "explanation": "Communism concentrated power in a select few through one-party rule/authoritarian dictatorship."
+          "explanation": "Communism concentrated power in a select few through one-party rule/authoritarian dictatorship.",
+          "d": 1
         },
         {
           "question": "Which phase comes first in the Cold War's three-phase structure?",
@@ -94,7 +97,8 @@
             "Outbreak"
           ],
           "answerIndex": 3,
-          "explanation": "The notes list Outbreak, then Escalation, then Manifestation as the three phases."
+          "explanation": "The notes list Outbreak, then Escalation, then Manifestation as the three phases.",
+          "d": 1
         },
         {
           "question": "What was the fundamental basis of all subsequent Cold War conflicts, per the notes?",
@@ -105,7 +109,8 @@
             "Ideological differences between capitalism and communism"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state ideological differences laid the basis of all subsequent conflicts of the Cold War."
+          "explanation": "The notes state ideological differences laid the basis of all subsequent conflicts of the Cold War.",
+          "d": 1
         },
         {
           "question": "How did healthcare provision differ between the USA and USSR?",
@@ -116,7 +121,8 @@
             "Neither provided healthcare"
           ],
           "answerIndex": 1,
-          "explanation": "Capitalism (USA) had healthcare managed by the private sector, while Communism (USSR) had free healthcare services."
+          "explanation": "Capitalism (USA) had healthcare managed by the private sector, while Communism (USSR) had free healthcare services.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -218,7 +224,8 @@
             "Fulton, USA, 1946"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state Allied leaders met at Yalta, Ukraine, in February 1945."
+          "explanation": "The notes state Allied leaders met at Yalta, Ukraine, in February 1945.",
+          "d": 1
         },
         {
           "question": "What did Stalin agree to regarding Japan at Yalta?",
@@ -229,7 +236,8 @@
             "To occupy Japan alone"
           ],
           "answerIndex": 2,
-          "explanation": "Stalin agreed to enter the war against Japan once Germany had surrendered."
+          "explanation": "Stalin agreed to enter the war against Japan once Germany had surrendered.",
+          "d": 1
         },
         {
           "question": "How many zones was Germany divided into at Yalta?",
@@ -240,7 +248,8 @@
             "Five"
           ],
           "answerIndex": 2,
-          "explanation": "Germany was divided into 4 zones: American, British, French and Soviet."
+          "explanation": "Germany was divided into 4 zones: American, British, French and Soviet.",
+          "d": 1
         },
         {
           "question": "What event just before Potsdam most worsened Stalin's trust in the West?",
@@ -251,7 +260,8 @@
             "The Berlin Blockade"
           ],
           "answerIndex": 0,
-          "explanation": "Truman informed Stalin about the atomic bomb only at the start of Potsdam; Stalin was furious it had been kept secret."
+          "explanation": "Truman informed Stalin about the atomic bomb only at the start of Potsdam; Stalin was furious it had been kept secret.",
+          "d": 2
         },
         {
           "question": "What was the outcome of the reparations dispute at Potsdam?",
@@ -262,7 +272,8 @@
             "Germany was exempted from all reparations"
           ],
           "answerIndex": 1,
-          "explanation": "A compromise allowed the Soviets to take whatever they wanted from their zone and 10% from the Western zones."
+          "explanation": "A compromise allowed the Soviets to take whatever they wanted from their zone and 10% from the Western zones.",
+          "d": 1
         },
         {
           "question": "Why did Truman become angry with Stalin over Poland?",
@@ -273,7 +284,8 @@
             "Stalin gave Poland to Germany"
           ],
           "answerIndex": 1,
-          "explanation": "Truman was angry because Stalin had arrested the non-communist leaders of Poland."
+          "explanation": "Truman was angry because Stalin had arrested the non-communist leaders of Poland.",
+          "d": 2
         },
         {
           "question": "Which leadership change occurred between Yalta and Potsdam?",
@@ -284,7 +296,8 @@
             "Stalin was replaced by Khrushchev"
           ],
           "answerIndex": 2,
-          "explanation": "Roosevelt died on 12 April 1945 and was succeeded by Truman, who was more anticommunist and suspicious of Stalin."
+          "explanation": "Roosevelt died on 12 April 1945 and was succeeded by Truman, who was more anticommunist and suspicious of Stalin.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -370,7 +383,8 @@
             "That Germany supported Soviet expansion"
           ],
           "answerIndex": 0,
-          "explanation": "Russia was not invited to the Munich talks, suggesting to Stalin the West would let Hitler destroy Russia before acting."
+          "explanation": "Russia was not invited to the Munich talks, suggesting to Stalin the West would let Hitler destroy Russia before acting.",
+          "d": 2
         },
         {
           "question": "What was the Nazi-Soviet Pact?",
@@ -381,7 +395,8 @@
             "A UN resolution"
           ],
           "answerIndex": 2,
-          "explanation": "In 1939 the USSR signed a mutual non-aggression pact (Molotov-Ribbentrop Pact) with Nazi Germany."
+          "explanation": "In 1939 the USSR signed a mutual non-aggression pact (Molotov-Ribbentrop Pact) with Nazi Germany.",
+          "d": 1
         },
         {
           "question": "Who delivered the 'Iron Curtain' speech and where?",
@@ -392,7 +407,8 @@
             "Roosevelt at Yalta"
           ],
           "answerIndex": 2,
-          "explanation": "Winston Churchill delivered the speech at Westminster College, Fulton, USA in 1946."
+          "explanation": "Winston Churchill delivered the speech at Westminster College, Fulton, USA in 1946.",
+          "d": 1
         },
         {
           "question": "By 1945, which countries in Eastern Europe were NOT occupied by the Red Army?",
@@ -403,7 +419,8 @@
             "East Germany and Poland"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state the Red Army occupied all of Eastern Europe except Albania, Yugoslavia and Greece."
+          "explanation": "The notes state the Red Army occupied all of Eastern Europe except Albania, Yugoslavia and Greece.",
+          "d": 2
         },
         {
           "question": "What does 'slicing salami' refer to?",
@@ -414,7 +431,8 @@
             "A German rearmament plan"
           ],
           "answerIndex": 0,
-          "explanation": "The term described the Communist process of gradually getting rid of all opposition bit by bit."
+          "explanation": "The term described the Communist process of gradually getting rid of all opposition bit by bit.",
+          "d": 1
         },
         {
           "question": "According to Churchill's speech, which was the only state with 'true democracy' in Eastern Europe?",
@@ -425,7 +443,8 @@
             "Czechoslovakia"
           ],
           "answerIndex": 3,
-          "explanation": "Churchill stated that except in Czechoslovakia, there was no true democracy in the Eastern states."
+          "explanation": "Churchill stated that except in Czechoslovakia, there was no true democracy in the Eastern states.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -523,7 +542,8 @@
             "A UN resolution condemning the USSR"
           ],
           "answerIndex": 1,
-          "explanation": "Truman declared the US would provide aid to any country under threat of communist takeover."
+          "explanation": "Truman declared the US would provide aid to any country under threat of communist takeover.",
+          "d": 1
         },
         {
           "question": "What was the main goal of the Containment Policy?",
@@ -534,7 +554,8 @@
             "To limit communism to areas already under Soviet control and resist further expansion"
           ],
           "answerIndex": 3,
-          "explanation": "Containment aimed to confine communism to existing Soviet-controlled areas and resist expansion elsewhere."
+          "explanation": "Containment aimed to confine communism to existing Soviet-controlled areas and resist expansion elsewhere.",
+          "d": 1
         },
         {
           "question": "Who was sent to assess Europe's economic devastation, leading to the Marshall Plan?",
@@ -545,7 +566,8 @@
             "Harry Truman"
           ],
           "answerIndex": 1,
-          "explanation": "Secretary of State George Marshall was sent to assess Europe's economic state."
+          "explanation": "Secretary of State George Marshall was sent to assess Europe's economic state.",
+          "d": 1
         },
         {
           "question": "What event finally convinced US Congress to approve the Marshall Plan's $17 billion?",
@@ -556,7 +578,8 @@
             "The events in Czechoslovakia in 1948"
           ],
           "answerIndex": 3,
-          "explanation": "Only after the events in Czechoslovakia did Congress accept the plan."
+          "explanation": "Only after the events in Czechoslovakia did Congress accept the plan.",
+          "d": 2
         },
         {
           "question": "What did Molotov call the Marshall Plan?",
@@ -567,7 +590,8 @@
             "Salami tactics"
           ],
           "answerIndex": 2,
-          "explanation": "Molotov called the Marshall Plan 'dollar imperialism', suggesting it spread US influence through money."
+          "explanation": "Molotov called the Marshall Plan 'dollar imperialism', suggesting it spread US influence through money.",
+          "d": 1
         },
         {
           "question": "What principle underpinned NATO, signed in 1949?",
@@ -578,7 +602,8 @@
             "An attack on one member is an attack on all"
           ],
           "answerIndex": 3,
-          "explanation": "NATO's core principle was collective defence: an attack on any member would be treated as an attack on all."
+          "explanation": "NATO's core principle was collective defence: an attack on any member would be treated as an attack on all.",
+          "d": 1
         },
         {
           "question": "What triggered American intervention in Greece in 1947?",
@@ -589,7 +614,8 @@
             "A civil war between Soviet-backed communists and British-backed monarchists"
           ],
           "answerIndex": 3,
-          "explanation": "Civil war broke out between Soviet-backed communists and British-backed monarchists, prompting Truman's intervention."
+          "explanation": "Civil war broke out between Soviet-backed communists and British-backed monarchists, prompting Truman's intervention.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -663,7 +689,8 @@
             "To administer the Marshall Plan"
           ],
           "answerIndex": 1,
-          "explanation": "Cominform coordinated the activities of Communist Parties in Europe under USSR direction."
+          "explanation": "Cominform coordinated the activities of Communist Parties in Europe under USSR direction.",
+          "d": 1
         },
         {
           "question": "When was Comecon established?",
@@ -674,7 +701,8 @@
             "1961"
           ],
           "answerIndex": 1,
-          "explanation": "Comecon was established in 1949."
+          "explanation": "Comecon was established in 1949.",
+          "d": 1
         },
         {
           "question": "What directly triggered the creation of the Warsaw Pact?",
@@ -685,7 +713,8 @@
             "The Marshall Plan"
           ],
           "answerIndex": 1,
-          "explanation": "After NATO admitted West Germany in 1955, the USSR created the Warsaw Pact in response."
+          "explanation": "After NATO admitted West Germany in 1955, the USSR created the Warsaw Pact in response.",
+          "d": 2
         },
         {
           "question": "What principle did the Warsaw Pact share with NATO?",
@@ -696,7 +725,8 @@
             "Free trade among members"
           ],
           "answerIndex": 2,
-          "explanation": "Similar to NATO, an attack on any Warsaw Pact member was considered an attack on all members."
+          "explanation": "Similar to NATO, an attack on any Warsaw Pact member was considered an attack on all members.",
+          "d": 1
         },
         {
           "question": "What was one additional aim of Cominform besides coordination of Communist Parties?",
@@ -707,7 +737,8 @@
             "To build collective heavy industry in Eastern Europe"
           ],
           "answerIndex": 3,
-          "explanation": "Cominform also aimed to build collective heavy industry in Eastern European countries."
+          "explanation": "Cominform also aimed to build collective heavy industry in Eastern European countries.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -797,7 +828,8 @@
             "The merger of all four occupation zones"
           ],
           "answerIndex": 1,
-          "explanation": "Bizonia was formed in 1947 by combining the American and British zones."
+          "explanation": "Bizonia was formed in 1947 by combining the American and British zones.",
+          "d": 1
         },
         {
           "question": "Why did Stalin blockade Berlin in 1948?",
@@ -808,7 +840,8 @@
             "To merge Berlin with Bizonia"
           ],
           "answerIndex": 2,
-          "explanation": "Stalin blocked supply lines to starve West Berlin into surrendering to communist control."
+          "explanation": "Stalin blocked supply lines to starve West Berlin into surrendering to communist control.",
+          "d": 2
         },
         {
           "question": "How did the West respond to the Berlin Blockade?",
@@ -819,7 +852,8 @@
             "They withdrew from Berlin entirely"
           ],
           "answerIndex": 1,
-          "explanation": "The West chose the option of airlifting supplies rather than ramming the blockade or withdrawing."
+          "explanation": "The West chose the option of airlifting supplies rather than ramming the blockade or withdrawing.",
+          "d": 1
         },
         {
           "question": "What new currency did the Allies introduce to help West Germany's economy?",
@@ -830,7 +864,8 @@
             "The Euro"
           ],
           "answerIndex": 0,
-          "explanation": "The Allies introduced the Deutsche Mark to replace the severely inflated old currency."
+          "explanation": "The Allies introduced the Deutsche Mark to replace the severely inflated old currency.",
+          "d": 1
         },
         {
           "question": "How long did the Berlin Airlift last?",
@@ -841,7 +876,8 @@
             "2 years"
           ],
           "answerIndex": 1,
-          "explanation": "The airlift ran from June 1948 to May 1949."
+          "explanation": "The airlift ran from June 1948 to May 1949.",
+          "d": 1
         },
         {
           "question": "Why was West Berlin especially vulnerable to a Soviet blockade?",
@@ -852,7 +888,8 @@
             "It was not part of the Trizone"
           ],
           "answerIndex": 0,
-          "explanation": "West Berlin was isolated deep within the Soviet zone, with access routes crossing Soviet-controlled territory."
+          "explanation": "West Berlin was isolated deep within the Soviet zone, with access routes crossing Soviet-controlled territory.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -950,7 +987,8 @@
             "A civil war with no foreign involvement"
           ],
           "answerIndex": 1,
-          "explanation": "A proxy war is armed conflict between parties acting on instigation or on behalf of others not directly involved in the hostilities."
+          "explanation": "A proxy war is armed conflict between parties acting on instigation or on behalf of others not directly involved in the hostilities.",
+          "d": 1
         },
         {
           "question": "At what line was Korea divided after WWII?",
@@ -961,7 +999,8 @@
             "17th parallel"
           ],
           "answerIndex": 2,
-          "explanation": "Korea was split at the 38th parallel between US and Soviet occupation."
+          "explanation": "Korea was split at the 38th parallel between US and Soviet occupation.",
+          "d": 1
         },
         {
           "question": "Why couldn't the USSR veto UNSC Resolution 83 on Korea?",
@@ -972,7 +1011,8 @@
             "It had no veto power"
           ],
           "answerIndex": 0,
-          "explanation": "The USSR was boycotting the UNSC because Taiwan still held China's seat."
+          "explanation": "The USSR was boycotting the UNSC because Taiwan still held China's seat.",
+          "d": 2
         },
         {
           "question": "Why was General MacArthur relieved of command?",
@@ -983,7 +1023,8 @@
             "He surrendered to North Korea"
           ],
           "answerIndex": 2,
-          "explanation": "MacArthur was relieved for insubordination after crossing the 38th parallel, misjudging Chinese intervention, and advocating nuclear weapons."
+          "explanation": "MacArthur was relieved for insubordination after crossing the 38th parallel, misjudging Chinese intervention, and advocating nuclear weapons.",
+          "d": 2
         },
         {
           "question": "What was the outcome of the Korean War in 1953?",
@@ -994,7 +1035,8 @@
             "North Korean victory and full unification"
           ],
           "answerIndex": 1,
-          "explanation": "An armistice was reached in July 1953, but no peace treaty was signed, leaving Korea divided at the 38th parallel."
+          "explanation": "An armistice was reached in July 1953, but no peace treaty was signed, leaving Korea divided at the 38th parallel.",
+          "d": 1
         },
         {
           "question": "What was NSC-68?",
@@ -1005,7 +1047,8 @@
             "A Soviet plan to invade South Korea"
           ],
           "answerIndex": 2,
-          "explanation": "NSC-68 was a top-secret 1950 US report arguing for massive military build-up to counter the Soviet threat."
+          "explanation": "NSC-68 was a top-secret 1950 US report arguing for massive military build-up to counter the Soviet threat.",
+          "d": 1
         },
         {
           "question": "How did the Korean War affect Sino-Soviet relations?",
@@ -1016,7 +1059,8 @@
             "It led to immediate Chinese withdrawal from communism"
           ],
           "answerIndex": 1,
-          "explanation": "Arguments over the war's bill led China to feel the USSR was unreliable, contributing to the later Sino-Soviet Split."
+          "explanation": "Arguments over the war's bill led China to feel the USSR was unreliable, contributing to the later Sino-Soviet Split.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -1124,7 +1168,8 @@
             "A US military strategy in the Mekong Delta"
           ],
           "answerIndex": 1,
-          "explanation": "The Domino Theory held that the fall of one country to communism would trigger the fall of others in the region."
+          "explanation": "The Domino Theory held that the fall of one country to communism would trigger the fall of others in the region.",
+          "d": 1
         },
         {
           "question": "What triggered full-scale US military involvement in Vietnam?",
@@ -1135,7 +1180,8 @@
             "The Tet Offensive"
           ],
           "answerIndex": 0,
-          "explanation": "The Gulf of Tonkin Incident led to the Tonkin Gulf Resolution, authorizing Johnson to escalate US military involvement."
+          "explanation": "The Gulf of Tonkin Incident led to the Tonkin Gulf Resolution, authorizing Johnson to escalate US military involvement.",
+          "d": 2
         },
         {
           "question": "What was the significance of the Tet Offensive?",
@@ -1146,7 +1192,8 @@
             "It ended the war immediately"
           ],
           "answerIndex": 0,
-          "explanation": "Although communists suffered heavy losses, the offensive shocked the American public and eroded support for the war, marking a turning point."
+          "explanation": "Although communists suffered heavy losses, the offensive shocked the American public and eroded support for the war, marking a turning point.",
+          "d": 2
         },
         {
           "question": "Why did Diem refuse to hold the 1956 unification elections agreed at Geneva?",
@@ -1157,7 +1204,8 @@
             "North Vietnam refused to participate"
           ],
           "answerIndex": 1,
-          "explanation": "The US was convinced Ho Chi Minh would win due to his popularity, so Diem refused to hold the elections."
+          "explanation": "The US was convinced Ho Chi Minh would win due to his popularity, so Diem refused to hold the elections.",
+          "d": 2
         },
         {
           "question": "What were the Cu Chi Tunnels used for?",
@@ -1168,7 +1216,8 @@
             "Hiding and sheltering Viet Cong fighters with wells, kitchens, and hospitals"
           ],
           "answerIndex": 3,
-          "explanation": "The Cu Chi Tunnels were underground complexes used by the Viet Cong to hide and survive, including wells, sleeping areas, hospitals and kitchens."
+          "explanation": "The Cu Chi Tunnels were underground complexes used by the Viet Cong to hide and survive, including wells, sleeping areas, hospitals and kitchens.",
+          "d": 1
         },
         {
           "question": "Which event most directly exposed American war crimes and fueled anti-war sentiment?",
@@ -1179,7 +1228,8 @@
             "The Gulf of Tonkin Incident"
           ],
           "answerIndex": 1,
-          "explanation": "The My Lai Massacre revealed war crimes committed by American soldiers, shocking the US public."
+          "explanation": "The My Lai Massacre revealed war crimes committed by American soldiers, shocking the US public.",
+          "d": 2
         },
         {
           "question": "What happened at Dien Bien Phu in 1954?",
@@ -1190,7 +1240,8 @@
             "The Geneva Accords were signed"
           ],
           "answerIndex": 1,
-          "explanation": "The decisive Vietminh victory at Dien Bien Phu led to French withdrawal from French Indochina."
+          "explanation": "The decisive Vietminh victory at Dien Bien Phu led to French withdrawal from French Indochina.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -1276,7 +1327,8 @@
             "Henry Kissinger"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state US Secretary of State Henry Kissinger secured the peace agreement."
+          "explanation": "The notes state US Secretary of State Henry Kissinger secured the peace agreement.",
+          "d": 1
         },
         {
           "question": "Under the 1973 agreement, within how many days did the US have to withdraw all its troops?",
@@ -1287,7 +1339,8 @@
             "180 days"
           ],
           "answerIndex": 0,
-          "explanation": "The agreement required full US troop withdrawal within 60 days."
+          "explanation": "The agreement required full US troop withdrawal within 60 days.",
+          "d": 1
         },
         {
           "question": "What kind of support did the US continue to give South Vietnam after withdrawing troops?",
@@ -1298,7 +1351,8 @@
             "Naval bases"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state South Vietnam was left alone militarily but economic aid was still supplied."
+          "explanation": "The notes state South Vietnam was left alone militarily but economic aid was still supplied.",
+          "d": 1
         },
         {
           "question": "Why was President Johnson replaced as president?",
@@ -1309,7 +1363,8 @@
             "He voluntarily retired"
           ],
           "answerIndex": 0,
-          "explanation": "Johnson lost American support because of his poor role and management of the war."
+          "explanation": "Johnson lost American support because of his poor role and management of the war.",
+          "d": 2
         },
         {
           "question": "Which agreement of January 1973 formally ended the war between the USA, North Vietnam and South Vietnam?",
@@ -1320,7 +1375,8 @@
             "The Paris Peace Accords"
           ],
           "answerIndex": 3,
-          "explanation": "The Paris Peace Accords were signed in January 1973, ending the war."
+          "explanation": "The Paris Peace Accords were signed in January 1973, ending the war.",
+          "d": 1
         },
         {
           "question": "What event in 1975 marked the final fall of South Vietnam?",
@@ -1331,7 +1387,8 @@
             "The bombing of Hanoi"
           ],
           "answerIndex": 0,
-          "explanation": "North Vietnam invaded the South and captured Saigon in 1975, ending the war."
+          "explanation": "North Vietnam invaded the South and captured Saigon in 1975, ending the war.",
+          "d": 1
         },
         {
           "question": "Why, according to the notes, could South Vietnam not resist the North Vietnamese invasion of 1975?",
@@ -1342,7 +1399,8 @@
             "It had joined the North voluntarily"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state South Vietnam could not hold on to power without US help."
+          "explanation": "The notes state South Vietnam could not hold on to power without US help.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -1436,7 +1494,8 @@
             "Withdrawing troops peacefully"
           ],
           "answerIndex": 1,
-          "explanation": "Brinkmanship is defined in the notes as pushing dangerous events to the brink of active conflict to gain advantage."
+          "explanation": "Brinkmanship is defined in the notes as pushing dangerous events to the brink of active conflict to gain advantage.",
+          "d": 1
         },
         {
           "question": "How many days did the Cuban Missile Crisis last?",
@@ -1447,7 +1506,8 @@
             "60 days"
           ],
           "answerIndex": 1,
-          "explanation": "The crisis lasted 13 days, from 16-28 October 1962."
+          "explanation": "The crisis lasted 13 days, from 16-28 October 1962.",
+          "d": 1
         },
         {
           "question": "What was Batista's relationship with the mafia?",
@@ -1458,7 +1518,8 @@
             "He had no connection to the mafia"
           ],
           "answerIndex": 1,
-          "explanation": "Batista's ties with the mafia allowed them to control illegal business in Havana and US corporations."
+          "explanation": "Batista's ties with the mafia allowed them to control illegal business in Havana and US corporations.",
+          "d": 1
         },
         {
           "question": "By 1962, what share of the Cuban sugar industry did the US own?",
@@ -1469,7 +1530,8 @@
             "20%"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state the US owned 60% of the Cuban sugar industry by 1962."
+          "explanation": "The notes state the US owned 60% of the Cuban sugar industry by 1962.",
+          "d": 1
         },
         {
           "question": "Why did Che Guevara seek new markets for Cuban sugar in 1959?",
@@ -1480,7 +1542,8 @@
             "To fund Batista's government"
           ],
           "answerIndex": 0,
-          "explanation": "Cuba's economy was heavily reliant on the American Sugar Quota, making it vulnerable to US influence."
+          "explanation": "Cuba's economy was heavily reliant on the American Sugar Quota, making it vulnerable to US influence.",
+          "d": 2
         },
         {
           "question": "What triggered the Sino-Soviet Split mentioned in the notes?",
@@ -1491,7 +1554,8 @@
             "The Berlin Wall's construction"
           ],
           "answerIndex": 0,
-          "explanation": "Khrushchev's de-Stalinization angered Mao, a Stalin sympathiser, leading to the split."
+          "explanation": "Khrushchev's de-Stalinization angered Mao, a Stalin sympathiser, leading to the split.",
+          "d": 2
         },
         {
           "question": "Why, according to the notes, did the USSR decide to install missiles in Cuba?",
@@ -1502,7 +1566,8 @@
             "As a strategic 'eye-for-an-eye' response to US missiles in Turkey"
           ],
           "answerIndex": 3,
-          "explanation": "The installation was a response to US missiles in Turkey and gave the USSR political leverage."
+          "explanation": "The installation was a response to US missiles in Turkey and gave the USSR political leverage.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -1602,7 +1667,8 @@
             "Medium-range ballistic missiles intended for offensive use"
           ],
           "answerIndex": 3,
-          "explanation": "Spy planes discovered medium-range ballistic missiles for offensive purposes on 16th October."
+          "explanation": "Spy planes discovered medium-range ballistic missiles for offensive purposes on 16th October.",
+          "d": 1
         },
         {
           "question": "What did the USSR falsely claim on 18th October about the missile sites?",
@@ -1613,7 +1679,8 @@
             "That the sites were only for defensive purposes"
           ],
           "answerIndex": 3,
-          "explanation": "The Soviet Union lied, claiming the sites were purely defensive."
+          "explanation": "The Soviet Union lied, claiming the sites were purely defensive.",
+          "d": 1
         },
         {
           "question": "Why did Kennedy cancel his Chicago campaign stop on 19th October?",
@@ -1624,7 +1691,8 @@
             "He was negotiating with Castro directly"
           ],
           "answerIndex": 2,
-          "explanation": "He returned to Washington due to the crisis, though the media was told it was due to a cold."
+          "explanation": "He returned to Washington due to the crisis, though the media was told it was due to a cold.",
+          "d": 2
         },
         {
           "question": "What action did Kennedy announce to the American public on 22nd October?",
@@ -1635,7 +1703,8 @@
             "A peace agreement with Khrushchev"
           ],
           "answerIndex": 2,
-          "explanation": "Kennedy went on national television to inform citizens of the danger of nuclear war."
+          "explanation": "Kennedy went on national television to inform citizens of the danger of nuclear war.",
+          "d": 1
         },
         {
           "question": "Why was the US action against Cuba called a 'quarantine' rather than a 'blockade'?",
@@ -1646,7 +1715,8 @@
             "The UN mandated the term"
           ],
           "answerIndex": 0,
-          "explanation": "A blockade would be an act of war; 'quarantine' framed it as limited to offensive weapons only."
+          "explanation": "A blockade would be an act of war; 'quarantine' framed it as limited to offensive weapons only.",
+          "d": 2
         },
         {
           "question": "How many Cuban soldiers were mobilised on high alert after the blockade took effect?",
@@ -1657,7 +1727,8 @@
             "100,000"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state more than 300,000 Cuban soldiers were mobilised."
+          "explanation": "The notes state more than 300,000 Cuban soldiers were mobilised.",
+          "d": 1
         },
         {
           "question": "Who instructed Cuban forces not to use the missiles despite the high alert?",
@@ -1668,7 +1739,8 @@
             "Nikita Khrushchev"
           ],
           "answerIndex": 0,
-          "explanation": "Soviet Defence Minister Malinovsky instructed Cuba not to use the missiles."
+          "explanation": "Soviet Defence Minister Malinovsky instructed Cuba not to use the missiles.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -1758,7 +1830,8 @@
             "The Sino-Soviet Split"
           ],
           "answerIndex": 0,
-          "explanation": "Both conflicts arose from the power vacuum created after Japan's surrender in WWII."
+          "explanation": "Both conflicts arose from the power vacuum created after Japan's surrender in WWII.",
+          "d": 2
         },
         {
           "question": "How did the Cuban Missile Crisis ultimately end?",
@@ -1769,7 +1842,8 @@
             "The USSR withdrew missiles from Cuba in exchange for US withdrawal from Turkey"
           ],
           "answerIndex": 3,
-          "explanation": "The crisis ended peacefully with a mutual missile withdrawal agreement between the USSR and USA."
+          "explanation": "The crisis ended peacefully with a mutual missile withdrawal agreement between the USSR and USA.",
+          "d": 1
         },
         {
           "question": "How did the Korean War end?",
@@ -1780,7 +1854,8 @@
             "An armistice creating a stalemate between North and South"
           ],
           "answerIndex": 3,
-          "explanation": "The war ended with an armistice, leaving Korea divided in a stalemate."
+          "explanation": "The war ended with an armistice, leaving Korea divided in a stalemate.",
+          "d": 1
         },
         {
           "question": "What was Operation Frequent Wind?",
@@ -1791,7 +1866,8 @@
             "The naval blockade of Cuba"
           ],
           "answerIndex": 2,
-          "explanation": "It was the massive helicopter evacuation of Americans and at-risk Vietnamese before Saigon fell."
+          "explanation": "It was the massive helicopter evacuation of Americans and at-risk Vietnamese before Saigon fell.",
+          "d": 1
         },
         {
           "question": "What happened to Khrushchev's leadership as a result of the Cuban Missile Crisis?",
@@ -1802,7 +1878,8 @@
             "He was awarded the Nobel Peace Prize"
           ],
           "answerIndex": 1,
-          "explanation": "Khrushchev's climbdown made him appear weak, contributing to his 1964 dismissal."
+          "explanation": "Khrushchev's climbdown made him appear weak, contributing to his 1964 dismissal.",
+          "d": 2
         },
         {
           "question": "Approximately how many Vietnamese were killed during the Vietnam War, per the notes?",
@@ -1813,7 +1890,8 @@
             "5 million"
           ],
           "answerIndex": 1,
-          "explanation": "The notes estimate 2 million Vietnamese were killed in the war."
+          "explanation": "The notes estimate 2 million Vietnamese were killed in the war.",
+          "d": 1
         },
         {
           "question": "Which of these was a shared long-term effect of both the Korean War and the Vietnam War?",
@@ -1824,7 +1902,8 @@
             "Unification of the country under one ideology"
           ],
           "answerIndex": 1,
-          "explanation": "Both wars involved heavy loss of life and were fought partly to contain communism's spread."
+          "explanation": "Both wars involved heavy loss of life and were fought partly to contain communism's spread.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -1898,7 +1977,8 @@
             "10"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state 26 nations forged this coalition during WWII."
+          "explanation": "The notes state 26 nations forged this coalition during WWII.",
+          "d": 1
         },
         {
           "question": "What did the 26 nations agree not to do during WWII?",
@@ -1909,7 +1989,8 @@
             "Join the League of Nations"
           ],
           "answerIndex": 1,
-          "explanation": "They agreed not to make separate deals with the Axis powers."
+          "explanation": "They agreed not to make separate deals with the Axis powers.",
+          "d": 1
         },
         {
           "question": "In what year was the United Nations founded?",
@@ -1920,7 +2001,8 @@
             "1950"
           ],
           "answerIndex": 2,
-          "explanation": "The UN was founded in 1945, after WWII."
+          "explanation": "The UN was founded in 1945, after WWII.",
+          "d": 1
         },
         {
           "question": "The UN is widely seen as a successor to which failed organisation?",
@@ -1931,7 +2013,8 @@
             "The League of Nations"
           ],
           "answerIndex": 3,
-          "explanation": "The UN succeeded the failed League of Nations in seeking international peace."
+          "explanation": "The UN succeeded the failed League of Nations in seeking international peace.",
+          "d": 1
         },
         {
           "question": "Which of the following is NOT listed as a main purpose of the UN in the notes?",
@@ -1942,7 +2025,8 @@
             "Maintain international peace and security"
           ],
           "answerIndex": 0,
-          "explanation": "A global currency is not one of the UN's three listed main purposes."
+          "explanation": "A global currency is not one of the UN's three listed main purposes.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -2036,7 +2120,8 @@
             "Relaxation"
           ],
           "answerIndex": 3,
-          "explanation": "Détente is French for 'relaxation', referring to reduced Cold War tensions."
+          "explanation": "Détente is French for 'relaxation', referring to reduced Cold War tensions.",
+          "d": 1
         },
         {
           "question": "Why did the USSR shift towards Détente in the late 1960s-70s?",
@@ -2047,7 +2132,8 @@
             "It had achieved Nuclear Parity with the US"
           ],
           "answerIndex": 3,
-          "explanation": "The USSR shifted to Détente after achieving Nuclear Parity with the US."
+          "explanation": "The USSR shifted to Détente after achieving Nuclear Parity with the US.",
+          "d": 2
         },
         {
           "question": "What event in 1979 effectively ended the era of Détente?",
@@ -2058,7 +2144,8 @@
             "The Korean War armistice"
           ],
           "answerIndex": 2,
-          "explanation": "The Soviet invasion of Afghanistan stopped all talk of Détente."
+          "explanation": "The Soviet invasion of Afghanistan stopped all talk of Détente.",
+          "d": 1
         },
         {
           "question": "What was the Strategic Defence Initiative (SDI)?",
@@ -2069,7 +2156,8 @@
             "A Soviet space program"
           ],
           "answerIndex": 2,
-          "explanation": "SDI, or 'Star Wars', was Reagan's 1983 missile defence system."
+          "explanation": "SDI, or 'Star Wars', was Reagan's 1983 missile defence system.",
+          "d": 1
         },
         {
           "question": "What was significant about the Able Archer 83 incident?",
@@ -2080,7 +2168,8 @@
             "It was a NATO exercise so realistic the USSR nearly launched a nuclear response"
           ],
           "answerIndex": 3,
-          "explanation": "The USSR mistook the realistic NATO exercise for cover for a real attack, nearly triggering war."
+          "explanation": "The USSR mistook the realistic NATO exercise for cover for a real attack, nearly triggering war.",
+          "d": 2
         },
         {
           "question": "How did the US pressure the USSR economically according to the notes?",
@@ -2091,7 +2180,8 @@
             "By funding the Warsaw Pact"
           ],
           "answerIndex": 0,
-          "explanation": "These are the three economic pressure tactics listed in the notes."
+          "explanation": "These are the three economic pressure tactics listed in the notes.",
+          "d": 2
         },
         {
           "question": "What was the Soviet-Afghan War?",
@@ -2102,7 +2192,8 @@
             "A costly 9-year war (1979-1989) against Western-backed guerrillas"
           ],
           "answerIndex": 3,
-          "explanation": "It was a protracted, costly conflict for the USSR lasting from 1979-1989."
+          "explanation": "It was a protracted, costly conflict for the USSR lasting from 1979-1989.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -2192,7 +2283,8 @@
             "50%"
           ],
           "answerIndex": 3,
-          "explanation": "In some years, the military took up 50% of government expenditure."
+          "explanation": "In some years, the military took up 50% of government expenditure.",
+          "d": 1
         },
         {
           "question": "Why did Soviet factories often produce poor-quality goods?",
@@ -2203,7 +2295,8 @@
             "Central targets measured quantity, not quality"
           ],
           "answerIndex": 3,
-          "explanation": "Targets set by the central government focused on quantity, not quality."
+          "explanation": "Targets set by the central government focused on quantity, not quality.",
+          "d": 2
         },
         {
           "question": "Why did Soviet workers lack incentive to work hard?",
@@ -2214,7 +2307,8 @@
             "Workers were constantly fired"
           ],
           "answerIndex": 1,
-          "explanation": "Guaranteed jobs and equal benefits under communism removed incentives to work hard."
+          "explanation": "Guaranteed jobs and equal benefits under communism removed incentives to work hard.",
+          "d": 2
         },
         {
           "question": "What was the USSR's approximate annual budget deficit mentioned in the notes?",
@@ -2225,7 +2319,8 @@
             "5 billion roubles"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state a 35 billion rouble annual deficit."
+          "explanation": "The notes state a 35 billion rouble annual deficit.",
+          "d": 1
         },
         {
           "question": "How were Politburo leaders typically selected, according to the notes?",
@@ -2236,7 +2331,8 @@
             "Through public elections"
           ],
           "answerIndex": 0,
-          "explanation": "Selection was based on favouritism rather than merit, leading to corruption."
+          "explanation": "Selection was based on favouritism rather than merit, leading to corruption.",
+          "d": 1
         },
         {
           "question": "Why were many Politburo members unwilling to support reforms?",
@@ -2247,7 +2343,8 @@
             "They saw changes as threats to their own positions"
           ],
           "answerIndex": 3,
-          "explanation": "Leaders opposed reforms they saw as threatening their own power."
+          "explanation": "Leaders opposed reforms they saw as threatening their own power.",
+          "d": 2
         },
         {
           "question": "What financial burden did the USSR bear as leader of the Warsaw Pact?",
@@ -2258,7 +2355,8 @@
             "Paying reparations to Germany"
           ],
           "answerIndex": 1,
-          "explanation": "The USSR gave subsidies to allies and funded governments like Cuba, straining its finances."
+          "explanation": "The USSR gave subsidies to allies and funded governments like Cuba, straining its finances.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -2352,7 +2450,8 @@
             "1991-1995"
           ],
           "answerIndex": 0,
-          "explanation": "Gorbachev was the last Soviet leader, serving 1985-1991."
+          "explanation": "Gorbachev was the last Soviet leader, serving 1985-1991.",
+          "d": 1
         },
         {
           "question": "What did 'Glasnost' aim to achieve?",
@@ -2363,7 +2462,8 @@
             "Ending the Cold War arms race"
           ],
           "answerIndex": 2,
-          "explanation": "Glasnost meant 'openness' and aimed to end corruption and restore faith in government."
+          "explanation": "Glasnost meant 'openness' and aimed to end corruption and restore faith in government.",
+          "d": 1
         },
         {
           "question": "What event is described as the first instance of Glasnost?",
@@ -2374,7 +2474,8 @@
             "The fall of the Berlin Wall"
           ],
           "answerIndex": 0,
-          "explanation": "Gorbachev's televised admission about Chernobyl was the first real instance of Glasnost."
+          "explanation": "Gorbachev's televised admission about Chernobyl was the first real instance of Glasnost.",
+          "d": 1
         },
         {
           "question": "What did the 1988 Law on Enterprise allow under Perestroika?",
@@ -2385,7 +2486,8 @@
             "Full nationalisation of farms"
           ],
           "answerIndex": 1,
-          "explanation": "The law allowed market forces and gave factory managers more autonomy."
+          "explanation": "The law allowed market forces and gave factory managers more autonomy.",
+          "d": 1
         },
         {
           "question": "What happened to the Soviet economy in 1990 as a result of Perestroika?",
@@ -2396,7 +2498,8 @@
             "It stayed the same"
           ],
           "answerIndex": 2,
-          "explanation": "Instead of improving, the economy shrank by 4% in 1990."
+          "explanation": "Instead of improving, the economy shrank by 4% in 1990.",
+          "d": 1
         },
         {
           "question": "What was the 'Sinatra Doctrine'?",
@@ -2407,7 +2510,8 @@
             "A US-Soviet trade agreement"
           ],
           "answerIndex": 0,
-          "explanation": "It was part of Gorbachev's 'New Thinking' foreign policy, ending Soviet military dominance abroad."
+          "explanation": "It was part of Gorbachev's 'New Thinking' foreign policy, ending Soviet military dominance abroad.",
+          "d": 1
         },
         {
           "question": "When were the first openly contested Soviet elections since 1917 held?",
@@ -2418,7 +2522,8 @@
             "1985"
           ],
           "answerIndex": 2,
-          "explanation": "The first openly contested elections since 1917 were held in March 1989."
+          "explanation": "The first openly contested elections since 1917 were held in March 1989.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -2500,7 +2605,8 @@
             "Gustav Husak"
           ],
           "answerIndex": 1,
-          "explanation": "Dubcek introduced the reforms that became known as the Prague Spring."
+          "explanation": "Dubcek introduced the reforms that became known as the Prague Spring.",
+          "d": 1
         },
         {
           "question": "How did the USSR respond to the Prague Spring in August 1968?",
@@ -2511,7 +2617,8 @@
             "It invaded Czechoslovakia with 600,000 Warsaw Pact troops"
           ],
           "answerIndex": 3,
-          "explanation": "The USSR invaded with 600,000 troops to crush the reforms."
+          "explanation": "The USSR invaded with 600,000 troops to crush the reforms.",
+          "d": 1
         },
         {
           "question": "Who replaced Dubcek after the Soviet invasion of Czechoslovakia?",
@@ -2522,7 +2629,8 @@
             "Vaclav Havel"
           ],
           "answerIndex": 0,
-          "explanation": "Gustav Husak, a pro-Soviet leader, replaced Dubcek and restored authoritarian rule."
+          "explanation": "Gustav Husak, a pro-Soviet leader, replaced Dubcek and restored authoritarian rule.",
+          "d": 1
         },
         {
           "question": "What was the official reason given for building the Berlin Wall in 1961?",
@@ -2533,7 +2641,8 @@
             "To create a trade border"
           ],
           "answerIndex": 2,
-          "explanation": "The official purpose was to keep out Western 'fascists', though it mainly stopped defections."
+          "explanation": "The official purpose was to keep out Western 'fascists', though it mainly stopped defections.",
+          "d": 1
         },
         {
           "question": "On what date did the Berlin Wall fall?",
@@ -2544,7 +2653,8 @@
             "5 January 1968"
           ],
           "answerIndex": 1,
-          "explanation": "The wall fell on 9 November 1989."
+          "explanation": "The wall fell on 9 November 1989.",
+          "d": 1
         },
         {
           "question": "What did the fall of the Berlin Wall symbolise, according to the notes?",
@@ -2555,7 +2665,8 @@
             "The victory of the USSR"
           ],
           "answerIndex": 1,
-          "explanation": "Its fall symbolised the end of the divide between the communist and capitalist blocs."
+          "explanation": "Its fall symbolised the end of the divide between the communist and capitalist blocs.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -2633,7 +2744,8 @@
             "Formal political parties seeking to govern"
           ],
           "answerIndex": 0,
-          "explanation": "Social movements are defined as loosely organised groups working towards a common goal."
+          "explanation": "Social movements are defined as loosely organised groups working towards a common goal.",
+          "d": 1
         },
         {
           "question": "What key difference distinguishes social movements from political movements?",
@@ -2644,7 +2756,8 @@
             "Political movements never have leaders"
           ],
           "answerIndex": 2,
-          "explanation": "Political movements aim to govern, while social movements seek concessions like policy change."
+          "explanation": "Political movements aim to govern, while social movements seek concessions like policy change.",
+          "d": 2
         },
         {
           "question": "What are the two major regions that make up Southeast Asia in the notes?",
@@ -2655,7 +2768,8 @@
             "Eastern Europe and the Balkans"
           ],
           "answerIndex": 0,
-          "explanation": "These are the two regions described in the notes."
+          "explanation": "These are the two regions described in the notes.",
+          "d": 1
         },
         {
           "question": "What is necessary, according to the notes, for social movements to exist?",
@@ -2666,7 +2780,8 @@
             "Foreign military intervention"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state social movements cannot exist without a considerable measure of democracy."
+          "explanation": "The notes state social movements cannot exist without a considerable measure of democracy.",
+          "d": 2
         },
         {
           "question": "Which two social movements are given as Southeast Asian examples in the notes?",
@@ -2677,7 +2792,8 @@
             "The Arab Spring and Prague Spring"
           ],
           "answerIndex": 1,
-          "explanation": "These two movements are named as the case studies discussed."
+          "explanation": "These two movements are named as the case studies discussed.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -2767,7 +2883,8 @@
             "Irwandi Yusuf"
           ],
           "answerIndex": 1,
-          "explanation": "Hasan di Tiro founded GAM in 1976 to seek Aceh's independence."
+          "explanation": "Hasan di Tiro founded GAM in 1976 to seek Aceh's independence.",
+          "d": 1
         },
         {
           "question": "What event in 2004-2005 led to the ceasefire and Memorandum of Understanding?",
@@ -2778,7 +2895,8 @@
             "The Boxing Day tsunami"
           ],
           "answerIndex": 3,
-          "explanation": "The devastating 2004 tsunami led to the 2005 Helsinki MoU."
+          "explanation": "The devastating 2004 tsunami led to the 2005 Helsinki MoU.",
+          "d": 1
         },
         {
           "question": "What percentage of Indonesia's exports did Aceh's natural gas and petroleum account for?",
@@ -2789,7 +2907,8 @@
             "30%"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state Aceh accounted for 15% of Indonesia's exports."
+          "explanation": "The notes state Aceh accounted for 15% of Indonesia's exports.",
+          "d": 1
         },
         {
           "question": "What political achievement did Irwandi Yusuf accomplish?",
@@ -2800,7 +2919,8 @@
             "He negotiated the UN Charter"
           ],
           "answerIndex": 0,
-          "explanation": "Irwandi Yusuf, a prominent GAM figure, won the Aceh governorship."
+          "explanation": "Irwandi Yusuf, a prominent GAM figure, won the Aceh governorship.",
+          "d": 1
         },
         {
           "question": "What legal change occurred in Aceh in 2006?",
@@ -2811,7 +2931,8 @@
             "Aceh became fully independent"
           ],
           "answerIndex": 0,
-          "explanation": "Aceh was legally permitted to implement Sharia Law in 2006."
+          "explanation": "Aceh was legally permitted to implement Sharia Law in 2006.",
+          "d": 1
         },
         {
           "question": "What percentage revenue share did Aceh gain over its natural gas and oil exports after the peace process?",
@@ -2822,7 +2943,8 @@
             "100%"
           ],
           "answerIndex": 1,
-          "explanation": "Aceh gained a 70% revenue share for natural gas and oil exports."
+          "explanation": "Aceh gained a 70% revenue share for natural gas and oil exports.",
+          "d": 1
         },
         {
           "question": "What was a key driving factor behind GAM's formation related to Indonesia's 'New Order'?",
@@ -2833,7 +2955,8 @@
             "The New Order gave Aceh full independence"
           ],
           "answerIndex": 0,
-          "explanation": "Suharto's centralisation of power under the New Order alienated Aceh politically."
+          "explanation": "Suharto's centralisation of power under the New Order alienated Aceh politically.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -2933,7 +3056,8 @@
             "1965"
           ],
           "answerIndex": 1,
-          "explanation": "Marcos declared Martial Law in 1972."
+          "explanation": "Marcos declared Martial Law in 1972.",
+          "d": 1
         },
         {
           "question": "Who was assassinated at the airport in 1983, sparking outrage against Marcos?",
@@ -2944,7 +3068,8 @@
             "Ferdinand Marcos"
           ],
           "answerIndex": 2,
-          "explanation": "Ninoy Aquino, Marcos's main political rival, was shot at the airport in 1983."
+          "explanation": "Ninoy Aquino, Marcos's main political rival, was shot at the airport in 1983.",
+          "d": 1
         },
         {
           "question": "What was Radio Veritas?",
@@ -2955,7 +3080,8 @@
             "An Indonesian broadcast station"
           ],
           "answerIndex": 0,
-          "explanation": "Radio Veritas was the Catholic station central to the People Power movement's coordination."
+          "explanation": "Radio Veritas was the Catholic station central to the People Power movement's coordination.",
+          "d": 1
         },
         {
           "question": "By what percentage did the Philippine peso lose value during the 1980s economic collapse?",
@@ -2966,7 +3092,8 @@
             "95%"
           ],
           "answerIndex": 1,
-          "explanation": "The peso lost about 80% of its value."
+          "explanation": "The peso lost about 80% of its value.",
+          "d": 1
         },
         {
           "question": "What did the 1987 Constitutional Reform establish?",
@@ -2977,7 +3104,8 @@
             "A return to Martial Law"
           ],
           "answerIndex": 2,
-          "explanation": "It shifted the system to include executive, legislative and judicial arms of government."
+          "explanation": "It shifted the system to include executive, legislative and judicial arms of government.",
+          "d": 1
         },
         {
           "question": "Which promise did President Aquino fail to fully keep after taking power?",
@@ -2988,7 +3116,8 @@
             "Holding elections"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state the dismantling of US Army bases was a promise not kept."
+          "explanation": "The notes state the dismantling of US Army bases was a promise not kept.",
+          "d": 1
         },
         {
           "question": "By how much did Aquino reduce the debt-to-GDP ratio during her presidency?",
@@ -2999,7 +3128,8 @@
             "20%"
           ],
           "answerIndex": 2,
-          "explanation": "The debt-to-GDP ratio was reduced by 30%."
+          "explanation": "The debt-to-GDP ratio was reduced by 30%.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -3095,7 +3225,8 @@
             "Improved transportation, industrialization, and commercialisation"
           ],
           "answerIndex": 3,
-          "explanation": "These three developments are explicitly listed as driving urban migration."
+          "explanation": "These three developments are explicitly listed as driving urban migration.",
+          "d": 1
         },
         {
           "question": "How many workers did the US auto industry employ in 1929?",
@@ -3106,7 +3237,8 @@
             "150,000"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state 500,000 workers were employed in the auto industry in 1929."
+          "explanation": "The notes state 500,000 workers were employed in the auto industry in 1929.",
+          "d": 1
         },
         {
           "question": "What was the US unemployment rate in 1921 that pushed rural residents to move to cities?",
@@ -3117,7 +3249,8 @@
             "12%"
           ],
           "answerIndex": 3,
-          "explanation": "12% of Americans were unemployed in 1921, prompting urban migration for jobs."
+          "explanation": "12% of Americans were unemployed in 1921, prompting urban migration for jobs.",
+          "d": 1
         },
         {
           "question": "What is 'agglomeration economics' as used in the notes?",
@@ -3128,7 +3261,8 @@
             "International trade agreements"
           ],
           "answerIndex": 1,
-          "explanation": "Agglomeration economics refers to businesses moving to cities due to dense populations."
+          "explanation": "Agglomeration economics refers to businesses moving to cities due to dense populations.",
+          "d": 1
         },
         {
           "question": "What social problem arose from cities growing faster than local governments could manage?",
@@ -3139,7 +3273,8 @@
             "Shortage of clean water, garbage collection, and sewage systems in poor areas"
           ],
           "answerIndex": 3,
-          "explanation": "Infrastructure failed to keep pace, worsening conditions in poorer areas."
+          "explanation": "Infrastructure failed to keep pace, worsening conditions in poorer areas.",
+          "d": 2
         },
         {
           "question": "How did wealthy Americans respond to urban growth in terms of housing?",
@@ -3150,7 +3285,8 @@
             "They built separate neighbourhoods/mansions at the edges of cities or countryside"
           ],
           "answerIndex": 3,
-          "explanation": "The wealthy built separate neighbourhoods away from poorer city residents."
+          "explanation": "The wealthy built separate neighbourhoods away from poorer city residents.",
+          "d": 1
         },
         {
           "question": "What was rampant in city government and services during this urbanisation period?",
@@ -3161,7 +3297,8 @@
             "Overregulation of business"
           ],
           "answerIndex": 2,
-          "explanation": "Political corruption was widespread in city government and services."
+          "explanation": "Political corruption was widespread in city government and services.",
+          "d": 1
         }
       ],
       "shortAnswer": [

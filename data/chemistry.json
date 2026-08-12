@@ -77,7 +77,8 @@
             "Number of protons only"
           ],
           "answerIndex": 0,
-          "explanation": "The period number corresponds to the number of electron shells an atom has."
+          "explanation": "The period number corresponds to the number of electron shells an atom has.",
+          "d": 1
         },
         {
           "question": "Which Period 3 element is classified as a metalloid?",
@@ -88,7 +89,8 @@
             "Mg"
           ],
           "answerIndex": 2,
-          "explanation": "Silicon (Si) is classified as a metalloid, sharing properties of metals and non-metals."
+          "explanation": "Silicon (Si) is classified as a metalloid, sharing properties of metals and non-metals.",
+          "d": 1
         },
         {
           "question": "What is the charge on ions formed by Group 17 elements?",
@@ -99,7 +101,8 @@
             "+1"
           ],
           "answerIndex": 0,
-          "explanation": "Group 17 elements are non-metals that gain one electron to form -1 ions (e.g. F⁻, Cl⁻)."
+          "explanation": "Group 17 elements are non-metals that gain one electron to form -1 ions (e.g. F⁻, Cl⁻).",
+          "d": 1
         },
         {
           "question": "What colour is aqueous Fe²⁺?",
@@ -110,7 +113,8 @@
             "Green"
           ],
           "answerIndex": 3,
-          "explanation": "According to the notes, Fe²⁺ (aq) is green."
+          "explanation": "According to the notes, Fe²⁺ (aq) is green.",
+          "d": 1
         },
         {
           "question": "Which of these is NOT a property of Group 1 metals?",
@@ -121,7 +125,8 @@
             "Soft, easily cut"
           ],
           "answerIndex": 1,
-          "explanation": "Group 1 metals have low density (e.g. potassium floats on water), unlike transition metals which have high densities."
+          "explanation": "Group 1 metals have low density (e.g. potassium floats on water), unlike transition metals which have high densities.",
+          "d": 2
         },
         {
           "question": "What is the nature of the oxide formed by aluminium and silicon in Period 3?",
@@ -132,7 +137,8 @@
             "Neutral"
           ],
           "answerIndex": 2,
-          "explanation": "Al and Si oxides are amphoteric, as noted in the Period 3 element properties table."
+          "explanation": "Al and Si oxides are amphoteric, as noted in the Period 3 element properties table.",
+          "d": 1
         },
         {
           "question": "Why do noble gases not form compounds?",
@@ -143,7 +149,8 @@
             "They have too many valence electrons"
           ],
           "answerIndex": 1,
-          "explanation": "Noble gases have a stable, full outer shell configuration, making them largely unreactive."
+          "explanation": "Noble gases have a stable, full outer shell configuration, making them largely unreactive.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -216,7 +223,8 @@
             "Stays the same"
           ],
           "answerIndex": 0,
-          "explanation": "Atomic and ionic radii increase down Groups 1 and 17."
+          "explanation": "Atomic and ionic radii increase down Groups 1 and 17.",
+          "d": 1
         },
         {
           "question": "What happens to atomic radius across Period 3 (left to right)?",
@@ -227,7 +235,8 @@
             "Stays constant"
           ],
           "answerIndex": 1,
-          "explanation": "Atomic and ionic radii decrease across Period 3."
+          "explanation": "Atomic and ionic radii decrease across Period 3.",
+          "d": 1
         },
         {
           "question": "Which of the following elements would have the largest atomic radius: Na, Mg, Al, or Si?",
@@ -238,7 +247,8 @@
             "Mg"
           ],
           "answerIndex": 0,
-          "explanation": "Radii decrease across Period 3, so Na (leftmost, Group 1) has the largest atomic radius."
+          "explanation": "Radii decrease across Period 3, so Na (leftmost, Group 1) has the largest atomic radius.",
+          "d": 2
         },
         {
           "question": "Which group's ionic radius trend is described alongside Group 1 in the notes?",
@@ -249,7 +259,8 @@
             "Group 18"
           ],
           "answerIndex": 2,
-          "explanation": "The notes specifically describe atomic and ionic radii trends down Groups 1 and 17."
+          "explanation": "The notes specifically describe atomic and ionic radii trends down Groups 1 and 17.",
+          "d": 1
         },
         {
           "question": "Comparing Li and K (both Group 1), which has a larger atomic radius?",
@@ -260,7 +271,8 @@
             "Li"
           ],
           "answerIndex": 0,
-          "explanation": "Atomic radius increases down Group 1, so K (further down) is larger than Li."
+          "explanation": "Atomic radius increases down Group 1, so K (further down) is larger than Li.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -334,7 +346,8 @@
             "It has weak intermolecular forces"
           ],
           "answerIndex": 2,
-          "explanation": "Silicon has a giant covalent structure similar to diamond, requiring large amounts of energy to break the strong covalent bonds."
+          "explanation": "Silicon has a giant covalent structure similar to diamond, requiring large amounts of energy to break the strong covalent bonds.",
+          "d": 2
         },
         {
           "question": "What is the general trend of melting/boiling points across the non-metals of Period 3?",
@@ -345,7 +358,8 @@
             "Constant"
           ],
           "answerIndex": 0,
-          "explanation": "Non-metals in Period 3 have simple molecular structures with weak intermolecular forces, giving low melting/boiling points."
+          "explanation": "Non-metals in Period 3 have simple molecular structures with weak intermolecular forces, giving low melting/boiling points.",
+          "d": 1
         },
         {
           "question": "What describes the melting/boiling point trend down Group 1 compared to Group 17?",
@@ -356,7 +370,8 @@
             "They show opposite trends"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state Group 1 and Group 17 elements show opposite trends in melting/boiling point down the group."
+          "explanation": "The notes state Group 1 and Group 17 elements show opposite trends in melting/boiling point down the group.",
+          "d": 2
         },
         {
           "question": "How many silicon atoms is each silicon atom bonded to in its giant covalent structure?",
@@ -367,7 +382,8 @@
             "4"
           ],
           "answerIndex": 3,
-          "explanation": "Each Si atom is bonded to 4 others in a tetrahedral arrangement."
+          "explanation": "Each Si atom is bonded to 4 others in a tetrahedral arrangement.",
+          "d": 1
         },
         {
           "question": "What holds simple molecular non-metal structures together in Period 3?",
@@ -378,7 +394,8 @@
             "Strong covalent bonds"
           ],
           "answerIndex": 2,
-          "explanation": "Non-metals exist as simple molecules held together by weak intermolecular forces, giving low melting/boiling points."
+          "explanation": "Non-metals exist as simple molecules held together by weak intermolecular forces, giving low melting/boiling points.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -451,7 +468,8 @@
             "The minimum energy required to remove an electron from a neutral gaseous atom"
           ],
           "answerIndex": 3,
-          "explanation": "First ionization energy is defined as the minimum energy required to remove an electron from a neutral atom in the gaseous state."
+          "explanation": "First ionization energy is defined as the minimum energy required to remove an electron from a neutral atom in the gaseous state.",
+          "d": 1
         },
         {
           "question": "What happens to first ionization energy down Group 1?",
@@ -462,7 +480,8 @@
             "Decreases"
           ],
           "answerIndex": 3,
-          "explanation": "Down Group 1, atomic radius increases and outer electrons are more shielded, so ionization energy decreases."
+          "explanation": "Down Group 1, atomic radius increases and outer electrons are more shielded, so ionization energy decreases.",
+          "d": 1
         },
         {
           "question": "What happens to first ionization energy across Period 3, from Na to Ar?",
@@ -473,7 +492,8 @@
             "Generally increases"
           ],
           "answerIndex": 3,
-          "explanation": "Across Period 3, atomic radius decreases and nuclear charge increases, so first ionization energy generally increases."
+          "explanation": "Across Period 3, atomic radius decreases and nuclear charge increases, so first ionization energy generally increases.",
+          "d": 1
         },
         {
           "question": "Why is it easier to remove an electron from K than from Na?",
@@ -484,7 +504,8 @@
             "K has fewer electron shells"
           ],
           "answerIndex": 0,
-          "explanation": "K is further down Group 1, so its outer electron is further from the nucleus and more shielded, requiring less energy to remove."
+          "explanation": "K is further down Group 1, so its outer electron is further from the nucleus and more shielded, requiring less energy to remove.",
+          "d": 2
         },
         {
           "question": "Which factor explains increasing ionization energy across Period 3?",
@@ -495,7 +516,8 @@
             "Increasing nuclear charge and decreasing atomic radius"
           ],
           "answerIndex": 3,
-          "explanation": "Across a period, nuclear charge increases while atomic radius decreases, holding electrons more strongly and increasing ionization energy."
+          "explanation": "Across a period, nuclear charge increases while atomic radius decreases, holding electrons more strongly and increasing ionization energy.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -569,7 +591,8 @@
             "Becomes zero"
           ],
           "answerIndex": 2,
-          "explanation": "Group 1 metals become more reactive going down the group."
+          "explanation": "Group 1 metals become more reactive going down the group.",
+          "d": 1
         },
         {
           "question": "How does reactivity change down Group 17?",
@@ -580,7 +603,8 @@
             "Decreases"
           ],
           "answerIndex": 3,
-          "explanation": "Group 17 non-metals become less reactive going down the group."
+          "explanation": "Group 17 non-metals become less reactive going down the group.",
+          "d": 1
         },
         {
           "question": "What best describes reactivity?",
@@ -591,7 +615,8 @@
             "The colour change of a substance"
           ],
           "answerIndex": 2,
-          "explanation": "Reactivity is defined as how readily a substance undergoes a chemical reaction."
+          "explanation": "Reactivity is defined as how readily a substance undergoes a chemical reaction.",
+          "d": 1
         },
         {
           "question": "Why are noble gases largely unreactive?",
@@ -602,7 +627,8 @@
             "They have stable, full outer electron shells"
           ],
           "answerIndex": 3,
-          "explanation": "Noble gases have stable, full outer electron shells, making them largely unreactive."
+          "explanation": "Noble gases have stable, full outer electron shells, making them largely unreactive.",
+          "d": 2
         },
         {
           "question": "What happens to the reactivity of metals across Period 3?",
@@ -613,7 +639,8 @@
             "Becomes negative"
           ],
           "answerIndex": 2,
-          "explanation": "According to the notes, reactivity of metals decreases across Period 3."
+          "explanation": "According to the notes, reactivity of metals decreases across Period 3.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -700,7 +727,8 @@
             "They have high densities"
           ],
           "answerIndex": 2,
-          "explanation": "Mobile electrons in metals act as charge carriers, allowing conduction of electricity."
+          "explanation": "Mobile electrons in metals act as charge carriers, allowing conduction of electricity.",
+          "d": 2
         },
         {
           "question": "What is an alloy?",
@@ -711,7 +739,8 @@
             "A gas mixture"
           ],
           "answerIndex": 1,
-          "explanation": "An alloy is defined as a mixture of a metal with one or a few other elements (metal or non-metal)."
+          "explanation": "An alloy is defined as a mixture of a metal with one or a few other elements (metal or non-metal).",
+          "d": 1
         },
         {
           "question": "Why does alloying make a metal harder and stronger, as in brass?",
@@ -722,7 +751,8 @@
             "It removes electrons from the metal"
           ],
           "answerIndex": 1,
-          "explanation": "Atoms of the added element have a different size, disrupting the orderly arrangement of atoms so they cannot slide over each other easily."
+          "explanation": "Atoms of the added element have a different size, disrupting the orderly arrangement of atoms so they cannot slide over each other easily.",
+          "d": 2
         },
         {
           "question": "Which alloy is used for joining metals due to its lower melting point?",
@@ -733,7 +763,8 @@
             "Pewter"
           ],
           "answerIndex": 2,
-          "explanation": "Solder, an alloy of tin and lead, has a lower melting point and is used for joining metals."
+          "explanation": "Solder, an alloy of tin and lead, has a lower melting point and is used for joining metals.",
+          "d": 1
         },
         {
           "question": "Which alloy is used in coins because it resists corrosion?",
@@ -744,7 +775,8 @@
             "Brass"
           ],
           "answerIndex": 2,
-          "explanation": "Cupronickel, an alloy of copper and nickel, is used in coins as it does not corrode easily."
+          "explanation": "Cupronickel, an alloy of copper and nickel, is used in coins as it does not corrode easily.",
+          "d": 1
         },
         {
           "question": "Why are pure metals malleable and ductile?",
@@ -755,7 +787,8 @@
             "Because they have low melting points"
           ],
           "answerIndex": 1,
-          "explanation": "The sea of mobile electrons continues to hold the metal ions together even when the metal is distorted, allowing malleability and ductility."
+          "explanation": "The sea of mobile electrons continues to hold the metal ions together even when the metal is distorted, allowing malleability and ductility.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -851,7 +884,8 @@
             "Iron"
           ],
           "answerIndex": 2,
-          "explanation": "Potassium is the most reactive metal listed and reacts most violently with cold water, producing a lilac flame."
+          "explanation": "Potassium is the most reactive metal listed and reacts most violently with cold water, producing a lilac flame.",
+          "d": 1
         },
         {
           "question": "What gas is produced when a reactive metal reacts with dilute hydrochloric acid?",
@@ -862,7 +896,8 @@
             "Chlorine"
           ],
           "answerIndex": 0,
-          "explanation": "The general equation shows Metal + HCl → Metal Chloride + H₂ (hydrogen gas)."
+          "explanation": "The general equation shows Metal + HCl → Metal Chloride + H₂ (hydrogen gas).",
+          "d": 1
         },
         {
           "question": "Why does aluminium not react with steam despite being fairly reactive?",
@@ -873,7 +908,8 @@
             "It is below hydrogen in the reactivity series"
           ],
           "answerIndex": 1,
-          "explanation": "Aluminium is protected by an unreactive oxide layer that prevents reaction with steam."
+          "explanation": "Aluminium is protected by an unreactive oxide layer that prevents reaction with steam.",
+          "d": 2
         },
         {
           "question": "What happens when iron is added to copper(II) sulfate solution?",
@@ -884,7 +920,8 @@
             "No reaction occurs"
           ],
           "answerIndex": 0,
-          "explanation": "Iron is more reactive than copper, so it displaces copper from the solution, changing colour from blue to green and depositing copper."
+          "explanation": "Iron is more reactive than copper, so it displaces copper from the solution, changing colour from blue to green and depositing copper.",
+          "d": 2
         },
         {
           "question": "Which extraction method is used for metals above carbon in the reactivity series?",
@@ -895,7 +932,8 @@
             "Heating in air"
           ],
           "answerIndex": 2,
-          "explanation": "Metals above carbon (K, Na, Ca, Mg, Al) are too reactive to be displaced by carbon, so electrolysis is used."
+          "explanation": "Metals above carbon (K, Na, Ca, Mg, Al) are too reactive to be displaced by carbon, so electrolysis is used.",
+          "d": 1
         },
         {
           "question": "Why does lead show no noticeable reaction with dilute sulfuric acid?",
@@ -906,7 +944,8 @@
             "Lead reacts too violently to observe"
           ],
           "answerIndex": 1,
-          "explanation": "An insoluble salt layer (PbSO₄) forms on the lead surface, which prevents the acid from reacting further."
+          "explanation": "An insoluble salt layer (PbSO₄) forms on the lead surface, which prevents the acid from reacting further.",
+          "d": 3
         },
         {
           "question": "What is required for a more reactive metal to displace a less reactive metal from its oxide?",
@@ -917,7 +956,8 @@
             "Only a catalyst"
           ],
           "answerIndex": 1,
-          "explanation": "As in the Zn + CuO reaction, a magnesium fuse can provide the initial energy needed to start the reaction."
+          "explanation": "As in the Zn + CuO reaction, a magnesium fuse can provide the initial energy needed to start the reaction.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -1019,7 +1059,8 @@
             "Oxygen Is Lost, Reduction Is Given"
           ],
           "answerIndex": 0,
-          "explanation": "OIL RIG is a mnemonic for Oxidation Is Loss, Reduction Is Gain, referring to electrons."
+          "explanation": "OIL RIG is a mnemonic for Oxidation Is Loss, Reduction Is Gain, referring to electrons.",
+          "d": 1
         },
         {
           "question": "In terms of oxygen transfer, what is reduction?",
@@ -1030,7 +1071,8 @@
             "Gain of electrons"
           ],
           "answerIndex": 2,
-          "explanation": "Reduction is defined as loss of oxygen when considering oxygen transfer."
+          "explanation": "Reduction is defined as loss of oxygen when considering oxygen transfer.",
+          "d": 1
         },
         {
           "question": "In the reaction H₂S + Cl → 2HCl + S, why is H₂S oxidised?",
@@ -1041,7 +1083,8 @@
             "It loses hydrogen to form S"
           ],
           "answerIndex": 3,
-          "explanation": "H₂S loses 2H to form S, which is oxidation (loss of hydrogen)."
+          "explanation": "H₂S loses 2H to form S, which is oxidation (loss of hydrogen).",
+          "d": 2
         },
         {
           "question": "Which of the following is classified as a redox reaction?",
@@ -1052,7 +1095,8 @@
             "Dissolution"
           ],
           "answerIndex": 2,
-          "explanation": "Displacement reactions are given as examples of redox reactions in the notes."
+          "explanation": "Displacement reactions are given as examples of redox reactions in the notes.",
+          "d": 2
         },
         {
           "question": "Why must oxidation and reduction always occur together?",
@@ -1063,7 +1107,8 @@
             "Because oxygen is always involved"
           ],
           "answerIndex": 2,
-          "explanation": "If something loses electrons (is oxidised), something else must gain those electrons (is reduced) — the two always occur together."
+          "explanation": "If something loses electrons (is oxidised), something else must gain those electrons (is reduced) — the two always occur together.",
+          "d": 2
         },
         {
           "question": "Which of the following is NOT an example of a redox reaction according to the notes?",
@@ -1074,7 +1119,8 @@
             "Displacement reactions"
           ],
           "answerIndex": 0,
-          "explanation": "Neutralisation is explicitly listed as a non-redox reaction."
+          "explanation": "Neutralisation is explicitly listed as a non-redox reaction.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -1174,7 +1220,8 @@
             "+2"
           ],
           "answerIndex": 2,
-          "explanation": "Free, uncombined elements always have an oxidation state of 0."
+          "explanation": "Free, uncombined elements always have an oxidation state of 0.",
+          "d": 1
         },
         {
           "question": "What is the typical oxidation state of hydrogen in most compounds like HCl?",
@@ -1185,7 +1232,8 @@
             "+2"
           ],
           "answerIndex": 1,
-          "explanation": "Hydrogen typically has oxidation state +1 in most compounds, except in metal hydrides."
+          "explanation": "Hydrogen typically has oxidation state +1 in most compounds, except in metal hydrides.",
+          "d": 1
         },
         {
           "question": "What is the oxidation state of hydrogen in NaH (a metal hydride)?",
@@ -1196,7 +1244,8 @@
             "-1"
           ],
           "answerIndex": 3,
-          "explanation": "In metal hydrides, hydrogen exists as the hydride ion H⁻, giving it an oxidation state of -1."
+          "explanation": "In metal hydrides, hydrogen exists as the hydride ion H⁻, giving it an oxidation state of -1.",
+          "d": 2
         },
         {
           "question": "What must the oxidation numbers of all atoms in a neutral compound like MgCl₂ sum to?",
@@ -1207,7 +1256,8 @@
             "0"
           ],
           "answerIndex": 3,
-          "explanation": "The sum of oxidation numbers of all atoms/ions in a neutral compound must equal 0."
+          "explanation": "The sum of oxidation numbers of all atoms/ions in a neutral compound must equal 0.",
+          "d": 1
         },
         {
           "question": "What is the oxidation state of sulfur in the SO₄²⁻ ion?",
@@ -1218,7 +1268,8 @@
             "-2"
           ],
           "answerIndex": 1,
-          "explanation": "S + 4(-2) = -2, so S = +6."
+          "explanation": "S + 4(-2) = -2, so S = +6.",
+          "d": 3
         },
         {
           "question": "What is the oxidation state of oxygen in a peroxide such as H₂O₂?",
@@ -1229,7 +1280,8 @@
             "-2"
           ],
           "answerIndex": 1,
-          "explanation": "In peroxides, each oxygen atom has an oxidation state of -1, unlike the usual -2."
+          "explanation": "In peroxides, each oxygen atom has an oxidation state of -1, unlike the usual -2.",
+          "d": 2
         },
         {
           "question": "What is the typical oxidation state of Group 1 metals in their compounds?",
@@ -1240,7 +1292,8 @@
             "+2"
           ],
           "answerIndex": 2,
-          "explanation": "Group 1 metals have oxidation state +1 in their compounds."
+          "explanation": "Group 1 metals have oxidation state +1 in their compounds.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -1320,7 +1373,8 @@
             "It is oxidised"
           ],
           "answerIndex": 0,
-          "explanation": "An oxidising agent causes another substance to be oxidised while it itself is reduced."
+          "explanation": "An oxidising agent causes another substance to be oxidised while it itself is reduced.",
+          "d": 2
         },
         {
           "question": "Which of the following is classified as a reducing agent?",
@@ -1331,7 +1385,8 @@
             "Potassium Manganate(VII) (KMnO₄)"
           ],
           "answerIndex": 2,
-          "explanation": "Carbon monoxide is listed as a reducing agent, as it removes oxygen from other substances."
+          "explanation": "Carbon monoxide is listed as a reducing agent, as it removes oxygen from other substances.",
+          "d": 2
         },
         {
           "question": "How does a reducing agent cause another substance to be reduced?",
@@ -1342,7 +1397,8 @@
             "By removing hydrogen from it"
           ],
           "answerIndex": 0,
-          "explanation": "A reducing agent reduces another substance by donating electrons to it (among other mechanisms), and is itself oxidised."
+          "explanation": "A reducing agent reduces another substance by donating electrons to it (among other mechanisms), and is itself oxidised.",
+          "d": 2
         },
         {
           "question": "Which of these is an oxidising agent?",
@@ -1353,7 +1409,8 @@
             "Ammonia (NH₃)"
           ],
           "answerIndex": 1,
-          "explanation": "Bromine is listed as an oxidising agent in the notes."
+          "explanation": "Bromine is listed as an oxidising agent in the notes.",
+          "d": 2
         },
         {
           "question": "What happens to a reducing agent by the end of a reaction?",
@@ -1364,7 +1421,8 @@
             "It is oxidised"
           ],
           "answerIndex": 3,
-          "explanation": "A reducing agent is itself oxidised as it reduces another substance."
+          "explanation": "A reducing agent is itself oxidised as it reduces another substance.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -1463,7 +1521,8 @@
             "It acts as the electrolyte"
           ],
           "answerIndex": 2,
-          "explanation": "The battery draws electrons away from the anode and towards the cathode, acting as an electron pump."
+          "explanation": "The battery draws electrons away from the anode and towards the cathode, acting as an electron pump.",
+          "d": 1
         },
         {
           "question": "Which ions move towards the cathode during electrolysis?",
@@ -1474,7 +1533,8 @@
             "Cations"
           ],
           "answerIndex": 3,
-          "explanation": "Cations (positive ions) are attracted to the cathode, which is the negative electrode."
+          "explanation": "Cations (positive ions) are attracted to the cathode, which is the negative electrode.",
+          "d": 1
         },
         {
           "question": "What occurs at the anode during electrolysis?",
@@ -1485,7 +1545,8 @@
             "Reduction (RedCat)"
           ],
           "answerIndex": 0,
-          "explanation": "Oxidation occurs at the anode (AnOx), as anions lose electrons there."
+          "explanation": "Oxidation occurs at the anode (AnOx), as anions lose electrons there.",
+          "d": 1
         },
         {
           "question": "Why do solid ionic compounds not conduct electricity?",
@@ -1496,7 +1557,8 @@
             "They have no ions at all"
           ],
           "answerIndex": 2,
-          "explanation": "In the solid state, ions are held in fixed positions within the lattice and cannot move, so no current flows."
+          "explanation": "In the solid state, ions are held in fixed positions within the lattice and cannot move, so no current flows.",
+          "d": 2
         },
         {
           "question": "What is the correct half equation for the cathode reaction in molten sodium chloride electrolysis?",
@@ -1507,7 +1569,8 @@
             "Cl₂ (g) + 2e⁻ → 2Cl⁻ (l)"
           ],
           "answerIndex": 1,
-          "explanation": "At the cathode, Na⁺ ions gain electrons (reduction) to form Na atoms: Na⁺ (l) + e⁻ → Na (l)."
+          "explanation": "At the cathode, Na⁺ ions gain electrons (reduction) to form Na atoms: Na⁺ (l) + e⁻ → Na (l).",
+          "d": 2
         },
         {
           "question": "Which of the following is a non-electrolyte?",
@@ -1518,7 +1581,8 @@
             "Dilute HCl"
           ],
           "answerIndex": 2,
-          "explanation": "Sugar does not ionise and cannot conduct electricity under any conditions, making it a non-electrolyte."
+          "explanation": "Sugar does not ionise and cannot conduct electricity under any conditions, making it a non-electrolyte.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -1618,7 +1682,8 @@
             "OH⁻"
           ],
           "answerIndex": 0,
-          "explanation": "H⁺ ions are selectively discharged in preference to Na⁺ (a metal above hydrogen), producing H₂ gas."
+          "explanation": "H⁺ ions are selectively discharged in preference to Na⁺ (a metal above hydrogen), producing H₂ gas.",
+          "d": 2
         },
         {
           "question": "What is discharged at the anode during electrolysis of concentrated NaCl solution?",
@@ -1629,7 +1694,8 @@
             "H⁺"
           ],
           "answerIndex": 2,
-          "explanation": "In concentrated NaCl, Cl⁻ ions are more concentrated than OH⁻ and are selectively discharged as Cl₂ gas."
+          "explanation": "In concentrated NaCl, Cl⁻ ions are more concentrated than OH⁻ and are selectively discharged as Cl₂ gas.",
+          "d": 2
         },
         {
           "question": "Why does the CuSO₄ solution remain the same blue colour when copper electrodes are used?",
@@ -1640,7 +1706,8 @@
             "Cu²⁺ ions cannot be discharged"
           ],
           "answerIndex": 1,
-          "explanation": "With copper electrodes, the anode dissolves to release Cu²⁺ at the same rate it is deposited at the cathode, so concentration stays constant."
+          "explanation": "With copper electrodes, the anode dissolves to release Cu²⁺ at the same rate it is deposited at the cathode, so concentration stays constant.",
+          "d": 3
         },
         {
           "question": "Which ions remain in solution during electrolysis of CuSO₄ with inert electrodes?",
@@ -1651,7 +1718,8 @@
             "Cu²⁺ and OH⁻"
           ],
           "answerIndex": 0,
-          "explanation": "Cu²⁺ is discharged at the cathode and OH⁻ at the anode, leaving H⁺ and SO₄²⁻ in solution, which recombine to form H₂SO₄."
+          "explanation": "Cu²⁺ is discharged at the cathode and OH⁻ at the anode, leaving H⁺ and SO₄²⁻ in solution, which recombine to form H₂SO₄.",
+          "d": 3
         },
         {
           "question": "What is the overall reaction in electrolysis of dilute NaCl solution equivalent to?",
@@ -1662,7 +1730,8 @@
             "Electrolysis of pure NaCl"
           ],
           "answerIndex": 1,
-          "explanation": "Since Na⁺ and Cl⁻ remain in solution and only H⁺ and OH⁻ are discharged, the overall reaction is essentially the electrolysis of water."
+          "explanation": "Since Na⁺ and Cl⁻ remain in solution and only H⁺ and OH⁻ are discharged, the overall reaction is essentially the electrolysis of water.",
+          "d": 2
         },
         {
           "question": "Which ions cannot be discharged at the anode and thus remain in solution?",
@@ -1673,7 +1742,8 @@
             "OH⁻ only"
           ],
           "answerIndex": 1,
-          "explanation": "Polyatomic ions like SO₄²⁻ and NO₃⁻ cannot be discharged and remain in solution."
+          "explanation": "Polyatomic ions like SO₄²⁻ and NO₃⁻ cannot be discharged and remain in solution.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -1757,7 +1827,8 @@
             "To produce alloys"
           ],
           "answerIndex": 0,
-          "explanation": "Electrolytic purification is used to purify metals extracted from ore, which are often impure."
+          "explanation": "Electrolytic purification is used to purify metals extracted from ore, which are often impure.",
+          "d": 1
         },
         {
           "question": "In electrolytic purification of copper, what happens to impurities less reactive than hydrogen?",
@@ -1768,7 +1839,8 @@
             "They sink and deposit at the bottom"
           ],
           "answerIndex": 3,
-          "explanation": "Impurities less reactive than hydrogen do not dissolve; they sink and are deposited at the bottom as anode sludge."
+          "explanation": "Impurities less reactive than hydrogen do not dissolve; they sink and are deposited at the bottom as anode sludge.",
+          "d": 2
         },
         {
           "question": "What is electroplating?",
@@ -1779,7 +1851,8 @@
             "The process of dissolving a metal completely"
           ],
           "answerIndex": 0,
-          "explanation": "Electroplating deposits a layer of metal onto another substance via electrolysis, for decorative or protective purposes."
+          "explanation": "Electroplating deposits a layer of metal onto another substance via electrolysis, for decorative or protective purposes.",
+          "d": 1
         },
         {
           "question": "Why does the CuSO₄ solution remain unchanged in colour and concentration during electroplating with copper electrodes?",
@@ -1790,7 +1863,8 @@
             "Copper ions lost at the cathode are replaced by copper ions released at the anode"
           ],
           "answerIndex": 3,
-          "explanation": "For every copper ion deposited at the cathode, one is released at the anode, keeping the concentration constant."
+          "explanation": "For every copper ion deposited at the cathode, one is released at the anode, keeping the concentration constant.",
+          "d": 2
         },
         {
           "question": "What happens to the anode during electrolytic purification of copper?",
@@ -1801,7 +1875,8 @@
             "It turns into an insoluble solid immediately"
           ],
           "answerIndex": 2,
-          "explanation": "The impure copper anode dissolves into solution, decreasing in size, as Cu²⁺ ions form."
+          "explanation": "The impure copper anode dissolves into solution, decreasing in size, as Cu²⁺ ions form.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -1881,7 +1956,8 @@
             "Light energy to electrical energy"
           ],
           "answerIndex": 0,
-          "explanation": "A simple cell converts chemical energy into electrical energy."
+          "explanation": "A simple cell converts chemical energy into electrical energy.",
+          "d": 1
         },
         {
           "question": "In a simple cell, which direction do electrons flow?",
@@ -1892,7 +1968,8 @@
             "From the electrolyte to both metals"
           ],
           "answerIndex": 2,
-          "explanation": "Electrons flow from the more reactive metal (which loses electrons) to the less reactive metal."
+          "explanation": "Electrons flow from the more reactive metal (which loses electrons) to the less reactive metal.",
+          "d": 1
         },
         {
           "question": "In a zinc-copper simple cell, what happens at the zinc electrode?",
@@ -1903,7 +1980,8 @@
             "No reaction occurs"
           ],
           "answerIndex": 2,
-          "explanation": "At the zinc electrode, zinc metal dissolves (is oxidised) to form Zn²⁺ ions, releasing electrons."
+          "explanation": "At the zinc electrode, zinc metal dissolves (is oxidised) to form Zn²⁺ ions, releasing electrons.",
+          "d": 2
         },
         {
           "question": "Which electrode is the positive electrode in a zinc-copper simple cell?",
@@ -1914,7 +1992,8 @@
             "Both are positive"
           ],
           "answerIndex": 2,
-          "explanation": "Copper, being the less reactive metal, becomes the positive electrode since electrons flow towards it from zinc."
+          "explanation": "Copper, being the less reactive metal, becomes the positive electrode since electrons flow towards it from zinc.",
+          "d": 2
         },
         {
           "question": "What is the overall equation for a zinc-copper simple cell?",
@@ -1925,7 +2004,8 @@
             "Zn²⁺ (aq) + Cu²⁺ (aq) → Zn (s) + Cu (s)"
           ],
           "answerIndex": 0,
-          "explanation": "Zinc is oxidised and copper ions are reduced, giving the overall reaction Zn (s) + Cu²⁺ (aq) → Zn²⁺ (aq) + Cu (s)."
+          "explanation": "Zinc is oxidised and copper ions are reduced, giving the overall reaction Zn (s) + Cu²⁺ (aq) → Zn²⁺ (aq) + Cu (s).",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -2037,7 +2117,8 @@
             "Collision frequency has no effect on reaction rate"
           ],
           "answerIndex": 1,
-          "explanation": "Collision Theory states that reaction rate is proportional to the frequency of collisions between reactant molecules."
+          "explanation": "Collision Theory states that reaction rate is proportional to the frequency of collisions between reactant molecules.",
+          "d": 1
         },
         {
           "question": "What is activation energy?",
@@ -2048,7 +2129,8 @@
             "The energy of the products only"
           ],
           "answerIndex": 2,
-          "explanation": "Activation energy is the minimum amount of energy reactant particles must possess to initiate an effective, reaction-producing collision."
+          "explanation": "Activation energy is the minimum amount of energy reactant particles must possess to initiate an effective, reaction-producing collision.",
+          "d": 1
         },
         {
           "question": "How does increasing temperature affect the speed of reaction?",
@@ -2059,7 +2141,8 @@
             "Only affects gases"
           ],
           "answerIndex": 2,
-          "explanation": "Higher temperature gives particles more kinetic energy, increasing the frequency of effective collisions and thus reaction speed."
+          "explanation": "Higher temperature gives particles more kinetic energy, increasing the frequency of effective collisions and thus reaction speed.",
+          "d": 2
         },
         {
           "question": "Why does decreasing particle size increase the speed of reaction?",
@@ -2070,7 +2153,8 @@
             "It increases the surface area to volume ratio, increasing collision frequency"
           ],
           "answerIndex": 3,
-          "explanation": "Smaller particle size increases surface area to volume ratio, allowing more frequent effective collisions."
+          "explanation": "Smaller particle size increases surface area to volume ratio, allowing more frequent effective collisions.",
+          "d": 2
         },
         {
           "question": "On a volume-against-time graph for a gas-producing reaction, what does the gradient represent?",
@@ -2081,7 +2165,8 @@
             "The total volume of gas produced"
           ],
           "answerIndex": 2,
-          "explanation": "The gradient of a volume-time graph indicates the speed of reaction at that point — steeper means faster."
+          "explanation": "The gradient of a volume-time graph indicates the speed of reaction at that point — steeper means faster.",
+          "d": 2
         },
         {
           "question": "Why does the gradient of a volume-time graph become less steep over time?",
@@ -2092,7 +2177,8 @@
             "The reaction speeds up as reactants are used up"
           ],
           "answerIndex": 1,
-          "explanation": "As reactants are consumed, their concentration decreases, reducing collision frequency and slowing the reaction, seen as a less steep gradient."
+          "explanation": "As reactants are consumed, their concentration decreases, reducing collision frequency and slowing the reaction, seen as a less steep gradient.",
+          "d": 2
         },
         {
           "question": "What should be done if a reaction is too fast to measure accurately with a gas syringe?",
@@ -2103,7 +2189,8 @@
             "Dilute the reactant to slow down the reaction"
           ],
           "answerIndex": 3,
-          "explanation": "Diluting the reactant slows the reaction, allowing sufficient measurements to be taken with the gas syringe."
+          "explanation": "Diluting the reactant slows the reaction, allowing sufficient measurements to be taken with the gas syringe.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -2197,7 +2284,8 @@
             "They increase the yield of a reaction"
           ],
           "answerIndex": 1,
-          "explanation": "Catalysts lower the activation energy, providing an alternative reaction pathway; they do not affect yield or get used up."
+          "explanation": "Catalysts lower the activation energy, providing an alternative reaction pathway; they do not affect yield or get used up.",
+          "d": 1
         },
         {
           "question": "What happens to the mass of a catalyst after a reaction?",
@@ -2208,7 +2296,8 @@
             "It remains the same"
           ],
           "answerIndex": 3,
-          "explanation": "The catalyst is chemically unchanged, so its mass remains the same, though physical appearance may change."
+          "explanation": "The catalyst is chemically unchanged, so its mass remains the same, though physical appearance may change.",
+          "d": 1
         },
         {
           "question": "Why might a catalyst stop working effectively?",
@@ -2219,7 +2308,8 @@
             "It becomes poisoned by impurities"
           ],
           "answerIndex": 3,
-          "explanation": "Impurities can poison or inactivate a catalyst, preventing it from working."
+          "explanation": "Impurities can poison or inactivate a catalyst, preventing it from working.",
+          "d": 1
         },
         {
           "question": "How much catalyst is typically required to speed up a reaction?",
@@ -2230,7 +2320,8 @@
             "Only a small amount"
           ],
           "answerIndex": 3,
-          "explanation": "Only a small amount of catalyst is needed to change the speed of the reaction."
+          "explanation": "Only a small amount of catalyst is needed to change the speed of the reaction.",
+          "d": 1
         },
         {
           "question": "Are catalysts specific to particular reactions?",
@@ -2241,7 +2332,8 @@
             "No, one catalyst works for all reactions"
           ],
           "answerIndex": 2,
-          "explanation": "Catalysts are selective in action; different catalysts speed up different reactions."
+          "explanation": "Catalysts are selective in action; different catalysts speed up different reactions.",
+          "d": 1
         },
         {
           "question": "What must always be included in graphs showing rate of reaction data?",
@@ -2252,7 +2344,8 @@
             "A title only"
           ],
           "answerIndex": 2,
-          "explanation": "Exam notes specify axes must always be labelled when drawing such graphs."
+          "explanation": "Exam notes specify axes must always be labelled when drawing such graphs.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -2341,7 +2434,8 @@
             "Temperature drops and heat is absorbed from surroundings"
           ],
           "answerIndex": 0,
-          "explanation": "Exothermic reactions release heat to the surroundings, causing a temperature rise."
+          "explanation": "Exothermic reactions release heat to the surroundings, causing a temperature rise.",
+          "d": 1
         },
         {
           "question": "Which process is endothermic?",
@@ -2352,7 +2446,8 @@
             "Combustion of fuels"
           ],
           "answerIndex": 1,
-          "explanation": "Photosynthesis absorbs heat/light energy from the surroundings, making it endothermic."
+          "explanation": "Photosynthesis absorbs heat/light energy from the surroundings, making it endothermic.",
+          "d": 2
         },
         {
           "question": "Bond breaking is best described as:",
@@ -2363,7 +2458,8 @@
             "Exothermic, releasing energy"
           ],
           "answerIndex": 0,
-          "explanation": "Energy is required to break bonds, so bond breaking is endothermic."
+          "explanation": "Energy is required to break bonds, so bond breaking is endothermic.",
+          "d": 1
         },
         {
           "question": "Which of these is an example of an exothermic reaction according to the notes?",
@@ -2374,7 +2470,8 @@
             "Thermal decomposition of CaCO3"
           ],
           "answerIndex": 0,
-          "explanation": "Dissolving concentrated H2SO4 in water is listed as an exothermic example."
+          "explanation": "Dissolving concentrated H2SO4 in water is listed as an exothermic example.",
+          "d": 2
         },
         {
           "question": "What happens to particle vibration during freezing?",
@@ -2385,7 +2482,8 @@
             "Particles vibrate faster"
           ],
           "answerIndex": 0,
-          "explanation": "As heat is lost to surroundings during freezing, particles vibrate slower and attraction forces increase."
+          "explanation": "As heat is lost to surroundings during freezing, particles vibrate slower and attraction forces increase.",
+          "d": 1
         },
         {
           "question": "Melting is classified as endothermic because:",
@@ -2396,7 +2494,8 @@
             "It only happens at high temperatures"
           ],
           "answerIndex": 1,
-          "explanation": "Heat energy is absorbed by solid particles during melting, allowing them to overcome attractive forces."
+          "explanation": "Heat energy is absorbed by solid particles during melting, allowing them to overcome attractive forces.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -2484,7 +2583,8 @@
             "ΔH = Energy of products + Energy of reactants"
           ],
           "answerIndex": 0,
-          "explanation": "ΔH is defined as total energy of products minus total energy of reactants."
+          "explanation": "ΔH is defined as total energy of products minus total energy of reactants.",
+          "d": 1
         },
         {
           "question": "In the reaction 2H2(g) + O2(g) → 2H2O(g), what is the total energy absorbed for bond breaking?",
@@ -2495,7 +2595,8 @@
             "1368 kJ"
           ],
           "answerIndex": 3,
-          "explanation": "2(436) + 496 = 1368 kJ is absorbed to break the H-H and O=O bonds."
+          "explanation": "2(436) + 496 = 1368 kJ is absorbed to break the H-H and O=O bonds.",
+          "d": 3
         },
         {
           "question": "What is the calculated ΔH for the reaction 2H2(g) + O2(g) → 2H2O(g)?",
@@ -2506,7 +2607,8 @@
             "+484 kJ"
           ],
           "answerIndex": 2,
-          "explanation": "ΔH = 1368 − 1852 = −484 kJ, indicating an exothermic reaction."
+          "explanation": "ΔH = 1368 − 1852 = −484 kJ, indicating an exothermic reaction.",
+          "d": 3
         },
         {
           "question": "What determines whether a reaction is exothermic or endothermic?",
@@ -2517,7 +2619,8 @@
             "The physical state of reactants"
           ],
           "answerIndex": 2,
-          "explanation": "Only the actual energy released or absorbed, not simply bond counts, determines the reaction type."
+          "explanation": "Only the actual energy released or absorbed, not simply bond counts, determines the reaction type.",
+          "d": 2
         },
         {
           "question": "A positive ΔH indicates that:",
@@ -2528,7 +2631,8 @@
             "The reaction is exothermic"
           ],
           "answerIndex": 2,
-          "explanation": "A positive ΔH means products have higher energy than reactants, i.e. the reaction is endothermic."
+          "explanation": "A positive ΔH means products have higher energy than reactants, i.e. the reaction is endothermic.",
+          "d": 1
         },
         {
           "question": "What unit is used to measure enthalpy/heat change?",
@@ -2539,7 +2643,8 @@
             "Joules per mole squared"
           ],
           "answerIndex": 1,
-          "explanation": "Heat change/enthalpy change is measured in kilojoules (kJ)."
+          "explanation": "Heat change/enthalpy change is measured in kilojoules (kJ).",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -2611,7 +2716,8 @@
             "The total energy released in a reaction"
           ],
           "answerIndex": 0,
-          "explanation": "Activation energy is defined as the minimum energy reactant particles need to react."
+          "explanation": "Activation energy is defined as the minimum energy reactant particles need to react.",
+          "d": 1
         },
         {
           "question": "What happens when reactant particles have energy less than Ea?",
@@ -2622,7 +2728,8 @@
             "The reaction proceeds instantly"
           ],
           "answerIndex": 1,
-          "explanation": "Particles with energy below Ea cannot react, so no reaction occurs."
+          "explanation": "Particles with energy below Ea cannot react, so no reaction occurs.",
+          "d": 1
         },
         {
           "question": "An energy profile diagram shows:",
@@ -2633,7 +2740,8 @@
             "Only the temperature change"
           ],
           "answerIndex": 1,
-          "explanation": "Energy profile diagrams illustrate ΔH and the activation energy of a reaction."
+          "explanation": "Energy profile diagrams illustrate ΔH and the activation energy of a reaction.",
+          "d": 1
         },
         {
           "question": "Why is activation energy described as an energy barrier?",
@@ -2644,7 +2752,8 @@
             "Because it prevents all reactions from ever occurring"
           ],
           "answerIndex": 2,
-          "explanation": "Ea acts as a barrier that reactants must overcome before a reaction can occur."
+          "explanation": "Ea acts as a barrier that reactants must overcome before a reaction can occur.",
+          "d": 2
         },
         {
           "question": "What provides the energy to start most reactions?",
@@ -2655,7 +2764,8 @@
             "Catalysts only"
           ],
           "answerIndex": 2,
-          "explanation": "Heat provides energy to increase particle energy so they can overcome the activation energy barrier."
+          "explanation": "Heat provides energy to increase particle energy so they can overcome the activation energy barrier.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -2747,7 +2857,8 @@
             "Carbon dioxide only"
           ],
           "answerIndex": 0,
-          "explanation": "Complete combustion in excess air produces carbon dioxide and water."
+          "explanation": "Complete combustion in excess air produces carbon dioxide and water.",
+          "d": 1
         },
         {
           "question": "What are the products of incomplete combustion?",
@@ -2758,7 +2869,8 @@
             "Hydrogen and oxygen"
           ],
           "answerIndex": 1,
-          "explanation": "Incomplete combustion (limited oxygen) produces carbon monoxide, water and carbon (soot)."
+          "explanation": "Incomplete combustion (limited oxygen) produces carbon monoxide, water and carbon (soot).",
+          "d": 1
         },
         {
           "question": "What is the overall reaction occurring in a hydrogen-oxygen fuel cell?",
@@ -2769,7 +2881,8 @@
             "2H2 + O2 → 2H2O2"
           ],
           "answerIndex": 2,
-          "explanation": "The overall fuel cell reaction is O2 + 2H2 → 2H2O."
+          "explanation": "The overall fuel cell reaction is O2 + 2H2 → 2H2O.",
+          "d": 2
         },
         {
           "question": "How do fuel cells differ from chemical cells (batteries)?",
@@ -2780,7 +2893,8 @@
             "Fuel cells cannot produce electricity"
           ],
           "answerIndex": 2,
-          "explanation": "Unlike batteries, fuel cells continuously receive reactant supply from an external source rather than storing it internally."
+          "explanation": "Unlike batteries, fuel cells continuously receive reactant supply from an external source rather than storing it internally.",
+          "d": 2
         },
         {
           "question": "Which is a disadvantage of hydrogen fuel cells?",
@@ -2791,7 +2905,8 @@
             "They produce large amounts of pollution"
           ],
           "answerIndex": 2,
-          "explanation": "Obtaining hydrogen cheaply is difficult, and hydrogen is extremely flammable and explosive, requiring special precautions."
+          "explanation": "Obtaining hydrogen cheaply is difficult, and hydrogen is extremely flammable and explosive, requiring special precautions.",
+          "d": 2
         },
         {
           "question": "Why are fuel cells considered pollution-free?",
@@ -2802,7 +2917,8 @@
             "They produce only water as a product"
           ],
           "answerIndex": 3,
-          "explanation": "The hydrogen-oxygen fuel cell only produces water, making it pollution-free."
+          "explanation": "The hydrogen-oxygen fuel cell only produces water, making it pollution-free.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -2884,7 +3000,8 @@
             "Carbon, and most also contain hydrogen"
           ],
           "answerIndex": 3,
-          "explanation": "All organic compounds contain carbon, and most also contain hydrogen, but not all necessarily do."
+          "explanation": "All organic compounds contain carbon, and most also contain hydrogen, but not all necessarily do.",
+          "d": 1
         },
         {
           "question": "Which of these is classified as inorganic despite containing carbon?",
@@ -2895,7 +3012,8 @@
             "Carbon dioxide"
           ],
           "answerIndex": 3,
-          "explanation": "CO2 is an example of an inorganic carbon-containing compound."
+          "explanation": "CO2 is an example of an inorganic carbon-containing compound.",
+          "d": 2
         },
         {
           "question": "What is a hydrocarbon?",
@@ -2906,7 +3024,8 @@
             "A compound containing only carbon and hydrogen"
           ],
           "answerIndex": 3,
-          "explanation": "Hydrocarbons are organic compounds containing only hydrogen and carbon atoms."
+          "explanation": "Hydrocarbons are organic compounds containing only hydrogen and carbon atoms.",
+          "d": 1
         },
         {
           "question": "What is petroleum also known as?",
@@ -2917,7 +3036,8 @@
             "Biogas"
           ],
           "answerIndex": 2,
-          "explanation": "Petroleum is a mixture of hydrocarbons, also known as crude oil."
+          "explanation": "Petroleum is a mixture of hydrocarbons, also known as crude oil.",
+          "d": 1
         },
         {
           "question": "What process is used to separate crude oil into various fuels and hydrocarbons?",
@@ -2928,7 +3048,8 @@
             "Fractional distillation"
           ],
           "answerIndex": 3,
-          "explanation": "Crude oil undergoes fractional distillation to produce various fuels and hydrocarbons."
+          "explanation": "Crude oil undergoes fractional distillation to produce various fuels and hydrocarbons.",
+          "d": 1
         },
         {
           "question": "What percentage of natural gas is typically methane?",
@@ -2939,7 +3060,8 @@
             "0-20%"
           ],
           "answerIndex": 0,
-          "explanation": "Natural gas is about 70 to 90% methane, with the remainder being other short-chain alkanes."
+          "explanation": "Natural gas is about 70 to 90% methane, with the remainder being other short-chain alkanes.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -3010,7 +3132,8 @@
             "It is inexpensive to produce"
           ],
           "answerIndex": 0,
-          "explanation": "Petroleum is non-renewable, meaning its supply is limited, so conservation is needed."
+          "explanation": "Petroleum is non-renewable, meaning its supply is limited, so conservation is needed.",
+          "d": 1
         },
         {
           "question": "What is gasohol?",
@@ -3021,7 +3144,8 @@
             "Compressed natural gas"
           ],
           "answerIndex": 0,
-          "explanation": "Gasohol is defined as a mixture of ethanol and petrol."
+          "explanation": "Gasohol is defined as a mixture of ethanol and petrol.",
+          "d": 1
         },
         {
           "question": "Which of the following is an example of biofuel mentioned in the notes?",
@@ -3032,7 +3156,8 @@
             "Nuclear fuel"
           ],
           "answerIndex": 0,
-          "explanation": "Biodiesel made from plant oils like palm oil is given as an example of biofuel."
+          "explanation": "Biodiesel made from plant oils like palm oil is given as an example of biofuel.",
+          "d": 2
         },
         {
           "question": "Which measure helps conserve petroleum according to the notes?",
@@ -3043,7 +3168,8 @@
             "Banning all vehicles"
           ],
           "answerIndex": 1,
-          "explanation": "Taking public transport reduces the number of motor vehicles on the road, conserving petroleum."
+          "explanation": "Taking public transport reduces the number of motor vehicles on the road, conserving petroleum.",
+          "d": 1
         },
         {
           "question": "What is biogas produced from?",
@@ -3054,7 +3180,8 @@
             "Dead plants or animals decaying in the absence of air"
           ],
           "answerIndex": 3,
-          "explanation": "Biogas is produced when dead plants or animals decay in the absence of air."
+          "explanation": "Biogas is produced when dead plants or animals decay in the absence of air.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -3134,7 +3261,8 @@
             "A type of isomer"
           ],
           "answerIndex": 1,
-          "explanation": "A functional group is defined as an atom or group of atoms giving a molecule its characteristic properties."
+          "explanation": "A functional group is defined as an atom or group of atoms giving a molecule its characteristic properties.",
+          "d": 1
         },
         {
           "question": "Which functional group do alkenes have?",
@@ -3145,7 +3273,8 @@
             "No functional group"
           ],
           "answerIndex": 1,
-          "explanation": "Alkenes are characterised by the carbon-carbon double bond functional group."
+          "explanation": "Alkenes are characterised by the carbon-carbon double bond functional group.",
+          "d": 1
         },
         {
           "question": "Which of the following is NOT a characteristic of a homologous series?",
@@ -3156,7 +3285,8 @@
             "Identical physical properties at every member"
           ],
           "answerIndex": 3,
-          "explanation": "Homologous series show a gradual change (not identical) in physical properties down the series."
+          "explanation": "Homologous series show a gradual change (not identical) in physical properties down the series.",
+          "d": 2
         },
         {
           "question": "Which homologous series has no functional group?",
@@ -3167,7 +3297,8 @@
             "Alcohols"
           ],
           "answerIndex": 2,
-          "explanation": "Alkanes are listed as having no functional group."
+          "explanation": "Alkanes are listed as having no functional group.",
+          "d": 1
         },
         {
           "question": "What functional group characterises carboxylic acids?",
@@ -3178,7 +3309,8 @@
             "Amide linkage"
           ],
           "answerIndex": 1,
-          "explanation": "Carboxylic acids have the carboxyl functional group."
+          "explanation": "Carboxylic acids have the carboxyl functional group.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -3275,7 +3407,8 @@
             "The functional group only"
           ],
           "answerIndex": 0,
-          "explanation": "The prefix (e.g. meth-, eth-, prop-) shows the number of carbon atoms in the molecule."
+          "explanation": "The prefix (e.g. meth-, eth-, prop-) shows the number of carbon atoms in the molecule.",
+          "d": 1
         },
         {
           "question": "What does the suffix '-oic acid' indicate?",
@@ -3286,7 +3419,8 @@
             "Alkene"
           ],
           "answerIndex": 1,
-          "explanation": "The suffix -oic acid denotes a carboxylic acid."
+          "explanation": "The suffix -oic acid denotes a carboxylic acid.",
+          "d": 1
         },
         {
           "question": "Why is 'methene' not a valid name?",
@@ -3297,7 +3431,8 @@
             "Methene has too many hydrogens"
           ],
           "answerIndex": 1,
-          "explanation": "Alkenes require a C=C double bond, which is impossible with only one carbon atom."
+          "explanation": "Alkenes require a C=C double bond, which is impossible with only one carbon atom.",
+          "d": 2
         },
         {
           "question": "What is 2-methylpropane an isomer of?",
@@ -3308,7 +3443,8 @@
             "Propane"
           ],
           "answerIndex": 1,
-          "explanation": "2-methylpropane shares the same molecular formula as butane, making it an isomer."
+          "explanation": "2-methylpropane shares the same molecular formula as butane, making it an isomer.",
+          "d": 2
         },
         {
           "question": "What rule applies when naming branched carbon chains?",
@@ -3319,7 +3455,8 @@
             "The longest possible carbon chain must be identified for the main name"
           ],
           "answerIndex": 3,
-          "explanation": "The compound must be renamed so branches come off the longest possible carbon chain."
+          "explanation": "The compound must be renamed so branches come off the longest possible carbon chain.",
+          "d": 1
         },
         {
           "question": "What are isomers?",
@@ -3330,7 +3467,8 @@
             "Compounds with identical physical and chemical properties"
           ],
           "answerIndex": 0,
-          "explanation": "Isomers share the same molecular formula but differ in structural formula, giving different physical properties."
+          "explanation": "Isomers share the same molecular formula but differ in structural formula, giving different physical properties.",
+          "d": 1
         },
         {
           "question": "In but-1-ene and but-2-ene, what does the number represent?",
@@ -3341,7 +3479,8 @@
             "The total number of carbons"
           ],
           "answerIndex": 0,
-          "explanation": "The number indicates which carbon atom the C=C double bond begins from."
+          "explanation": "The number indicates which carbon atom the C=C double bond begins from.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -3437,7 +3576,8 @@
             "CnH2n+1OH"
           ],
           "answerIndex": 0,
-          "explanation": "Alkanes follow the general formula CnH2n+2, being saturated hydrocarbons."
+          "explanation": "Alkanes follow the general formula CnH2n+2, being saturated hydrocarbons.",
+          "d": 1
         },
         {
           "question": "How many structural isomers does pentane have?",
@@ -3448,7 +3588,8 @@
             "4"
           ],
           "answerIndex": 1,
-          "explanation": "Pentane has 3 isomers: pentane, 2-methylbutane, and 2,2-dimethylpropane."
+          "explanation": "Pentane has 3 isomers: pentane, 2-methylbutane, and 2,2-dimethylpropane.",
+          "d": 2
         },
         {
           "question": "What trend is observed in the boiling points of alkanes down the series?",
@@ -3459,7 +3600,8 @@
             "They remain constant"
           ],
           "answerIndex": 2,
-          "explanation": "As molecular size increases down the series, intermolecular forces increase, raising boiling points."
+          "explanation": "As molecular size increases down the series, intermolecular forces increase, raising boiling points.",
+          "d": 1
         },
         {
           "question": "What type of reaction occurs between alkanes and halogens under UV light?",
@@ -3470,7 +3612,8 @@
             "Neutralisation"
           ],
           "answerIndex": 2,
-          "explanation": "Alkanes undergo substitution reactions with halogens, where UV light splits the halogen molecule."
+          "explanation": "Alkanes undergo substitution reactions with halogens, where UV light splits the halogen molecule.",
+          "d": 1
         },
         {
           "question": "Why is carbon monoxide dangerous when produced from incomplete combustion?",
@@ -3481,7 +3624,8 @@
             "It is highly reactive with water"
           ],
           "answerIndex": 2,
-          "explanation": "CO is dangerous because it is odourless, colourless, and poisonous, disrupting oxygen transport in the blood."
+          "explanation": "CO is dangerous because it is odourless, colourless, and poisonous, disrupting oxygen transport in the blood.",
+          "d": 1
         },
         {
           "question": "What are the products of the reaction between methane and chlorine gas under UV light?",
@@ -3492,7 +3636,8 @@
             "CH2Cl2 and H2"
           ],
           "answerIndex": 1,
-          "explanation": "The substitution reaction produces chloromethane and hydrogen chloride fumes."
+          "explanation": "The substitution reaction produces chloromethane and hydrogen chloride fumes.",
+          "d": 2
         },
         {
           "question": "Why do alkanes become more viscous down the series?",
@@ -3503,7 +3648,8 @@
             "Because they lose hydrogen atoms"
           ],
           "answerIndex": 0,
-          "explanation": "Increased molecular size down the series strengthens IMFOA, making alkanes more viscous."
+          "explanation": "Increased molecular size down the series strengthens IMFOA, making alkanes more viscous.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -3599,7 +3745,8 @@
             "CnH2n"
           ],
           "answerIndex": 3,
-          "explanation": "Alkenes follow the general formula CnH2n due to their C=C double bond."
+          "explanation": "Alkenes follow the general formula CnH2n due to their C=C double bond.",
+          "d": 1
         },
         {
           "question": "Which test is used to distinguish alkanes from alkenes?",
@@ -3610,7 +3757,8 @@
             "Adding acidified KMnO4"
           ],
           "answerIndex": 0,
-          "explanation": "Alkenes rapidly decolourise bromine water while alkanes do not under normal conditions, distinguishing them."
+          "explanation": "Alkenes rapidly decolourise bromine water while alkanes do not under normal conditions, distinguishing them.",
+          "d": 1
         },
         {
           "question": "What are the conditions for hydrogenation of an alkene?",
@@ -3621,7 +3769,8 @@
             "600°C, Al2O3/SiO2 catalyst"
           ],
           "answerIndex": 0,
-          "explanation": "Hydrogenation of alkenes to alkanes requires 200°C and a nickel catalyst."
+          "explanation": "Hydrogenation of alkenes to alkanes requires 200°C and a nickel catalyst.",
+          "d": 2
         },
         {
           "question": "What is cracking?",
@@ -3632,7 +3781,8 @@
             "Converting alkenes into alkanes only"
           ],
           "answerIndex": 2,
-          "explanation": "Cracking breaks long-chain hydrocarbons into smaller hydrocarbons or hydrogen."
+          "explanation": "Cracking breaks long-chain hydrocarbons into smaller hydrocarbons or hydrogen.",
+          "d": 1
         },
         {
           "question": "Why do alkenes produce a smokier flame than alkanes with the same number of carbons?",
@@ -3643,7 +3793,8 @@
             "They react with oxygen more slowly"
           ],
           "answerIndex": 1,
-          "explanation": "Alkenes have a higher carbon percentage due to being unsaturated, causing more incomplete combustion and soot."
+          "explanation": "Alkenes have a higher carbon percentage due to being unsaturated, causing more incomplete combustion and soot.",
+          "d": 2
         },
         {
           "question": "What type of reaction do alkenes readily undergo due to their C=C bond?",
@@ -3654,7 +3805,8 @@
             "Neutralisation reaction"
           ],
           "answerIndex": 0,
-          "explanation": "The reactive C=C double bond allows alkenes to readily undergo addition reactions."
+          "explanation": "The reactive C=C double bond allows alkenes to readily undergo addition reactions.",
+          "d": 1
         },
         {
           "question": "What is produced when steam is added to ethene under catalytic conditions?",
@@ -3665,7 +3817,8 @@
             "Ethane"
           ],
           "answerIndex": 0,
-          "explanation": "Hydration of ethene with steam (300°C, 60 atm, H3PO4 catalyst) produces ethanol."
+          "explanation": "Hydration of ethene with steam (300°C, 60 atm, H3PO4 catalyst) produces ethanol.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -3765,7 +3918,8 @@
             "CnH2n+2"
           ],
           "answerIndex": 0,
-          "explanation": "Alcohols have the general formula CnH2n+1OH with the hydroxyl functional group."
+          "explanation": "Alcohols have the general formula CnH2n+1OH with the hydroxyl functional group.",
+          "d": 1
         },
         {
           "question": "What happens when an alcohol is oxidised with acidified KMnO4?",
@@ -3776,7 +3930,8 @@
             "It forms a carboxylic acid, with colour changing from purple to colourless"
           ],
           "answerIndex": 3,
-          "explanation": "Alcohols are oxidised by acidified KMnO4 to carboxylic acids, with the purple colour turning colourless."
+          "explanation": "Alcohols are oxidised by acidified KMnO4 to carboxylic acids, with the purple colour turning colourless.",
+          "d": 1
         },
         {
           "question": "What conditions are used for fermentation of carbohydrates to produce ethanol?",
@@ -3787,7 +3942,8 @@
             "Yeast, 37°C, aerobic conditions"
           ],
           "answerIndex": 0,
-          "explanation": "Fermentation requires yeast acting on carbohydrates at 37°C in the absence of oxygen (anaerobic)."
+          "explanation": "Fermentation requires yeast acting on carbohydrates at 37°C in the absence of oxygen (anaerobic).",
+          "d": 2
         },
         {
           "question": "Why does fermentation typically stop at around 15% alcohol content?",
@@ -3798,7 +3954,8 @@
             "Oxygen is required beyond this point"
           ],
           "answerIndex": 2,
-          "explanation": "A higher alcohol content causes the yeast to die, stopping fermentation."
+          "explanation": "A higher alcohol content causes the yeast to die, stopping fermentation.",
+          "d": 2
         },
         {
           "question": "What happens to wine or beer left exposed to air for several days?",
@@ -3809,7 +3966,8 @@
             "It evaporates completely"
           ],
           "answerIndex": 0,
-          "explanation": "Exposure to air allows oxidation of ethanol to ethanoic acid (vinegar), causing sourness."
+          "explanation": "Exposure to air allows oxidation of ethanol to ethanoic acid (vinegar), causing sourness.",
+          "d": 1
         },
         {
           "question": "What substance is used in a breathalyser to detect alcohol?",
@@ -3820,7 +3978,8 @@
             "Limewater"
           ],
           "answerIndex": 1,
-          "explanation": "Breathalysers use acidified potassium dichromate as the oxidising agent with a catalyst to detect alcohol."
+          "explanation": "Breathalysers use acidified potassium dichromate as the oxidising agent with a catalyst to detect alcohol.",
+          "d": 1
         },
         {
           "question": "What are the conditions for catalytic addition of steam to ethene to produce ethanol?",
@@ -3831,7 +3990,8 @@
             "600°C, Al2O3/SiO2 catalyst"
           ],
           "answerIndex": 0,
-          "explanation": "This industrial method requires 300°C, 60 atm pressure, and a phosphoric(V) acid catalyst."
+          "explanation": "This industrial method requires 300°C, 60 atm pressure, and a phosphoric(V) acid catalyst.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -3924,7 +4084,8 @@
             "CnH2n"
           ],
           "answerIndex": 0,
-          "explanation": "Carboxylic acids follow the general formula CnH2n+1COOH."
+          "explanation": "Carboxylic acids follow the general formula CnH2n+1COOH.",
+          "d": 1
         },
         {
           "question": "Why are carboxylic acids considered weak acids?",
@@ -3935,7 +4096,8 @@
             "They react violently with metals"
           ],
           "answerIndex": 0,
-          "explanation": "Carboxylic acids only partially ionise in water, giving a relatively low H+ ion concentration."
+          "explanation": "Carboxylic acids only partially ionise in water, giving a relatively low H+ ion concentration.",
+          "d": 2
         },
         {
           "question": "What are the products of a carboxylic acid reacting with a carbonate?",
@@ -3946,7 +4108,8 @@
             "Salt, carbon dioxide and water"
           ],
           "answerIndex": 3,
-          "explanation": "Reaction with a carbonate produces salt, carbon dioxide, and water."
+          "explanation": "Reaction with a carbonate produces salt, carbon dioxide, and water.",
+          "d": 2
         },
         {
           "question": "What is produced when a carboxylic acid reacts with an alcohol?",
@@ -3957,7 +4120,8 @@
             "A salt and hydrogen"
           ],
           "answerIndex": 0,
-          "explanation": "Esterification is the reaction of carboxylic acid with alcohol to produce an ester and water."
+          "explanation": "Esterification is the reaction of carboxylic acid with alcohol to produce an ester and water.",
+          "d": 1
         },
         {
           "question": "How is ethanoic acid produced by oxidation of ethanol with acidified KMnO4?",
@@ -3968,7 +4132,8 @@
             "No colour change occurs"
           ],
           "answerIndex": 1,
-          "explanation": "KMnO4 is the oxidising agent, and its colour changes from purple to colourless as ethanol is oxidised to ethanoic acid."
+          "explanation": "KMnO4 is the oxidising agent, and its colour changes from purple to colourless as ethanol is oxidised to ethanoic acid.",
+          "d": 2
         },
         {
           "question": "Why do alcoholic drinks turn sour when exposed to air?",
@@ -3979,7 +4144,8 @@
             "Ethanol undergoes fermentation further"
           ],
           "answerIndex": 1,
-          "explanation": "Certain bacteria in the air oxidise ethanol to ethanoic acid, souring the drink."
+          "explanation": "Certain bacteria in the air oxidise ethanol to ethanoic acid, souring the drink.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -4059,7 +4225,8 @@
             "-COO-"
           ],
           "answerIndex": 3,
-          "explanation": "Esters are characterised by the -COO- linkage."
+          "explanation": "Esters are characterised by the -COO- linkage.",
+          "d": 1
         },
         {
           "question": "What catalyst is typically used in esterification?",
@@ -4070,7 +4237,8 @@
             "Phosphoric acid only"
           ],
           "answerIndex": 1,
-          "explanation": "A few drops of concentrated sulfuric acid are used as a catalyst for esterification."
+          "explanation": "A few drops of concentrated sulfuric acid are used as a catalyst for esterification.",
+          "d": 1
         },
         {
           "question": "Why is a warm water bath used rather than a direct flame during esterification?",
@@ -4081,7 +4249,8 @@
             "Because direct flame prevents ester formation"
           ],
           "answerIndex": 0,
-          "explanation": "The organic components are flammable, and ethyl ethanoate has a low boiling point, so a gentle warm water bath is safer."
+          "explanation": "The organic components are flammable, and ethyl ethanoate has a low boiling point, so a gentle warm water bath is safer.",
+          "d": 2
         },
         {
           "question": "Why is the ester poured into cold water after the reaction?",
@@ -4092,7 +4261,8 @@
             "To dissolve the ester completely"
           ],
           "answerIndex": 1,
-          "explanation": "Cold water dissolves the other components, leaving the insoluble ester layer and removing the ethanoic acid smell."
+          "explanation": "Cold water dissolves the other components, leaving the insoluble ester layer and removing the ethanoic acid smell.",
+          "d": 2
         },
         {
           "question": "Which of the following is NOT listed as a use of esters?",
@@ -4103,7 +4273,8 @@
             "Soap production"
           ],
           "answerIndex": 1,
-          "explanation": "Esters are used in perfumes, flavourings, solvents, and soap, but not as vehicle fuel per the notes."
+          "explanation": "Esters are used in perfumes, flavourings, solvents, and soap, but not as vehicle fuel per the notes.",
+          "d": 1
         },
         {
           "question": "How are esters formed?",
@@ -4114,7 +4285,8 @@
             "Reaction between a carboxylic acid and an alcohol"
           ],
           "answerIndex": 3,
-          "explanation": "Esters form through esterification, the reaction between a carboxylic acid and an alcohol."
+          "explanation": "Esters form through esterification, the reaction between a carboxylic acid and an alcohol.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -4218,7 +4390,8 @@
             "A type of catalyst"
           ],
           "answerIndex": 0,
-          "explanation": "A polymer is a long-chain macromolecule covalently linked by repeating monomer units."
+          "explanation": "A polymer is a long-chain macromolecule covalently linked by repeating monomer units.",
+          "d": 1
         },
         {
           "question": "Which of the following is a natural polymer?",
@@ -4229,7 +4402,8 @@
             "Terylene"
           ],
           "answerIndex": 1,
-          "explanation": "Starch is listed as a natural polymer, while Nylon, Terylene, and PVC are synthetic."
+          "explanation": "Starch is listed as a natural polymer, while Nylon, Terylene, and PVC are synthetic.",
+          "d": 1
         },
         {
           "question": "What distinguishes condensation polymerisation from addition polymerisation?",
@@ -4240,7 +4414,8 @@
             "Both lose water equally"
           ],
           "answerIndex": 2,
-          "explanation": "Condensation polymerisation involves loss of a small molecule (e.g. water), unlike addition polymerisation."
+          "explanation": "Condensation polymerisation involves loss of a small molecule (e.g. water), unlike addition polymerisation.",
+          "d": 2
         },
         {
           "question": "What monomers combine to form a polyamide like Nylon?",
@@ -4251,7 +4426,8 @@
             "An alcohol and an alkene"
           ],
           "answerIndex": 1,
-          "explanation": "Polyamides form from a dicarboxylic acid and a diamine, joined via amide linkages."
+          "explanation": "Polyamides form from a dicarboxylic acid and a diamine, joined via amide linkages.",
+          "d": 2
         },
         {
           "question": "What linkage characterises a polyester such as Terylene?",
@@ -4262,7 +4438,8 @@
             "Hydroxyl linkage"
           ],
           "answerIndex": 2,
-          "explanation": "Polyesters like Terylene contain the ester linkage (-COO-) formed from a dicarboxylic acid and a diol."
+          "explanation": "Polyesters like Terylene contain the ester linkage (-COO-) formed from a dicarboxylic acid and a diol.",
+          "d": 1
         },
         {
           "question": "Why are plastics considered a land pollution problem?",
@@ -4273,7 +4450,8 @@
             "They release oxygen when buried"
           ],
           "answerIndex": 0,
-          "explanation": "Plastics are non-biodegradable, so they build up in the environment instead of decomposing."
+          "explanation": "Plastics are non-biodegradable, so they build up in the environment instead of decomposing.",
+          "d": 1
         },
         {
           "question": "What conditions are typically needed for addition polymerisation of alkenes?",
@@ -4284,7 +4462,8 @@
             "High pressure, high temperature, catalyst"
           ],
           "answerIndex": 3,
-          "explanation": "Addition polymerisation of alkenes typically requires high pressure, high temperature and a catalyst."
+          "explanation": "Addition polymerisation of alkenes typically requires high pressure, high temperature and a catalyst.",
+          "d": 1
         }
       ],
       "shortAnswer": [

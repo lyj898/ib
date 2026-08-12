@@ -737,6 +737,20 @@ kbd {
 .activity-strip i.l2 { background: color-mix(in srgb, var(--accent) 60%, var(--bg-soft)); border-color: transparent; }
 .activity-strip i.l3 { background: var(--accent); border-color: transparent; }
 
+/* ---- adaptive assessment ---- */
+.level-chip {
+  display: inline-block;
+  margin-left: 0.5rem;
+  padding: 0.1rem 0.65rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  vertical-align: middle;
+}
+.level-1 { background: color-mix(in srgb, var(--good) 16%, transparent); color: var(--good); }
+.level-2 { background: color-mix(in srgb, var(--accent) 16%, transparent); color: var(--accent); }
+.level-3 { background: color-mix(in srgb, var(--bad) 16%, transparent); color: var(--bad); }
+
 /* ---- Chinese card helpers ---- */
 .speak-btn {
   position: absolute;

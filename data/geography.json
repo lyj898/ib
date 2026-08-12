@@ -49,7 +49,8 @@
             "Many parts working together to have an input and output, forming a relationship"
           ],
           "answerIndex": 3,
-          "explanation": "The notes define a system as many parts working together to have an input (parts) and output (impact), forming a relationship."
+          "explanation": "The notes define a system as many parts working together to have an input (parts) and output (impact), forming a relationship.",
+          "d": 1
         },
         {
           "question": "Which layer of the atmosphere makes up the weather system?",
@@ -60,7 +61,8 @@
             "Stratosphere"
           ],
           "answerIndex": 2,
-          "explanation": "The notes specifically refer to the troposphere as the layer that makes up the weather system."
+          "explanation": "The notes specifically refer to the troposphere as the layer that makes up the weather system.",
+          "d": 1
         },
         {
           "question": "Which of the following is NOT listed as a function of the atmosphere in forming the weather system?",
@@ -71,7 +73,8 @@
             "Affects humidity"
           ],
           "answerIndex": 1,
-          "explanation": "The notes list temperature, humidity, precipitation and pressure/winds — not earthquakes, which are unrelated to the atmospheric system."
+          "explanation": "The notes list temperature, humidity, precipitation and pressure/winds — not earthquakes, which are unrelated to the atmospheric system.",
+          "d": 1
         },
         {
           "question": "In a system, what term describes the 'parts'?",
@@ -82,7 +85,8 @@
             "Input"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state a system has an input (parts) and an output (impact)."
+          "explanation": "The notes state a system has an input (parts) and an output (impact).",
+          "d": 1
         },
         {
           "question": "What do the elements of weather combine to form, according to the notes?",
@@ -93,7 +97,8 @@
             "The Coriolis effect"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state these elements combine to form the weather system."
+          "explanation": "The notes state these elements combine to form the weather system.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -182,7 +187,8 @@
             "Fluctuates randomly"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state that as latitude increases, temperature decreases."
+          "explanation": "The notes state that as latitude increases, temperature decreases.",
+          "d": 1
         },
         {
           "question": "The 'big idea' that must be used to explain how latitude affects temperature is:",
@@ -193,7 +199,8 @@
             "The Coriolis effect"
           ],
           "answerIndex": 2,
-          "explanation": "Due to the Earth's curvature, sun's rays strike different parts of the Earth at different angles — this is the key idea for latitude and temperature."
+          "explanation": "Due to the Earth's curvature, sun's rays strike different parts of the Earth at different angles — this is the key idea for latitude and temperature.",
+          "d": 2
         },
         {
           "question": "Why does temperature decrease with altitude, according to the notes?",
@@ -204,7 +211,8 @@
             "The atmosphere is directly heated by shortwave radiation which weakens with height"
           ],
           "answerIndex": 2,
-          "explanation": "The Earth's surface absorbs shortwave radiation and re-emits longwave radiation; less of this reaches higher altitudes due to absorption by clouds/greenhouse gases, giving lower intensity heating higher up."
+          "explanation": "The Earth's surface absorbs shortwave radiation and re-emits longwave radiation; less of this reaches higher altitudes due to absorption by clouds/greenhouse gases, giving lower intensity heating higher up.",
+          "d": 2
         },
         {
           "question": "Warm surface ocean currents move:",
@@ -215,7 +223,8 @@
             "From lower latitudes (equator) to higher latitudes (poles)"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state warm surface currents move from equatorial regions towards the poles."
+          "explanation": "The notes state warm surface currents move from equatorial regions towards the poles.",
+          "d": 1
         },
         {
           "question": "The Gulf Stream is an example of a:",
@@ -226,7 +235,8 @@
             "Monsoon wind"
           ],
           "answerIndex": 0,
-          "explanation": "The Gulf Stream carries warm water from the equator to the North Atlantic, keeping the U.S. southeast coast relatively warm."
+          "explanation": "The Gulf Stream carries warm water from the equator to the North Atlantic, keeping the U.S. southeast coast relatively warm.",
+          "d": 1
         },
         {
           "question": "What forces help generate and steer ocean currents into gyres?",
@@ -237,7 +247,8 @@
             "Volcanic eruptions"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state surface wind, water density and the Coriolis effect generate and steer currents, creating gyres."
+          "explanation": "The notes state surface wind, water density and the Coriolis effect generate and steer currents, creating gyres.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -328,7 +339,8 @@
             "The ratio of actual water vapour present to the maximum the air could hold at a given temperature, as a percentage"
           ],
           "answerIndex": 3,
-          "explanation": "This matches the notes' definition of relative humidity as a percentage ratio of actual to maximum possible water vapour."
+          "explanation": "This matches the notes' definition of relative humidity as a percentage ratio of actual to maximum possible water vapour.",
+          "d": 1
         },
         {
           "question": "Dew point is best described as:",
@@ -339,7 +351,8 @@
             "The absolute humidity of an area"
           ],
           "answerIndex": 0,
-          "explanation": "The notes define dew point exactly this way."
+          "explanation": "The notes define dew point exactly this way.",
+          "d": 1
         },
         {
           "question": "As temperature increases, relative humidity:",
@@ -350,7 +363,8 @@
             "Decreases"
           ],
           "answerIndex": 3,
-          "explanation": "The notes describe an inverse relationship: as temperature increases, relative humidity decreases."
+          "explanation": "The notes describe an inverse relationship: as temperature increases, relative humidity decreases.",
+          "d": 2
         },
         {
           "question": "When relative humidity is high, what is the likely outcome for weather?",
@@ -361,7 +375,8 @@
             "A higher chance of precipitation"
           ],
           "answerIndex": 3,
-          "explanation": "High relative humidity means air is near saturation, making clouds heavier and more likely to release precipitation."
+          "explanation": "High relative humidity means air is near saturation, making clouds heavier and more likely to release precipitation.",
+          "d": 2
         },
         {
           "question": "Which is the correct way to state a relationship according to the notes' answering technique?",
@@ -372,7 +387,8 @@
             "As relative humidity decreases, temperature decreases"
           ],
           "answerIndex": 0,
-          "explanation": "The notes stress correctly identifying the dependent variable — temperature is the independent variable, relative humidity the dependent variable, in this relationship."
+          "explanation": "The notes stress correctly identifying the dependent variable — temperature is the independent variable, relative humidity the dependent variable, in this relationship.",
+          "d": 2
         },
         {
           "question": "Absolute humidity differs from relative humidity because absolute humidity:",
@@ -383,7 +399,8 @@
             "Only applies at dew point"
           ],
           "answerIndex": 2,
-          "explanation": "The notes define absolute humidity as a measure of water vapour regardless of temperature, unlike relative humidity which is temperature-dependent."
+          "explanation": "The notes define absolute humidity as a measure of water vapour regardless of temperature, unlike relative humidity which is temperature-dependent.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -471,7 +488,8 @@
             "Humidity must be at 100% constantly"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state that regardless of type, for rain to form, air must be forced to rise."
+          "explanation": "The notes state that regardless of type, for rain to form, air must be forced to rise.",
+          "d": 2
         },
         {
           "question": "Convectional rain is caused primarily by:",
@@ -482,7 +500,8 @@
             "Intense heating of the Earth's surface producing strong convection currents"
           ],
           "answerIndex": 3,
-          "explanation": "Convectional rain occurs when intense surface heating forces air to rise via convection currents."
+          "explanation": "Convectional rain occurs when intense surface heating forces air to rise via convection currents.",
+          "d": 1
         },
         {
           "question": "Relief rain is also known as:",
@@ -493,7 +512,8 @@
             "Convectional rain"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state relief rain is also known as orographic rain."
+          "explanation": "The notes state relief rain is also known as orographic rain.",
+          "d": 1
         },
         {
           "question": "Why is the leeward side of a mountain typically dry?",
@@ -504,7 +524,8 @@
             "It is at a lower altitude"
           ],
           "answerIndex": 1,
-          "explanation": "As air rises and cools on the windward side, most moisture precipitates out, leaving little for the leeward side."
+          "explanation": "As air rises and cools on the windward side, most moisture precipitates out, leaving little for the leeward side.",
+          "d": 2
         },
         {
           "question": "An area receiving less than 250mm of rainfall is classified as experiencing:",
@@ -515,7 +536,8 @@
             "Monsoon rainfall"
           ],
           "answerIndex": 2,
-          "explanation": "The notes classify areas with less than 250mm of rainfall as experiencing very low rainfall."
+          "explanation": "The notes classify areas with less than 250mm of rainfall as experiencing very low rainfall.",
+          "d": 1
         },
         {
           "question": "Convectional rain is commonly associated with:",
@@ -526,7 +548,8 @@
             "Cold fronts"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state convectional rain is often associated with lightning and thunder and generally lasts a short period of time."
+          "explanation": "The notes state convectional rain is often associated with lightning and thunder and generally lasts a short period of time.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -609,7 +632,8 @@
             "The temperature of a column of air"
           ],
           "answerIndex": 1,
-          "explanation": "This is the notes' exact definition of pressure."
+          "explanation": "This is the notes' exact definition of pressure.",
+          "d": 1
         },
         {
           "question": "As altitude increases, pressure:",
@@ -620,7 +644,8 @@
             "Stays constant"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state an inverse relationship: as altitude increases, pressure decreases due to weaker gravitational pull and more spread out molecules."
+          "explanation": "The notes state an inverse relationship: as altitude increases, pressure decreases due to weaker gravitational pull and more spread out molecules.",
+          "d": 1
         },
         {
           "question": "As temperature increases, pressure:",
@@ -631,7 +656,8 @@
             "Increases because air molecules move faster"
           ],
           "answerIndex": 1,
-          "explanation": "Warmer air expands, becomes less dense, and exerts less force per unit area, so pressure decreases."
+          "explanation": "Warmer air expands, becomes less dense, and exerts less force per unit area, so pressure decreases.",
+          "d": 2
         },
         {
           "question": "At a mountain top, why is air classified as low pressure despite lower temperatures (which would suggest higher pressure)?",
@@ -642,7 +668,8 @@
             "Because temperature has no effect on pressure"
           ],
           "answerIndex": 2,
-          "explanation": "The notes explain that reasoning through both factors, the altitude effect is taken to dominate, so mountain top air is considered low pressure."
+          "explanation": "The notes explain that reasoning through both factors, the altitude effect is taken to dominate, so mountain top air is considered low pressure.",
+          "d": 3
         },
         {
           "question": "The relationship between density and pressure is:",
@@ -653,7 +680,8 @@
             "No relationship exists"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state a direct relationship: as density decreases, pressure decreases, since there is less weight of air per unit area."
+          "explanation": "The notes state a direct relationship: as density decreases, pressure decreases, since there is less weight of air per unit area.",
+          "d": 2
         },
         {
           "question": "According to the 'big idea', wind is generated because:",
@@ -664,7 +692,8 @@
             "Air moves from low pressure to high pressure"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state air moves from high pressure to low pressure, and this movement of air is known as wind."
+          "explanation": "The notes state air moves from high pressure to low pressure, and this movement of air is known as wind.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -762,7 +791,8 @@
             "The rotation of the Earth's atmosphere"
           ],
           "answerIndex": 2,
-          "explanation": "This matches the notes' definition of wind exactly."
+          "explanation": "This matches the notes' definition of wind exactly.",
+          "d": 1
         },
         {
           "question": "Land breeze occurs:",
@@ -773,7 +803,8 @@
             "During the night"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state land breeze is a local wind that takes place during the night."
+          "explanation": "The notes state land breeze is a local wind that takes place during the night.",
+          "d": 1
         },
         {
           "question": "The Coriolis effect causes winds to be deflected:",
@@ -784,7 +815,8 @@
             "Only downward"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state the Coriolis effect deflects winds right in the Northern Hemisphere and left in the Southern Hemisphere."
+          "explanation": "The notes state the Coriolis effect deflects winds right in the Northern Hemisphere and left in the Southern Hemisphere.",
+          "d": 1
         },
         {
           "question": "According to the notes, what proportion of India's annual rainfall comes from the Southwest Monsoon?",
@@ -795,7 +827,8 @@
             "Nearly 80%"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state the Southwest Monsoon supplies nearly 80% of India's annual rainfall between June and September."
+          "explanation": "The notes state the Southwest Monsoon supplies nearly 80% of India's annual rainfall between June and September.",
+          "d": 1
         },
         {
           "question": "Offshore monsoon winds are characterized by:",
@@ -806,7 +839,8 @@
             "Only occurring at night"
           ],
           "answerIndex": 0,
-          "explanation": "Offshore monsoon winds originate without first passing over ocean, so they are dry and bring little rain."
+          "explanation": "Offshore monsoon winds originate without first passing over ocean, so they are dry and bring little rain.",
+          "d": 2
         },
         {
           "question": "Why does Singapore receive less rain during the Southwest Monsoon than during the Northeast Monsoon?",
@@ -817,7 +851,8 @@
             "Singapore is not affected by monsoons"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state most moisture is deposited in Indonesia during the Southwest Monsoon, leaving less for Singapore."
+          "explanation": "The notes state most moisture is deposited in Indonesia during the Southwest Monsoon, leaving less for Singapore.",
+          "d": 2
         },
         {
           "question": "What caused the severe 2005 India flooding described in the case study?",
@@ -828,7 +863,8 @@
             "A cyclone unrelated to monsoons"
           ],
           "answerIndex": 0,
-          "explanation": "The notes describe how a monsoon stronger than expected devastated western India in 2005, causing severe flooding in Gujarat, Maharashtra and Mumbai."
+          "explanation": "The notes describe how a monsoon stronger than expected devastated western India in 2005, causing severe flooding in Gujarat, Maharashtra and Mumbai.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -906,7 +942,8 @@
             "Mitigation and adaptation"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state possibilities can be broken down into opportunities (positive) and risks (negative)."
+          "explanation": "The notes state possibilities can be broken down into opportunities (positive) and risks (negative).",
+          "d": 1
         },
         {
           "question": "Which of these is listed as an opportunity provided by weather?",
@@ -917,7 +954,8 @@
             "Air pollution"
           ],
           "answerIndex": 1,
-          "explanation": "The notes list water, sunlight and air as necessary conditions weather provides for agriculture, an opportunity."
+          "explanation": "The notes list water, sunlight and air as necessary conditions weather provides for agriculture, an opportunity.",
+          "d": 1
         },
         {
           "question": "Which of these is listed as a risk associated with weather?",
@@ -928,7 +966,8 @@
             "Increased tourism"
           ],
           "answerIndex": 2,
-          "explanation": "Natural disasters like floods are explicitly listed as a risk (negative possibility) in the notes."
+          "explanation": "Natural disasters like floods are explicitly listed as a risk (negative possibility) in the notes.",
+          "d": 1
         },
         {
           "question": "How does weather limit the use of Earth's surface, according to the notes?",
@@ -939,7 +978,8 @@
             "By eliminating agriculture entirely"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state weather limits usable Earth's surface, as we cannot use polar regions, deserts and rainforests."
+          "explanation": "The notes state weather limits usable Earth's surface, as we cannot use polar regions, deserts and rainforests.",
+          "d": 1
         },
         {
           "question": "What forms of energy are mentioned as opportunities provided by weather?",
@@ -950,7 +990,8 @@
             "Solar, wind and water (hydrological)"
           ],
           "answerIndex": 3,
-          "explanation": "The notes specifically list solar, wind and water (hydrological) energy as opportunities."
+          "explanation": "The notes specifically list solar, wind and water (hydrological) energy as opportunities.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -1036,7 +1077,8 @@
             "Changes in the Earth's tilt"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state these are caused by cyclical shifts in Pacific Ocean water temperature near the Equator."
+          "explanation": "The notes state these are caused by cyclical shifts in Pacific Ocean water temperature near the Equator.",
+          "d": 1
         },
         {
           "question": "On average, how often does an El Nino or La Nina event occur?",
@@ -1047,7 +1089,8 @@
             "Every 2-7 years"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state each event occurs on average every 2-7 years and lasts 9-12 months."
+          "explanation": "The notes state each event occurs on average every 2-7 years and lasts 9-12 months.",
+          "d": 1
         },
         {
           "question": "In the southern United States, El Nino usually causes:",
@@ -1058,7 +1101,8 @@
             "No change in weather"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state El Nino usually causes increased rainfall and sometimes destructive flooding in the southern U.S. from autumn to spring."
+          "explanation": "The notes state El Nino usually causes increased rainfall and sometimes destructive flooding in the southern U.S. from autumn to spring.",
+          "d": 1
         },
         {
           "question": "How does El Nino typically affect the number of Atlantic hurricanes?",
@@ -1069,7 +1113,8 @@
             "It has no relationship to hurricanes"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state El Nino often reduces the number of hurricanes forming in the Atlantic, while La Nina tends to increase them."
+          "explanation": "The notes state El Nino often reduces the number of hurricanes forming in the Atlantic, while La Nina tends to increase them.",
+          "d": 2
         },
         {
           "question": "What was attributed to Singapore's uncharacteristically chilly conditions in early 2021?",
@@ -1080,7 +1125,8 @@
             "El Nino conditions only"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state this was attributed to La Nina conditions in Southeast Asia at the time as well as a monsoon surge."
+          "explanation": "The notes state this was attributed to La Nina conditions in Southeast Asia at the time as well as a monsoon surge.",
+          "d": 1
         },
         {
           "question": "A monsoon surge is defined as:",
@@ -1091,7 +1137,8 @@
             "A sudden rise in sea temperature"
           ],
           "answerIndex": 1,
-          "explanation": "The notes define a monsoon surge as a strengthening of winds over the South China Sea causing extensive rain clouds and intensive rainfall over Singapore and its region."
+          "explanation": "The notes define a monsoon surge as a strengthening of winds over the South China Sea causing extensive rain clouds and intensive rainfall over Singapore and its region.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -1181,7 +1228,8 @@
             "They are the same thing"
           ],
           "answerIndex": 2,
-          "explanation": "The notes explicitly state global warming is part of climate change, and the two are not equal."
+          "explanation": "The notes explicitly state global warming is part of climate change, and the two are not equal.",
+          "d": 2
         },
         {
           "question": "Global warming specifically refers to:",
@@ -1192,7 +1240,8 @@
             "A decrease in global temperatures"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state global warming refers to a rise in global temperatures, focusing only on temperature, unlike climate change which covers all weather elements."
+          "explanation": "The notes state global warming refers to a rise in global temperatures, focusing only on temperature, unlike climate change which covers all weather elements.",
+          "d": 1
         },
         {
           "question": "How much faster is the temperature rise in the past century compared to the average rate of ice-age-recovery warming?",
@@ -1203,7 +1252,8 @@
             "The same rate"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state the past century's 0.7°C rise is roughly ten times faster than the average ice-age-recovery rate."
+          "explanation": "The notes state the past century's 0.7°C rise is roughly ten times faster than the average ice-age-recovery rate.",
+          "d": 1
         },
         {
           "question": "What is the rate of Arctic sea ice decline mentioned in the notes?",
@@ -1214,7 +1264,8 @@
             "13.1% per decade"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state Arctic sea ice is declining at a rate of 13.1% per decade."
+          "explanation": "The notes state Arctic sea ice is declining at a rate of 13.1% per decade.",
+          "d": 1
         },
         {
           "question": "The greenhouse effect occurs when:",
@@ -1225,7 +1276,8 @@
             "Gases in the atmosphere trap longwave radiation emitted by the Earth's surface"
           ],
           "answerIndex": 3,
-          "explanation": "The greenhouse effect is the natural process where atmospheric gases absorb and trap the Earth's re-emitted longwave (infrared) radiation, warming the atmosphere."
+          "explanation": "The greenhouse effect is the natural process where atmospheric gases absorb and trap the Earth's re-emitted longwave (infrared) radiation, warming the atmosphere.",
+          "d": 2
         },
         {
           "question": "The enhanced greenhouse effect is caused primarily by:",
@@ -1236,7 +1288,8 @@
             "Natural greenhouse gas emissions only"
           ],
           "answerIndex": 1,
-          "explanation": "The notes define the enhanced greenhouse effect as being caused by human activities releasing greenhouse gases far faster than natural emissions."
+          "explanation": "The notes define the enhanced greenhouse effect as being caused by human activities releasing greenhouse gases far faster than natural emissions.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -1346,7 +1399,8 @@
             "They only occur underwater"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state natural causes require very long durations (tens of thousands of years) to have a large impact, so their effect is comparatively small."
+          "explanation": "The notes state natural causes require very long durations (tens of thousands of years) to have a large impact, so their effect is comparatively small.",
+          "d": 2
         },
         {
           "question": "How do volcanic eruptions cool the climate?",
@@ -1357,7 +1411,8 @@
             "By absorbing all atmospheric CO2"
           ],
           "answerIndex": 2,
-          "explanation": "Sulfur dioxide combines with water in the stratosphere to form sulfuric acid aerosols, which together with ash/dust reflect solar energy, cooling the surface."
+          "explanation": "Sulfur dioxide combines with water in the stratosphere to form sulfuric acid aerosols, which together with ash/dust reflect solar energy, cooling the surface.",
+          "d": 2
         },
         {
           "question": "The Milankovitch cycle of 'obliquity' refers to:",
@@ -1368,7 +1423,8 @@
             "The tilt of Earth's axis"
           ],
           "answerIndex": 3,
-          "explanation": "Obliquity refers to the tilt of Earth's axis, changing roughly every 41,000 years."
+          "explanation": "Obliquity refers to the tilt of Earth's axis, changing roughly every 41,000 years.",
+          "d": 2
         },
         {
           "question": "What ultimately drives most anthropogenic causes of climate change, according to the notes?",
@@ -1379,7 +1435,8 @@
             "Volcanic activity"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state anthropogenic causes are ultimately results of increasing demand for resources, driven by increasing population."
+          "explanation": "The notes state anthropogenic causes are ultimately results of increasing demand for resources, driven by increasing population.",
+          "d": 2
         },
         {
           "question": "Deforestation increases atmospheric CO2 through two main pathways: fewer trees to absorb CO2 and:",
@@ -1390,7 +1447,8 @@
             "Increased ocean absorption"
           ],
           "answerIndex": 1,
-          "explanation": "Exposed soil after deforestation heats up, increasing the rate of carbon oxidation and CO2 release from the soil."
+          "explanation": "Exposed soil after deforestation heats up, increasing the rate of carbon oxidation and CO2 release from the soil.",
+          "d": 2
         },
         {
           "question": "Enteric fermentation, a major source of methane in agriculture, refers to:",
@@ -1401,7 +1459,8 @@
             "The use of chemical fertilisers"
           ],
           "answerIndex": 1,
-          "explanation": "The notes define enteric fermentation as a digestive process responsible for high methane generation in livestock."
+          "explanation": "The notes define enteric fermentation as a digestive process responsible for high methane generation in livestock.",
+          "d": 1
         },
         {
           "question": "How does urbanisation lead to increased greenhouse gas emissions?",
@@ -1412,7 +1471,8 @@
             "It reduces the need for energy"
           ],
           "answerIndex": 0,
-          "explanation": "Urban growth increases consumption and demand for resources, leading to more fossil fuel use, deforestation and vehicle emissions."
+          "explanation": "Urban growth increases consumption and demand for resources, leading to more fossil fuel use, deforestation and vehicle emissions.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -1511,7 +1571,8 @@
             "Increased spread of infectious diseases"
           ],
           "answerIndex": 1,
-          "explanation": "The notes list the lengthening of growing seasons due to higher temperatures as a positive impact."
+          "explanation": "The notes list the lengthening of growing seasons due to higher temperatures as a positive impact.",
+          "d": 1
         },
         {
           "question": "How does global warming create more efficient shipping routes?",
@@ -1522,7 +1583,8 @@
             "By reducing wind speeds"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state melting Arctic sea ice clears the way for ships, opening new/faster shipping routes."
+          "explanation": "The notes state melting Arctic sea ice clears the way for ships, opening new/faster shipping routes.",
+          "d": 2
         },
         {
           "question": "Why does climate change increase the spread of infectious diseases like malaria?",
@@ -1533,7 +1595,8 @@
             "Because it eliminates all pests"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state increased temperatures create optimal breeding conditions and cause mosquitoes to become more active and reproduce more quickly."
+          "explanation": "The notes state increased temperatures create optimal breeding conditions and cause mosquitoes to become more active and reproduce more quickly.",
+          "d": 2
         },
         {
           "question": "What causes the rise in sea levels due to climate change?",
@@ -1544,7 +1607,8 @@
             "Increased melting of glaciers and ice caps, causing water expansion"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state rising global temperatures cause increased melting of glaciers/ice caps, expanding water volume and raising sea levels."
+          "explanation": "The notes state rising global temperatures cause increased melting of glaciers/ice caps, expanding water volume and raising sea levels.",
+          "d": 2
         },
         {
           "question": "How does the shrinking of glaciers threaten freshwater supply?",
@@ -1555,7 +1619,8 @@
             "Melting glaciers increase freshwater supply indefinitely"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state glaciers store about three-quarters of the world's freshwater, and as they melt into the sea it becomes contaminated with salt, reducing freshwater supply."
+          "explanation": "The notes state glaciers store about three-quarters of the world's freshwater, and as they melt into the sea it becomes contaminated with salt, reducing freshwater supply.",
+          "d": 2
         },
         {
           "question": "Approximately how many people globally are threatened by sea level rise from melting ice, according to the notes?",
@@ -1566,7 +1631,8 @@
             "80 million"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state about 80 million people across the globe will be threatened by rising sea levels from ice melt."
+          "explanation": "The notes state about 80 million people across the globe will be threatened by rising sea levels from ice melt.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -1641,7 +1707,8 @@
             "Reducing the flow of heat-trapping greenhouse gases into the atmosphere and stabilising their levels"
           ],
           "answerIndex": 3,
-          "explanation": "The notes define mitigation as reducing/stabilising greenhouse gas levels, either by reducing sources or enhancing sinks."
+          "explanation": "The notes define mitigation as reducing/stabilising greenhouse gas levels, either by reducing sources or enhancing sinks.",
+          "d": 1
         },
         {
           "question": "Adaptation, in the context of climate change, refers to:",
@@ -1652,7 +1719,8 @@
             "Reducing the sources of greenhouse gases"
           ],
           "answerIndex": 0,
-          "explanation": "The notes define adaptation as anticipating adverse effects and adjusting systems and societies to actual or predicted climate change."
+          "explanation": "The notes define adaptation as anticipating adverse effects and adjusting systems and societies to actual or predicted climate change.",
+          "d": 1
         },
         {
           "question": "Which of the following is an example of enhancing a 'sink' under mitigation?",
@@ -1663,7 +1731,8 @@
             "Constructing floating homes"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state mitigation can involve enhancing sinks such as oceans, forests and soil that accumulate and store greenhouse gases."
+          "explanation": "The notes state mitigation can involve enhancing sinks such as oceans, forests and soil that accumulate and store greenhouse gases.",
+          "d": 2
         },
         {
           "question": "What is the primary goal of mitigation, according to the notes?",
@@ -1674,7 +1743,8 @@
             "To increase greenhouse gas emissions temporarily"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state the goal of mitigation is to avoid significant human interference with the climate system."
+          "explanation": "The notes state the goal of mitigation is to avoid significant human interference with the climate system.",
+          "d": 2
         },
         {
           "question": "Are mitigation and adaptation considered equal or interchangeable approaches, per the notes?",
@@ -1685,7 +1755,8 @@
             "Adaptation is a subset of mitigation"
           ],
           "answerIndex": 1,
-          "explanation": "The notes explicitly state mitigation and adaptation are not equal, representing two distinct approaches to responding to climate change."
+          "explanation": "The notes explicitly state mitigation and adaptation are not equal, representing two distinct approaches to responding to climate change.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -1788,7 +1859,8 @@
             "Reducing greenhouse gas emissions at the source"
           ],
           "answerIndex": 2,
-          "explanation": "The notes define adaptation as reducing vulnerability to harmful effects while capitalising on beneficial opportunities of climate change."
+          "explanation": "The notes define adaptation as reducing vulnerability to harmful effects while capitalising on beneficial opportunities of climate change.",
+          "d": 1
         },
         {
           "question": "By how much did retrofitting reduce the Empire State Building's expected energy use?",
@@ -1799,7 +1871,8 @@
             "38%"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state the retrofit reduced expected energy use by 38%."
+          "explanation": "The notes state the retrofit reduced expected energy use by 38%.",
+          "d": 1
         },
         {
           "question": "What is the storm surge barrier near Rotterdam able to protect the city against?",
@@ -1810,7 +1883,8 @@
             "Storm surges up to 3 metres higher than normal"
           ],
           "answerIndex": 3,
-          "explanation": "The barrier's 13 dams/gates can protect against storm surges up to 3 metres higher than normal."
+          "explanation": "The barrier's 13 dams/gates can protect against storm surges up to 3 metres higher than normal.",
+          "d": 1
         },
         {
           "question": "What is 'dhap' or 'baira' in Bangladesh?",
@@ -1821,7 +1895,8 @@
             "A type of cyclone shelter"
           ],
           "answerIndex": 0,
-          "explanation": "Dhap/baira is a traditional cultivation method using floating artificial islands as vegetable gardens."
+          "explanation": "Dhap/baira is a traditional cultivation method using floating artificial islands as vegetable gardens.",
+          "d": 1
         },
         {
           "question": "Which is an example of a measure that is BOTH mitigation and adaptation according to the notes?",
@@ -1832,7 +1907,8 @@
             "The Rotterdam storm surge barrier"
           ],
           "answerIndex": 0,
-          "explanation": "NTU's grass roof adapts the building to Singapore's climate (cooling without more energy) and mitigates by reducing carbon emissions."
+          "explanation": "NTU's grass roof adapts the building to Singapore's climate (cooling without more energy) and mitigates by reducing carbon emissions.",
+          "d": 3
         },
         {
           "question": "How much has Bangladesh invested in climate change actions?",
@@ -1843,7 +1919,8 @@
             "$1 billion"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state Bangladesh has invested more than $10 billion in climate change actions."
+          "explanation": "The notes state Bangladesh has invested more than $10 billion in climate change actions.",
+          "d": 1
         },
         {
           "question": "Biofuel from switchgrass and algae is an example of which mitigation strategy?",
@@ -1854,7 +1931,8 @@
             "Researching new fuels"
           ],
           "answerIndex": 3,
-          "explanation": "The notes classify biofuel research under 'Researching New Fuels' as a mitigation strategy."
+          "explanation": "The notes classify biofuel research under 'Researching New Fuels' as a mitigation strategy.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -1957,7 +2035,8 @@
             "Reduce emissions by an average of 5.2% below 1990 levels by 2008-2012"
           ],
           "answerIndex": 3,
-          "explanation": "The Kyoto Protocol's first commitment period target was an average 5.2% reduction below 1990 levels by 2008-2012."
+          "explanation": "The Kyoto Protocol's first commitment period target was an average 5.2% reduction below 1990 levels by 2008-2012.",
+          "d": 1
         },
         {
           "question": "What principle explains why developed countries had greater responsibility under Kyoto?",
@@ -1968,7 +2047,8 @@
             "Precautionary principle"
           ],
           "answerIndex": 2,
-          "explanation": "This principle recognises developed countries' historical contribution to GHGs from 150+ years of industrial activity."
+          "explanation": "This principle recognises developed countries' historical contribution to GHGs from 150+ years of industrial activity.",
+          "d": 1
         },
         {
           "question": "What does the Clean Development Mechanism (CDM) allow developed countries to do?",
@@ -1979,7 +2059,8 @@
             "Ignore the Adaptation Fund"
           ],
           "answerIndex": 2,
-          "explanation": "CDM lets developed countries fund carbon-reducing projects in developing countries and earn credits usable against their own targets."
+          "explanation": "CDM lets developed countries fund carbon-reducing projects in developing countries and earn credits usable against their own targets.",
+          "d": 2
         },
         {
           "question": "By how much did original Kyoto parties actually reduce CO2 emissions between 1990 and 2012?",
@@ -1990,7 +2071,8 @@
             "4.7%"
           ],
           "answerIndex": 0,
-          "explanation": "They achieved a 12.5% reduction, exceeding the 4.7% target."
+          "explanation": "They achieved a 12.5% reduction, exceeding the 4.7% target.",
+          "d": 1
         },
         {
           "question": "Which countries were noted as NOT signing the Kyoto Protocol yet contributing 42% of global CO2 emissions?",
@@ -2001,7 +2083,8 @@
             "United States, India, China"
           ],
           "answerIndex": 3,
-          "explanation": "The notes identify the US, India and China as non-signatories contributing 42% of global emissions."
+          "explanation": "The notes identify the US, India and China as non-signatories contributing 42% of global emissions.",
+          "d": 1
         },
         {
           "question": "What is a stated limitation of the Kyoto Protocol?",
@@ -2012,7 +2095,8 @@
             "It had no monitoring system"
           ],
           "answerIndex": 2,
-          "explanation": "The Protocol does not compel low-emission countries to provide technology/support to high-emission developing countries."
+          "explanation": "The Protocol does not compel low-emission countries to provide technology/support to high-emission developing countries.",
+          "d": 2
         },
         {
           "question": "What was established by the Doha Amendment?",
@@ -2023,7 +2107,8 @@
             "The Paris Agreement"
           ],
           "answerIndex": 0,
-          "explanation": "The Doha Amendment set up the second commitment period requiring at least an 18% reduction below 1990 levels."
+          "explanation": "The Doha Amendment set up the second commitment period requiring at least an 18% reduction below 1990 levels.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -2121,7 +2206,8 @@
             "2.5°C"
           ],
           "answerIndex": 1,
-          "explanation": "The Agreement aims to limit warming well below 2°C, preferably to 1.5°C."
+          "explanation": "The Agreement aims to limit warming well below 2°C, preferably to 1.5°C.",
+          "d": 1
         },
         {
           "question": "What are Nationally Determined Contributions (NDCs)?",
@@ -2132,7 +2218,8 @@
             "A fund for developing countries only"
           ],
           "answerIndex": 2,
-          "explanation": "NDCs are the pledges each government sets to reduce emissions and adapt, as required by the Paris Agreement."
+          "explanation": "NDCs are the pledges each government sets to reduce emissions and adapt, as required by the Paris Agreement.",
+          "d": 1
         },
         {
           "question": "How often must countries communicate their NDCs?",
@@ -2143,7 +2230,8 @@
             "Every 5 years"
           ],
           "answerIndex": 3,
-          "explanation": "The Paris Agreement operates on a 5-year cycle, with NDCs communicated every 5 years."
+          "explanation": "The Paris Agreement operates on a 5-year cycle, with NDCs communicated every 5 years.",
+          "d": 1
         },
         {
           "question": "What does the Enhanced Transparency Framework (ETF) feed into?",
@@ -2154,7 +2242,8 @@
             "The Adaptation Fund only"
           ],
           "answerIndex": 1,
-          "explanation": "Information gathered through the ETF feeds into the Global Stocktake, assessing collective progress."
+          "explanation": "Information gathered through the ETF feeds into the Global Stocktake, assessing collective progress.",
+          "d": 2
         },
         {
           "question": "Which sectors' emissions are notably absent/exempt from the Paris Agreement?",
@@ -2165,7 +2254,8 @@
             "Agriculture and forestry"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state international shipping and aviation emissions are exempt from the final agreement."
+          "explanation": "The notes state international shipping and aviation emissions are exempt from the final agreement.",
+          "d": 1
         },
         {
           "question": "What is a criticised aspect of climate finance under the Paris Agreement?",
@@ -2176,7 +2266,8 @@
             "Most is delivered as loans, adding to developing countries' debt burden"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state most climate finance is delivered as loans rather than grants, increasing debt burdens."
+          "explanation": "The notes state most climate finance is delivered as loans rather than grants, increasing debt burdens.",
+          "d": 2
         },
         {
           "question": "By what percentage does the EU commit to reduce emissions by 2030 under the Paris Agreement?",
@@ -2187,7 +2278,8 @@
             "At least 20%"
           ],
           "answerIndex": 2,
-          "explanation": "The EU committed to reduce emissions by at least 40% by 2030."
+          "explanation": "The EU committed to reduce emissions by at least 40% by 2030.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -2289,7 +2381,8 @@
             "50% nuclear power by 2015, met exactly"
           ],
           "answerIndex": 0,
-          "explanation": "The 2012 Green Plan aimed for 60% natural gas energy by 2021; 79% was achieved by 2010, exceeding the target early."
+          "explanation": "The 2012 Green Plan aimed for 60% natural gas energy by 2021; 79% was achieved by 2010, exceeding the target early.",
+          "d": 2
         },
         {
           "question": "Which of these is NOT one of the five pillars of the Singapore Green Plan 2030?",
@@ -2300,7 +2393,8 @@
             "Global Carbon Trading Alliance"
           ],
           "answerIndex": 3,
-          "explanation": "The five pillars are City in Nature, Energy Reset, Green Economy, Resilient Future, and Sustainable Living — 'Global Carbon Trading Alliance' is not one of them."
+          "explanation": "The five pillars are City in Nature, Energy Reset, Green Economy, Resilient Future, and Sustainable Living — 'Global Carbon Trading Alliance' is not one of them.",
+          "d": 1
         },
         {
           "question": "What does the '80-80-80 in 2030' target refer to?",
@@ -2311,7 +2405,8 @@
             "Greening buildings, new Super Low Energy buildings, and efficiency improvements in best-in-class green buildings"
           ],
           "answerIndex": 3,
-          "explanation": "80-80-80 covers green 80% of buildings, 80% of new buildings as SLE, and 80% efficiency improvement in best-in-class green buildings."
+          "explanation": "80-80-80 covers green 80% of buildings, 80% of new buildings as SLE, and 80% efficiency improvement in best-in-class green buildings.",
+          "d": 1
         },
         {
           "question": "What is the '30-by-30' target under the Green Plan 2030?",
@@ -2322,7 +2417,8 @@
             "30% of vehicles to be electric by 2030"
           ],
           "answerIndex": 2,
-          "explanation": "The 30-by-30 target aims to meet 30% of nutritional needs through local food production by 2030."
+          "explanation": "The 30-by-30 target aims to meet 30% of nutritional needs through local food production by 2030.",
+          "d": 1
         },
         {
           "question": "Which organisation launched the Green Mark Scheme?",
@@ -2333,7 +2429,8 @@
             "Urban Redevelopment Authority"
           ],
           "answerIndex": 0,
-          "explanation": "The Green Mark Scheme was launched by the BCA to encourage greener buildings."
+          "explanation": "The Green Mark Scheme was launched by the BCA to encourage greener buildings.",
+          "d": 1
         },
         {
           "question": "What target does Singapore set for mass public transport's share of trips by 2030?",
@@ -2344,7 +2441,8 @@
             "90%"
           ],
           "answerIndex": 2,
-          "explanation": "The plan aims to raise the mass public transport modal share from 64% today to 75% by 2030."
+          "explanation": "The plan aims to raise the mass public transport modal share from 64% today to 75% by 2030.",
+          "d": 1
         },
         {
           "question": "What is a key geographical limitation Singapore faces in renewable energy deployment?",
@@ -2355,7 +2453,8 @@
             "No rivers for hydropower and no land/sea space for large solar or wind farms"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state Singapore lacks great rivers for hydropower and space for large-scale solar or wind farms."
+          "explanation": "The notes state Singapore lacks great rivers for hydropower and space for large-scale solar or wind farms.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -2455,7 +2554,8 @@
             "Evapotranspiration"
           ],
           "answerIndex": 1,
-          "explanation": "Precipitation (rain, snow, hail, etc.) is identified as the input to the hydrological cycle system."
+          "explanation": "Precipitation (rain, snow, hail, etc.) is identified as the input to the hydrological cycle system.",
+          "d": 1
         },
         {
           "question": "Which factors of precipitation affect the amount of water entering the system?",
@@ -2466,7 +2566,8 @@
             "Wind speed and direction"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state intensity, duration, frequency and type of precipitation affect the amount of water in the system."
+          "explanation": "The notes state intensity, duration, frequency and type of precipitation affect the amount of water in the system.",
+          "d": 1
         },
         {
           "question": "What is the difference between infiltration and percolation?",
@@ -2477,7 +2578,8 @@
             "Infiltration only occurs in deserts"
           ],
           "answerIndex": 0,
-          "explanation": "Infiltration is surface entry into soil; percolation is the deeper movement of water down to groundwater."
+          "explanation": "Infiltration is surface entry into soil; percolation is the deeper movement of water down to groundwater.",
+          "d": 2
         },
         {
           "question": "What is evapotranspiration?",
@@ -2488,7 +2590,8 @@
             "Only evaporation from oceans"
           ],
           "answerIndex": 2,
-          "explanation": "Evapotranspiration combines evaporation (land/oceans) and transpiration (vegetation) as an output of the system."
+          "explanation": "Evapotranspiration combines evaporation (land/oceans) and transpiration (vegetation) as an output of the system.",
+          "d": 1
         },
         {
           "question": "What causes surface runoff (overland flow) to occur?",
@@ -2499,7 +2602,8 @@
             "When groundwater rises above the water table"
           ],
           "answerIndex": 1,
-          "explanation": "Surface runoff/overland flow occurs when water fails to infiltrate the soil and instead flows over the surface of the drainage basin."
+          "explanation": "Surface runoff/overland flow occurs when water fails to infiltrate the soil and instead flows over the surface of the drainage basin.",
+          "d": 2
         },
         {
           "question": "Which of the following is classified as an output (drainage) of the hydrological cycle in the notes?",
@@ -2510,7 +2614,8 @@
             "Infiltration"
           ],
           "answerIndex": 2,
-          "explanation": "The river channel (or the sea) is listed as an output of the drainage basin/river system."
+          "explanation": "The river channel (or the sea) is listed as an output of the drainage basin/river system.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -2592,7 +2697,8 @@
             "Water stored permanently underground"
           ],
           "answerIndex": 0,
-          "explanation": "Throughflow is defined as the lateral movement of water through soil layers towards the river channel and groundwater."
+          "explanation": "Throughflow is defined as the lateral movement of water through soil layers towards the river channel and groundwater.",
+          "d": 1
         },
         {
           "question": "Rank the speed of these transfer processes from fastest to slowest.",
@@ -2603,7 +2709,8 @@
             "Throughflow > surface runoff > groundwater flow"
           ],
           "answerIndex": 1,
-          "explanation": "Surface runoff is fastest, throughflow is intermediate, and groundwater flow is the slowest."
+          "explanation": "Surface runoff is fastest, throughflow is intermediate, and groundwater flow is the slowest.",
+          "d": 2
         },
         {
           "question": "When does overland flow (surface runoff) typically occur?",
@@ -2614,7 +2721,8 @@
             "Only during drought conditions"
           ],
           "answerIndex": 1,
-          "explanation": "Overland flow occurs when infiltration is blocked, either because the ground is saturated or the surface is impermeable (urbanised)."
+          "explanation": "Overland flow occurs when infiltration is blocked, either because the ground is saturated or the surface is impermeable (urbanised).",
+          "d": 2
         },
         {
           "question": "Which of the following is an example of storage by interception?",
@@ -2625,7 +2733,8 @@
             "Water deep in groundwater"
           ],
           "answerIndex": 0,
-          "explanation": "Interception storage refers to water held temporarily on vegetation surfaces like leaves and stems."
+          "explanation": "Interception storage refers to water held temporarily on vegetation surfaces like leaves and stems.",
+          "d": 1
         },
         {
           "question": "What determines how water is stored in soil versus rock?",
@@ -2636,7 +2745,8 @@
             "The porosity of soil and permeability of rock"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state storage in soil/rock depends on soil porosity and rock permeability, via infiltration and percolation."
+          "explanation": "The notes state storage in soil/rock depends on soil porosity and rock permeability, via infiltration and percolation.",
+          "d": 2
         },
         {
           "question": "After tributaries form from surface runoff and groundwater flow, where does the water in rivers ultimately go?",
@@ -2647,7 +2757,8 @@
             "Permanently into groundwater storage"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state that water in rivers enters lakes, seas and oceans."
+          "explanation": "The notes state that water in rivers enters lakes, seas and oceans.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -2737,7 +2848,8 @@
             "The boundary separating one drainage basin from another"
           ],
           "answerIndex": 3,
-          "explanation": "A watershed is the imaginary boundary line separating one drainage basin from another."
+          "explanation": "A watershed is the imaginary boundary line separating one drainage basin from another.",
+          "d": 1
         },
         {
           "question": "Why is a drainage basin considered an open system?",
@@ -2748,7 +2860,8 @@
             "Because it has no inputs"
           ],
           "answerIndex": 0,
-          "explanation": "An open system allows exchange between systems — a tributary (input) in one basin could be an output of another basin."
+          "explanation": "An open system allows exchange between systems — a tributary (input) in one basin could be an output of another basin.",
+          "d": 2
         },
         {
           "question": "Where is the source of a river usually found?",
@@ -2759,7 +2872,8 @@
             "In mountainous areas or highlands"
           ],
           "answerIndex": 3,
-          "explanation": "The source is where the river begins, typically in highland or mountainous regions, with very small discharge."
+          "explanation": "The source is where the river begins, typically in highland or mountainous regions, with very small discharge.",
+          "d": 1
         },
         {
           "question": "What distinguishes a distributary from a tributary?",
@@ -2770,7 +2884,8 @@
             "A distributary is found only at the source"
           ],
           "answerIndex": 1,
-          "explanation": "Tributaries join the main river near the source, while distributaries branch away from the main river near the mouth/delta."
+          "explanation": "Tributaries join the main river near the source, while distributaries branch away from the main river near the mouth/delta.",
+          "d": 2
         },
         {
           "question": "Along which landform do watersheds typically lie?",
@@ -2781,7 +2896,8 @@
             "Ridges, hills and spurs (interfluves)"
           ],
           "answerIndex": 3,
-          "explanation": "Watersheds typically lie along the top of ridges, hills, and spurs, known as interfluves."
+          "explanation": "Watersheds typically lie along the top of ridges, hills, and spurs, known as interfluves.",
+          "d": 1
         },
         {
           "question": "What is a confluence?",
@@ -2792,7 +2908,8 @@
             "The boundary of a drainage basin"
           ],
           "answerIndex": 1,
-          "explanation": "A confluence is defined as the point where a tributary joins the main river or two rivers meet."
+          "explanation": "A confluence is defined as the point where a tributary joins the main river or two rivers meet.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -2866,7 +2983,8 @@
             "Dendritic"
           ],
           "answerIndex": 3,
-          "explanation": "A dendritic pattern is tree-like and common in areas dominated by one rock type."
+          "explanation": "A dendritic pattern is tree-like and common in areas dominated by one rock type.",
+          "d": 1
         },
         {
           "question": "A radial drainage pattern is most commonly associated with which landform?",
@@ -2877,7 +2995,8 @@
             "Alternating hard and soft rock bands"
           ],
           "answerIndex": 1,
-          "explanation": "Radial patterns form around central high points like volcanic cones, with rivers flowing outward like spokes."
+          "explanation": "Radial patterns form around central high points like volcanic cones, with rivers flowing outward like spokes.",
+          "d": 1
         },
         {
           "question": "What causes a trellis/irregular drainage pattern to form?",
@@ -2888,7 +3007,8 @@
             "A single central peak"
           ],
           "answerIndex": 2,
-          "explanation": "Trellis patterns develop where there are alternating resistant and less resistant rock bands."
+          "explanation": "Trellis patterns develop where there are alternating resistant and less resistant rock bands.",
+          "d": 2
         },
         {
           "question": "Which drainage pattern is commonly found on newly uplifted land?",
@@ -2899,7 +3019,8 @@
             "Parallel"
           ],
           "answerIndex": 3,
-          "explanation": "Parallel drainage patterns form on newly uplifted land where rivers flow downhill roughly parallel to each other."
+          "explanation": "Parallel drainage patterns form on newly uplifted land where rivers flow downhill roughly parallel to each other.",
+          "d": 1
         },
         {
           "question": "Which three factors determine the drainage pattern in an area?",
@@ -2910,7 +3031,8 @@
             "Temperature, wind, and pressure"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state drainage patterns are determined by topography, geology (rock hardness), and gradient."
+          "explanation": "The notes state drainage patterns are determined by topography, geology (rock hardness), and gradient.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -3008,7 +3130,8 @@
             "Only the gradient of the channel"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state river energy is determined by velocity and volume; the most powerful rivers have both high."
+          "explanation": "The notes state river energy is determined by velocity and volume; the most powerful rivers have both high.",
+          "d": 1
         },
         {
           "question": "Why does a river flowing in a narrow, deep channel generally flow faster than one in a broad, shallow channel?",
@@ -3019,7 +3142,8 @@
             "The broad channel has less water contact overall"
           ],
           "answerIndex": 1,
-          "explanation": "A smaller wetted perimeter means less of the water is in contact with the channel, reducing friction and increasing speed."
+          "explanation": "A smaller wetted perimeter means less of the water is in contact with the channel, reducing friction and increasing speed.",
+          "d": 2
         },
         {
           "question": "At the outside bend of a meander, how does the water typically flow compared to the inside bend?",
@@ -3030,7 +3154,8 @@
             "Slower, because it is shallower"
           ],
           "answerIndex": 1,
-          "explanation": "Water flows fastest along the outside/concave bank where it is deeper, and slowest on the inside/convex bank."
+          "explanation": "Water flows fastest along the outside/concave bank where it is deeper, and slowest on the inside/convex bank.",
+          "d": 2
         },
         {
           "question": "Which of these would most likely decrease a river's volume of flow?",
@@ -3041,7 +3166,8 @@
             "Heavy rainfall over the drainage basin"
           ],
           "answerIndex": 0,
-          "explanation": "Entering permeable rock increases infiltration, reducing surface water and lowering the river's volume."
+          "explanation": "Entering permeable rock increases infiltration, reducing surface water and lowering the river's volume.",
+          "d": 2
         },
         {
           "question": "Why might the average speed of a river be similar in the mountains and the plains, despite the steeper gradient in the mountains?",
@@ -3052,7 +3178,8 @@
             "Because friction from large boulders and rocks in the mountains offsets the speed gained from the steep gradient"
           ],
           "answerIndex": 3,
-          "explanation": "The notes explain that large boulders and rocks generate friction in mountain channels, counteracting the speed advantage of the steep gradient."
+          "explanation": "The notes explain that large boulders and rocks generate friction in mountain channels, counteracting the speed advantage of the steep gradient.",
+          "d": 3
         },
         {
           "question": "How does thick vegetation cover in a drainage basin affect river volume?",
@@ -3063,7 +3190,8 @@
             "It increases river volume by increasing surface runoff"
           ],
           "answerIndex": 0,
-          "explanation": "Vegetation intercepts rainfall, allowing greater infiltration and reducing surface runoff, thus lowering river volume."
+          "explanation": "Vegetation intercepts rainfall, allowing greater infiltration and reducing surface runoff, thus lowering river volume.",
+          "d": 2
         },
         {
           "question": "Which of the following would cause a decrease in the speed of a river's flow?",
@@ -3074,7 +3202,8 @@
             "The river increasing in gradient"
           ],
           "answerIndex": 2,
-          "explanation": "Entering quieter water like a lake or sea checks the forward movement of the river, decreasing its speed."
+          "explanation": "Entering quieter water like a lake or sea checks the forward movement of the river, decreasing its speed.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -3152,7 +3281,8 @@
             "Attrition"
           ],
           "answerIndex": 2,
-          "explanation": "Abrasion is the process of the river's load grinding and scraping against the channel, widening and deepening it."
+          "explanation": "Abrasion is the process of the river's load grinding and scraping against the channel, widening and deepening it.",
+          "d": 1
         },
         {
           "question": "Which process is responsible for forming a plunge pool at the foot of a waterfall?",
@@ -3163,7 +3293,8 @@
             "Abrasion"
           ],
           "answerIndex": 2,
-          "explanation": "Hydraulic action, where water force surges into cracks, is given as the example process forming plunge pools."
+          "explanation": "Hydraulic action, where water force surges into cracks, is given as the example process forming plunge pools.",
+          "d": 2
         },
         {
           "question": "What evidence suggests that attrition has taken place in a river's load?",
@@ -3174,7 +3305,8 @@
             "Load stops moving downstream"
           ],
           "answerIndex": 1,
-          "explanation": "Attrition causes rock fragments to collide and break down into smaller, smoother, rounded pieces."
+          "explanation": "Attrition causes rock fragments to collide and break down into smaller, smoother, rounded pieces.",
+          "d": 2
         },
         {
           "question": "Which process involves the chemical dissolving of soluble minerals such as calcium carbonate in limestone?",
@@ -3185,7 +3317,8 @@
             "Abrasion"
           ],
           "answerIndex": 0,
-          "explanation": "Solution/corrosion is the dissolving of soluble minerals like calcium carbonate by the solvent action of water."
+          "explanation": "Solution/corrosion is the dissolving of soluble minerals like calcium carbonate by the solvent action of water.",
+          "d": 1
         },
         {
           "question": "During which conditions is abrasion most effective at deepening a river channel?",
@@ -3196,7 +3329,8 @@
             "During floods, when large rock fragments grind against the bed"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state abrasion is most effective during floods when huge rock fragments grind the river bed, forming potholes and deepening plunge pools."
+          "explanation": "The notes state abrasion is most effective during floods when huge rock fragments grind the river bed, forming potholes and deepening plunge pools.",
+          "d": 2
         },
         {
           "question": "What causes the widening and deepening of a river channel through abrasion?",
@@ -3207,7 +3341,8 @@
             "Collision of rock fragments with each other"
           ],
           "answerIndex": 1,
-          "explanation": "Abrasion widens the channel through lateral erosion and deepens it through vertical erosion as the load grinds against the bed and sides."
+          "explanation": "Abrasion widens the channel through lateral erosion and deepens it through vertical erosion as the load grinds against the bed and sides.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -3281,7 +3416,8 @@
             "Suspension"
           ],
           "answerIndex": 1,
-          "explanation": "Traction moves the largest, heaviest fragments like boulders by rolling and gliding along the bed."
+          "explanation": "Traction moves the largest, heaviest fragments like boulders by rolling and gliding along the bed.",
+          "d": 1
         },
         {
           "question": "Which process describes material moving in a series of hops or jumps along the river bed?",
@@ -3292,7 +3428,8 @@
             "Saltation"
           ],
           "answerIndex": 3,
-          "explanation": "Saltation involves smaller, lighter particles bouncing/hopping along the river bed."
+          "explanation": "Saltation involves smaller, lighter particles bouncing/hopping along the river bed.",
+          "d": 1
         },
         {
           "question": "What causes the muddy appearance of a river during a flood?",
@@ -3303,7 +3440,8 @@
             "Dissolved minerals in solution"
           ],
           "answerIndex": 1,
-          "explanation": "The muddy appearance is due to a large suspended load carried in the upper levels of the water."
+          "explanation": "The muddy appearance is due to a large suspended load carried in the upper levels of the water.",
+          "d": 2
         },
         {
           "question": "Why might very clear river water still be transporting a significant load of material?",
@@ -3314,7 +3452,8 @@
             "Because it may carry a large dissolved (solution) load which is invisible until evaporation occurs"
           ],
           "answerIndex": 3,
-          "explanation": "Dissolved material carried in solution is invisible in the water and only becomes visible as crystals after evaporation."
+          "explanation": "Dissolved material carried in solution is invisible in the water and only becomes visible as crystals after evaporation.",
+          "d": 2
         },
         {
           "question": "Under what condition can solution transportation still occur?",
@@ -3325,7 +3464,8 @@
             "Even when the speed and volume of the river are low"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state solution occurs even when the speed and volume of the river are low."
+          "explanation": "The notes state solution occurs even when the speed and volume of the river are low.",
+          "d": 2
         },
         {
           "question": "Which two processes typically transport the finest particles like silt, clay, and dissolved minerals?",
@@ -3336,7 +3476,8 @@
             "Traction and solution"
           ],
           "answerIndex": 0,
-          "explanation": "Suspension carries fine silt/clay held in the water, while solution carries dissolved minerals like calcium and sodium."
+          "explanation": "Suspension carries fine silt/clay held in the water, while solution carries dissolved minerals like calcium and sodium.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -3414,7 +3555,8 @@
             "When velocity is at its highest"
           ],
           "answerIndex": 2,
-          "explanation": "Deposition occurs when the river's energy decreases (often due to lower volume/velocity), so it can no longer carry its load."
+          "explanation": "Deposition occurs when the river's energy decreases (often due to lower volume/velocity), so it can no longer carry its load.",
+          "d": 1
         },
         {
           "question": "How is river load generally sorted during transport and deposition downstream?",
@@ -3425,7 +3567,8 @@
             "All materials are deposited at the same time regardless of size"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state the river drops heavier/coarser material first and finer material last as it moves downstream."
+          "explanation": "The notes state the river drops heavier/coarser material first and finer material last as it moves downstream.",
+          "d": 2
         },
         {
           "question": "Which course of a river typically has the greatest volume of flow?",
@@ -3436,7 +3579,8 @@
             "Lower course"
           ],
           "answerIndex": 3,
-          "explanation": "The lower course has the greatest volume as it receives water from all upper and middle course tributaries."
+          "explanation": "The lower course has the greatest volume as it receives water from all upper and middle course tributaries.",
+          "d": 1
         },
         {
           "question": "Which processes dominate in the upper course of a river?",
@@ -3447,7 +3591,8 @@
             "No significant processes occur"
           ],
           "answerIndex": 2,
-          "explanation": "The upper course is dominated mainly by erosional processes according to the course characteristics table."
+          "explanation": "The upper course is dominated mainly by erosional processes according to the course characteristics table.",
+          "d": 1
         },
         {
           "question": "Which transportation processes are most associated with the lower course?",
@@ -3458,7 +3603,8 @@
             "Suspension and solution"
           ],
           "answerIndex": 3,
-          "explanation": "The lower course is mainly associated with suspension and solution transportation of fine/dissolved material."
+          "explanation": "The lower course is mainly associated with suspension and solution transportation of fine/dissolved material.",
+          "d": 2
         },
         {
           "question": "Why is velocity described as high in the lower course despite the gentle gradient?",
@@ -3469,7 +3615,8 @@
             "Because of vertical erosion consuming energy"
           ],
           "answerIndex": 2,
-          "explanation": "According to the table, high velocity in the lower course results from large volume and reduced friction from a smoother bed."
+          "explanation": "According to the table, high velocity in the lower course results from large volume and reduced friction from a smoother bed.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -3559,7 +3706,8 @@
             "Only large boulders"
           ],
           "answerIndex": 1,
-          "explanation": "A floodplain is a plain of alluvium (clay, silt, sand) deposited by flowing flood water, producing fertile soil."
+          "explanation": "A floodplain is a plain of alluvium (clay, silt, sand) deposited by flowing flood water, producing fertile soil.",
+          "d": 1
         },
         {
           "question": "How do levees form?",
@@ -3570,7 +3718,8 @@
             "By heavier, coarser sediments being deposited close to the river banks during floods, forming ridges"
           ],
           "answerIndex": 3,
-          "explanation": "During flooding, coarser sediments settle close to the banks forming raised ridges (levees), while finer material spreads further to form the floodplain."
+          "explanation": "During flooding, coarser sediments settle close to the banks forming raised ridges (levees), while finer material spreads further to form the floodplain.",
+          "d": 2
         },
         {
           "question": "Why does a river deposit its load when approaching its mouth?",
@@ -3581,7 +3730,8 @@
             "Because the river enters a steep gradient"
           ],
           "answerIndex": 0,
-          "explanation": "Near the mouth, the flat gradient and distributaries reduce volume and speed, decreasing energy and causing deposition."
+          "explanation": "Near the mouth, the flat gradient and distributaries reduce volume and speed, decreasing energy and causing deposition.",
+          "d": 2
         },
         {
           "question": "What is flocculation?",
@@ -3592,7 +3742,8 @@
             "The process by which salty seawater causes silt particles to clump and accumulate into larger particles"
           ],
           "answerIndex": 3,
-          "explanation": "Flocculation is the clumping of silty particles caused by salty seawater, aiding delta sediment accumulation."
+          "explanation": "Flocculation is the clumping of silty particles caused by salty seawater, aiding delta sediment accumulation.",
+          "d": 1
         },
         {
           "question": "Which type of delta is described as triangular or fan-shaped, composed of coarse sediments with a great number of distributaries?",
@@ -3603,7 +3754,8 @@
             "Arcuate Delta"
           ],
           "answerIndex": 3,
-          "explanation": "The Arcuate delta is triangular/fan-shaped, composed of coarser sediment, with many distributaries (e.g. Nile, Ganges)."
+          "explanation": "The Arcuate delta is triangular/fan-shaped, composed of coarser sediment, with many distributaries (e.g. Nile, Ganges).",
+          "d": 1
         },
         {
           "question": "Which coastal condition favours delta formation and expansion?",
@@ -3614,7 +3766,8 @@
             "Strong wave action removing sediments"
           ],
           "answerIndex": 1,
-          "explanation": "The delta expands only when sediment supply exceeds the amount removed by coastal erosion."
+          "explanation": "The delta expands only when sediment supply exceeds the amount removed by coastal erosion.",
+          "d": 2
         },
         {
           "question": "Why does the Mississippi Delta take the shape of a 'bird's foot'?",
@@ -3625,7 +3778,8 @@
             "Because waves constantly reshape it into a fan shape"
           ],
           "answerIndex": 1,
-          "explanation": "The Bird's Foot delta type, exemplified by the Mississippi, is composed of fine silt with a few separate distributaries extending far out to sea."
+          "explanation": "The Bird's Foot delta type, exemplified by the Mississippi, is composed of fine silt with a few separate distributaries extending far out to sea.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -3723,7 +3877,8 @@
             "The total duration of the storm"
           ],
           "answerIndex": 0,
-          "explanation": "Lag time is defined as the time difference between the heaviest rainfall in the storm and the peak discharge."
+          "explanation": "Lag time is defined as the time difference between the heaviest rainfall in the storm and the peak discharge.",
+          "d": 1
         },
         {
           "question": "Why is the rising limb of a hydrograph typically steeper than the falling limb?",
@@ -3734,7 +3889,8 @@
             "Because baseflow rises faster than throughflow"
           ],
           "answerIndex": 0,
-          "explanation": "The rising limb reflects rapid surface runoff/throughflow reaching the river; the falling limb declines more gradually as throughflow continues to drain relatively slowly."
+          "explanation": "The rising limb reflects rapid surface runoff/throughflow reaching the river; the falling limb declines more gradually as throughflow continues to drain relatively slowly.",
+          "d": 2
         },
         {
           "question": "How does a circular drainage basin shape typically affect the hydrograph compared to an elongated basin?",
@@ -3745,7 +3901,8 @@
             "Elongated basins always flood faster than circular basins"
           ],
           "answerIndex": 1,
-          "explanation": "In a circular basin, points on the watershed are more equidistant from the gauging station, giving a shorter lag time and higher peak flow."
+          "explanation": "In a circular basin, points on the watershed are more equidistant from the gauging station, giving a shorter lag time and higher peak flow.",
+          "d": 2
         },
         {
           "question": "How does urbanisation typically affect a storm hydrograph?",
@@ -3756,7 +3913,8 @@
             "It only affects baseflow, not stormflow"
           ],
           "answerIndex": 0,
-          "explanation": "Impermeable surfaces and efficient drainage in urban areas increase surface runoff and speed water to the river, shortening lag time and raising peak discharge."
+          "explanation": "Impermeable surfaces and efficient drainage in urban areas increase surface runoff and speed water to the river, shortening lag time and raising peak discharge.",
+          "d": 2
         },
         {
           "question": "What is bankfull discharge?",
@@ -3767,7 +3925,8 @@
             "The minimum discharge sustained by baseflow"
           ],
           "answerIndex": 2,
-          "explanation": "Bankfull discharge is the maximum a channel can carry without overflowing; exceeding it causes flooding."
+          "explanation": "Bankfull discharge is the maximum a channel can carry without overflowing; exceeding it causes flooding.",
+          "d": 1
         },
         {
           "question": "How does intense convectional rainfall in tropical regions typically affect the hydrograph compared to light drizzle in temperate regions?",
@@ -3778,7 +3937,8 @@
             "Both produce identical hydrographs"
           ],
           "answerIndex": 0,
-          "explanation": "Intense rainfall saturates soil quickly, reducing infiltration capacity and increasing surface runoff, producing a shorter lag time and higher peak discharge."
+          "explanation": "Intense rainfall saturates soil quickly, reducing infiltration capacity and increasing surface runoff, producing a shorter lag time and higher peak discharge.",
+          "d": 2
         },
         {
           "question": "Which soil type is most likely to reduce flood risk by allowing rapid infiltration?",
@@ -3789,7 +3949,8 @@
             "Clay soils with small pore spaces"
           ],
           "answerIndex": 1,
-          "explanation": "Sandy soils have large pore spaces allowing rapid infiltration, reducing surface runoff and flood risk, unlike clay soils."
+          "explanation": "Sandy soils have large pore spaces allowing rapid infiltration, reducing surface runoff and flood risk, unlike clay soils.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -3871,7 +4032,8 @@
             "Nearshore"
           ],
           "answerIndex": 0,
-          "explanation": "The foreshore, also called the inter-tidal or surf zone, lies between the high and low tide marks."
+          "explanation": "The foreshore, also called the inter-tidal or surf zone, lies between the high and low tide marks.",
+          "d": 1
         },
         {
           "question": "Which zone is only affected by wave action during major storm events like tsunamis or hurricanes?",
@@ -3882,7 +4044,8 @@
             "Offshore"
           ],
           "answerIndex": 1,
-          "explanation": "The backshore lies above the high tide mark and is normally dry, affected by waves only during major storms."
+          "explanation": "The backshore lies above the high tide mark and is normally dry, affected by waves only during major storms.",
+          "d": 1
         },
         {
           "question": "Which zone is described as the area of deeper water beyond where waves begin to break?",
@@ -3893,7 +4056,8 @@
             "Foreshore"
           ],
           "answerIndex": 0,
-          "explanation": "The offshore zone is the deeper water area beyond the point where waves first break."
+          "explanation": "The offshore zone is the deeper water area beyond the point where waves first break.",
+          "d": 1
         },
         {
           "question": "Which factor affecting coastal environments involves large-scale continuous movements of water that distribute sediment and regulate temperature?",
@@ -3904,7 +4068,8 @@
             "Geology"
           ],
           "answerIndex": 2,
-          "explanation": "Currents are described as large-scale continuous water movements that distribute sediment, regulate temperature, and carry energy."
+          "explanation": "Currents are described as large-scale continuous water movements that distribute sediment, regulate temperature, and carry energy.",
+          "d": 1
         },
         {
           "question": "Which ecosystem is given as an example of how vegetation affects coastal stability?",
@@ -3915,7 +4080,8 @@
             "Kelp forests"
           ],
           "answerIndex": 1,
-          "explanation": "Mangroves are the given example — their deep roots hold the soil and prevent erosion."
+          "explanation": "Mangroves are the given example — their deep roots hold the soil and prevent erosion.",
+          "d": 1
         },
         {
           "question": "When describing a coastal feature, which four aspects should always be considered according to the notes?",
@@ -3926,7 +4092,8 @@
             "Slope/gradient, profile, types of material, types of beach"
           ],
           "answerIndex": 3,
-          "explanation": "The notes specify these four aspects (slope/gradient, profile, material type, beach type) as key when describing coasts."
+          "explanation": "The notes specify these four aspects (slope/gradient, profile, material type, beach type) as key when describing coasts.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -4017,7 +4184,8 @@
             "Ocean currents alone"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state waves form when wind blows across the sea surface, causing friction that makes the water rise and fall."
+          "explanation": "The notes state waves form when wind blows across the sea surface, causing friction that makes the water rise and fall.",
+          "d": 1
         },
         {
           "question": "Which three factors determine the size and energy of waves?",
@@ -4028,7 +4196,8 @@
             "Beach slope, sediment type, and vegetation"
           ],
           "answerIndex": 1,
-          "explanation": "Wave energy depends on fetch, wind speed, and duration of the wind."
+          "explanation": "Wave energy depends on fetch, wind speed, and duration of the wind.",
+          "d": 1
         },
         {
           "question": "Which type of wave is associated with a strong swash and weak backwash, building up the beach?",
@@ -4039,7 +4208,8 @@
             "Surging waves only"
           ],
           "answerIndex": 0,
-          "explanation": "Constructive waves have strong swash and weak backwash, depositing more material than they remove, building the beach."
+          "explanation": "Constructive waves have strong swash and weak backwash, depositing more material than they remove, building the beach.",
+          "d": 1
         },
         {
           "question": "Which breaker type occurs on gently sloping beaches, breaking gradually with energy dissipated slowly?",
@@ -4050,7 +4220,8 @@
             "Plunging breaker"
           ],
           "answerIndex": 2,
-          "explanation": "Spilling breakers occur on gently sloping beaches, with the crest spilling forward slowly into whitewater."
+          "explanation": "Spilling breakers occur on gently sloping beaches, with the crest spilling forward slowly into whitewater.",
+          "d": 1
         },
         {
           "question": "Which breaker type is associated with the steepest beaches and can be deadly due to strong backwash despite looking gentle?",
@@ -4061,7 +4232,8 @@
             "Surging breaker"
           ],
           "answerIndex": 3,
-          "explanation": "Surging breakers occur on the steepest beaches and, despite looking friendly, can be deadly due to associated strong backwash."
+          "explanation": "Surging breakers occur on the steepest beaches and, despite looking friendly, can be deadly due to associated strong backwash.",
+          "d": 2
         },
         {
           "question": "What distinguishes destructive waves from constructive waves in terms of wavelength and height?",
@@ -4072,7 +4244,8 @@
             "Destructive waves have short wavelength and high height; constructive have long wavelength and low height"
           ],
           "answerIndex": 3,
-          "explanation": "Destructive waves have short wavelength with high, steep waves; constructive waves have long wavelength with low, gentle waves."
+          "explanation": "Destructive waves have short wavelength with high, steep waves; constructive waves have long wavelength with low, gentle waves.",
+          "d": 2
         },
         {
           "question": "Why do waves begin to break as they approach the shore?",
@@ -4083,7 +4256,8 @@
             "Because currents reverse direction near shore"
           ],
           "answerIndex": 1,
-          "explanation": "Friction with the shallow seabed slows the wave, squashing it (shorter wavelength, greater height) until the top overtakes and the wave breaks."
+          "explanation": "Friction with the shallow seabed slows the wave, squashing it (shorter wavelength, greater height) until the top overtakes and the wave breaks.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -4165,7 +4339,8 @@
             "Abrasion"
           ],
           "answerIndex": 0,
-          "explanation": "Hydraulic action involves water surging into cracks, compressing air, and repeated pressure release widening the lines of weakness."
+          "explanation": "Hydraulic action involves water surging into cracks, compressing air, and repeated pressure release widening the lines of weakness.",
+          "d": 1
         },
         {
           "question": "Which process involves rock fragments carried by waves acting like chiselling tools against cliffs?",
@@ -4176,7 +4351,8 @@
             "Solution/corrosion"
           ],
           "answerIndex": 2,
-          "explanation": "Abrasion/corrasion involves rock fragments hurled against the coast, scraping and cutting cliffs like chiselling tools."
+          "explanation": "Abrasion/corrasion involves rock fragments hurled against the coast, scraping and cutting cliffs like chiselling tools.",
+          "d": 1
         },
         {
           "question": "What is longshore drift primarily the combined result of?",
@@ -4187,7 +4363,8 @@
             "Only wave refraction"
           ],
           "answerIndex": 0,
-          "explanation": "Longshore drift results from the zig-zag swash/backwash movement plus longshore currents moving sediment parallel to the coast."
+          "explanation": "Longshore drift results from the zig-zag swash/backwash movement plus longshore currents moving sediment parallel to the coast.",
+          "d": 2
         },
         {
           "question": "Which factor increases the rate of marine erosion due to wave power alone?",
@@ -4198,7 +4375,8 @@
             "Sheltered coastal position"
           ],
           "answerIndex": 2,
-          "explanation": "Bigger waves from a longer fetch carry more energy and have more powerful backwash, increasing erosion rate."
+          "explanation": "Bigger waves from a longer fetch carry more energy and have more powerful backwash, increasing erosion rate.",
+          "d": 2
         },
         {
           "question": "Under which condition is wave deposition most likely to occur?",
@@ -4209,7 +4387,8 @@
             "Coast made of highly resistant rock only"
           ],
           "answerIndex": 2,
-          "explanation": "Deposition is favoured by sheltered coasts, shallow water causing waves to spill, and gentle wave conditions with short fetch."
+          "explanation": "Deposition is favoured by sheltered coasts, shallow water causing waves to spill, and gentle wave conditions with short fetch.",
+          "d": 2
         },
         {
           "question": "How does rock structure (e.g. presence of joints and bedding planes) affect erosion?",
@@ -4220,7 +4399,8 @@
             "It only affects attrition, not other processes"
           ],
           "answerIndex": 0,
-          "explanation": "Lines of weakness such as joints and bedding planes make rocks more vulnerable to being attacked by wave action."
+          "explanation": "Lines of weakness such as joints and bedding planes make rocks more vulnerable to being attacked by wave action.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -4302,7 +4482,8 @@
             "Only soft rock along the entire coastline"
           ],
           "answerIndex": 1,
-          "explanation": "Headlands and bays develop where there are alternating bands of resistant and less resistant rock."
+          "explanation": "Headlands and bays develop where there are alternating bands of resistant and less resistant rock.",
+          "d": 1
         },
         {
           "question": "What is differential erosion mainly caused by?",
@@ -4313,7 +4494,8 @@
             "Hydraulic action and abrasion, more effective on less resistant rocks"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state differential erosion is caused by hydraulic action and abrasion, which act more effectively on less resistant rock."
+          "explanation": "The notes state differential erosion is caused by hydraulic action and abrasion, which act more effectively on less resistant rock.",
+          "d": 2
         },
         {
           "question": "Why do headlands protrude out into the sea while bays form indented curves?",
@@ -4324,7 +4506,8 @@
             "Headlands are formed only by deposition"
           ],
           "answerIndex": 2,
-          "explanation": "More resistant rock erodes slower and protrudes as headlands, while less resistant rock erodes faster, forming indented bays."
+          "explanation": "More resistant rock erodes slower and protrudes as headlands, while less resistant rock erodes faster, forming indented bays.",
+          "d": 2
         },
         {
           "question": "Which coastline is given as an example of headlands and bays formed by differential erosion?",
@@ -4335,7 +4518,8 @@
             "Seine Estuary"
           ],
           "answerIndex": 1,
-          "explanation": "The Dorset Coast, England is the example given for headlands and bays from differential erosion."
+          "explanation": "The Dorset Coast, England is the example given for headlands and bays from differential erosion.",
+          "d": 1
         },
         {
           "question": "What is wave refraction?",
@@ -4346,7 +4530,8 @@
             "The dissolving of rock minerals by wave action"
           ],
           "answerIndex": 1,
-          "explanation": "Wave refraction is defined as waves changing direction as they approach the coast."
+          "explanation": "Wave refraction is defined as waves changing direction as they approach the coast.",
+          "d": 1
         },
         {
           "question": "Over time, what effect does wave refraction have on a coastline of headlands and bays?",
@@ -4357,7 +4542,8 @@
             "It has no long-term effect on coastline shape"
           ],
           "answerIndex": 0,
-          "explanation": "Wave refraction eventually works to straighten the coast over time since the coast is a dynamic system."
+          "explanation": "Wave refraction eventually works to straighten the coast over time since the coast is a dynamic system.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -4439,7 +4625,8 @@
             "Wind changes direction near headlands"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state shallow water at headlands slows one part of the wave before the other, causing the wave front to curve."
+          "explanation": "The notes state shallow water at headlands slows one part of the wave before the other, causing the wave front to curve.",
+          "d": 2
         },
         {
           "question": "What is the effect of wave convergence at headlands?",
@@ -4450,7 +4637,8 @@
             "Increased wave height and greater erosive energy"
           ],
           "answerIndex": 3,
-          "explanation": "Converging waves concentrate energy, increasing wave height and erosive power at headlands."
+          "explanation": "Converging waves concentrate energy, increasing wave height and erosive power at headlands.",
+          "d": 2
         },
         {
           "question": "What typically forms at bays due to wave divergence?",
@@ -4461,7 +4649,8 @@
             "Cliffs"
           ],
           "answerIndex": 2,
-          "explanation": "Diverging waves lose energy, leading to deposition and beach formation at bays."
+          "explanation": "Diverging waves lose energy, leading to deposition and beach formation at bays.",
+          "d": 1
         },
         {
           "question": "What is the long-term outcome of repeated erosion at headlands and deposition at bays?",
@@ -4472,7 +4661,8 @@
             "The coastline straightens over time"
           ],
           "answerIndex": 3,
-          "explanation": "Continued erosion shortens headlands while deposition enlarges bays, eventually straightening the coastline."
+          "explanation": "Continued erosion shortens headlands while deposition enlarges bays, eventually straightening the coastline.",
+          "d": 2
         },
         {
           "question": "Which coast type experiences a long fetch and stronger erosion according to the notes?",
@@ -4483,7 +4673,8 @@
             "Estuarine coast"
           ],
           "answerIndex": 1,
-          "explanation": "The notes contrast sheltered coasts (protected by peninsulas) with straight coasts, which have long fetch and stronger erosion."
+          "explanation": "The notes contrast sheltered coasts (protected by peninsulas) with straight coasts, which have long fetch and stronger erosion.",
+          "d": 1
         },
         {
           "question": "What landforms are associated with erosion at headlands?",
@@ -4494,7 +4685,8 @@
             "Notches, caves, wave-cut platforms"
           ],
           "answerIndex": 3,
-          "explanation": "The notes list notches, caves, wave-cut platforms as products of concentrated erosive energy at headlands."
+          "explanation": "The notes list notches, caves, wave-cut platforms as products of concentrated erosive energy at headlands.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -4577,7 +4769,8 @@
             "Hydraulic action, abrasion, attrition and solution"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state these four processes, concentrated at cracks and weaknesses, erode the cliff base to form a notch."
+          "explanation": "The notes state these four processes, concentrated at cracks and weaknesses, erode the cliff base to form a notch.",
+          "d": 1
         },
         {
           "question": "What causes a cliff to eventually collapse and retreat?",
@@ -4588,7 +4781,8 @@
             "Rising sea levels flood the cliff"
           ],
           "answerIndex": 2,
-          "explanation": "As the notch/cave deepens and enlarges, the overhang loses support and collapses due to gravity."
+          "explanation": "As the notch/cave deepens and enlarges, the overhang loses support and collapses due to gravity.",
+          "d": 2
         },
         {
           "question": "What is a wave-cut platform?",
@@ -4600,7 +4794,8 @@
             "An underwater trench formed by erosion"
           ],
           "answerIndex": 2,
-          "explanation": "The notes define the wave-cut platform as the gently sloping rocky platform left as the cliff retreats."
+          "explanation": "The notes define the wave-cut platform as the gently sloping rocky platform left as the cliff retreats.",
+          "d": 1
         },
         {
           "question": "Which location is given as an example of a wave-cut platform?",
@@ -4611,7 +4806,8 @@
             "Vale do Lobo Beach, Portugal"
           ],
           "answerIndex": 2,
-          "explanation": "Flamborough Head in Yorkshire is explicitly named as an example location."
+          "explanation": "Flamborough Head in Yorkshire is explicitly named as an example location.",
+          "d": 1
         },
         {
           "question": "What smoothens the wave-cut platform over time?",
@@ -4622,7 +4818,8 @@
             "Rock fragments carried by breakers causing abrasion"
           ],
           "answerIndex": 3,
-          "explanation": "Rock fragments from the receding cliff are moved by breakers, smoothing the platform via abrasion."
+          "explanation": "Rock fragments from the receding cliff are moved by breakers, smoothing the platform via abrasion.",
+          "d": 2
         },
         {
           "question": "What three factors cause cliff profiles to vary greatly?",
@@ -4633,7 +4830,8 @@
             "Wave height, ocean depth, salinity"
           ],
           "answerIndex": 1,
-          "explanation": "The notes list these three factors as reasons for variation in cliff profiles."
+          "explanation": "The notes list these three factors as reasons for variation in cliff profiles.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -4712,7 +4910,8 @@
             "Only used for river management, never coasts"
           ],
           "answerIndex": 1,
-          "explanation": "The notes define hard engineering measures as short term, more expensive, less sustainable with greater landscape impact."
+          "explanation": "The notes define hard engineering measures as short term, more expensive, less sustainable with greater landscape impact.",
+          "d": 1
         },
         {
           "question": "What is the main aim of soft engineering measures regarding flooding?",
@@ -4723,7 +4922,8 @@
             "To completely prevent flooding"
           ],
           "answerIndex": 2,
-          "explanation": "Soft measures attempt to manage rather than prevent flooding, per the notes."
+          "explanation": "Soft measures attempt to manage rather than prevent flooding, per the notes.",
+          "d": 2
         },
         {
           "question": "Which characteristic applies to soft engineering measures?",
@@ -4734,7 +4934,8 @@
             "Short term and expensive"
           ],
           "answerIndex": 0,
-          "explanation": "Soft measures are defined as long term, less expensive, sustainable and ecologically sensitive."
+          "explanation": "Soft measures are defined as long term, less expensive, sustainable and ecologically sensitive.",
+          "d": 1
         },
         {
           "question": "Why are protection measures needed along rivers and coasts?",
@@ -4745,7 +4946,8 @@
             "To increase tourism only"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state measures are needed as a result of erosion and effects of processes along rivers/coasts."
+          "explanation": "The notes state measures are needed as a result of erosion and effects of processes along rivers/coasts.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -4826,7 +5028,8 @@
             "Managed retreat"
           ],
           "answerIndex": 1,
-          "explanation": "Beach nourishment replenishes beach material to build up the beach and absorb wave energy."
+          "explanation": "Beach nourishment replenishes beach material to build up the beach and absorb wave energy.",
+          "d": 1
         },
         {
           "question": "What is a key disadvantage of managed retreat/realignment?",
@@ -4837,7 +5040,8 @@
             "It is the most expensive measure"
           ],
           "answerIndex": 1,
-          "explanation": "Managed retreat causes loss of land (homes/farmland), requiring compensation and facing resident unwillingness."
+          "explanation": "Managed retreat causes loss of land (homes/farmland), requiring compensation and facing resident unwillingness.",
+          "d": 2
         },
         {
           "question": "How does sand dune stabilisation prevent coastal erosion?",
@@ -4848,7 +5052,8 @@
             "By building concrete walls"
           ],
           "answerIndex": 2,
-          "explanation": "Vegetation like marram grass or sand fencing traps sand, stabilising dunes against shifting and erosion."
+          "explanation": "Vegetation like marram grass or sand fencing traps sand, stabilising dunes against shifting and erosion.",
+          "d": 1
         },
         {
           "question": "Which measure was used by the Malaysian government in 2005 to protect 4800 km of coastline?",
@@ -4859,7 +5064,8 @@
             "Building seawalls"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state the Malaysian government launched a mangrove-planting project in 2005."
+          "explanation": "The notes state the Malaysian government launched a mangrove-planting project in 2005.",
+          "d": 1
         },
         {
           "question": "Why do coral reefs help protect coastlines from erosion?",
@@ -4870,7 +5076,8 @@
             "They increase wave height"
           ],
           "answerIndex": 2,
-          "explanation": "Coral reefs shallow the sea near the coast, slowing waves so they have less erosive energy."
+          "explanation": "Coral reefs shallow the sea near the coast, slowing waves so they have less erosive energy.",
+          "d": 2
         },
         {
           "question": "What is a disadvantage common to beach nourishment regarding cost?",
@@ -4881,7 +5088,8 @@
             "It only works in freshwater rivers"
           ],
           "answerIndex": 2,
-          "explanation": "Sediment moved by longshore drift means beach nourishment needs frequent, costly replenishment."
+          "explanation": "Sediment moved by longshore drift means beach nourishment needs frequent, costly replenishment.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -4972,7 +5180,8 @@
             "By trapping sand through longshore drift interception"
           ],
           "answerIndex": 0,
-          "explanation": "Seawalls are curved on the seaward side to deflect wave power and reflect energy back to sea."
+          "explanation": "Seawalls are curved on the seaward side to deflect wave power and reflect energy back to sea.",
+          "d": 1
         },
         {
           "question": "What is the main disadvantage of groynes?",
@@ -4983,7 +5192,8 @@
             "They are too cheap to be effective"
           ],
           "answerIndex": 1,
-          "explanation": "Groynes trap sand on the updrift side, starving the downdrift side of sediment and causing erosion there."
+          "explanation": "Groynes trap sand on the updrift side, starving the downdrift side of sediment and causing erosion there.",
+          "d": 2
         },
         {
           "question": "Where were tetrapods successful in reducing coastal erosion from tsunamis?",
@@ -4994,7 +5204,8 @@
             "San Francisco Bay"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state tetrapods at Crescent City, California were successful against many tsunamis."
+          "explanation": "The notes state tetrapods at Crescent City, California were successful against many tsunamis.",
+          "d": 1
         },
         {
           "question": "What do breakwaters create between themselves and the coast?",
@@ -5005,7 +5216,8 @@
             "A zone of shallow calm water that encourages deposition"
           ],
           "answerIndex": 3,
-          "explanation": "Breakwaters create calm shallow water behind them, encouraging sediment deposition and beach formation."
+          "explanation": "Breakwaters create calm shallow water behind them, encouraging sediment deposition and beach formation.",
+          "d": 2
         },
         {
           "question": "What is a disadvantage shared by riprap and gabions?",
@@ -5016,7 +5228,8 @@
             "They are illegal in most countries"
           ],
           "answerIndex": 0,
-          "explanation": "Both riprap and gabions are noted as environmentally ugly or unattractive in the notes."
+          "explanation": "Both riprap and gabions are noted as environmentally ugly or unattractive in the notes.",
+          "d": 1
         },
         {
           "question": "Approximately how much does it cost to build and maintain 1 km of seawall according to the notes?",
@@ -5027,7 +5240,8 @@
             "350 pounds"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state seawalls cost up to 2.5 billion pounds per km to build and maintain."
+          "explanation": "The notes state seawalls cost up to 2.5 billion pounds per km to build and maintain.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -5110,7 +5324,8 @@
             "By dredging the riverbed"
           ],
           "answerIndex": 2,
-          "explanation": "Vegetation increases infiltration/interception, which reduces surface runoff into the river."
+          "explanation": "Vegetation increases infiltration/interception, which reduces surface runoff into the river.",
+          "d": 2
         },
         {
           "question": "What is the purpose of washlands?",
@@ -5121,7 +5336,8 @@
             "To straighten the river channel"
           ],
           "answerIndex": 0,
-          "explanation": "Washlands divert floodwater to lower-importance land, protecting more important areas."
+          "explanation": "Washlands divert floodwater to lower-importance land, protecting more important areas.",
+          "d": 1
         },
         {
           "question": "In floodplain zoning, what does a 'red' zone represent?",
@@ -5132,7 +5348,8 @@
             "Very unlikely to flood"
           ],
           "answerIndex": 2,
-          "explanation": "Red zones represent areas likely to experience a high degree of flooding."
+          "explanation": "Red zones represent areas likely to experience a high degree of flooding.",
+          "d": 1
         },
         {
           "question": "What is a key disadvantage of flood warning systems?",
@@ -5143,7 +5360,8 @@
             "They are always 100% accurate"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state warning systems may be ineffective during flash floods, as there isn't enough time to react."
+          "explanation": "The notes state warning systems may be ineffective during flash floods, as there isn't enough time to react.",
+          "d": 2
         },
         {
           "question": "What does sustainable drainage rely on to reduce runoff?",
@@ -5154,7 +5372,8 @@
             "Filter strips and permeable paving"
           ],
           "answerIndex": 3,
-          "explanation": "Sustainable drainage uses filter strips and permeable paving to increase infiltration."
+          "explanation": "Sustainable drainage uses filter strips and permeable paving to increase infiltration.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -5244,7 +5463,8 @@
             "To build a dam"
           ],
           "answerIndex": 1,
-          "explanation": "Dredging removes silt to increase capacity and allow faster downstream flow, reducing flood risk."
+          "explanation": "Dredging removes silt to increase capacity and allow faster downstream flow, reducing flood risk.",
+          "d": 1
         },
         {
           "question": "What is a major social cost of building large dams?",
@@ -5255,7 +5475,8 @@
             "Displacement of people and destruction of settlements/farmland"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state dam building displaces many people and destroys settlements and farmland, especially in developing countries."
+          "explanation": "The notes state dam building displaces many people and destroys settlements and farmland, especially in developing countries.",
+          "d": 1
         },
         {
           "question": "How do levees/embankments reduce flood risk?",
@@ -5266,7 +5487,8 @@
             "By slowing river velocity through meanders"
           ],
           "answerIndex": 1,
-          "explanation": "Levees raise the banks so more water can be contained in the channel without spilling over."
+          "explanation": "Levees raise the banks so more water can be contained in the channel without spilling over.",
+          "d": 1
         },
         {
           "question": "What is a disadvantage of straightening and deepening a river channel?",
@@ -5277,7 +5499,8 @@
             "It may increase flooding and erosion further downstream"
           ],
           "answerIndex": 3,
-          "explanation": "Straightening increases velocity, which can worsen flooding and erosion downstream."
+          "explanation": "Straightening increases velocity, which can worsen flooding and erosion downstream.",
+          "d": 2
         },
         {
           "question": "What does channelisation involve?",
@@ -5288,7 +5511,8 @@
             "Planting trees along the riverbank"
           ],
           "answerIndex": 2,
-          "explanation": "Channelisation straightens/reinforces the channel to reduce friction and speed water flow, as seen at the Los Angeles River."
+          "explanation": "Channelisation straightens/reinforces the channel to reduce friction and speed water flow, as seen at the Los Angeles River.",
+          "d": 1
         },
         {
           "question": "What example is given of a flood barrier?",
@@ -5299,7 +5523,8 @@
             "The Ouse Washes"
           ],
           "answerIndex": 2,
-          "explanation": "The Maeslant Barrier in the Netherlands is listed as an example of a flood barrier."
+          "explanation": "The Maeslant Barrier in the Netherlands is listed as an example of a flood barrier.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -5373,7 +5598,8 @@
             "Place"
           ],
           "answerIndex": 3,
-          "explanation": "The notes attribute this difference to the concept of Place — different coastlines suit different measures."
+          "explanation": "The notes attribute this difference to the concept of Place — different coastlines suit different measures.",
+          "d": 2
         },
         {
           "question": "Which climate-related concept is hard engineering compared to?",
@@ -5384,7 +5610,8 @@
             "Vulnerability"
           ],
           "answerIndex": 0,
-          "explanation": "The notes compare hard engineering measures to mitigation, and soft engineering to adaptation."
+          "explanation": "The notes compare hard engineering measures to mitigation, and soft engineering to adaptation.",
+          "d": 3
         },
         {
           "question": "Why do less economically developed countries often rely on soft engineering measures?",
@@ -5395,7 +5622,8 @@
             "They prefer natural landscapes only"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state LEDCs lack resources to implement hard measures, paralleling their inability to mitigate versus adapt."
+          "explanation": "The notes state LEDCs lack resources to implement hard measures, paralleling their inability to mitigate versus adapt.",
+          "d": 2
         },
         {
           "question": "What is the ideal sequence of measures suggested by the notes?",
@@ -5406,7 +5634,8 @@
             "Soft measures first, then abandon all measures"
           ],
           "answerIndex": 1,
-          "explanation": "The notes suggest hard measures first, followed by soft measures for long-term sustainability."
+          "explanation": "The notes suggest hard measures first, followed by soft measures for long-term sustainability.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -5469,7 +5698,8 @@
             "Discharge"
           ],
           "answerIndex": 3,
-          "explanation": "The summary table identifies discharge as the agent for rivers."
+          "explanation": "The summary table identifies discharge as the agent for rivers.",
+          "d": 1
         },
         {
           "question": "What is the primary agent driving change along coasts?",
@@ -5480,7 +5710,8 @@
             "Rainfall"
           ],
           "answerIndex": 1,
-          "explanation": "The summary table identifies waves as the agent for coasts."
+          "explanation": "The summary table identifies waves as the agent for coasts.",
+          "d": 1
         },
         {
           "question": "Which processes are shared by both river and coastal systems?",
@@ -5491,7 +5722,8 @@
             "Weathering and mass wasting only"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state erosion, transportation and deposition apply to both rivers and coasts."
+          "explanation": "The notes state erosion, transportation and deposition apply to both rivers and coasts.",
+          "d": 1
         },
         {
           "question": "Which of the following is a river landform, not a coastal one, per the summary?",
@@ -5502,7 +5734,8 @@
             "Caves"
           ],
           "answerIndex": 2,
-          "explanation": "Deltas are listed under river landforms, alongside floodplains and levees."
+          "explanation": "Deltas are listed under river landforms, alongside floodplains and levees.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -5558,7 +5791,8 @@
             "Globalisation"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state globalisation requires interdependence of multiple countries, whereas development can occur within a single country."
+          "explanation": "The notes state globalisation requires interdependence of multiple countries, whereas development can occur within a single country.",
+          "d": 2
         },
         {
           "question": "What does globalisation refer to?",
@@ -5569,7 +5803,8 @@
             "The growing interaction, interconnectivity and interdependence of countries worldwide"
           ],
           "answerIndex": 3,
-          "explanation": "Globalisation is defined as growing interaction/interconnectivity/interdependence among countries."
+          "explanation": "Globalisation is defined as growing interaction/interconnectivity/interdependence among countries.",
+          "d": 1
         },
         {
           "question": "Which of these is listed as an outcome that globalisation has led to?",
@@ -5580,7 +5815,8 @@
             "Decline of multinational companies"
           ],
           "answerIndex": 1,
-          "explanation": "The notes list free movement of people as an outcome of globalisation, along with increased trade and multinational companies."
+          "explanation": "The notes list free movement of people as an outcome of globalisation, along with increased trade and multinational companies.",
+          "d": 1
         },
         {
           "question": "What is development associated with, according to the notes?",
@@ -5591,7 +5827,8 @@
             "The formation of multinational companies"
           ],
           "answerIndex": 2,
-          "explanation": "Development is defined as improved quality of life/standard of living linked with reforms within a country."
+          "explanation": "Development is defined as improved quality of life/standard of living linked with reforms within a country.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -5679,7 +5916,8 @@
             "Gini Coefficient"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state development is often measured using the HDI."
+          "explanation": "The notes state development is often measured using the HDI.",
+          "d": 1
         },
         {
           "question": "What theory is mentioned in relation to the economic driving force of development, used by MNCs/TNCs?",
@@ -5690,7 +5928,8 @@
             "Gravity Model"
           ],
           "answerIndex": 1,
-          "explanation": "The Core-Periphery Theory is named as an economic relationship used by multinational/transnational companies."
+          "explanation": "The Core-Periphery Theory is named as an economic relationship used by multinational/transnational companies.",
+          "d": 1
         },
         {
           "question": "According to the notes, what does natural endowment as a driving force of development include?",
@@ -5701,7 +5940,8 @@
             "Only financial resources"
           ],
           "answerIndex": 2,
-          "explanation": "Natural endowment includes accessible natural resources/raw materials and terrain suitability, per the notes."
+          "explanation": "Natural endowment includes accessible natural resources/raw materials and terrain suitability, per the notes.",
+          "d": 1
         },
         {
           "question": "Which of these is listed as an aspect of a globalised country (not development)?",
@@ -5712,7 +5952,8 @@
             "Secure employment"
           ],
           "answerIndex": 1,
-          "explanation": "Technological aspect is listed under Aspects of Globalisation; the others are listed under Aspects of Development."
+          "explanation": "Technological aspect is listed under Aspects of Globalisation; the others are listed under Aspects of Development.",
+          "d": 2
         },
         {
           "question": "What was Singapore's FDI inflow in 2019 according to the notes?",
@@ -5723,7 +5964,8 @@
             "USD 92 billion"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state FDI inflows rose to USD 92 billion in 2019, up from USD 79 billion in 2018."
+          "explanation": "The notes state FDI inflows rose to USD 92 billion in 2019, up from USD 79 billion in 2018.",
+          "d": 1
         },
         {
           "question": "What socio-cultural evidence is given for globalisation increasing cultural integration in Singapore?",
@@ -5734,7 +5976,8 @@
             "Ban on immigrant communities"
           ],
           "answerIndex": 2,
-          "explanation": "The notes cite Singapore's cultural integration across multiple immigrant groups as evidence of socio-cultural globalisation."
+          "explanation": "The notes cite Singapore's cultural integration across multiple immigrant groups as evidence of socio-cultural globalisation.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -5832,7 +6075,8 @@
             "16%"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state shipping distance increased by 40% in that period."
+          "explanation": "The notes state shipping distance increased by 40% in that period.",
+          "d": 1
         },
         {
           "question": "What advantage does the Maersk Triple E Shipping Tanker provide?",
@@ -5843,7 +6087,8 @@
             "Reduces travel time for passengers to hours"
           ],
           "answerIndex": 1,
-          "explanation": "The Maersk Triple E's benefits listed include increased container capacity and reduced fuel consumption."
+          "explanation": "The Maersk Triple E's benefits listed include increased container capacity and reduced fuel consumption.",
+          "d": 1
         },
         {
           "question": "How did ship loading times change from 1956 to 2015?",
@@ -5854,7 +6099,8 @@
             "From 1 month to 1 week"
           ],
           "answerIndex": 2,
-          "explanation": "Mechanised loading reduced loading time from up to 1 week in 1956 to about 5 hours by 2015."
+          "explanation": "Mechanised loading reduced loading time from up to 1 week in 1956 to about 5 hours by 2015.",
+          "d": 1
         },
         {
           "question": "What does containerisation refer to?",
@@ -5865,7 +6111,8 @@
             "A type of coastal protection measure"
           ],
           "answerIndex": 2,
-          "explanation": "Containerisation is defined as standardised steel containers transferable between ship, lorry, and train."
+          "explanation": "Containerisation is defined as standardised steel containers transferable between ship, lorry, and train.",
+          "d": 1
         },
         {
           "question": "Why is the internet banned in North Korea, according to the notes?",
@@ -5876,7 +6123,8 @@
             "Due to high subscription costs"
           ],
           "answerIndex": 0,
-          "explanation": "The notes explicitly state this reason for North Korea's internet ban."
+          "explanation": "The notes explicitly state this reason for North Korea's internet ban.",
+          "d": 1
         },
         {
           "question": "What is 'time-space convergence'?",
@@ -5887,7 +6135,8 @@
             "The rise of FDI inflows"
           ],
           "answerIndex": 0,
-          "explanation": "Time-space convergence describes the world becoming effectively smaller as average transport speed increases."
+          "explanation": "Time-space convergence describes the world becoming effectively smaller as average transport speed increases.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -5946,7 +6195,8 @@
             "A government-owned trade organisation"
           ],
           "answerIndex": 1,
-          "explanation": "The notes define a TNC as a firm controlling operations in a subsidiary in one or more other countries, typically through FDI."
+          "explanation": "The notes define a TNC as a firm controlling operations in a subsidiary in one or more other countries, typically through FDI.",
+          "d": 1
         },
         {
           "question": "Through what financial mechanism do TNCs primarily create international connections?",
@@ -5957,7 +6207,8 @@
             "National subsidies"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state TNCs create international connections through FDIs."
+          "explanation": "The notes state TNCs create international connections through FDIs.",
+          "d": 1
         },
         {
           "question": "What factors encourage the growth in size and number of TNCs, according to the notes?",
@@ -5968,7 +6219,8 @@
             "Increased trade tariffs"
           ],
           "answerIndex": 2,
-          "explanation": "The notes list trade blocs, removed barriers and changing government policy as encouraging TNC growth."
+          "explanation": "The notes list trade blocs, removed barriers and changing government policy as encouraging TNC growth.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -6062,7 +6314,8 @@
             "Nationalisation of industries"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state economic liberalisation, including creating SEZs, has enabled TNC growth."
+          "explanation": "The notes state economic liberalisation, including creating SEZs, has enabled TNC growth.",
+          "d": 1
         },
         {
           "question": "Where is Nike's global headquarters located?",
@@ -6073,7 +6326,8 @@
             "Shanghai, China"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state Nike's global headquarters is in Beaverton, Oregon, USA."
+          "explanation": "The notes state Nike's global headquarters is in Beaverton, Oregon, USA.",
+          "d": 1
         },
         {
           "question": "What best defines offshoring?",
@@ -6084,7 +6338,8 @@
             "Hiring an external company on contract to do part of your work"
           ],
           "answerIndex": 2,
-          "explanation": "Offshoring is an extension of one's own company into another country, unlike outsourcing which uses an external company."
+          "explanation": "Offshoring is an extension of one's own company into another country, unlike outsourcing which uses an external company.",
+          "d": 2
         },
         {
           "question": "Which is a stated risk of outsourcing specifically?",
@@ -6095,7 +6350,8 @@
             "Currency exchange losses"
           ],
           "answerIndex": 0,
-          "explanation": "The notes list misaligned interests of clients/vendors and increased reliance on third parties as outsourcing risks."
+          "explanation": "The notes list misaligned interests of clients/vendors and increased reliance on third parties as outsourcing risks.",
+          "d": 2
         },
         {
           "question": "What proportion of Nike's workforce is based in Asia?",
@@ -6106,7 +6362,8 @@
             "More than 75%"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state more than 75% of Nike's workforce is based in Asia."
+          "explanation": "The notes state more than 75% of Nike's workforce is based in Asia.",
+          "d": 1
         },
         {
           "question": "Wal-Mart's 2016 turnover was equivalent to the GDP of which country?",
@@ -6117,7 +6374,8 @@
             "Vietnam"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state Wal-Mart's 2016 turnover of $482 billion was equivalent to Poland's GDP."
+          "explanation": "The notes state Wal-Mart's 2016 turnover of $482 billion was equivalent to Poland's GDP.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -6208,7 +6466,8 @@
             "China, India, Japan, Malaysia"
           ],
           "answerIndex": 0,
-          "explanation": "The notes identify South Korea, Taiwan, Singapore and Hong Kong as the 4 Asian Tigers, NICs from the 1960s."
+          "explanation": "The notes identify South Korea, Taiwan, Singapore and Hong Kong as the 4 Asian Tigers, NICs from the 1960s.",
+          "d": 1
         },
         {
           "question": "How does the World Bank define extreme poverty?",
@@ -6219,7 +6478,8 @@
             "Unemployment for over a year"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state the World Bank defines extreme poverty as income less than $1.25 per day (2005)."
+          "explanation": "The notes state the World Bank defines extreme poverty as income less than $1.25 per day (2005).",
+          "d": 1
         },
         {
           "question": "What is a key reason manufacturing shifts from MEDCs to LEDCs?",
@@ -6230,7 +6490,8 @@
             "Stronger environmental laws in LEDCs"
           ],
           "answerIndex": 0,
-          "explanation": "The notes list cheap and flexible labour and lower transport costs as attracting manufacturing to LEDCs."
+          "explanation": "The notes list cheap and flexible labour and lower transport costs as attracting manufacturing to LEDCs.",
+          "d": 2
         },
         {
           "question": "How many kilometres of new motorway did China build in 2015 alone?",
@@ -6241,7 +6502,8 @@
             "5,000 km"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state China built 11,000 km of new motorways in 2015 alone."
+          "explanation": "The notes state China built 11,000 km of new motorways in 2015 alone.",
+          "d": 1
         },
         {
           "question": "What percentage of its forested area has Togo lost since 1990?",
@@ -6252,7 +6514,8 @@
             "10%"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state Togo lost 60% of its forested area since 1990 due to deforestation for timber."
+          "explanation": "The notes state Togo lost 60% of its forested area since 1990 due to deforestation for timber.",
+          "d": 1
         },
         {
           "question": "What is a disadvantage of global industrial shift related to land use?",
@@ -6263,7 +6526,8 @@
             "Increase in agricultural land"
           ],
           "answerIndex": 2,
-          "explanation": "The notes explain that factories and infrastructure occupy previously fertile agricultural land, and pollution can render more land unusable."
+          "explanation": "The notes explain that factories and infrastructure occupy previously fertile agricultural land, and pollution can render more land unusable.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -6333,7 +6597,8 @@
             "Meeting the needs of the present without compromising future generations' ability to meet their own needs"
           ],
           "answerIndex": 3,
-          "explanation": "This is the exact definition given in the notes for sustainable development."
+          "explanation": "This is the exact definition given in the notes for sustainable development.",
+          "d": 1
         },
         {
           "question": "Which three resources does the topic focus on?",
@@ -6344,7 +6609,8 @@
             "Food, energy and water"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state the relationship between food, energy and water is important to understand."
+          "explanation": "The notes state the relationship between food, energy and water is important to understand.",
+          "d": 1
         },
         {
           "question": "How is globalisation described in relation to resource issues?",
@@ -6355,7 +6621,8 @@
             "Both a cause of imbalance and a solution through technology"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state globalisation is both a cause (imbalance in supply/demand) and a solution (technology improvements)."
+          "explanation": "The notes state globalisation is both a cause (imbalance in supply/demand) and a solution (technology improvements).",
+          "d": 2
         },
         {
           "question": "What kind of decision making does sustainable development require?",
@@ -6366,7 +6633,8 @@
             "Decision making based solely on economic growth"
           ],
           "answerIndex": 0,
-          "explanation": "The notes explicitly state sustainable development requires integrated decision making."
+          "explanation": "The notes explicitly state sustainable development requires integrated decision making.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -6438,7 +6706,8 @@
             "95%"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state TNCs, especially the Big 10, control 80% of food exports."
+          "explanation": "The notes state TNCs, especially the Big 10, control 80% of food exports.",
+          "d": 1
         },
         {
           "question": "Which of these is NOT one of the Big 10 food companies listed in the notes?",
@@ -6449,7 +6718,8 @@
             "Walmart"
           ],
           "answerIndex": 3,
-          "explanation": "Walmart is mentioned separately as a large TNC but is not listed among the Big 10 (ABF, Coca-Cola, Danone, General Mills, Kellogg, Mars, Mondelez, Nestlé, PepsiCo, Unilever)."
+          "explanation": "Walmart is mentioned separately as a large TNC but is not listed among the Big 10 (ABF, Coca-Cola, Danone, General Mills, Kellogg, Mars, Mondelez, Nestlé, PepsiCo, Unilever).",
+          "d": 1
         },
         {
           "question": "Why are people in MEDCs eating less red meat according to the notes?",
@@ -6460,7 +6730,8 @@
             "It has become too expensive"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state red meat consumption in MEDCs is decreasing due to links with obesity and heart disease."
+          "explanation": "The notes state red meat consumption in MEDCs is decreasing due to links with obesity and heart disease.",
+          "d": 1
         },
         {
           "question": "What is 'food loss' as described in the notes?",
@@ -6471,7 +6742,8 @@
             "Loss due to natural disasters and poor storage/transport infrastructure"
           ],
           "answerIndex": 3,
-          "explanation": "Food loss is defined as loss from natural disasters damaging crops and poor infrastructure for storage/transport, especially in LEDCs."
+          "explanation": "Food loss is defined as loss from natural disasters damaging crops and poor infrastructure for storage/transport, especially in LEDCs.",
+          "d": 2
         },
         {
           "question": "How does the United Nations define food security?",
@@ -6482,7 +6754,8 @@
             "All countries should have sufficient, safe and nutritious food at all times"
           ],
           "answerIndex": 3,
-          "explanation": "This is the UN definition of food security given in the notes."
+          "explanation": "This is the UN definition of food security given in the notes.",
+          "d": 1
         },
         {
           "question": "Which factor has increased farm productivity through better transport of produce?",
@@ -6493,7 +6766,8 @@
             "Banning of pesticides"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state improved spatial integration (roads/railways) enables farmers to transport produce cheaply to more markets, increasing sales and profits."
+          "explanation": "The notes state improved spatial integration (roads/railways) enables farmers to transport produce cheaply to more markets, increasing sales and profits.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -6583,7 +6857,8 @@
             "Triple the water requirement"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state Super Rice produces double the output of normal rice."
+          "explanation": "The notes state Super Rice produces double the output of normal rice.",
+          "d": 1
         },
         {
           "question": "How does Bt corn resist pests?",
@@ -6594,7 +6869,8 @@
             "It is genetically identical to wild corn"
           ],
           "answerIndex": 2,
-          "explanation": "The notes explain Bt corn has a natural pesticide bacterium inserted into the plant, reducing insect damage."
+          "explanation": "The notes explain Bt corn has a natural pesticide bacterium inserted into the plant, reducing insect damage.",
+          "d": 1
         },
         {
           "question": "What HYV rice variety was produced in India in the 1960s as part of the Green Revolution?",
@@ -6605,7 +6881,8 @@
             "IR8"
           ],
           "answerIndex": 3,
-          "explanation": "The notes identify IR8 as the HYV rice produced in India in the 1960s that reduced food shortage."
+          "explanation": "The notes identify IR8 as the HYV rice produced in India in the 1960s that reduced food shortage.",
+          "d": 1
         },
         {
           "question": "Which of the following is a stated limitation of the Green Revolution?",
@@ -6616,7 +6893,8 @@
             "Decreased need for fertiliser"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state high fertiliser/pesticide inputs are costly and rural indebtedness has risen sharply in some areas."
+          "explanation": "The notes state high fertiliser/pesticide inputs are costly and rural indebtedness has risen sharply in some areas.",
+          "d": 2
         },
         {
           "question": "What is a key limitation of agribusiness for poor farmers?",
@@ -6627,7 +6905,8 @@
             "Agribusiness has no effect on local farmers"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state TNCs use land for large factories, taking away farming land from locals and denying them the power to cultivate food."
+          "explanation": "The notes state TNCs use land for large factories, taking away farming land from locals and denying them the power to cultivate food.",
+          "d": 2
         },
         {
           "question": "Why do some countries like Zambia reject GM food imports?",
@@ -6638,7 +6917,8 @@
             "Cost is too low"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state Zambia rejects GM food imports fearing health impacts."
+          "explanation": "The notes state Zambia rejects GM food imports fearing health impacts.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -6720,7 +7000,8 @@
             "400 litres"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state sub-Saharan Africa's average is only 10 litres per person per day, compared to up to 800 in North America."
+          "explanation": "The notes state sub-Saharan Africa's average is only 10 litres per person per day, compared to up to 800 in North America.",
+          "d": 1
         },
         {
           "question": "During what period does 70-95% of India's annual precipitation arrive?",
@@ -6731,7 +7012,8 @@
             "Evenly throughout the year"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state 70-95% of India's annual precipitation occurs during the three-month monsoon period."
+          "explanation": "The notes state 70-95% of India's annual precipitation occurs during the three-month monsoon period.",
+          "d": 1
         },
         {
           "question": "Why does Egypt have high freshwater availability despite very low precipitation?",
@@ -6742,7 +7024,8 @@
             "Extensive desalination plants"
           ],
           "answerIndex": 0,
-          "explanation": "The notes explain Egypt's low precipitation (51mm/year) is offset by the Nile bringing freshwater from neighbouring countries to the south."
+          "explanation": "The notes explain Egypt's low precipitation (51mm/year) is offset by the Nile bringing freshwater from neighbouring countries to the south.",
+          "d": 2
         },
         {
           "question": "What percentage of global freshwater withdrawal is used by agriculture?",
@@ -6753,7 +7036,8 @@
             "50%"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state agriculture represents about 70% of all water withdrawal worldwide."
+          "explanation": "The notes state agriculture represents about 70% of all water withdrawal worldwide.",
+          "d": 1
         },
         {
           "question": "What is the difference between economic and physical water scarcity?",
@@ -6764,7 +7048,8 @@
             "Economic scarcity means water is available but inaccessible/unusable; physical scarcity means water is not available at all"
           ],
           "answerIndex": 3,
-          "explanation": "The notes define economic water scarcity as water being available but inaccessible/unusable, while physical water scarcity means water is simply not available."
+          "explanation": "The notes define economic water scarcity as water being available but inaccessible/unusable, while physical water scarcity means water is simply not available.",
+          "d": 2
         },
         {
           "question": "By how much has global freshwater demand grown over the last 50 years?",
@@ -6775,7 +7060,8 @@
             "Increased by 10%"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state demand for freshwater has tripled over the last 50 years."
+          "explanation": "The notes state demand for freshwater has tripled over the last 50 years.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -6861,7 +7147,8 @@
             "Desalination plants"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state desalination has virtually unlimited supply (sea water) but is extremely expensive and uses a lot of energy."
+          "explanation": "The notes state desalination has virtually unlimited supply (sea water) but is extremely expensive and uses a lot of energy.",
+          "d": 1
         },
         {
           "question": "What is a key disadvantage of using rivers and lakes in LEDCs?",
@@ -6872,7 +7159,8 @@
             "They can become easily polluted and carry diseases like cholera if untreated"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state that in LEDCs these sources can become polluted and carry diseases such as cholera."
+          "explanation": "The notes state that in LEDCs these sources can become polluted and carry diseases such as cholera.",
+          "d": 1
         },
         {
           "question": "What natural feature allows wells/boreholes to purify water?",
@@ -6883,7 +7171,8 @@
             "UV sterilisation"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state water is naturally purified by filtration through bedrock in wells and boreholes."
+          "explanation": "The notes state water is naturally purified by filtration through bedrock in wells and boreholes.",
+          "d": 1
         },
         {
           "question": "What is hydroponics?",
@@ -6894,7 +7183,8 @@
             "Growing crops without soil in controlled greenhouses, drip-fed nutrients and water"
           ],
           "answerIndex": 3,
-          "explanation": "The notes describe hydroponics as growing crops without soil in CO2/temperature-controlled greenhouses with drip-fed nutrients and water."
+          "explanation": "The notes describe hydroponics as growing crops without soil in CO2/temperature-controlled greenhouses with drip-fed nutrients and water.",
+          "d": 1
         },
         {
           "question": "What is greywater recycling suitable for?",
@@ -6905,7 +7195,8 @@
             "Only industrial cooling"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state greywater recycling produces water for agricultural use but not human consumption."
+          "explanation": "The notes state greywater recycling produces water for agricultural use but not human consumption.",
+          "d": 1
         },
         {
           "question": "What is a limitation of water condensing?",
@@ -6916,7 +7207,8 @@
             "It cannot be used at all in arid areas"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state water condensing can only provide small quantities of water despite being pure and using inexpensive technology."
+          "explanation": "The notes state water condensing can only provide small quantities of water despite being pure and using inexpensive technology.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -6990,7 +7282,8 @@
             "10%"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state global energy demand is expected to grow by 30% before 2035."
+          "explanation": "The notes state global energy demand is expected to grow by 30% before 2035.",
+          "d": 1
         },
         {
           "question": "What proportion of the world's 2018 energy supply came from fossil fuels?",
@@ -7001,7 +7294,8 @@
             "About 25%"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state more than ¾ of the world's energy supply in 2018 was from fossil fuels."
+          "explanation": "The notes state more than ¾ of the world's energy supply in 2018 was from fossil fuels.",
+          "d": 1
         },
         {
           "question": "Why is regional instability a risk factor for the global energy crisis?",
@@ -7012,7 +7306,8 @@
             "Renewable energy is only found in one region"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state fossil fuels are found almost exclusively in OPEC countries, so regional issues may cause worldwide energy shortage."
+          "explanation": "The notes state fossil fuels are found almost exclusively in OPEC countries, so regional issues may cause worldwide energy shortage.",
+          "d": 2
         },
         {
           "question": "Which of the following is listed as a reason for increasing energy demand?",
@@ -7023,7 +7318,8 @@
             "Decline in globalisation"
           ],
           "answerIndex": 2,
-          "explanation": "The notes list increasing desire for car ownership as one of the reasons demand for energy is rising."
+          "explanation": "The notes list increasing desire for car ownership as one of the reasons demand for energy is rising.",
+          "d": 1
         },
         {
           "question": "How is globalisation described in relation to energy demand and solutions?",
@@ -7034,7 +7330,8 @@
             "Increases demand through technology/industry, but also enables sharing of renewable energy ideas/technology"
           ],
           "answerIndex": 3,
-          "explanation": "The notes describe globalisation as increasing energy demand via technology and industry, while also enabling sharing of ideas and improvements that could reduce demand."
+          "explanation": "The notes describe globalisation as increasing energy demand via technology and industry, while also enabling sharing of ideas and improvements that could reduce demand.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -7112,7 +7409,8 @@
             "Increasing fossil fuel extraction, taxation, rationing"
           ],
           "answerIndex": 0,
-          "explanation": "The notes list demand reduction, increased energy efficiency, and renewable energy as the three main strategies."
+          "explanation": "The notes list demand reduction, increased energy efficiency, and renewable energy as the three main strategies.",
+          "d": 1
         },
         {
           "question": "How much energy can appliances in stand-by mode consume compared to being fully on?",
@@ -7123,7 +7421,8 @@
             "Twice as much"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state stand-by mode can consume nearly as much energy as being turned on permanently."
+          "explanation": "The notes state stand-by mode can consume nearly as much energy as being turned on permanently.",
+          "d": 1
         },
         {
           "question": "Which scheme gives UK employers tax exemptions for loaning/selling bicycles?",
@@ -7134,7 +7433,8 @@
             "Green Mark Scheme"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state the Cycle to Work scheme gives employers tax exemptions for loaning or selling bicycles."
+          "explanation": "The notes state the Cycle to Work scheme gives employers tax exemptions for loaning or selling bicycles.",
+          "d": 1
         },
         {
           "question": "Which cities are given as examples using congestion charges/park-and-ride schemes?",
@@ -7145,7 +7445,8 @@
             "Beijing, Tokyo, Mumbai and Cairo"
           ],
           "answerIndex": 1,
-          "explanation": "The notes list London, Singapore, Rome and Stockholm as examples of cities with congestion charges/park-and-ride schemes."
+          "explanation": "The notes list London, Singapore, Rome and Stockholm as examples of cities with congestion charges/park-and-ride schemes.",
+          "d": 1
         },
         {
           "question": "What is a disadvantage of renewable energy noted in the text?",
@@ -7156,7 +7457,8 @@
             "It produces high carbon emissions"
           ],
           "answerIndex": 2,
-          "explanation": "The notes state renewable energy disadvantages include high costs, weather-related inconsistency, and lower energy output than fossil fuels."
+          "explanation": "The notes state renewable energy disadvantages include high costs, weather-related inconsistency, and lower energy output than fossil fuels.",
+          "d": 2
         }
       ],
       "shortAnswer": [
@@ -7246,7 +7548,8 @@
             "From $50 billion to $100 billion"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state India's computer service exports rose from $11 billion in 1995 to almost $110 billion in 2015."
+          "explanation": "The notes state India's computer service exports rose from $11 billion in 1995 to almost $110 billion in 2015.",
+          "d": 1
         },
         {
           "question": "What percentage of the Philippines' 2020 GDP did remittances represent?",
@@ -7257,7 +7560,8 @@
             "20%"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state $2.6 billion USD sent to the Philippines annually represents 9.7% of its 2020 GDP."
+          "explanation": "The notes state $2.6 billion USD sent to the Philippines annually represents 9.7% of its 2020 GDP.",
+          "d": 1
         },
         {
           "question": "Which innovation lowered the cost of international air travel starting in the 1960s?",
@@ -7268,7 +7572,8 @@
             "The Airbus A380"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state the Boeing 747, introduced in the 1960s, lowered the cost of international air travel."
+          "explanation": "The notes state the Boeing 747, introduced in the 1960s, lowered the cost of international air travel.",
+          "d": 1
         },
         {
           "question": "What is a socio-political con of globalisation mentioned in the notes?",
@@ -7279,7 +7584,8 @@
             "Reduction in cyber attacks"
           ],
           "answerIndex": 2,
-          "explanation": "The notes describe how TNCs can influence how corruptible LEDC governments run their countries, undermining nation state sovereignty."
+          "explanation": "The notes describe how TNCs can influence how corruptible LEDC governments run their countries, undermining nation state sovereignty.",
+          "d": 2
         },
         {
           "question": "What percentage of global freight is transported by boat, contributing to ocean pollution?",
@@ -7290,7 +7596,8 @@
             "70%"
           ],
           "answerIndex": 3,
-          "explanation": "The notes state 70% of all freight is transported by boat, contributing to ocean pollution and acidification."
+          "explanation": "The notes state 70% of all freight is transported by boat, contributing to ocean pollution and acidification.",
+          "d": 1
         },
         {
           "question": "What did the Montreal Protocol help achieve?",
@@ -7301,7 +7608,8 @@
             "Elimination of fossil fuels"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state the Montreal Protocol helped reduce CFC emissions, and the Antarctic ozone hole has started to recover since."
+          "explanation": "The notes state the Montreal Protocol helped reduce CFC emissions, and the Antarctic ozone hole has started to recover since.",
+          "d": 1
         },
         {
           "question": "How much electricity did Germany export in 2020 as an example of international power grids reducing waste?",
@@ -7312,7 +7620,8 @@
             "0.52 terawatts"
           ],
           "answerIndex": 1,
-          "explanation": "The notes state Germany exported 52.5 terawatts of electricity in 2020."
+          "explanation": "The notes state Germany exported 52.5 terawatts of electricity in 2020.",
+          "d": 1
         }
       ],
       "shortAnswer": [
@@ -7378,7 +7687,8 @@
             "The isolation of national economies from each other"
           ],
           "answerIndex": 0,
-          "explanation": "This is the definition given in the summary notes."
+          "explanation": "This is the definition given in the summary notes.",
+          "d": 1
         },
         {
           "question": "According to the summary, does globalisation benefit all countries equally?",
@@ -7389,7 +7699,8 @@
             "No, it only benefits MEDCs and never LEDCs"
           ],
           "answerIndex": 0,
-          "explanation": "The notes state globalisation benefits everyone, whether equally or not, and varies in scale from place to place."
+          "explanation": "The notes state globalisation benefits everyone, whether equally or not, and varies in scale from place to place.",
+          "d": 2
         },
         {
           "question": "How does the short-term impact of globalisation on LEDCs typically differ from the long-term impact per the summary?",
@@ -7400,7 +7711,8 @@
             "There is no difference between short and long term"
           ],
           "answerIndex": 2,
-          "explanation": "The summary states short-term issues like labour abuse exist, but long-term globalisation benefits LEDCs' economies and relations with MEDCs."
+          "explanation": "The summary states short-term issues like labour abuse exist, but long-term globalisation benefits LEDCs' economies and relations with MEDCs.",
+          "d": 2
         },
         {
           "question": "Which two agreements are cited as examples of unified action to mitigate globalisation's negative impacts?",
@@ -7411,7 +7723,8 @@
             "The Montreal Protocol and NATO"
           ],
           "answerIndex": 2,
-          "explanation": "The summary cites the Paris Agreement and Kyoto Protocol as examples of unified movements/actions."
+          "explanation": "The summary cites the Paris Agreement and Kyoto Protocol as examples of unified movements/actions.",
+          "d": 1
         }
       ],
       "shortAnswer": [
