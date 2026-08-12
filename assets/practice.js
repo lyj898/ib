@@ -103,6 +103,7 @@
               </div>`
             : `<div class="deck-controls"><button class="btn primary" id="flip-btn" style="width:100%;">Show answer</button></div>`
         }
+        ${kbdHints(flipped ? "rate" : "flip")}
       `;
       const cardEl = panel.querySelector("#flip-card");
       cardEl.addEventListener("click", () => {
@@ -190,6 +191,7 @@
           <div id="explanation"></div>
           <button class="btn primary" id="next-q" style="display:none;">Next</button>
         </div>
+        ${kbdHints("quiz")}
       `;
       const choicesEl = panel.querySelector("#choices");
       q.choices.forEach((choice, ci) => {

@@ -641,6 +641,102 @@ a.stat-card:hover { border-color: var(--accent); transform: translateY(-2px); }
 .rubric-check { display: flex; gap: 0.5rem; align-items: flex-start; margin: 0.35rem 0; font-size: 0.9rem; cursor: pointer; }
 .rubric-check input { margin-top: 0.2rem; }
 
+/* ---- desktop polish ---- */
+main.container-study { max-width: 840px; }
+
+.kbd-hints { display: none; color: var(--text-muted); font-size: 0.78rem; text-align: center; margin-top: 0.9rem; }
+@media (min-width: 800px) and (hover: hover) {
+  .kbd-hints { display: block; }
+}
+kbd {
+  font-family: var(--font-body);
+  font-size: 0.72rem;
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  border-bottom-width: 2px;
+  border-radius: 5px;
+  padding: 0.05rem 0.35rem;
+}
+
+.search-kbd {
+  display: none;
+  position: absolute;
+  right: 0.7rem;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  color: var(--text-muted);
+  font-size: 0.68rem;
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  padding: 0.05rem 0.35rem;
+  background: var(--bg-elevated);
+}
+@media (min-width: 800px) {
+  .search-kbd { display: block; }
+}
+
+/* "On this page" mini-TOC (wide screens only) */
+.toc { display: none; }
+@media (min-width: 1150px) {
+  .layout.has-toc { grid-template-columns: 250px minmax(0, 1fr) 215px; }
+  .toc {
+    display: block;
+    position: sticky;
+    top: 5rem;
+    max-height: calc(100vh - 6rem);
+    overflow-y: auto;
+    font-size: 0.82rem;
+    padding-left: 0.2rem;
+  }
+  .toc-title {
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.68rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    margin-bottom: 0.5rem;
+    padding-left: 0.6rem;
+  }
+  .toc a {
+    display: block;
+    padding: 0.28rem 0.6rem;
+    color: var(--text-muted);
+    text-decoration: none;
+    border-left: 2px solid var(--border);
+    border-radius: 0 6px 6px 0;
+  }
+  .toc a:hover { color: var(--text); background: var(--bg-soft); }
+  .toc a.active { color: var(--accent); border-left-color: var(--accent); font-weight: 500; }
+}
+.notes-body h3, .notes-body h4 { scroll-margin-top: 5.5rem; }
+
+.topic-nav-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.8rem;
+  margin-top: 2rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--border);
+}
+.topic-nav-row .btn { max-width: 48%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+@media (max-width: 560px) {
+  .topic-nav-row { flex-direction: column; }
+  .topic-nav-row .btn { max-width: 100%; }
+}
+
+.activity-strip { display: flex; gap: 3px; margin-top: 0.5rem; }
+.activity-strip i {
+  width: 10px;
+  height: 10px;
+  border-radius: 3px;
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+}
+.activity-strip i.l1 { background: color-mix(in srgb, var(--accent) 30%, var(--bg-soft)); border-color: transparent; }
+.activity-strip i.l2 { background: color-mix(in srgb, var(--accent) 60%, var(--bg-soft)); border-color: transparent; }
+.activity-strip i.l3 { background: var(--accent); border-color: transparent; }
+
 /* ---- Chinese card helpers ---- */
 .speak-btn {
   position: absolute;

@@ -1,5 +1,5 @@
 // Stale-while-revalidate service worker: instant loads from cache, refresh in background.
-const CACHE = "sg-cache-v3";
+const CACHE = "sg-cache-v5";
 const SHELL = [
   "./",
   "index.html",
@@ -30,10 +30,19 @@ const SHELL = [
 ];
 
 self.addEventListener("install", (e) => {
+  // bypass the HTTP cache so a new SW version always precaches fresh files
   e.waitUntil(
     caches
       .open(CACHE)
-      .then((c) => c.addAll(SHELL))
+      .then((c) =>
+        Promise.all(
+          SHELL.map((u) =>
+            fetch(new Request(u, { cache: "no-cache" })).then((res) => {
+              if (res.ok) return c.put(u, res);
+            })
+          )
+        )
+      )
       .then(() => self.skipWaiting())
   );
 });
@@ -59,7 +68,9 @@ self.addEventListener("fetch", (e) => {
   e.respondWith(
     caches.open(CACHE).then(async (cache) => {
       const cached = await cache.match(e.request);
-      const network = fetch(e.request)
+      // no-cache: revalidate against the server instead of the HTTP cache,
+      // so background refreshes actually pick up new deploys
+      const network = fetch(new Request(e.request, { cache: "no-cache" }))
         .then((res) => {
           if (res && (res.ok || res.type === "opaque")) cache.put(e.request, res.clone());
           return res;

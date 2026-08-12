@@ -188,6 +188,16 @@ function initStudyKeys() {
   });
 }
 
+// desktop keyboard-hint line (hidden on touch/small screens via CSS)
+function kbdHints(type) {
+  const hints = {
+    flip: `Press <kbd>space</kbd> to show the answer`,
+    rate: `<kbd>1</kbd> Again · <kbd>2</kbd> Hard · <kbd>3</kbd> Good · <kbd>4</kbd> Easy`,
+    quiz: `<kbd>1</kbd>–<kbd>4</kbd> to answer · <kbd>space</kbd> for next`,
+  };
+  return `<p class="kbd-hints">${hints[type] || ""}</p>`;
+}
+
 // ---- bottom tab bar (mobile) ----
 function initTabbar(active) {
   if (document.querySelector(".tabbar")) return;
@@ -234,6 +244,7 @@ function initHeader(activeSubjectId, activeTab) {
   wrap.className = "search-wrap";
   wrap.innerHTML = `
     <input id="global-search" type="search" placeholder="Search all notes, flashcards, quizzes…" autocomplete="off" />
+    <span class="search-kbd">Ctrl K</span>
     <div id="search-results"></div>
   `;
   header.appendChild(wrap);
@@ -241,6 +252,14 @@ function initHeader(activeSubjectId, activeTab) {
   const input = wrap.querySelector("#global-search");
   const results = wrap.querySelector("#search-results");
   let debounceTimer = null;
+
+  document.addEventListener("keydown", (e) => {
+    if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "k") {
+      e.preventDefault();
+      input.focus();
+      input.select();
+    }
+  });
 
   input.addEventListener("input", () => {
     clearTimeout(debounceTimer);

@@ -25,8 +25,12 @@
     stats.push(
       `<a class="stat-card" href="review.html"><span class="stat-big">${total}</span><span class="stat-label">card${total === 1 ? "" : "s"} due today</span></a>`
     );
+    const act = SRS.recentActivity(14);
+    const strip = `<span class="activity-strip">${act
+      .map((a) => `<i class="${a.count ? (a.count >= 15 ? "l3" : a.count >= 5 ? "l2" : "l1") : ""}" title="${a.date}: ${a.count} reviews"></i>`)
+      .join("")}</span>`;
     stats.push(
-      `<div class="stat-card"><span class="stat-big">${streak} 🔥</span><span class="stat-label">day streak${SRS.studiedToday() ? "" : " — study today to keep it"}</span></div>`
+      `<div class="stat-card"><span class="stat-big">${streak} 🔥</span><span class="stat-label">day streak${SRS.studiedToday() ? "" : " — study today to keep it"}</span>${strip}</div>`
     );
     if (mistakes) {
       stats.push(

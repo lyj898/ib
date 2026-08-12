@@ -160,6 +160,18 @@ const SRS = (() => {
   function studiedToday() {
     return !!load("sg2:days", {})[todayStr()];
   }
+  // last n days of activity, oldest first: [{date, count}]
+  function recentActivity(n = 14) {
+    const d = load("sg2:days", {});
+    const out = [];
+    for (let i = n - 1; i >= 0; i--) {
+      const day = d[dateOf(Date.now() - i * DAY)] || {};
+      let count = 0;
+      for (const k in day) count += day[k];
+      out.push({ date: dateOf(Date.now() - i * DAY), count });
+    }
+    return out;
+  }
 
   // ---- quiz accuracy per topic ----
   function recordQuiz(subject, topicId, correct) {
@@ -256,6 +268,7 @@ const SRS = (() => {
     stats,
     streak,
     studiedToday,
+    recentActivity,
     bumpActivity,
     recordQuiz,
     weakTopics,
