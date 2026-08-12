@@ -1,11 +1,19 @@
 const SUBJECTS = [
-  { id: "chinese", title: "高级华文", desc: "Advanced Chinese: writing technique, vocabulary, poetry" },
-  { id: "chemistry", title: "Chemistry", desc: "Periodic table, reactivity, electrolysis, energy, organic chemistry" },
-  { id: "physics", title: "Physics", desc: "Pressure, light, waves, electricity, magnetism, electromagnetism" },
-  { id: "geography", title: "Geography", desc: "Weather & climate, climate change, hydrology, rivers, coasts" },
-  { id: "history", title: "History", desc: "Cold War, Vietnam, Cuban Missile Crisis, social movements" },
-  { id: "skills", title: "Exam Skills", desc: "History source analysis & Geography data-response technique" },
+  { id: "chinese", title: "高级华文", desc: "Advanced Chinese: writing technique, vocabulary, poetry", icon: "🈶", color: "#e11d48" },
+  { id: "chemistry", title: "Chemistry", desc: "Periodic table, reactivity, electrolysis, energy, organic chemistry", icon: "⚗️", color: "#059669" },
+  { id: "physics", title: "Physics", desc: "Pressure, light, waves, electricity, magnetism, electromagnetism", icon: "⚛️", color: "#2563eb" },
+  { id: "geography", title: "Geography", desc: "Weather & climate, climate change, hydrology, rivers, coasts", icon: "🌍", color: "#0891b2" },
+  { id: "history", title: "History", desc: "Cold War, Vietnam, Cuban Missile Crisis, social movements", icon: "🏛️", color: "#b45309" },
+  { id: "skills", title: "Exam Skills", desc: "History source analysis & Geography data-response technique", icon: "🎯", color: "#7c3aed" },
 ];
+
+function applySubjectTheme(subjectId) {
+  const meta = SUBJECTS.find((s) => s.id === subjectId);
+  if (meta) {
+    document.documentElement.style.setProperty("--accent", meta.color);
+    document.documentElement.style.setProperty("--subject-icon", `"${meta.icon}"`);
+  }
+}
 
 function qs(name) {
   return new URLSearchParams(location.search).get(name);
@@ -44,6 +52,7 @@ function stripHtml(html) {
 }
 
 function initHeader(activeSubjectId) {
+  if (activeSubjectId) applySubjectTheme(activeSubjectId);
   const header = document.querySelector("header.site-header");
   if (!header) return;
   const wrap = document.createElement("div");
@@ -92,8 +101,8 @@ function initHeader(activeSubjectId) {
           .map(
             (m) => `
           <a href="subject.html?s=${m.subject.id}&t=${encodeURIComponent(m.topic.id)}">
-            ${escapeHtml(m.topic.title)}
-            <small>${escapeHtml(m.subject.title)}</small>
+            <span class="result-icon">${m.subject.icon}</span>
+            <span>${escapeHtml(m.topic.title)}<small>${escapeHtml(m.subject.title)}</small></span>
           </a>`
           )
           .join("");

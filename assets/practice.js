@@ -104,7 +104,9 @@
         return;
       }
       const card = deck[0];
+      const pct = Math.round((known2.size / cards.length) * 100);
       panel.innerHTML = `
+        <div class="progress-bar"><div style="width:${pct}%"></div></div>
         <div class="progress-text">${deck.length} left this round · ${known2.size} / ${cards.length} mastered</div>
         <div class="flashcard-wrap">
           <div class="flashcard" id="flip-card"><span class="label">${flipped ? "Answer" : "Question"}</span>${escapeHtml(flipped ? card.a : card.q)}</div>
@@ -175,7 +177,9 @@
         return;
       }
       const q = questions[order[idx]];
+      const pct = Math.round((idx / order.length) * 100);
       panel.innerHTML = `
+        <div class="progress-bar"><div style="width:${pct}%"></div></div>
         <div class="progress-text">Question ${idx + 1} of ${order.length} · Score so far: ${score}</div>
         <div class="quiz-question">
           <h3>${escapeHtml(q.question)}</h3>

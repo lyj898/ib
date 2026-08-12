@@ -24,7 +24,7 @@
   function render() {
     const topic = data.topics.find((t) => t.id === activeId) || data.topics[0];
     content.innerHTML = `
-      <h1>${escapeHtml(subjectMeta.title)}</h1>
+      <div class="subject-heading"><span class="subject-heading-icon">${subjectMeta.icon}</span><h1>${escapeHtml(subjectMeta.title)}</h1></div>
       <div class="layout">
         <nav class="sidebar" id="topic-nav"></nav>
         <div>
