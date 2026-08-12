@@ -58,6 +58,15 @@
         window.scrollTo({ top: 0, behavior: "instant" });
       });
     });
+    const activeLink = nav.querySelector("a.active");
+    if (activeLink) activeLink.scrollIntoView({ block: "nearest", inline: "center" });
+
+    content.querySelectorAll(".notes-body table").forEach((table) => {
+      const wrap = document.createElement("div");
+      wrap.className = "table-scroll";
+      table.parentNode.insertBefore(wrap, table);
+      wrap.appendChild(table);
+    });
   }
 
   render();
