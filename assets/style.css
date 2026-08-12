@@ -411,3 +411,96 @@ nav.sidebar a.active {
 
 .score-summary { text-align: center; padding: 2.5rem 1rem; }
 .score-summary .big { font-size: 2.8rem; font-weight: 600; font-family: var(--font-display); color: var(--accent); }
+
+/* ---- homepage dashboard ---- */
+.dash { margin-bottom: 2rem; }
+.stat-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 0.8rem;
+  margin-bottom: 1rem;
+}
+.stat-card {
+  display: block;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.9rem 1.1rem;
+  text-decoration: none;
+  color: var(--text);
+  box-shadow: var(--shadow);
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+a.stat-card:hover { border-color: var(--accent); transform: translateY(-2px); }
+.stat-big { display: block; font-size: 1.7rem; font-weight: 600; font-family: var(--font-display); color: var(--accent); line-height: 1.2; }
+.stat-label { color: var(--text-muted); font-size: 0.82rem; }
+.dash-actions { display: flex; gap: 0.6rem; flex-wrap: wrap; align-items: center; }
+.weak-chips { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+.weak-chips a {
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  border: 1px solid color-mix(in srgb, var(--bad) 45%, var(--border));
+  color: var(--bad);
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 500;
+  background: color-mix(in srgb, var(--bad) 7%, transparent);
+}
+.weak-chips a:hover { background: color-mix(in srgb, var(--bad) 14%, transparent); }
+.due-badge {
+  position: absolute;
+  top: 0.9rem;
+  right: 0.9rem;
+  background: color-mix(in srgb, var(--card-accent, var(--accent)) 14%, var(--bg-elevated));
+  color: var(--card-accent, var(--accent));
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+}
+
+/* ---- spaced-repetition rating buttons ---- */
+.rating-buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.5rem;
+}
+.rate {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.05rem;
+  padding: 0.6rem 0.3rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border);
+  background: var(--bg-elevated);
+  cursor: pointer;
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 0.9rem;
+  transition: border-color 0.12s ease, transform 0.1s ease, background 0.12s ease;
+}
+.rate small { font-weight: 400; font-size: 0.72rem; color: var(--text-muted); }
+.rate:hover { border-color: currentColor; transform: translateY(-1px); }
+.rate-again { color: var(--bad); }
+.rate-hard { color: #d97706; }
+.rate-good { color: var(--accent); }
+.rate-easy { color: var(--good); }
+@media (prefers-color-scheme: dark) {
+  .rate-hard { color: #fbbf24; }
+}
+
+/* subject/topic context labels on review cards and questions */
+.card-context {
+  position: absolute;
+  top: 0.9rem;
+  right: 1.1rem;
+  max-width: 55%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 0.72rem;
+  font-family: var(--font-body);
+  color: var(--text-muted);
+}
+.card-source { color: var(--text-muted); font-size: 0.82rem; margin: 0 0 0.5rem; }

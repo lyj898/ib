@@ -1,29 +1,4 @@
 (function () {
-  function shuffle(arr) {
-    const a = arr.slice();
-    for (let i = a.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [a[i], a[j]] = [a[j], a[i]];
-    }
-    return a;
-  }
-
-  function lsKey(kind, subjectId, topicId) {
-    return `sg:${kind}:${subjectId}:${topicId}`;
-  }
-
-  function getKnownSet(subjectId, topicId) {
-    try {
-      return new Set(JSON.parse(localStorage.getItem(lsKey("flash", subjectId, topicId)) || "[]"));
-    } catch (e) {
-      return new Set();
-    }
-  }
-
-  function saveKnownSet(subjectId, topicId, set) {
-    localStorage.setItem(lsKey("flash", subjectId, topicId), JSON.stringify([...set]));
-  }
-
   function renderModeTabs(subjectId, topicId, mode) {
     const modes = [
       ["flashcards", "Flashcards"],
@@ -63,81 +38,86 @@
     });
   }
 
+  // ---- flashcards with spaced repetition ----
   function renderFlashcards(container, subjectId, topic) {
     const cards = topic.flashcards || [];
     if (!cards.length) {
       container.innerHTML += `<p class="empty-state">No flashcards yet for this topic.</p>`;
       return;
     }
-    const known = getKnownSet(subjectId, topic.id);
-    let deck = shuffle(cards.map((c, i) => ({ ...c, idx: i })).filter((c) => !known.has(c.idx)));
-    let flipped = false;
-    let reviewAll = false;
-
     const panel = document.createElement("div");
     container.appendChild(panel);
 
-    function startDeck() {
-      const known2 = getKnownSet(subjectId, topic.id);
-      deck = shuffle(
-        cards.map((c, i) => ({ ...c, idx: i })).filter((c) => reviewAll || !known2.has(c.idx))
-      );
+    const split = SRS.splitTopic(subjectId, topic.id, cards.length);
+    let queue = shuffle(split.due).concat(shuffle(split.fresh));
+    let sessionTotal = queue.length;
+    let done = 0;
+    let flipped = false;
+
+    function startAll() {
+      queue = shuffle(cards.map((_, i) => i));
+      sessionTotal = queue.length;
+      done = 0;
       flipped = false;
       draw();
     }
 
+    function summary() {
+      const s = SRS.splitTopic(subjectId, topic.id, cards.length);
+      const inRotation = cards.length - s.fresh.length;
+      panel.innerHTML = `
+        <div class="score-summary">
+          <div class="big">${done}</div>
+          <p>${done === 0 ? "All caught up — nothing due in this topic today." : `card${done === 1 ? "" : "s"} reviewed — nothing more due today.`}</p>
+          <p class="progress-text">${inRotation} of ${cards.length} cards in rotation</p>
+          <button class="btn primary" id="practice-all">Practice all ${cards.length} cards anyway</button>
+        </div>`;
+      panel.querySelector("#practice-all").addEventListener("click", startAll);
+    }
+
     function draw() {
-      const known2 = getKnownSet(subjectId, topic.id);
-      if (!deck.length) {
-        panel.innerHTML = `
-          <div class="score-summary">
-            <div class="big">${known2.size} / ${cards.length}</div>
-            <p>cards mastered</p>
-            <label style="display:block;margin:1rem 0;"><input type="checkbox" id="review-all" ${reviewAll ? "checked" : ""}/> Review all cards (including mastered)</label>
-            <button class="btn primary" id="restart-deck">Restart deck</button>
-          </div>
-        `;
-        panel.querySelector("#review-all").addEventListener("change", (e) => {
-          reviewAll = e.target.checked;
-        });
-        panel.querySelector("#restart-deck").addEventListener("click", startDeck);
-        return;
-      }
-      const card = deck[0];
-      const pct = Math.round((known2.size / cards.length) * 100);
+      if (!queue.length) return summary();
+      const idx = queue[0];
+      const card = cards[idx];
+      const pct = Math.round((done / Math.max(sessionTotal, 1)) * 100);
+      const iv = SRS.previewIntervals(subjectId, topic.id, idx);
       panel.innerHTML = `
         <div class="progress-bar"><div style="width:${pct}%"></div></div>
-        <div class="progress-text">${deck.length} left this round · ${known2.size} / ${cards.length} mastered</div>
+        <div class="progress-text">${queue.length} to go · ${done} done</div>
         <div class="flashcard-wrap">
           <div class="flashcard" id="flip-card"><span class="label">${flipped ? "Answer" : "Question"}</span>${escapeHtml(flipped ? card.a : card.q)}</div>
         </div>
-        <div class="deck-controls">
-          <button class="btn" id="still-learning">Still learning</button>
-          <button class="btn" id="flip-btn">Flip card</button>
-          <button class="btn primary" id="know-it">Know it</button>
-        </div>
+        ${
+          flipped
+            ? `<div class="rating-buttons">
+                <button class="rate rate-again" data-r="again">Again<small>now</small></button>
+                <button class="rate rate-hard" data-r="hard">Hard<small>${iv.hard}</small></button>
+                <button class="rate rate-good" data-r="good">Good<small>${iv.good}</small></button>
+                <button class="rate rate-easy" data-r="easy">Easy<small>${iv.easy}</small></button>
+              </div>`
+            : `<div class="deck-controls"><button class="btn primary" id="flip-btn" style="width:100%;">Show answer</button></div>`
+        }
       `;
       panel.querySelector("#flip-card").addEventListener("click", () => {
         flipped = !flipped;
         draw();
       });
-      panel.querySelector("#flip-btn").addEventListener("click", () => {
-        flipped = !flipped;
-        draw();
-      });
-      panel.querySelector("#still-learning").addEventListener("click", () => {
-        const c = deck.shift();
-        deck.push(c);
-        flipped = false;
-        draw();
-      });
-      panel.querySelector("#know-it").addEventListener("click", () => {
-        const c = deck.shift();
-        const k = getKnownSet(subjectId, topic.id);
-        k.add(c.idx);
-        saveKnownSet(subjectId, topic.id, k);
-        flipped = false;
-        draw();
+      const flipBtn = panel.querySelector("#flip-btn");
+      if (flipBtn)
+        flipBtn.addEventListener("click", () => {
+          flipped = true;
+          draw();
+        });
+      panel.querySelectorAll(".rate").forEach((b) => {
+        b.addEventListener("click", () => {
+          const r = b.dataset.r;
+          SRS.rate(subjectId, topic.id, idx, r);
+          queue.shift();
+          if (r === "again") queue.splice(Math.min(2, queue.length), 0, idx);
+          else done++;
+          flipped = false;
+          draw();
+        });
       });
     }
 
@@ -198,6 +178,9 @@
           answered = true;
           const correct = ci === q.answerIndex;
           if (correct) score++;
+          SRS.recordQuiz(subjectId, topic.id, correct);
+          if (correct) SRS.resolveMistake(subjectId, topic.id, order[idx], true);
+          else SRS.addMistake(subjectId, topic.id, order[idx]);
           [...choicesEl.children].forEach((el, i) => {
             el.disabled = true;
             if (i === q.answerIndex) el.classList.add("correct");
@@ -266,6 +249,7 @@
             ${rubricHtml ? `<strong>Rubric points</strong><ul>${rubricHtml}</ul>` : ""}
           </div>
         `;
+        SRS.bumpActivity("shortAnswer");
       });
       panel.querySelector("#next-sa").addEventListener("click", () => {
         idx++;

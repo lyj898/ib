@@ -19,6 +19,21 @@ function qs(name) {
   return new URLSearchParams(location.search).get(name);
 }
 
+function shuffle(arr) {
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+if ("serviceWorker" in navigator && (location.protocol === "https:" || location.hostname === "localhost")) {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("sw.js").catch(() => {});
+  });
+}
+
 async function loadSubjectData(subjectId) {
   const res = await fetch(`data/${subjectId}.json`);
   if (!res.ok) throw new Error(`Failed to load data for ${subjectId}`);

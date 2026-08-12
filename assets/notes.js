@@ -23,6 +23,7 @@
 
   function render() {
     const topic = data.topics.find((t) => t.id === activeId) || data.topics[0];
+    SRS.setLast(subjectId, topic.id, topic.title, subjectMeta.title);
     content.innerHTML = `
       <div class="subject-heading"><span class="subject-heading-icon">${subjectMeta.icon}</span><h1>${escapeHtml(subjectMeta.title)}</h1></div>
       <div class="layout">
