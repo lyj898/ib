@@ -1,0 +1,2514 @@
+{
+  "subject": "高级华文",
+  "topics": [
+    {
+      "id": "writing-techniques-figures-of-speech",
+      "title": "写作手法：修辞手法 (Rhetorical/Figures of Speech)",
+      "notesHtml": "<h3>比喻 (Comparison devices)</h3><h4>明喻 - Simile</h4><ul><li>把一样东西明确地对比成另一样东西 (Obvious/direct comparison of one thing to another)</li><li>例如：他像王子一样 / 他象风一样</li></ul><h4>暗喻 - Metaphor</h4><ul><li>把一样东西不明确地对比成另一样东西 (Less obvious/indirect reference of one object to another)</li><li>例如：蝴蝶是花儿</li></ul><h3>设问与反问 (Questions)</h3><h4>设问 - Rhetorical question that is answered (self-question, self-answer)</h4><ul><li>自问自答 - a question which is answered in the text</li><li>例如：这个城市有什么特色？这个城市有丰富的人文风情...</li></ul><h4>反问 - Rhetorical question left unanswered</h4><ul><li>有问不答 (obvious answer to the question)</li><li>例如：你们想成功吗？</li></ul><h3>比拟 (Personification devices)</h3><h4>拟人 - Personification</h4><ul><li>把物品形容成人 / 赋予人的形态特征 (describing an object as if it were human / giving it human form and characteristics)</li><li>例如：桌子走到了厨房</li></ul><h4>拟物 - Personification (treating a person as an object)</h4><ul><li>把人形容成物品 (describing a person as an object)</li></ul>",
+      "flashcards": [
+        {
+          "q": "什么是明喻？",
+          "a": "把一样东西明确地对比成另一样东西，直接比喻。例如：他像王子一样。"
+        },
+        {
+          "q": "什么是暗喻？",
+          "a": "把一样东西不明确地对比成另一样东西，间接的比喻。例如：蝴蝶是花儿。"
+        },
+        {
+          "q": "什么是设问？",
+          "a": "自问自答，是文中会被回答的问题。例如：这个城市有什么特色？这个城市有丰富的人文风情..."
+        },
+        {
+          "q": "什么是反问？",
+          "a": "有问不答，答案很明显，不需要在文中回答。例如：你们想成功吗？"
+        },
+        {
+          "q": "什么是拟人？",
+          "a": "把物品形容成人，赋予人的形态特征。例如：桌子走到了厨房。"
+        },
+        {
+          "q": "什么是拟物？",
+          "a": "把人形容成物品。"
+        },
+        {
+          "q": "明喻和暗喻的主要分别是什么？",
+          "a": "明喻是明确的对比，暗喻是不明确的对比。"
+        },
+        {
+          "q": "设问和反问的主要分别是什么？",
+          "a": "设问是自问自答（有答案），反问是有问不答（答案明显但不写出来）。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "“他像王子一样”属于什么修辞手法？",
+          "choices": [
+            "暗喻",
+            "明喻",
+            "拟人",
+            "设问"
+          ],
+          "answerIndex": 1,
+          "explanation": "这是明确地把他比作王子，属于明喻。"
+        },
+        {
+          "question": "“蝴蝶是花儿”属于什么修辞手法？",
+          "choices": [
+            "明喻",
+            "暗喻",
+            "反问",
+            "拟物"
+          ],
+          "answerIndex": 1,
+          "explanation": "这是不明确的对比，属于暗喻。"
+        },
+        {
+          "question": "“桌子走到了厨房”是什么修辞手法？",
+          "choices": [
+            "拟物",
+            "拟人",
+            "设问",
+            "明喻"
+          ],
+          "answerIndex": 1,
+          "explanation": "把物品（桌子）赋予人的行为（走），属于拟人。"
+        },
+        {
+          "question": "“这个城市有什么特色？这个城市有丰富的人文风情...”属于什么修辞手法？",
+          "choices": [
+            "反问",
+            "设问",
+            "拟人",
+            "明喻"
+          ],
+          "answerIndex": 1,
+          "explanation": "这是自问自答的设问。"
+        },
+        {
+          "question": "“你们想成功吗？”这样的问句，答案明显但不作答，属于什么？",
+          "choices": [
+            "设问",
+            "反问",
+            "拟物",
+            "暗喻"
+          ],
+          "answerIndex": 1,
+          "explanation": "有问不答，属于反问。"
+        },
+        {
+          "question": "把人形容成物品的修辞手法叫什么？",
+          "choices": [
+            "拟人",
+            "拟物",
+            "明喻",
+            "暗喻"
+          ],
+          "answerIndex": 1,
+          "explanation": "拟物是把人形容成物品，与拟人相反。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "请解释明喻与暗喻的分别，并各举一例。",
+          "modelAnswer": "明喻是把一样东西明确地对比成另一样东西，例如“他像王子一样”；暗喻是把一样东西不明确地对比成另一样东西，例如“蝴蝶是花儿”。",
+          "rubric": [
+            "说明明喻是明确的比较",
+            "说明暗喻是不明确的比较",
+            "各举出笔记中的例子"
+          ]
+        },
+        {
+          "prompt": "设问与反问有何不同？",
+          "modelAnswer": "设问是自问自答，文中会给出答案；反问是有问不答，因为答案是显而易见的。",
+          "rubric": [
+            "指出设问会自答",
+            "指出反问不会作答但答案明显",
+            "举例说明"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "connective-words-guanlianci",
+      "title": "写作组件：关联词 (Connective/Linking Words)",
+      "notesHtml": "<h3>关联词的作用</h3><p>关联词是把两个句子变成一个句子的词语 (words that join two sentences into one).</p><h3>1. 其他的 (Other connectives)</h3><ul><li>或者，假如，另外，于，所以，比较</li><li>却：表示结果不一样</li><li>无论：等于 不管</li><li>甚至：second clause is greater/more severe than the first</li><li>因为...所以... 例：因为我经常运动，所以我很健康</li><li>由于...就...</li><li>只要...就...（条件关系）</li><li>只有...才...</li><li>显然 - Obvious; evident; clear</li><li>虽然...但是/可是... - Although</li><li>仍然 - Still; yet; as before。例：虽然老师们都劝他交功课，他仍然不交。</li><li>果然 - As expected。例：天气预报说今天会下雨；果然，今天下起倾盆大雨。</li><li>然而 - But; however; yet</li><li>骤然 / 突然 / 猛然 - Suddenly</li><li>既然...就...（并列关系）- Since; as; now that</li></ul><h3>2. 并列句 (Parallel sentences)</h3><ul><li>又......又..... 例：他又聪明又帅</li><li>既......又...... 例：他既可爱又聪明</li><li>一边......一边...... 例：我一边看电视，一边做功课</li><li>那么......那么...... 例：他那么帅，那么可爱</li><li>是......也是...... 例：她是老师，她也是妈妈</li><li>不是......而是...... 例：他不是老师而是学生</li></ul><h3>3. 承接句 (Sequential sentences)</h3><ul><li>...接着... 例：我喝了一杯饮料，接着就开会了</li><li>...就... 例：我下了班，就上厕所</li><li>...便... 例：看到警察后，土匪便跑了</li><li>...于是... 例：他吃完点心，于是就睡了一觉</li><li>...又... 例：多年后，我又见到了我的朋友</li></ul><h3>4. 递进句 (Progressive sentences)</h3><ul><li>...不但...而且... 例：他不但英俊潇洒而且风流倜傥</li><li>不仅...还...（递进关系）例：他不仅会跳舞，他还会唱歌</li><li>...更（还）例：经过培训后，他更聪明了</li><li>...甚至... 例：老师甚至打了他一巴掌</li></ul><h3>5. 选择句 (Choice sentences)</h3><ul><li>不是...就是... 例：不是赢了，就是输了</li><li>或者...或者... 例：年轻人或者使用微信聊天，或者在脸书上发表自己的意见</li></ul><h3>动宾搭配 (Verb-object collocation)</h3><ul><li>类似英文的 subject-verb agreement 的搭配概念</li><li>动宾搭配里有 “主” 与 “谓”：这里的 “主” 指动词 (verb)，“谓” 指名词 (noun)</li><li>在动宾搭配里，动词在前面，名词跟在后面</li><li>例如：受教育、找工作、开阔眼界、享受生活、交朋友、适应课程</li></ul>",
+      "flashcards": [
+        {
+          "q": "关联词的作用是什么？",
+          "a": "是把两个句子变成一个句子的词语。"
+        },
+        {
+          "q": "“甚至”在句中的作用是什么？",
+          "a": "表示第二个分句比第一个分句程度更严重/更大（second clause is greater/more severe than the first）。"
+        },
+        {
+          "q": "“无论”等于什么词？",
+          "a": "等于“不管”。"
+        },
+        {
+          "q": "举一个并列句关联词的例子。",
+          "a": "又......又.....，例如：他又聪明又帅。"
+        },
+        {
+          "q": "举一个承接句关联词的例子。",
+          "a": "...接着...，例如：我喝了一杯饮料，接着就开会了。"
+        },
+        {
+          "q": "举一个递进句关联词的例子。",
+          "a": "不但...而且...，例如：他不但英俊潇洒而且风流倜傥。"
+        },
+        {
+          "q": "举一个选择句关联词的例子。",
+          "a": "不是...就是...，例如：不是赢了，就是输了。"
+        },
+        {
+          "q": "“显然”是什么意思？",
+          "a": "Obvious；evident；clear（明显、显而易见）。"
+        },
+        {
+          "q": "“果然”的意思及例句是什么？",
+          "a": "As expected（正如预期）。例：天气预报说今天会下雨；果然，今天下起倾盆大雨。"
+        },
+        {
+          "q": "什么是动宾搭配？",
+          "a": "类似英文subject-verb agreement的搭配概念，动词在前，名词在后，如“受教育、找工作”。"
+        },
+        {
+          "q": "“却”在关联词中表示什么？",
+          "a": "表示结果不一样。"
+        },
+        {
+          "q": "举出一个条件关系的关联词。",
+          "a": "只要...就...（条件关系）。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "关联词的主要作用是什么？",
+          "choices": [
+            "形容名词",
+            "把两个句子连成一个句子",
+            "替代主语",
+            "表示时间"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记指出关联词是把两个句子变成一个句子的词语。"
+        },
+        {
+          "question": "“无论”等同于下列哪个词？",
+          "choices": [
+            "因为",
+            "不管",
+            "所以",
+            "仍然"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记说明“无论”等于“不管”。"
+        },
+        {
+          "question": "“他不仅会跳舞，他还会唱歌”属于哪一类关联句？",
+          "choices": [
+            "并列句",
+            "承接句",
+            "递进句",
+            "选择句"
+          ],
+          "answerIndex": 2,
+          "explanation": "“不仅...还...”表示递进关系，是递进句。"
+        },
+        {
+          "question": "“不是赢了，就是输了”属于哪一类句子？",
+          "choices": [
+            "选择句",
+            "并列句",
+            "递进句",
+            "承接句"
+          ],
+          "answerIndex": 0,
+          "explanation": "“不是...就是...”表示选择关系。"
+        },
+        {
+          "question": "动宾搭配中，动词和名词的顺序是？",
+          "choices": [
+            "名词在前，动词在后",
+            "动词在前，名词在后",
+            "没有固定顺序",
+            "名词与动词同时出现"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记指出动宾搭配里动词在前面，名词跟在后面，如“找工作”。"
+        },
+        {
+          "question": "“天气预报说今天会下雨；果然，今天下起倾盆大雨”中的“果然”表示什么？",
+          "choices": [
+            "出乎意料",
+            "与预期相符",
+            "相反的结果",
+            "强调时间"
+          ],
+          "answerIndex": 1,
+          "explanation": "“果然”表示事情与预期一致（as expected）。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "请说明关联词的定义，并举出一个并列句和一个递进句的例子。",
+          "modelAnswer": "关联词是把两个句子变成一个句子的词语。并列句例子：他又聪明又帅（又...又...）。递进句例子：他不但英俊潇洒而且风流倜傥（不但...而且...）。",
+          "rubric": [
+            "正确说明关联词的定义",
+            "举出并列句例子",
+            "举出递进句例子"
+          ]
+        },
+        {
+          "prompt": "什么是动宾搭配？请举出两个例子。",
+          "modelAnswer": "动宾搭配是指动词与名词之间的固定搭配关系，类似英文的subject-verb agreement，动词在前，名词在后。例如：受教育、找工作。",
+          "rubric": [
+            "说明动宾搭配的定义",
+            "指出动词在前，名词在后",
+            "举出至少两个笔记中的例子，如受教育、找工作、开阔眼界等"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing-technique-format",
+      "title": "写作技巧：格式注意点 (Format Guidelines)",
+      "notesHtml": "<h3>注意点</h3><ul><li>格式很重要 --- 每个问题都必须按照格式来写（也包括分段）</li><li>必须好好表达出概念性理解 --- 看得出你在写给自己/别人听 + 看得出你有按照情景来写 + 看得出你个人的深刻反思 + 格式与语气是对的</li><li>必须抓紧内容 --- 至少写到两面，必须扣紧受众与主题（不要离题！）</li><li>看好语言 --- 不要写错字，用简单的字就可以了，但用成语也会加分，也必须用得对</li><li>字数限制（480字）</li><li>不能使用辞典</li><li>记得一定要审题，看好题目</li><li>要知道什么时候详写，什么时候略写 → 才会有重要的、突出的重点（记得一定要把内容的重点给突出）→ 重要的部分该加以说明并扩展</li></ul>",
+      "flashcards": [
+        {
+          "q": "写作时字数限制是多少字？",
+          "a": "480字。"
+        },
+        {
+          "q": "写作时能否使用辞典？",
+          "a": "不能使用辞典。"
+        },
+        {
+          "q": "写作评分中，什么方面最重要（关于格式）？",
+          "a": "格式很重要，每个问题都必须按照格式来写，也包括分段。"
+        },
+        {
+          "q": "文章内容方面需要注意什么？",
+          "a": "必须抓紧内容，至少写到两面，必须扣紧受众与主题，不要离题。"
+        },
+        {
+          "q": "关于语言方面需要注意什么？",
+          "a": "不要写错字，用简单的字就可以，但用成语也会加分，也必须用得对。"
+        },
+        {
+          "q": "写作前必须做什么？",
+          "a": "记得一定要审题，看好题目。"
+        },
+        {
+          "q": "什么叫做“详写”与“略写”？",
+          "a": "要知道什么时候详写，什么时候略写，才会突出内容的重点，重要的部分该加以说明并扩展。"
+        },
+        {
+          "q": "表达概念性理解需要展现哪几点？",
+          "a": "看得出你在写给自己/别人听、看得出你有按照情景来写、看得出你个人的深刻反思、格式与语气是对的。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "写作的字数限制是多少？",
+          "choices": [
+            "300字",
+            "480字",
+            "600字",
+            "1000字"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记明确指出字数限制为480字。"
+        },
+        {
+          "question": "写作时可以使用辞典吗？",
+          "choices": [
+            "可以",
+            "不能",
+            "只能查生字",
+            "视情况而定"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记明确指出不能使用辞典。"
+        },
+        {
+          "question": "根据笔记，写作应至少写到几面？",
+          "choices": [
+            "一面",
+            "两面",
+            "三面",
+            "没有要求"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记指出必须抓紧内容，至少写到两面。"
+        },
+        {
+          "question": "下列哪一项不是写作格式注意点中提到的内容？",
+          "choices": [
+            "审题",
+            "分段",
+            "使用辞典",
+            "扣紧受众与主题"
+          ],
+          "answerIndex": 2,
+          "explanation": "笔记明确说不能使用辞典，这不是应注意做的事而是禁止的事。"
+        },
+        {
+          "question": "关于语言使用，笔记建议怎么做？",
+          "choices": [
+            "尽量使用生僻字",
+            "用简单的字，适当使用成语可加分",
+            "完全不用成语",
+            "字数越多越好"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记指出用简单的字就可以，但用成语也会加分，须用得对。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "写作时应注意哪些格式和内容要求？",
+          "modelAnswer": "写作时格式很重要，每个问题都要按照格式来写并分段；内容必须扣紧受众与主题，不要离题，至少写到两面；语言方面不要写错字，用简单字词，适当使用成语可加分；字数限制为480字，且不能使用辞典。",
+          "rubric": [
+            "提到格式与分段的重要性",
+            "提到内容须扣紧受众与主题、不离题",
+            "提到语言要求（不写错字、可用成语）",
+            "提到字数限制480字及不能用辞典"
+          ]
+        },
+        {
+          "prompt": "为什么写作时需要区分详写与略写？",
+          "modelAnswer": "因为区分详写与略写才能突出内容的重点，把重要的、突出的部分加以说明并扩展，使文章重点分明。",
+          "rubric": [
+            "说明详略得当能突出重点",
+            "说明重要部分应加以说明并扩展"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "speech-script-yanjianggao",
+      "title": "演讲稿 (Speech Script)",
+      "notesHtml": "<ul><li>文体读起来必须听起来是演讲稿</li><li>受众：大家 / 很多人</li><li>语气：必须是正式的</li><li>目的：看题目（1）教育 / 说服 / 宣传（2）呼吁 / 请求（演讲稿的结尾一定要有呼吁）</li></ul><h3>内容</h3><ol><li>问候观众 (Address/greet the audience)：例如：老师同学们好！</li><li>自我介绍 (Introduce yourself)：例如：我是...来自ML303</li><li>记得在结尾呼吁观众：例如：我要呼吁大家好好学习！</li></ol><h3>内容概要 (Summary of content to include)</h3><ul><li>问候 + 自我介绍 + 主题</li><li>2 至 3 个主体</li><li>结尾（呼吁）+ 谢谢</li></ul>",
+      "flashcards": [
+        {
+          "q": "演讲稿的受众是谁？",
+          "a": "大家/很多人。"
+        },
+        {
+          "q": "演讲稿的语气应该是怎样的？",
+          "a": "必须是正式的。"
+        },
+        {
+          "q": "演讲稿的目的可能是什么？",
+          "a": "教育/说服/宣传，或呼吁/请求。"
+        },
+        {
+          "q": "演讲稿的结尾一定要包含什么？",
+          "a": "一定要有呼吁。"
+        },
+        {
+          "q": "演讲稿开头应该做什么？",
+          "a": "问候观众，例如：老师同学们好！"
+        },
+        {
+          "q": "演讲稿开头之后应该做什么？",
+          "a": "自我介绍，例如：我是...来自ML303。"
+        },
+        {
+          "q": "演讲稿的内容概要包括哪几部分？",
+          "a": "问候+自我介绍+主题；2至3个主体；结尾（呼吁）+谢谢。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "演讲稿的受众通常是谁？",
+          "choices": [
+            "自己",
+            "朋友",
+            "大家/很多人",
+            "网友"
+          ],
+          "answerIndex": 2,
+          "explanation": "笔记指出演讲稿的受众是大家/很多人。"
+        },
+        {
+          "question": "演讲稿的语气应为？",
+          "choices": [
+            "非正式的",
+            "正式的",
+            "半正式的",
+            "随意的"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记明确指出演讲稿语气必须是正式的。"
+        },
+        {
+          "question": "演讲稿的结尾必须包含什么内容？",
+          "choices": [
+            "询问网友意见",
+            "呼吁",
+            "日期",
+            "转发提示"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记指出演讲稿的结尾一定要有呼吁。"
+        },
+        {
+          "question": "根据内容概要，演讲稿一般应包含几个主体？",
+          "choices": [
+            "1个",
+            "2至3个",
+            "5个",
+            "没有限制"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记的内容概要指出应有2至3个主体。"
+        },
+        {
+          "question": "演讲稿开头的第一步骤是什么？",
+          "choices": [
+            "自我介绍",
+            "问候观众",
+            "呼吁",
+            "讲主题"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记列出的第一步是问候观众，如“老师同学们好！”。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "请说明演讲稿的受众、语气及目的。",
+          "modelAnswer": "演讲稿的受众是大家/很多人，语气必须是正式的，目的视题目而定，可能是教育、说服、宣传，也可能是呼吁或请求，结尾一定要有呼吁。",
+          "rubric": [
+            "正确指出受众为大家/很多人",
+            "正确指出语气为正式",
+            "说明目的可包括教育/说服/宣传或呼吁/请求",
+            "提到结尾必须呼吁"
+          ]
+        },
+        {
+          "prompt": "演讲稿的基本内容结构是什么？",
+          "modelAnswer": "演讲稿应先问候观众并自我介绍，说明主题，接着写2至3个主体内容，最后以呼吁作结尾并致谢。",
+          "rubric": [
+            "提到问候与自我介绍",
+            "提到2至3个主体",
+            "提到结尾呼吁与谢谢"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blog-boke",
+      "title": "博客 (Blog)",
+      "notesHtml": "<ul><li>文体读起来必须听起来是博客</li><li>受众：网友们</li><li>语气：半非正式的，半正式的 (50-50，不必太正式，但不要太非正式）</li><li>目的：看题目，是分享，希望别人会留言</li></ul><h3>注意点</h3><ul><li>博客要有标题</li><li>记得在结尾后询问网友他的意见</li><li>记得结尾后加上博客必有的东西（赞，转发）</li><li>要与受众接触</li></ul><h3>内容概要 (Summary of content to include)</h3><ul><li>（名字）的博客</li><li>标题（比如：受疫情影响的外籍劳工）</li><li>开头</li><li>3 个主体</li><li>结尾 / 个人意见 + 询问网友意见</li><li>赞 / 转发</li></ul>",
+      "flashcards": [
+        {
+          "q": "博客的受众是谁？",
+          "a": "网友们。"
+        },
+        {
+          "q": "博客的语气应该是怎样的？",
+          "a": "半非正式的，半正式的（50-50，不必太正式，但不要太非正式）。"
+        },
+        {
+          "q": "博客的目的是什么？",
+          "a": "分享，希望别人会留言。"
+        },
+        {
+          "q": "博客必须有什么？",
+          "a": "博客要有标题。"
+        },
+        {
+          "q": "博客结尾应该做什么？",
+          "a": "记得询问网友他的意见，并加上博客必有的东西（赞、转发）。"
+        },
+        {
+          "q": "博客的内容概要包括哪些部分？",
+          "a": "（名字）的博客；标题；开头；3个主体；结尾/个人意见+询问网友意见；赞/转发。"
+        },
+        {
+          "q": "博客的标题举例是什么？",
+          "a": "例如：受疫情影响的外籍劳工。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "博客的受众是谁？",
+          "choices": [
+            "自己",
+            "网友们",
+            "亲人",
+            "老师"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记指出博客的受众是网友们。"
+        },
+        {
+          "question": "博客的语气应该是？",
+          "choices": [
+            "完全正式的",
+            "完全非正式的",
+            "半非正式半正式（50-50）",
+            "没有语气要求"
+          ],
+          "answerIndex": 2,
+          "explanation": "笔记说明博客语气是半非正式的，半正式的（50-50）。"
+        },
+        {
+          "question": "博客结尾常见的元素包括？",
+          "choices": [
+            "签名与日期",
+            "赞与转发",
+            "呼吁与谢谢",
+            "地址与电话"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记提到博客结尾要加上博客必有的东西（赞，转发）。"
+        },
+        {
+          "question": "根据内容概要，博客应该有几个主体？",
+          "choices": [
+            "1个",
+            "2个",
+            "3个",
+            "4个"
+          ],
+          "answerIndex": 2,
+          "explanation": "笔记内容概要中列出3个主体。"
+        },
+        {
+          "question": "博客的一个重要格式要求是什么？",
+          "choices": [
+            "不需要标题",
+            "要有标题",
+            "必须署名地址",
+            "必须用文言文"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记指出博客要有标题。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "请描述博客的文体特征（受众、语气、目的）。",
+          "modelAnswer": "博客的受众是网友们，语气是半非正式半正式（50-50），目的是分享内容并希望别人留言。",
+          "rubric": [
+            "正确说明受众为网友们",
+            "正确说明语气为半非正式半正式",
+            "说明目的为分享并希望留言"
+          ]
+        },
+        {
+          "prompt": "写博客时应该包含哪些结构元素？",
+          "modelAnswer": "博客应包括标题、开头、3个主体内容、结尾（个人意见并询问网友意见），以及赞/转发等博客特有元素。",
+          "rubric": [
+            "提到标题",
+            "提到3个主体",
+            "提到结尾询问网友意见及赞/转发"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "diary-riji",
+      "title": "日记 (Diary)",
+      "notesHtml": "<ul><li>文体读起来必须听起来是日记（必须听起来是想写给自己听的而不是给别人听的）</li><li>受众：自己</li><li>语气：可以是非正式的</li><li>目的：个人反思（感受，感想，启发，启示）或记录所见所闻</li><li>个人反思必须是更深的（例如：“感激陌生阿姨” --- Level 1；“改变我对陌生人的看法 / 不再怀疑陌生人” --- Level 2）</li></ul>",
+      "flashcards": [
+        {
+          "q": "日记的受众是谁？",
+          "a": "自己。"
+        },
+        {
+          "q": "日记的语气可以是怎样的？",
+          "a": "可以是非正式的。"
+        },
+        {
+          "q": "日记的目的是什么？",
+          "a": "个人反思（感受、感想、启发、启示）或记录所见所闻。"
+        },
+        {
+          "q": "日记读起来应该像什么？",
+          "a": "必须听起来是想写给自己听的而不是给别人听的。"
+        },
+        {
+          "q": "什么样的个人反思算是Level 1？",
+          "a": "例如：“感激陌生阿姨”这类较浅层的反思。"
+        },
+        {
+          "q": "什么样的个人反思算是Level 2？",
+          "a": "例如：“改变我对陌生人的看法/不再怀疑陌生人”这类更深层的反思。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "日记的受众是谁？",
+          "choices": [
+            "网友",
+            "自己",
+            "朋友",
+            "老师"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记指出日记的受众是自己。"
+        },
+        {
+          "question": "日记的语气特点是？",
+          "choices": [
+            "必须非常正式",
+            "可以是非正式的",
+            "必须用文言文",
+            "必须像演讲稿"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记说明日记语气可以是非正式的。"
+        },
+        {
+          "question": "以下哪一项是更深层次（Level 2）的个人反思例子？",
+          "choices": [
+            "感激陌生阿姨",
+            "不再怀疑陌生人",
+            "记录天气",
+            "描述地点"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记指出“改变我对陌生人的看法/不再怀疑陌生人”是Level 2，比Level 1更深。"
+        },
+        {
+          "question": "日记写作时最重要的原则是什么？",
+          "choices": [
+            "要像写给别人看",
+            "必须听起来是写给自己听的",
+            "必须呼吁读者",
+            "必须有标题"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记强调日记必须听起来是想写给自己听的，而不是给别人听的。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "日记的文体特征是什么？",
+          "modelAnswer": "日记的受众是自己，语气可以是非正式的，目的是个人反思（感受、感想、启发、启示）或记录所见所闻，读起来必须像是写给自己看的。",
+          "rubric": [
+            "指出受众为自己",
+            "指出语气可非正式",
+            "说明目的为个人反思或记录见闻",
+            "提到应听起来像写给自己"
+          ]
+        },
+        {
+          "prompt": "请举例说明日记中个人反思由浅入深的层次（Level 1 与 Level 2）。",
+          "modelAnswer": "Level 1的反思较为表面，如“感激陌生阿姨”；Level 2的反思更深入，例如“改变我对陌生人的看法，不再怀疑陌生人”，体现更深刻的启发。",
+          "rubric": [
+            "举出Level 1例子",
+            "举出Level 2例子",
+            "说明Level 2比Level 1更深入"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "personal-letter-shuxin",
+      "title": "个人书信 (Personal Letter)",
+      "notesHtml": "<ul><li>文体读起来必须听起来是个人书信</li><li>受众：朋友 / 亲人（例如：表哥，爸爸）</li><li>语气：半非正式的，半正式的 (50-50，不必太正式，但不要太非正式。听起来应该像你在跟朋友或亲人写信。因此，你不应该写“您好”或“首先，你应该做...接着，你也应该...”）</li><li>目的：看题目，是写给别人听的</li></ul>",
+      "flashcards": [
+        {
+          "q": "个人书信的受众是谁？",
+          "a": "朋友/亲人（例如：表哥，爸爸）。"
+        },
+        {
+          "q": "个人书信的语气应该是怎样的？",
+          "a": "半非正式的，半正式的（50-50，不必太正式，但不要太非正式）。"
+        },
+        {
+          "q": "个人书信不应该出现哪些用语？",
+          "a": "不应该写“您好”或“首先，你应该做...接着，你也应该...”这类过于正式的用语。"
+        },
+        {
+          "q": "个人书信应听起来像什么？",
+          "a": "应该像你在跟朋友或亲人写信。"
+        },
+        {
+          "q": "个人书信的目的是什么？",
+          "a": "看题目，是写给别人听的。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "个人书信的受众通常是谁？",
+          "choices": [
+            "网友",
+            "朋友/亲人",
+            "陌生人",
+            "老板"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记指出个人书信受众是朋友/亲人，例如表哥、爸爸。"
+        },
+        {
+          "question": "个人书信中不应该使用哪种用语？",
+          "choices": [
+            "亲切的问候语",
+            "您好，首先你应该...",
+            "轻松的语气",
+            "日常口语"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记明确指出不应该写“您好”或过于正式的“首先，你应该做...”句式。"
+        },
+        {
+          "question": "个人书信的语气应该是？",
+          "choices": [
+            "完全非正式",
+            "半非正式半正式",
+            "完全正式",
+            "官方公文语气"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记指出语气是50-50，半非正式半正式。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "写个人书信时应注意什么语气问题？",
+          "modelAnswer": "个人书信的语气应是半非正式半正式（50-50），听起来应像跟朋友或亲人写信，因此不应使用“您好”或“首先，你应该做...接着，你也应该...”这类过于正式生硬的表达。",
+          "rubric": [
+            "指出语气为半非正式半正式",
+            "说明应像写给朋友/亲人",
+            "指出不应使用的过于正式用语"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "email-youjian",
+      "title": "电邮 (Email)",
+      "notesHtml": "<ul><li>文体读起来必须听起来是电邮</li><li>受众：朋友 / 老师 / 亲人（例如：表哥）</li><li>语气：可以是非正式的，也可以是正式的</li><li>目的：看题目，是写给别人听的</li></ul>",
+      "flashcards": [
+        {
+          "q": "电邮的受众可以是谁？",
+          "a": "朋友/老师/亲人（例如：表哥）。"
+        },
+        {
+          "q": "电邮的语气可以是怎样的？",
+          "a": "可以是非正式的，也可以是正式的。"
+        },
+        {
+          "q": "电邮的目的是什么？",
+          "a": "看题目，是写给别人听的。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "电邮的受众可以包括？",
+          "choices": [
+            "只能是老师",
+            "朋友、老师、亲人",
+            "只能是陌生人",
+            "只能是网友"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记指出电邮受众可以是朋友/老师/亲人。"
+        },
+        {
+          "question": "电邮的语气特点是？",
+          "choices": [
+            "只能非正式",
+            "只能正式",
+            "可以非正式也可以正式",
+            "必须用文言文"
+          ],
+          "answerIndex": 2,
+          "explanation": "笔记说明电邮语气可以是非正式的，也可以是正式的，视对象而定。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "电邮的文体特征与个人书信有何相似与不同之处？",
+          "modelAnswer": "电邮的受众同样可以是朋友、老师或亲人，但语气比个人书信更灵活，可以是非正式的也可以是正式的，视收信对象及题目而定，而个人书信固定为半非正式半正式。",
+          "rubric": [
+            "说明电邮受众范围",
+            "说明电邮语气可正式可非正式",
+            "可对比个人书信语气固定为50-50"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-13-vocab-idioms",
+      "title": "第十三课：词语复习与谚语 (Vocabulary and Proverbs)",
+      "notesHtml": "<h3>词语表 (Vocabulary)</h3><table><tr><th>词语</th><th>拼音</th><th>解释</th></tr><tr><td>本</td><td>běn</td><td>自己的 (One's / own)</td></tr><tr><td>基督</td><td>Jī dū</td><td>Christ</td></tr><tr><td>广播</td><td>guǎng bō</td><td>Broadcast</td></tr><tr><td>基督教</td><td>Jī dū jiào</td><td>Christianity</td></tr><tr><td>圣诞节</td><td>shèng dàn jié</td><td>Christmas</td></tr><tr><td>财</td><td>cái</td><td>Wealth; fortune</td></tr><tr><td>异</td><td>yì</td><td>Different</td></tr><tr><td>神</td><td>shén</td><td>God</td></tr><tr><td>异同</td><td>yì tóng</td><td>Differences and similarity</td></tr><tr><td>财神</td><td>cái shén</td><td>God of wealth</td></tr><tr><td>商</td><td>shāng</td><td>Quotient / value</td></tr><tr><td>贺</td><td>hè</td><td>Congratulate</td></tr><tr><td>智商</td><td>zhì shāng</td><td>IQ</td></tr><tr><td>卡</td><td>kǎ</td><td>Card</td></tr><tr><td>指</td><td>zhǐ</td><td>Mean; indicate</td></tr><tr><td>贺卡</td><td>hè kǎ</td><td>Greeting card</td></tr><tr><td>敏</td><td>mǐn</td><td>Quick</td></tr><tr><td>盼</td><td>pàn</td><td>Long for</td></tr><tr><td>敏感</td><td>mǐn gǎn</td><td>Sensitive</td></tr><tr><td>盼望</td><td>pàn wàng</td><td>Long for</td></tr><tr><td>度</td><td>dù</td><td>Extent</td></tr><tr><td>到来</td><td>dào lái</td><td>Arrival</td></tr><tr><td>敏感度</td><td>mǐn gǎn dù</td><td>Sensitivity</td></tr><tr><td>喜庆</td><td>xǐ qìng</td><td>Joyous</td></tr><tr><td>高低</td><td>gāo dī</td><td>Level</td></tr><tr><td>吉</td><td>jí</td><td>Lucky</td></tr><tr><td>直接</td><td>zhí jiē</td><td>Direct</td></tr><tr><td>吉利</td><td>jí lì</td><td>Lucky</td></tr><tr><td>桃树</td><td>táo shù</td><td>Peach tree</td></tr><tr><td>平安</td><td>píng ān</td><td>Safe and sound</td></tr><tr><td>表达</td><td>biǎo dá</td><td>Express</td></tr><tr><td>驱</td><td>qū</td><td>Drive out</td></tr><tr><td>好运</td><td>háo yùn</td><td>Good luck</td></tr><tr><td>邪</td><td>xié</td><td>Disasters that evil spirits bring / inauspicious</td></tr><tr><td>愿望</td><td>yuàn wàng</td><td>Wish; desire; aspiration</td></tr><tr><td>驱邪</td><td>qū xié</td><td>Drive out evil spirits</td></tr><tr><td>装</td><td>zhuāng</td><td>Decorate</td></tr><tr><td>浪漫</td><td>làng màn</td><td>Romantic</td></tr><tr><td>装饰</td><td>zhuāng shì</td><td>Decorate</td></tr><tr><td>满</td><td>mǎn</td><td>Full</td></tr><tr><td>圣诞树</td><td>shèng dàn shù</td><td>Christmas tree</td></tr><tr><td>充满</td><td>chōng mǎn</td><td>Be full of</td></tr><tr><td>恩</td><td>ēn</td><td>Kindness; favour</td></tr><tr><td>物极必反</td><td>wù jí bì fǎn</td><td>事物发展到极点，会向相反方向转化。英：Things will turn opposite when it reaches the extreme</td></tr><tr><td>感恩</td><td>gǎn ēn</td><td>Feel grateful</td></tr><tr><td>不约而同</td><td>bù yuē ér tóng</td><td>事先没有约定，意见或行为却相同。英：Do or think the same without prior consultation; to coincide</td></tr><tr><td>贪小便宜吃大亏</td><td>tān xiǎo pián yi chī dà kuī</td><td>Penny wise, pound foolish; careful with small amounts of money, yet wasteful and extravagant with large sums</td></tr><tr><td>勤学好问</td><td>qín xué hǎo wèn</td><td>勤奋学习，不懂就问。比喻善于学习。英：To study diligently and ask questions when unclear</td></tr><tr><td>拿了手短，吃了嘴软</td><td>ná le shǒu duǎn, chī le zuǐ ruǎn</td><td>Gifts blind the eye</td></tr><tr><td>全力以赴</td><td>quán lì yǐ fù</td><td>把全部力量都投入进去。英：To go all out; spare no effort</td></tr><tr><td>病从口入，祸从口出</td><td>bìng cóng kǒu rù, huò cóng kǒu chū</td><td>A closed mouth catches no flies; it is better to keep one's mouth shut</td></tr><tr><td>优胜劣汰</td><td>yōu shèng liè tài</td><td>指生物在生存竞争中适应力强的保存下来，适应力差的被淘汰。英：Survival of the fittest</td></tr></table><h3>谚语解释 (Proverb explanations)</h3><table><tr><th>谚语</th><th>解释</th></tr><tr><td>贪小便宜吃大亏</td><td>指的是为了贪图一点点的利益，却遭受到重大损失。英：Penny wise, pound foolish</td></tr><tr><td>拿了手短，吃了嘴软</td><td>意思是一个人如果拿了别人给的东西，这个人如果犯错了，那么在这个人面前就不能讲原则了，吃了别人的东西那么在这个人面前说话不能理直气壮。英：Gifts blind the eyes</td></tr><tr><td>病从口入，祸从口出</td><td>指病毒常常因饮食不注意而入侵，灾祸往往因说话不谨慎而引起。英：A closed mouth catches no flies</td></tr></table>",
+      "flashcards": [
+        {
+          "q": "“财神”的意思是什么？",
+          "a": "cái shén，God of wealth。"
+        },
+        {
+          "q": "“智商”怎么读，是什么意思？",
+          "a": "zhì shāng，IQ。"
+        },
+        {
+          "q": "“驱邪”是什么意思？",
+          "a": "qū xié，驱赶邪祟/驱走灾祸邪气（Drive out evil spirits）。"
+        },
+        {
+          "q": "“贺卡”的拼音与意思是什么？",
+          "a": "hè kǎ，Greeting card。"
+        },
+        {
+          "q": "成语“物极必反”的意思是什么？",
+          "a": "事物发展到极点，会向相反方向转化。英：Things will turn opposite when it reaches the extreme。"
+        },
+        {
+          "q": "成语“不约而同”的意思是什么？",
+          "a": "事先没有约定，意见或行为却相同。英：To coincide without prior consultation。"
+        },
+        {
+          "q": "谚语“贪小便宜吃大亏”的意思是什么？",
+          "a": "指为了贪图一点点利益，却遭受重大损失。英：Penny wise, pound foolish。"
+        },
+        {
+          "q": "谚语“拿了手短，吃了嘴软”的意思是什么？",
+          "a": "意思是拿了别人的东西后，若对方犯错，就不能理直气壮讲原则。英：Gifts blind the eyes。"
+        },
+        {
+          "q": "“全力以赴”是什么意思？",
+          "a": "quán lì yǐ fù，把全部力量都投入进去。英：To go all out; spare no effort。"
+        },
+        {
+          "q": "谚语“病从口入，祸从口出”的意思是什么？",
+          "a": "指病毒常因饮食不注意入侵，灾祸常因说话不谨慎而引起。英：A closed mouth catches no flies。"
+        },
+        {
+          "q": "成语“优胜劣汰”的意思是什么？",
+          "a": "指生物在生存竞争中适应力强的保存下来，适应力差的被淘汰。英：Survival of the fittest。"
+        },
+        {
+          "q": "“敏感度”的意思是什么？",
+          "a": "mǐn gǎn dù，Sensitivity。"
+        },
+        {
+          "q": "“圣诞树”的拼音和意思是什么？",
+          "a": "shèng dàn shù，Christmas tree。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "“财神”指的是什么？",
+          "choices": [
+            "财富",
+            "God of wealth",
+            "财政部长",
+            "富人"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记明确“财神”意为God of wealth。"
+        },
+        {
+          "question": "成语“物极必反”的含义是？",
+          "choices": [
+            "事情越做越好",
+            "事物发展到极点会向相反方向转化",
+            "做事要坚持到底",
+            "凡事都有例外"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记解释“物极必反”指事物发展到极点会向相反方向转化。"
+        },
+        {
+          "question": "谚语“贪小便宜吃大亏”比喻什么？",
+          "choices": [
+            "努力工作会有回报",
+            "为小利益而遭受大损失",
+            "诚实是最好的策略",
+            "节俭是美德"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记解释此谚语意为因贪图小利益而遭受重大损失，即Penny wise, pound foolish。"
+        },
+        {
+          "question": "“拿了手短，吃了嘴软”这句谚语的英译是什么？",
+          "choices": [
+            "A closed mouth catches no flies",
+            "Gifts blind the eyes",
+            "Survival of the fittest",
+            "Penny wise, pound foolish"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记中该谚语对应英译为Gifts blind the eyes。"
+        },
+        {
+          "question": "“优胜劣汰”对应哪个英文概念？",
+          "choices": [
+            "Survival of the fittest",
+            "Go all out",
+            "Coincide without consultation",
+            "A closed mouth catches no flies"
+          ],
+          "answerIndex": 0,
+          "explanation": "笔记解释“优胜劣汰”意为适应力强的存留，弱的被淘汰，即Survival of the fittest。"
+        },
+        {
+          "question": "“不约而同”是指什么？",
+          "choices": [
+            "事先商量好一致行动",
+            "没有事先约定却意见或行为相同",
+            "完全没有共识",
+            "故意模仿他人"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记解释“不约而同”指事先没有约定，意见或行为却相同。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "请解释“病从口入，祸从口出”这句谚语的含义。",
+          "modelAnswer": "这句谚语指病毒常常因为饮食不注意而侵入身体，而灾祸往往因为说话不谨慎而引起，提醒人们注意饮食卫生和言辞谨慎。英文对应表达为A closed mouth catches no flies。",
+          "rubric": [
+            "说明病从口入指饮食不慎致病",
+            "说明祸从口出指言语不慎招灾",
+            "提及对应英文表达"
+          ]
+        },
+        {
+          "prompt": "请举出两个本课学过的四字成语，并解释其含义。",
+          "modelAnswer": "例如“全力以赴”指把全部力量都投入进去，全力去做一件事；“不约而同”指事先没有约定，意见或行为却相同。",
+          "rubric": [
+            "正确举出至少两个成语",
+            "准确解释各自含义",
+            "可附上英文对应表达"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-1-vocab-and-essay",
+      "title": "第一课：词语与作文 - 中学会考应不应该取消",
+      "notesHtml": "<h3>词语表 (Vocabulary)</h3><table><tr><th>词语</th><th>拼音</th><th>解释</th></tr><tr><td>方</td><td>fāng</td><td>Side; party</td></tr><tr><td>动力</td><td>dòng lì</td><td>Driving force; motivation</td></tr><tr><td>取消</td><td>qǔ xiāo</td><td>Cancel</td></tr><tr><td>方式</td><td>fāng shì</td><td>Form; method</td></tr><tr><td>消</td><td>xiāo</td><td>Remove</td></tr><tr><td>方向</td><td>fāng xiàng</td><td>Direction</td></tr><tr><td>会</td><td>huì</td><td>Gather</td></tr><tr><td>倍</td><td>bèi</td><td>Double</td></tr><tr><td>会考</td><td>huì kǎo</td><td>Exams</td></tr><tr><td>加倍</td><td>jiā bèi</td><td>More than double</td></tr><tr><td>展</td><td>zhǎn</td><td>Open up</td></tr><tr><td>高考</td><td>gāo kǎo</td><td>University entrance exam</td></tr><tr><td>展开</td><td>zhǎn kāi</td><td>Carry out</td></tr><tr><td>紧</td><td>jǐn</td><td>Pressing; tight</td></tr><tr><td>讨</td><td>tǎo</td><td>Discuss</td></tr><tr><td>张</td><td>zhāng</td><td>Stretch</td></tr><tr><td>论</td><td>lùn</td><td>Discuss</td></tr><tr><td>紧张</td><td>jǐn zhāng</td><td>Nervous</td></tr><tr><td>讨论</td><td>tǎo lùn</td><td>Discuss</td></tr><tr><td>真实</td><td>zhēn shí</td><td>Real</td></tr><tr><td>反对</td><td>fǎn duì</td><td>Oppose</td></tr><tr><td>挥</td><td>huī</td><td>Give out</td></tr><tr><td>声音</td><td>shēng yīn</td><td>Sound; voice</td></tr><tr><td>发挥</td><td>fā huī</td><td>Express, bring out</td></tr><tr><td>个人</td><td>gè rén</td><td>Personal</td></tr><tr><td>压力</td><td>yā lì</td><td>Pressure</td></tr><tr><td>由</td><td>yóu</td><td>Reason</td></tr><tr><td>人生</td><td>rén shēng</td><td>Life</td></tr><tr><td>理由</td><td>lǐ yóu</td><td>Reason</td></tr><tr><td>本来</td><td>běn lái</td><td>Originally</td></tr><tr><td>阶</td><td>jiē</td><td>Rank</td></tr><tr><td>挑</td><td>tiāo</td><td>Stir up</td></tr><tr><td>阶段</td><td>jiē duàn</td><td>Phase</td></tr><tr><td>战</td><td>zhàn</td><td>Fight; war</td></tr><tr><td>基</td><td>jī</td><td>Foundation</td></tr><tr><td>挑战</td><td>tiǎo zhàn</td><td>Challenge</td></tr><tr><td>础</td><td>chǔ</td><td>Stone base of a pillar</td></tr><tr><td>抗</td><td>kàng</td><td>Resist</td></tr><tr><td>基础</td><td>jī chǔ</td><td>Foundation</td></tr><tr><td>测试</td><td>cè shì</td><td>Test</td></tr><tr><td>必要</td><td>bì yào</td><td>Necessary</td></tr><tr><td>实际</td><td>shí jì</td><td>Real; actual</td></tr><tr><td>否</td><td>fǒu</td><td>No; not</td></tr><tr><td>掌</td><td>zhǎng</td><td>Control</td></tr><tr><td>则</td><td>zé</td><td>Then</td></tr><tr><td>握</td><td>wò</td><td>Grasp</td></tr><tr><td>否则</td><td>fǒu zé</td><td>Otherwise</td></tr><tr><td>掌握</td><td>zhǎng wò</td><td>Grasp; master</td></tr><tr><td>温室</td><td>wēn shì</td><td>Green house</td></tr><tr><td>温室花朵</td><td>wēn shì huā duǒ</td><td>Green house flower (delicate, pampered)</td></tr><tr><td>娇气</td><td>jiāo qì</td><td>Delicate</td></tr><tr><td>应对</td><td>yìng duì</td><td>Respond, deal with</td></tr><tr><td>经</td><td>jīng</td><td>Stand, withstand</td></tr><tr><td>变化</td><td>biàn huà</td><td>Change</td></tr><tr><td>风雨</td><td>fēng yǔ</td><td>Hardship</td></tr><tr><td>对于</td><td>duì yú</td><td>Towards; regarding</td></tr><tr><td>应</td><td>yìng</td><td>Deal with</td></tr><tr><td>持</td><td>chí</td><td>Hold</td></tr></table><h3>作文：中学会考应不应该取消 (Should middle school exams be abolished?)</h3><h4>不应该 (should not be abolished)</h4><ol><li>测验能让学生了解自己对知识的实际掌握情况 a. 中学是打基础的阶段</li><li>考试是学习的动力 a. 推动学生们努力学习，取得好成绩</li><li>能为高考作准备 a. 有了考试的经验，学生高考时不会那么紧张，可以把真实水平发挥出来</li></ol><h4>应该 (should be abolished)</h4><ol><li>会考增添学生的压力 a. 学生已经面临很多压力，再施加压力对学生的健康会造成负面影响</li><li>取消会考能使学生发展其他方面 a. 能够鼓励他们追求自己的爱好，培养自己的才能 b. 例如：篮球、下棋</li></ol><h4>两方面 (总结 / conclusion covering both sides)</h4><ol><li>会考在中学阶段起到重要的作用，能推动学生复习功课，并使学生了解自己对知识的实际掌握情况，帮助学生更好地掌握基础知识。</li></ol><p>或</p><ol start=\"2\"><li>现在的学生面临各方面的压力，取消会考能减轻学生们的压力，促进学生的身心健康，使学生们有多余的时间去追求自己的兴趣，多方面发展。</li></ol>",
+      "flashcards": [
+        {
+          "q": "“会考”的意思是什么？",
+          "a": "huì kǎo，Exams。"
+        },
+        {
+          "q": "“挑战”的拼音与意思是什么？",
+          "a": "tiǎo zhàn，Challenge。"
+        },
+        {
+          "q": "“基础”的意思是什么？",
+          "a": "jī chǔ，Foundation。"
+        },
+        {
+          "q": "“掌握”的意思是什么？",
+          "a": "zhǎng wò，Grasp; master。"
+        },
+        {
+          "q": "“温室花朵”比喻什么？",
+          "a": "wēn shì huā duǒ，比喻像温室里的花朵一样嫩弱、娇气，无法承受风雨（困难）的人。"
+        },
+        {
+          "q": "支持“中学会考不应该取消”的第一个理由是什么？",
+          "a": "测验能让学生了解自己对知识的实际掌握情况，因为中学是打基础的阶段。"
+        },
+        {
+          "q": "支持“中学会考不应该取消”的第二个理由是什么？",
+          "a": "考试是学习的动力，能推动学生努力学习，取得好成绩。"
+        },
+        {
+          "q": "支持“中学会考不应该取消”的第三个理由是什么？",
+          "a": "能为高考作准备，有了考试经验，学生高考时不会那么紧张，可以把真实水平发挥出来。"
+        },
+        {
+          "q": "支持“中学会考应该取消”的第一个理由是什么？",
+          "a": "会考增添学生的压力，对学生的健康会造成负面影响。"
+        },
+        {
+          "q": "支持“中学会考应该取消”的第二个理由是什么？",
+          "a": "取消会考能使学生发展其他方面，鼓励追求爱好、培养才能，例如篮球、下棋。"
+        },
+        {
+          "q": "“否则”的意思是什么？",
+          "a": "fǒu zé，Otherwise。"
+        },
+        {
+          "q": "“紧张”的意思是什么？",
+          "a": "jǐn zhāng，Nervous。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "“会考”的意思是什么？",
+          "choices": [
+            "会议",
+            "考试/Exams",
+            "开会",
+            "考虑"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记中“会考”意为Exams。"
+        },
+        {
+          "question": "“温室花朵”这个说法比喻什么样的人？",
+          "choices": [
+            "坚强的人",
+            "娇气、无法承受困难的人",
+            "勤奋的人",
+            "富有的人"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记解释“温室花朵”意为娇气、无法承受风雨（困难）的人。"
+        },
+        {
+          "question": "根据笔记，支持保留会考的理由不包括以下哪项？",
+          "choices": [
+            "能让学生了解知识掌握情况",
+            "是学习的动力",
+            "能为高考作准备",
+            "能减轻学生压力"
+          ],
+          "answerIndex": 3,
+          "explanation": "“能减轻学生压力”是支持取消会考的理由，不是保留会考的理由。"
+        },
+        {
+          "question": "支持取消会考的理由之一是什么？",
+          "choices": [
+            "有助于打基础",
+            "能为高考做准备",
+            "增添学生压力，影响健康",
+            "是学习的动力"
+          ],
+          "answerIndex": 2,
+          "explanation": "笔记指出会考增添学生压力，对健康造成负面影响，是支持取消的理由。"
+        },
+        {
+          "question": "“掌握”的意思是？",
+          "choices": [
+            "放弃",
+            "Grasp; master (掌握、精通)",
+            "忘记",
+            "拒绝"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记中“掌握”意为Grasp; master。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "请列出两个反对取消中学会考的理由。",
+          "modelAnswer": "第一，测验能让学生了解自己对知识的实际掌握情况，因为中学是打基础的阶段；第二，考试是学习的动力，能推动学生们努力学习，取得好成绩；此外，会考也能为高考作准备，减少学生日后面对高考的紧张感。",
+          "rubric": [
+            "提到测验了解知识掌握情况/打基础",
+            "提到考试是学习动力",
+            "可提及为高考做准备"
+          ]
+        },
+        {
+          "prompt": "请列出支持取消中学会考的理由，并作简要总结。",
+          "modelAnswer": "支持取消会考的理由包括：会考增添学生的压力，对学生的身心健康造成负面影响；取消会考能让学生有更多时间发展其他方面，如追求兴趣、培养才能（如篮球、下棋）。总的来说，现在的学生面临各方面压力，取消会考能减轻压力，促进身心健康，让学生多方面发展。",
+          "rubric": [
+            "提到会考增添压力，影响健康",
+            "提到取消后可发展兴趣才能",
+            "作出总结性看法"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-2-vocab-and-essay",
+      "title": "第二课：词语与作文 - 上寄宿学校的利与弊；学历与能力",
+      "notesHtml": "<h3>词语表 (Vocabulary)</h3><table><tr><th>词语</th><th>拼音</th><th>解释</th></tr><tr><td>议</td><td>yì</td><td>discuss</td></tr><tr><td>律</td><td>lǜ</td><td>discipline</td></tr><tr><td>会议</td><td>huì yì</td><td>meeting</td></tr><tr><td>自律</td><td>zì lǜ</td><td>self-disciplined</td></tr><tr><td>是否</td><td>shì fǒu</td><td>whether</td></tr><tr><td>成熟</td><td>chéng shú</td><td>mature</td></tr><tr><td>离开</td><td>lí kāi</td><td>leave</td></tr><tr><td>秀</td><td>xiù</td><td>excellent</td></tr><tr><td>舍</td><td>shě</td><td>Give up</td></tr><tr><td>优秀</td><td>yōu xiù</td><td>excellent</td></tr><tr><td>令</td><td>lìng</td><td>Make; cause</td></tr><tr><td>当地</td><td>dāng dì</td><td>local</td></tr><tr><td>完全</td><td>wán quán</td><td>Completely</td></tr><tr><td>充分</td><td>chōng fèn</td><td>sufficient</td></tr><tr><td>封</td><td>fēng</td><td>Unit of measure</td></tr><tr><td>也许</td><td>yě xǔ</td><td>probably</td></tr><tr><td>目的</td><td>mù dì</td><td>purpose</td></tr><tr><td>适应</td><td>shì yìng</td><td>adapt</td></tr><tr><td>考</td><td>kǎo</td><td>verify</td></tr><tr><td>深信</td><td>shēn xìn</td><td>Believe strongly</td></tr><tr><td>虑</td><td>lǜ</td><td>consider</td></tr><tr><td>经历</td><td>jīng lì</td><td>experience</td></tr><tr><td>考虑</td><td>kǎo lǜ</td><td>consider</td></tr><tr><td>竞争</td><td>jìng zhēng</td><td>compete</td></tr><tr><td>阅</td><td>yuè</td><td>experience</td></tr><tr><td>终</td><td>zhōng</td><td>whole</td></tr><tr><td>阅历</td><td>yuè lì</td><td>experience</td></tr><tr><td>终生</td><td>zhōng shēng</td><td>All one's life</td></tr><tr><td>甚至</td><td>shèn zhì</td><td>even</td></tr><tr><td>失</td><td>shī</td><td>Fail to achieve</td></tr><tr><td>意想不到</td><td>yì xiǎng bú dào</td><td>unexpected</td></tr><tr><td>失望</td><td>shī wàng</td><td>disappointed</td></tr><tr><td>与</td><td>yǔ</td><td>with</td></tr><tr><td>恳</td><td>kěn</td><td>sincerely</td></tr><tr><td>自</td><td>zì</td><td>from</td></tr><tr><td>恳求</td><td>kěn qiú</td><td>Beg sincerely</td></tr><tr><td>来自</td><td>lái zì</td><td>Come from</td></tr><tr><td>过度</td><td>guò dù</td><td>excessive</td></tr><tr><td>处</td><td>chǔ</td><td>Get along with</td></tr><tr><td>同意</td><td>tóng yì</td><td>agree</td></tr><tr><td>相处</td><td>xiāng chǔ</td><td>Get along with</td></tr><tr><td>交往</td><td>jiāo wǎng</td><td>Associate with</td></tr><tr><td>触</td><td>chù</td><td>contact</td></tr><tr><td>合作</td><td>hé zuò</td><td>cooperate</td></tr><tr><td>接触</td><td>jiē chù</td><td>Come into contact with</td></tr><tr><td>自理</td><td>zì lǐ</td><td>Take care of oneself</td></tr><tr><td>如何</td><td>rú hé</td><td>How; what</td></tr></table><h3>作文：上寄宿学校的利与弊 (Pros and cons of attending a boarding school)</h3><h4>利 (Pros)</h4><ol start=\"4\"><li>读寄宿学校能丰富学生的生活阅历，甚至可能为学生带来意想不到的机会 a. 学生可以得到新的体验，并认识来自不同国家的人</li><li>可以跟世界各地的同学相处，接触到不同的文化，扩大视野</li><li>学生们能够学会跟他人交往，提高与人沟通、合作的能力</li><li>能培养学生的自立与自律能力，使他们更独立、成熟</li><li>能为上当地大学做好充分的准备</li></ol><h4>弊 (Cons)</h4><ol start=\"3\"><li>远离家人，缺乏家庭温暖</li><li>文化差异，学生可能无法适应</li><li>生活条件可能比较差 a. 在国外：住宿舍，与陌生人共享房间，公共厕所，配餐</li><li>当地人可能会歧视外地学生</li></ol><h4>总结</h4><p>总而言之，上寄宿学校有好处，也有坏处。上寄宿学校为学生提供许多宝贵的机会，使他们获益不浅，因此，上寄宿学校利大于弊。</p><p>或</p><p>上寄宿学校虽然有好处，但是，如果学生无法适应当地文化，那他也很难有效利用那些优势。</p><h3>作文：学历与能力 (Academic qualifications vs. ability)</h3><h4>学历</h4><ol><li>指大学以上教育与文凭</li><li>被人看重，是能力的证明，没有学历就没有展现能力的机会</li><li>大学教育教导重要的技能，如团队合作，人际关系，时间管理，批判性思维，丰富修养与文化，开阔视野与思维</li><li>更容易找工作 a. 每年毕业季，会有大量的毕业生涌入市场。许多用人单位（尤其是国家机关和事业单位）招聘人才时，会标注就职人员的学历要求即本科或者硕士以上学历，专科生往往就没有应聘的资格，这就意味着你将与高薪擦肩而过。当然了，高学历并不代表一定能成功，许多没学历的也一样成功，只是学历高意味着你会获得更多更大的机遇。</li><li>更多生活机会 a. 能够胜任不同的工作与专业，大学教育所学的知识在不同行业都有价值</li></ol><h4>能力</h4><ol><li>指本领，技能，本事，一般是从学校以外，生活经验而产生</li><li>难证明（除非有证书）</li><li>学历是死板的，只停留在上学的时光，没有弹性、也不能随时间而改变</li><li>容易培养、无需被教育系统或教育机构限制，不会那么贵</li><li>没有能力也不能争取学历</li></ol>",
+      "flashcards": [
+        {
+          "q": "“自律”的意思是什么？",
+          "a": "zì lǜ，self-disciplined。"
+        },
+        {
+          "q": "“阅历”的意思是什么？",
+          "a": "yuè lì，experience。"
+        },
+        {
+          "q": "“考虑”的拼音与意思是什么？",
+          "a": "kǎo lǜ，consider。"
+        },
+        {
+          "q": "上寄宿学校的一个好处是什么？",
+          "a": "能丰富学生的生活阅历，甚至可能带来意想不到的机会，学生可以得到新体验、认识不同国家的人。"
+        },
+        {
+          "q": "上寄宿学校的另一个好处是什么？",
+          "a": "能培养学生的自立与自律能力，使他们更独立、成熟；也能为上当地大学做好充分准备。"
+        },
+        {
+          "q": "上寄宿学校的一个坏处是什么？",
+          "a": "远离家人，缺乏家庭温暖；也可能因文化差异而无法适应。"
+        },
+        {
+          "q": "上寄宿学校在生活条件方面可能有什么坏处？",
+          "a": "生活条件可能比较差，如住宿舍、与陌生人共享房间、公共厕所、配餐等。"
+        },
+        {
+          "q": "“学历”指的是什么？",
+          "a": "指大学以上教育与文凭，被人看重，是能力的证明。"
+        },
+        {
+          "q": "“能力”指的是什么？",
+          "a": "指本领、技能、本事，一般是从学校以外，生活经验而产生的，难以证明（除非有证书）。"
+        },
+        {
+          "q": "为什么说学历更容易找工作？",
+          "a": "因为许多用人单位（尤其国家机关和事业单位）招聘时会要求本科或以上学历，专科生往往没有应聘资格。"
+        },
+        {
+          "q": "“恳求”的意思是什么？",
+          "a": "kěn qiú，Beg sincerely。"
+        },
+        {
+          "q": "“相处”的意思是什么？",
+          "a": "xiāng chǔ，Get along with。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "根据笔记，上寄宿学校的好处不包括以下哪项？",
+          "choices": [
+            "丰富生活阅历",
+            "培养自立自律能力",
+            "为当地大学做准备",
+            "不会有文化差异问题"
+          ],
+          "answerIndex": 3,
+          "explanation": "文化差异被列为寄宿学校的弊端之一，而非好处。"
+        },
+        {
+          "question": "上寄宿学校生活条件方面的弊端是什么？",
+          "choices": [
+            "房间宽敞舒适",
+            "住宿舍、与陌生人共享房间等条件较差",
+            "伙食丰富多样",
+            "无需自理生活"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记指出生活条件可能比较差，如住宿舍、与陌生人共享房间、公共厕所、配餐。"
+        },
+        {
+          "question": "“学历”在笔记中主要指什么？",
+          "choices": [
+            "生活经验",
+            "大学以上教育与文凭",
+            "本领与技能",
+            "个人性格"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记明确指出学历指大学以上教育与文凭。"
+        },
+        {
+          "question": "“能力”与“学历”相比有什么特点？",
+          "choices": [
+            "能力比学历更容易证明",
+            "能力难证明，除非有证书",
+            "学历难以培养",
+            "学历比能力更有弹性"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记指出能力难证明（除非有证书），而学历是有形的文凭。"
+        },
+        {
+          "question": "为什么许多招聘单位重视学历？",
+          "choices": [
+            "因为学历能保证能力强",
+            "因为常要求本科或以上学历，否则没有应聘资格",
+            "因为学历便宜易得",
+            "因为学历比能力更灵活"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记指出许多用人单位招聘时标注学历要求，专科生往往没有应聘资格。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "请说明上寄宿学校的两个主要好处和两个主要坏处。",
+          "modelAnswer": "好处：一是能丰富学生的生活阅历，接触不同文化，扩大视野，甚至带来意想不到的机会；二是能培养学生的自立与自律能力，使他们更独立成熟，并为上当地大学做好准备。坏处：一是远离家人，缺乏家庭温暖，且可能因文化差异无法适应；二是生活条件可能较差，如与陌生人共享房间、使用公共厕所等。",
+          "rubric": [
+            "提到丰富阅历/接触不同文化",
+            "提到培养自立自律能力",
+            "提到远离家人缺乏温暖或文化差异",
+            "提到生活条件较差"
+          ]
+        },
+        {
+          "prompt": "请比较学历与能力的分别。",
+          "modelAnswer": "学历指大学以上教育与文凭，是能力的证明，较容易被认可，方便求职，但比较死板，不能随时间弹性改变；能力指本领、技能，通常从生活经验中产生，难以证明（除非有证书），但容易培养，不受教育机构限制。",
+          "rubric": [
+            "说明学历的定义与优点（容易证明、方便求职）",
+            "说明能力的定义（本领技能，源自生活经验）",
+            "指出能力难证明但容易培养的特点"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-3-vocab-and-essay",
+      "title": "第三课：词语与作文 - 穿校服的好处与坏处",
+      "notesHtml": "<h3>词语表 (Vocabulary)</h3><table><tr><th>词语</th><th>拼音</th><th>解释</th></tr><tr><td>尊</td><td>zūn</td><td>respect</td></tr><tr><td>攀比</td><td>pān bǐ</td><td>Compare with and try to follow</td></tr><tr><td>敬</td><td>jìng</td><td>respect</td></tr><tr><td>平等</td><td>píng děng</td><td>equal</td></tr><tr><td>尊敬</td><td>zūn jìng</td><td>honorable</td></tr><tr><td>分心</td><td>fēn xīn</td><td>distract</td></tr><tr><td>得体</td><td>dé tǐ</td><td>appropriate</td></tr><tr><td>展现</td><td>zhǎn xiàn</td><td>display</td></tr><tr><td>此</td><td>cǐ</td><td>now; here</td></tr><tr><td>于</td><td>yú</td><td>To; for</td></tr><tr><td>代</td><td>dài</td><td>Take the place of</td></tr><tr><td>观</td><td>guān</td><td>view</td></tr><tr><td>代表</td><td>dài biǎo</td><td>represent</td></tr><tr><td>观点</td><td>guān diǎn</td><td>viewpoint</td></tr><tr><td>挑</td><td>tiāo</td><td>choose</td></tr><tr><td>看</td><td>kàn</td><td>consider</td></tr><tr><td>挑选</td><td>tiāo xuǎn</td><td>choose</td></tr><tr><td>看法</td><td>kàn fǎ</td><td>view</td></tr><tr><td>根本</td><td>gēn běn</td><td>entirely</td></tr><tr><td>而</td><td>ér</td><td>while</td></tr><tr><td>身份</td><td>shēn fèn</td><td>identity</td></tr><tr><td>空间</td><td>kōng jiān</td><td>space</td></tr><tr><td>征</td><td>zhēng</td><td>evidence</td></tr><tr><td>象征</td><td>xiàng zhēng</td><td>symbol</td></tr><tr><td>审</td><td>shěn</td><td>comprehend</td></tr><tr><td>归</td><td>guī</td><td>Belong to</td></tr><tr><td>审美</td><td>shěn měi</td><td>Appreciative of beauty</td></tr><tr><td>归属</td><td>guī shǔ</td><td>Belong to</td></tr><tr><td>感谢</td><td>gǎn xiè</td><td>Be thankful</td></tr><tr><td>约</td><td>yuē</td><td>restrict</td></tr><tr><td>听取</td><td>tīng qǔ</td><td>Listen to</td></tr><tr><td>束</td><td>shù</td><td>restrict</td></tr><tr><td>谈</td><td>tán</td><td>talk</td></tr><tr><td>约束</td><td>yuē shù</td><td>restrain</td></tr><tr><td>将</td><td>jiāng</td><td>will</td></tr><tr><td>意识</td><td>yì shí</td><td>consciousness</td></tr><tr><td>胜</td><td>shèng</td><td>bear</td></tr><tr><td>下意识</td><td>xià yì shí</td><td>subconsciously</td></tr><tr><td>不胜</td><td>bù shèng</td><td>extremely</td></tr><tr><td>留意</td><td>liú yì</td><td>Beware of</td></tr><tr><td>激</td><td>jī</td><td>(feeling) stirred or moved</td></tr><tr><td>言行</td><td>yán xíng</td><td>Words and deeds</td></tr><tr><td>感激</td><td>gǎn jī</td><td>Feel grateful</td></tr><tr><td>举</td><td>jǔ</td><td>Act; deed</td></tr><tr><td>致</td><td>zhì</td><td>extend</td></tr><tr><td>举止</td><td>jǔ zhǐ</td><td>manner</td></tr><tr><td>此致</td><td>cǐ zhì</td><td>Here I wish to convey</td></tr><tr><td>防止</td><td>fáng zhǐ</td><td>prevent</td></tr><tr><td>敬礼</td><td>jìng lǐ</td><td>salute</td></tr><tr><td>攀</td><td>pān</td><td>climb</td></tr><tr><td>此致敬礼</td><td>cǐ zhì jìng lǐ</td><td>With best wishes</td></tr></table><h3>作文：穿校服的好处与坏处 (Pros and cons of wearing school uniform)</h3><h4>利 (Pros)</h4><ol><li>能节省时间 - 学生们早上起床没有太多时间挑选衣服。如果穿校服，学生们根本不用花时间考虑穿衣问题，既省时又方便。</li><li>身份象征，归属感</li><li>校服是一种约束 - 穿校服时学生们会下意识地留意自己的言行举止。</li><li>防止攀比</li><li>让学生少分心，集中精力学习</li></ol><h4>弊 (Cons)</h4><ol><li>贵、需花钱</li><li>没有特点，同一化</li></ol>",
+      "flashcards": [
+        {
+          "q": "“尊敬”的拼音与意思是什么？",
+          "a": "zūn jìng，honorable/尊重。"
+        },
+        {
+          "q": "“攀比”的意思是什么？",
+          "a": "pān bǐ，Compare with and try to follow。"
+        },
+        {
+          "q": "“约束”的意思是什么？",
+          "a": "yuē shù，restrain。"
+        },
+        {
+          "q": "穿校服的好处之一——能节省时间，具体是什么意思？",
+          "a": "学生早上不用花时间挑选衣服，既省时又方便。"
+        },
+        {
+          "q": "穿校服象征什么？",
+          "a": "身份象征，归属感。"
+        },
+        {
+          "q": "穿校服如何起到约束作用？",
+          "a": "穿校服时学生们会下意识地留意自己的言行举止。"
+        },
+        {
+          "q": "穿校服能防止什么？",
+          "a": "防止攀比。"
+        },
+        {
+          "q": "穿校服的一个坏处是什么？",
+          "a": "贵、需花钱；也会让学生没有特点，趋于同一化。"
+        },
+        {
+          "q": "“此致敬礼”的意思是什么？",
+          "a": "cǐ zhì jìng lǐ，With best wishes（书信结尾用语）。"
+        },
+        {
+          "q": "“下意识”的意思是什么？",
+          "a": "xià yì shí，subconsciously。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "穿校服的好处之一是什么？",
+          "choices": [
+            "能增加攀比",
+            "能节省早上挑选衣服的时间",
+            "能提高学习成绩",
+            "能增加穿衣自由"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记指出穿校服能节省时间，学生不用花时间挑选衣服。"
+        },
+        {
+          "question": "“约束”在笔记中的意思是？",
+          "choices": [
+            "自由",
+            "restrain（限制/约束）",
+            "放松",
+            "攀比"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记明确“约束”意为restrain。"
+        },
+        {
+          "question": "穿校服如何帮助防止攀比？",
+          "choices": [
+            "因为校服很贵",
+            "因为大家穿着相同的衣服，没有比较的空间",
+            "因为校服很好看",
+            "因为校服可以自由搭配"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记提到穿校服能防止攀比，因大家衣着统一。"
+        },
+        {
+          "question": "根据笔记，穿校服的一个坏处是什么？",
+          "choices": [
+            "节省时间",
+            "没有特点，同一化",
+            "增加约束力",
+            "培养归属感"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记列出穿校服的坏处包括贵、需花钱，以及没有特点、同一化。"
+        },
+        {
+          "question": "“下意识”的意思是？",
+          "choices": [
+            "有意识地",
+            "subconsciously（潜意识地）",
+            "故意地",
+            "公开地"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记中“下意识”意为subconsciously。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "请说明穿校服的三个好处。",
+          "modelAnswer": "穿校服的好处包括：一，能节省时间，学生不用花时间挑选衣服，既省时又方便；二，校服是身份的象征，能带来归属感；三，校服是一种约束，学生穿校服时会下意识留意自己的言行举止，同时也能防止学生之间的攀比，让学生少分心，集中精力学习。",
+          "rubric": [
+            "提到节省时间",
+            "提到身份象征/归属感",
+            "提到约束作用/防止攀比"
+          ]
+        },
+        {
+          "prompt": "穿校服有哪些缺点？",
+          "modelAnswer": "穿校服的缺点包括：需要额外花钱购买；而且大家穿着相同的服装，会让学生失去个人特点，趋于同一化。",
+          "rubric": [
+            "提到需花钱",
+            "提到没有特点/同一化"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-4-vocab-and-essay",
+      "title": "第四课：词语与作文 - 培养好习惯；青少年面对烦恼和压力的态度",
+      "notesHtml": "<h3>词语表 (Vocabulary)</h3><table><tr><th>词语</th><th>拼音</th><th>解释</th></tr><tr><td>者</td><td>zhě</td><td>A person</td></tr><tr><td>负</td><td>fù</td><td>negative</td></tr><tr><td>记者</td><td>jì zhě</td><td>journalist</td></tr><tr><td>负面</td><td>fù miàn</td><td>negative</td></tr><tr><td>专家</td><td>zhuān jiā</td><td>expert</td></tr><tr><td>迅</td><td>xùn</td><td>rapid</td></tr><tr><td>其</td><td>qí</td><td>His; her; its; their</td></tr><tr><td>迅速</td><td>xùn sù</td><td>rapid</td></tr><tr><td>成因</td><td>chéng yīn</td><td>cause</td></tr><tr><td>发展</td><td>fā zhǎn</td><td>develop</td></tr><tr><td>及</td><td>jí</td><td>and</td></tr><tr><td>众</td><td>zhòng</td><td>numerous</td></tr><tr><td>逃</td><td>táo</td><td>escape</td></tr><tr><td>大众</td><td>dà zhòng</td><td>The masses</td></tr><tr><td>逃学</td><td>táo xué</td><td>Play truant</td></tr><tr><td>媒</td><td>méi</td><td>medium</td></tr><tr><td>瘾</td><td>yǐn</td><td>addiction</td></tr><tr><td>传媒</td><td>chuán méi</td><td>media</td></tr><tr><td>沉</td><td>chén</td><td>deep</td></tr><tr><td>益</td><td>yì</td><td>increase</td></tr><tr><td>沉迷</td><td>chén mí</td><td>Indulge in</td></tr><tr><td>日益</td><td>rì yì</td><td>Increasingly</td></tr><tr><td>偷</td><td>tōu</td><td>steal</td></tr><tr><td>消</td><td>xiāo</td><td>disappear</td></tr><tr><td>抽</td><td>chōu</td><td>draw</td></tr><tr><td>消极</td><td>xiāo jí</td><td>negative</td></tr><tr><td>烟</td><td>yān</td><td>cigarette</td></tr><tr><td>家长</td><td>jiā cháng</td><td>parent</td></tr><tr><td>抽烟</td><td>chōu yān</td><td>smoke</td></tr><tr><td>办法</td><td>bàn fǎ</td><td>way</td></tr><tr><td>毒</td><td>dú</td><td>drugs</td></tr><tr><td>正面</td><td>zhèng miàn</td><td>positive</td></tr><tr><td>吸毒</td><td>xī dú</td><td>Take drugs</td></tr><tr><td>激</td><td>jī</td><td>stimulate</td></tr><tr><td>造成</td><td>zào chéng</td><td>cause</td></tr><tr><td>激发</td><td>jī fā</td><td>stimulate</td></tr><tr><td>当</td><td>dāng</td><td>appropriate</td></tr><tr><td>导</td><td>dǎo</td><td>lead</td></tr><tr><td>不当</td><td>bù dāng</td><td>inappropriate</td></tr><tr><td>引导</td><td>yǐn dǎo</td><td>lead</td></tr><tr><td>教育</td><td>jiào yù</td><td>educate</td></tr><tr><td>有益</td><td>yǒu yì</td><td>beneficial</td></tr><tr><td>形</td><td>xíng</td><td>present</td></tr><tr><td>身心</td><td>shēn xīn</td><td>Body and mind</td></tr><tr><td>形成</td><td>xíng chéng</td><td>form</td></tr><tr><td>扬</td><td>yáng</td><td>spread</td></tr><tr><td>逆</td><td>nì</td><td>disobey</td></tr><tr><td>表扬</td><td>biǎo yáng</td><td>praise</td></tr><tr><td>逆反</td><td>nì fǎn</td><td>rebellious</td></tr><tr><td>朝</td><td>zhāo</td><td>towards</td></tr><tr><td>心里</td><td>xīn lǐ</td><td>mentality</td></tr><tr><td>积极</td><td>jī jí</td><td>positive</td></tr><tr><td>同辈</td><td>tóng bèi</td><td>peer</td></tr><tr><td>接受</td><td>jiē shòu</td><td>accept</td></tr><tr><td>采</td><td>cǎi</td><td>collect</td></tr><tr><td>采访</td><td>cǎi fǎng</td><td>interview</td></tr></table><h3>作文：培养好习惯 (Cultivating good habits)</h3><h4>好习惯</h4><ol><li>上课要集中精神，认真听讲，主动回答问题</li><li>记笔记</li><li>不懂就问，不带问题离开课堂</li><li>主动帮助别人，又要虚心向别人学习</li><li>课后及时复习，真正掌握课上所学的内容</li><li>按时、独立完成作业，不要把作业留到最后一分钟</li><li>培养实践能力</li><li>培养自律能力</li><li>树立目标</li><li>积极的态度</li><li>学会坚持</li><li>锻炼身体</li><li>多阅读</li></ol><h4>坏习惯</h4><ol><li>逃学</li><li>网瘾</li><li>偷东西</li><li>抽烟 / 吸毒</li></ol><h3>作文：青少年应该用什么态度面对烦恼和压力？</h3><ol><li>以正面、积极的态度应对任何烦恼</li><li>不放弃，坚持到底</li><li>保留希望，艰辛情况会改善</li><li>积极寻求帮助 - 向老师、父母、同学、朋友求助，并进行辅导，恢复自信与意志</li></ol>",
+      "flashcards": [
+        {
+          "q": "“逃学”的意思是什么？",
+          "a": "táo xué，Play truant（逃避上学）。"
+        },
+        {
+          "q": "“沉迷”的意思是什么？",
+          "a": "chén mí，Indulge in。"
+        },
+        {
+          "q": "“吸毒”的意思是什么？",
+          "a": "xī dú，Take drugs。"
+        },
+        {
+          "q": "“逆反”的意思是什么？",
+          "a": "nì fǎn，rebellious。"
+        },
+        {
+          "q": "培养好习惯之一是什么？",
+          "a": "上课要集中精神，认真听讲，主动回答问题。"
+        },
+        {
+          "q": "培养好习惯还包括什么？",
+          "a": "课后及时复习，真正掌握课上所学的内容；按时、独立完成作业，不要留到最后一分钟。"
+        },
+        {
+          "q": "什么是常见的坏习惯（笔记中列出）？",
+          "a": "逃学、网瘾、偷东西、抽烟/吸毒。"
+        },
+        {
+          "q": "青少年应该以什么态度面对烦恼和压力？",
+          "a": "以正面、积极的态度应对，不放弃、坚持到底，保留希望，并积极寻求帮助。"
+        },
+        {
+          "q": "青少年遇到压力时可以向谁求助？",
+          "a": "向老师、父母、同学、朋友求助，并进行辅导，恢复自信与意志。"
+        },
+        {
+          "q": "“表扬”的意思是什么？",
+          "a": "biǎo yáng，praise。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "以下哪一项属于笔记中列出的坏习惯？",
+          "choices": [
+            "记笔记",
+            "逃学",
+            "锻炼身体",
+            "树立目标"
+          ],
+          "answerIndex": 1,
+          "explanation": "逃学是笔记中列出的坏习惯之一。"
+        },
+        {
+          "question": "根据笔记，青少年面对烦恼和压力应该采取什么态度？",
+          "choices": [
+            "消极逃避",
+            "正面积极的态度，坚持到底",
+            "放弃目标",
+            "独自承受，不求助"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记指出应以正面、积极的态度应对，不放弃，并积极寻求帮助。"
+        },
+        {
+          "question": "“逆反”的意思是？",
+          "choices": [
+            "顺从的",
+            "rebellious（叛逆的）",
+            "害怕的",
+            "积极的"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记中“逆反”意为rebellious。"
+        },
+        {
+          "question": "下列哪一项是笔记中列出的好习惯？",
+          "choices": [
+            "逃学",
+            "不懂就问，不带问题离开课堂",
+            "偷东西",
+            "吸毒"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记列出的好习惯包括“不懂就问，不带问题离开课堂”。"
+        },
+        {
+          "question": "青少年面对压力时可以向哪些人求助？",
+          "choices": [
+            "只能靠自己",
+            "老师、父母、同学、朋友",
+            "陌生人",
+            "不需要求助"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记指出应向老师、父母、同学、朋友求助，进行辅导。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "请列举三个培养好习惯的方法。",
+          "modelAnswer": "培养好习惯的方法包括：上课集中精神、认真听讲、主动回答问题；课后及时复习，真正掌握所学内容；按时独立完成作业，不拖到最后一分钟；此外还应培养自律能力、树立目标并保持积极态度。",
+          "rubric": [
+            "提到上课认真/主动回答",
+            "提到及时复习",
+            "提到按时独立完成作业或其他笔记中提到的好习惯"
+          ]
+        },
+        {
+          "prompt": "青少年应该用什么态度面对烦恼和压力？请说明。",
+          "modelAnswer": "青少年应以正面、积极的态度应对烦恼和压力，不轻言放弃，坚持到底，并保留希望，相信艰辛的情况会改善；同时应积极向老师、父母、同学或朋友求助，通过辅导恢复自信与意志。",
+          "rubric": [
+            "提到正面积极、不放弃、坚持到底",
+            "提到保留希望",
+            "提到积极寻求帮助（老师、父母、同学、朋友）"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-5-vocab",
+      "title": "第五课：词语表 (Vocabulary)",
+      "notesHtml": "<table><tr><th>词语</th><th>拼音</th><th>解释</th></tr><tr><td>通知</td><td>tōng zhī</td><td>notice</td></tr><tr><td>礼貌</td><td>lǐ mào</td><td>polite</td></tr><tr><td>山东</td><td>shān dōng</td><td>Shandong province</td></tr><tr><td>好客</td><td>hǎo kè</td><td>Be hospitable</td></tr><tr><td>贫</td><td>pín</td><td>poor</td></tr><tr><td>珍惜</td><td>zhēn xī</td><td>cherish</td></tr><tr><td>贫困</td><td>pín kùn</td><td>poor</td></tr><tr><td>勤奋</td><td>qín fèn</td><td>diligent</td></tr><tr><td>县</td><td>xiàn</td><td>county</td></tr><tr><td>开阔</td><td>kāi kuò</td><td>widen</td></tr><tr><td>教授</td><td>jiào shòu</td><td>teach</td></tr><tr><td>眼界</td><td>yǎn jiè</td><td>Field of vision</td></tr><tr><td>该</td><td>gāi</td><td>said</td></tr><tr><td>乡村</td><td>xiāng cūn</td><td>Village; countryside</td></tr><tr><td>备课</td><td>bèi kè</td><td>Prepare lessons</td></tr><tr><td>差别</td><td>chà bié</td><td>difference</td></tr><tr><td>设计</td><td>shè jì</td><td>design</td></tr><tr><td>农村</td><td>nóng cūn</td><td>village</td></tr><tr><td>出发</td><td>chū fā</td><td>Set out</td></tr><tr><td>真正</td><td>zhēn zhèng</td><td>True; real</td></tr><tr><td>组织</td><td>zǔ zhī</td><td>organise</td></tr><tr><td>含义</td><td>hán yì</td><td>meaning</td></tr><tr><td>捐款</td><td>juān kuǎn</td><td>donate</td></tr><tr><td>更加</td><td>gēng jiā</td><td>Even more</td></tr><tr><td>筹款</td><td>chóu kuǎn</td><td>Raise money</td></tr><tr><td>拥有</td><td>yōng yǒu</td><td>possess</td></tr><tr><td>此</td><td>cǐ</td><td>this</td></tr><tr><td>一切</td><td>yī qiē</td><td>all</td></tr><tr><td>品德</td><td>pǐn dé</td><td>Moral character</td></tr><tr><td>将来</td><td>jiāng lái</td><td>future</td></tr><tr><td>家境</td><td>jiā jìng</td><td>Family financial circumstance</td></tr><tr><td>登录</td><td>dēng lù</td><td>Log in</td></tr><tr><td>穷</td><td>qióng</td><td>poor</td></tr><tr><td>网站</td><td>wǎng zhàn</td><td>website</td></tr><tr><td>朴</td><td>pǔ</td><td>Simple; plain</td></tr><tr><td>贫穷</td><td>pín qióng</td><td>poor</td></tr><tr><td>朴实</td><td>pǔ shí</td><td>Simple; plain</td></tr><tr><td>条件</td><td>tiáo jiàn</td><td>condition</td></tr></table>",
+      "flashcards": [
+        {
+          "q": "“开阔眼界”的意思是什么？",
+          "a": "kāi kuò yǎn jiè，Widen one's field of vision。"
+        },
+        {
+          "q": "“贫困”的意思是什么？",
+          "a": "pín kùn，poor。"
+        },
+        {
+          "q": "“捐款”的拼音与意思是什么？",
+          "a": "juān kuǎn，donate。"
+        },
+        {
+          "q": "“筹款”的意思是什么？",
+          "a": "chóu kuǎn，Raise money。"
+        },
+        {
+          "q": "“品德”的意思是什么？",
+          "a": "pǐn dé，Moral character。"
+        },
+        {
+          "q": "“家境”的意思是什么？",
+          "a": "jiā jìng，Family financial circumstance。"
+        },
+        {
+          "q": "“乡村”的意思是什么？",
+          "a": "xiāng cūn，Village; countryside。"
+        },
+        {
+          "q": "“朴实”的意思是什么？",
+          "a": "pǔ shí，Simple; plain。"
+        },
+        {
+          "q": "“好客”的意思是什么？",
+          "a": "hǎo kè，Be hospitable。"
+        },
+        {
+          "q": "“备课”的意思是什么？",
+          "a": "bèi kè，Prepare lessons。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "“开阔眼界”的意思是？",
+          "choices": [
+            "缩小视野",
+            "Widen one's field of vision（扩展视野）",
+            "忽视问题",
+            "专注一点"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记中“开阔眼界”意为Widen one's field of vision。"
+        },
+        {
+          "question": "“捐款”与“筹款”的意思分别是？",
+          "choices": [
+            "都是指借钱",
+            "捐款是donate，筹款是Raise money",
+            "捐款是Raise money，筹款是donate",
+            "两者意思相同，无分别"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记中“捐款”是donate，“筹款”是Raise money。"
+        },
+        {
+          "question": "“家境”指的是什么？",
+          "choices": [
+            "家里的装饰",
+            "Family financial circumstance（家庭经济状况）",
+            "家庭成员数量",
+            "家乡地理位置"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记中“家境”意为Family financial circumstance。"
+        },
+        {
+          "question": "“朴实”的意思是？",
+          "choices": [
+            "奢华的",
+            "Simple; plain（简朴的）",
+            "复杂的",
+            "昂贵的"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记中“朴实”意为Simple; plain。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "请解释“捐款”与“筹款”的分别，并各举出词性说明。",
+          "modelAnswer": "“捐款”（juān kuǎn）意为donate，指个人捐出钱财；“筹款”（chóu kuǎn）意为Raise money，指为某个目的而集资、募集资金，两者相关但捐款是单向给予，筹款是集资的过程。",
+          "rubric": [
+            "正确解释捐款为donate",
+            "正确解释筹款为Raise money",
+            "说明两者之间的区别（个人捐出 vs 集资过程）"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-6-vocab",
+      "title": "第六课：词语表 (Vocabulary)",
+      "notesHtml": "<table><tr><th>词语</th><th>拼音</th><th>解释</th></tr><tr><td>恋</td><td>liàn</td><td>Fall in love</td></tr><tr><td>分手</td><td>fēn shǒu</td><td>Break up</td></tr><tr><td>恋爱</td><td>liàn ài</td><td>Fall in love</td></tr><tr><td>双方</td><td>shuāng fāng</td><td>Both sides</td></tr><tr><td>现象</td><td>xiàn xiàng</td><td>phenomenon</td></tr><tr><td>伤</td><td>shāng</td><td>hurt</td></tr><tr><td>遍</td><td>biàn</td><td>All over</td></tr><tr><td>伤心</td><td>shāng xīn</td><td>sad</td></tr><tr><td>普遍</td><td>pǔ biàn</td><td>widespread</td></tr><tr><td>苦恼</td><td>kǔ nǎo</td><td>distressed</td></tr><tr><td>时常</td><td>shí cháng</td><td>often</td></tr><tr><td>赞</td><td>zàn</td><td>praise</td></tr><tr><td>侣</td><td>lǚ</td><td>companion</td></tr><tr><td>赞成</td><td>zàn chéng</td><td>Agree with</td></tr><tr><td>情侣</td><td>qíng lǚ</td><td>A pair of lovers</td></tr><tr><td>心智</td><td>xīn zhì</td><td>wisdom</td></tr><tr><td>情景</td><td>qíng jǐng</td><td>scene</td></tr><tr><td>把握</td><td>bǎ wò</td><td>hold</td></tr><tr><td>羡</td><td>xiàn</td><td>Admire; envy</td></tr><tr><td>情感</td><td>qíng gǎn</td><td>Emotion; feeling</td></tr><tr><td>慕</td><td>mù</td><td>Admire; envy</td></tr><tr><td>爱情</td><td>ài qíng</td><td>love</td></tr><tr><td>羡慕</td><td>xiàn mù</td><td>Admire; envy</td></tr><tr><td>回</td><td>huí</td><td>A measure word used to indicate frequency of occurrence</td></tr><tr><td>却</td><td>què</td><td>Yet; however</td></tr><tr><td>处理</td><td>chǔ lǐ</td><td>Handle; deal with</td></tr><tr><td>共同</td><td>gòng tóng</td><td>together</td></tr><tr><td>确定</td><td>què dìng</td><td>certain</td></tr><tr><td>佳</td><td>jiā</td><td>good</td></tr><tr><td>再说</td><td>zài shuō</td><td>What is more</td></tr><tr><td>慰</td><td>wèi</td><td>comfort</td></tr><tr><td>总之</td><td>zǒng zhī</td><td>In a word</td></tr><tr><td>安慰</td><td>ān wèi</td><td>comfort</td></tr><tr><td>学业</td><td>xué yè</td><td>One's studies</td></tr><tr><td>时光</td><td>shí guāng</td><td>time</td></tr><tr><td>课余</td><td>kè yú</td><td>After school</td></tr><tr><td>成为</td><td>chéng wéi</td><td>become</td></tr><tr><td>留</td><td>liú</td><td>Leave (over)</td></tr><tr><td>美好</td><td>měi hǎo</td><td>beautiful</td></tr><tr><td>留言</td><td>liú yán</td><td>Leave one's comments</td></tr><tr><td>忆</td><td>yì</td><td>recall</td></tr><tr><td>评</td><td>píng</td><td>comment</td></tr><tr><td>回忆</td><td>huí yì</td><td>recall</td></tr><tr><td>评论</td><td>píng lùn</td><td>comment</td></tr><tr><td>看来</td><td>kàn lái</td><td>seem</td></tr><tr><td>藏</td><td>cáng</td><td>store</td></tr><tr><td>出现</td><td>chū xiàn</td><td>Appear; emerge</td></tr><tr><td>收藏</td><td>shōu cáng</td><td>collect</td></tr><tr><td>感情</td><td>gǎn qíng</td><td>feeling</td></tr><tr><td>转载</td><td>zhuǎn zài</td><td>reprint</td></tr><tr><td>危</td><td>wēi</td><td>danger</td></tr><tr><td>打印</td><td>dǎ yìn</td><td>print</td></tr><tr><td>危机</td><td>wēi jī</td><td>crisis</td></tr></table>",
+      "flashcards": [
+        {
+          "q": "“恋爱”的意思是什么？",
+          "a": "liàn ài，Fall in love。"
+        },
+        {
+          "q": "“分手”的意思是什么？",
+          "a": "fēn shǒu，Break up。"
+        },
+        {
+          "q": "“羡慕”的意思是什么？",
+          "a": "xiàn mù，Admire; envy。"
+        },
+        {
+          "q": "“把握”的意思是什么？",
+          "a": "bǎ wò，hold。"
+        },
+        {
+          "q": "“安慰”的意思是什么？",
+          "a": "ān wèi，comfort。"
+        },
+        {
+          "q": "“回忆”的意思是什么？",
+          "a": "huí yì，recall。"
+        },
+        {
+          "q": "“危机”的意思是什么？",
+          "a": "wēi jī，crisis。"
+        },
+        {
+          "q": "“普遍”的意思是什么？",
+          "a": "pǔ biàn，widespread。"
+        },
+        {
+          "q": "“情侣”的意思是什么？",
+          "a": "qíng lǚ，A pair of lovers。"
+        },
+        {
+          "q": "“转载”的意思是什么？",
+          "a": "zhuǎn zài，reprint。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "“分手”的意思是什么？",
+          "choices": [
+            "Fall in love",
+            "Break up",
+            "Comfort",
+            "Recall"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记中“分手”意为Break up。"
+        },
+        {
+          "question": "“羡慕”的意思是什么？",
+          "choices": [
+            "Hate",
+            "Admire; envy",
+            "Ignore",
+            "Forget"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记中“羡慕”意为Admire; envy。"
+        },
+        {
+          "question": "“危机”的意思是什么？",
+          "choices": [
+            "Opportunity",
+            "Crisis",
+            "Safety",
+            "Comfort"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记中“危机”意为crisis。"
+        },
+        {
+          "question": "“普遍”的意思是什么？",
+          "choices": [
+            "罕见的",
+            "Widespread（普遍的）",
+            "单一的",
+            "个别的"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记中“普遍”意为widespread。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "请列举本课中三个与情感相关的词语并解释意思。",
+          "modelAnswer": "例如：“恋爱”（liàn ài）意为Fall in love；“分手”（fēn shǒu）意为Break up；“羡慕”（xiàn mù）意为Admire; envy，均是与情感相关的词汇。",
+          "rubric": [
+            "正确列举至少三个词语",
+            "准确解释各词语意思",
+            "拼音正确"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-7-vocab",
+      "title": "第七课：词语表 (Vocabulary)",
+      "notesHtml": "<table><tr><th>词语</th><th>拼音</th><th>解释</th></tr><tr><td>片</td><td>piàn</td><td>Movie, film</td></tr><tr><td>胆小</td><td>dǎn xiǎo</td><td>timid</td></tr><tr><td>动画片</td><td>dòng huà piàn</td><td>cartoon</td></tr><tr><td>武功</td><td>wǔ gōng</td><td>Martial arts</td></tr><tr><td>功夫</td><td>gōng fū</td><td>Kung Fu, martial arts</td></tr><tr><td>林</td><td>lín</td><td>circles</td></tr><tr><td>映</td><td>yìng</td><td>Project a movie</td></tr><tr><td>武林</td><td>wǔ lín</td><td>Martial arts circles</td></tr><tr><td>公映</td><td>gōng yìng</td><td>(film) released to the public</td></tr><tr><td>手</td><td>shǒu</td><td>A person with a certain skill</td></tr><tr><td>观众</td><td>guān zhòng</td><td>audience</td></tr><tr><td>高手</td><td>gāo shǒu</td><td>expert</td></tr><tr><td>故事</td><td>gù shì</td><td>story</td></tr><tr><td>看不起</td><td>kàn bù qǐ</td><td>Look down upon</td></tr><tr><td>述</td><td>shù</td><td>narrate</td></tr><tr><td>弃</td><td>qì</td><td>abandon</td></tr><tr><td>讲述</td><td>jiǎng shù</td><td>Tell about</td></tr><tr><td>放弃</td><td>fàng qì</td><td>Give up</td></tr><tr><td>斗</td><td>dǒu</td><td>fight</td></tr><tr><td>终</td><td>zhōng</td><td>end</td></tr><tr><td>斗士</td><td>dǒu shì</td><td>warrior</td></tr><tr><td>最终</td><td>zuì zhōng</td><td>final</td></tr><tr><td>营</td><td>yíng</td><td>Operate; manage</td></tr><tr><td>败</td><td>bài</td><td>defeat</td></tr><tr><td>经营</td><td>jīng yíng</td><td>Operate; manage</td></tr><tr><td>打败</td><td>dǎ bài</td><td>defeat</td></tr><tr><td>亲</td><td>qīn</td><td>parent</td></tr><tr><td>豹</td><td>bào</td><td>leopard</td></tr><tr><td>父亲</td><td>fù qīn</td><td>father</td></tr><tr><td>美感</td><td>měi gǎn</td><td>Sense of beauty</td></tr><tr><td>承</td><td>chéng</td><td>continue</td></tr><tr><td>享受</td><td>xiǎng shòu</td><td>enjoy</td></tr><tr><td>继承</td><td>jì chéng</td><td>Inherit; carry on</td></tr><tr><td>启</td><td>qǐ</td><td>inspire</td></tr><tr><td>生意</td><td>shēng yì</td><td>Business</td></tr><tr><td>启示</td><td>qǐ shì</td><td>inspiration</td></tr><tr><td>侠</td><td>xiá</td><td>Chivalrous expert swordsman</td></tr><tr><td>面</td><td>miàn</td><td>surface</td></tr><tr><td>谷</td><td>gǔ</td><td>Valley</td></tr><tr><td>画面</td><td>huà miàn</td><td>Picturesque presentation</td></tr><tr><td>误</td><td>wù</td><td>Accidental</td></tr><tr><td>活龙活现</td><td>huó lóng huó xiàn</td><td>vivid</td></tr><tr><td>撞</td><td>zhuàng</td><td>Meet by chance</td></tr><tr><td>幽默</td><td>yōu mò</td><td>humourous</td></tr><tr><td>误打误撞</td><td>wù dǎ wù zhuàng</td><td>As luck would have it</td></tr><tr><td>联系</td><td>lián xì</td><td>Contact with</td></tr><tr><td>笨</td><td>bèn</td><td>clumsy</td></tr><tr><td>碰</td><td>pèng</td><td>Come across</td></tr><tr><td>拙</td><td>zhuō</td><td>clumsy</td></tr><tr><td>避</td><td>bì</td><td>avoid</td></tr><tr><td>笨拙</td><td>bèn zhuō</td><td>clumsy</td></tr><tr><td>逃避</td><td>táo bì</td><td>escape</td></tr><tr><td>胆</td><td>dǎn</td><td>courage</td></tr><tr><td>失</td><td>shī</td><td>lose</td></tr><tr><td>失去</td><td>shī qù</td><td>lose</td></tr><tr><td>信心</td><td>xìn xīn</td><td>confident</td></tr><tr><td>勇</td><td>yǒng</td><td>brave</td></tr><tr><td>勇气</td><td>yǒng qì</td><td>courage</td></tr><tr><td>面对</td><td>miàn duì</td><td>Face, confront</td></tr><tr><td>克</td><td>kè</td><td>overcome</td></tr><tr><td>克服</td><td>kè fú</td><td>overcome</td></tr></table>",
+      "flashcards": [
+        {
+          "q": "“动画片”的意思是什么？",
+          "a": "dòng huà piàn，cartoon。"
+        },
+        {
+          "q": "“功夫”的意思是什么？",
+          "a": "gōng fū，Kung Fu, martial arts。"
+        },
+        {
+          "q": "“打败”的意思是什么？",
+          "a": "dǎ bài，defeat。"
+        },
+        {
+          "q": "“笨拙”的意思是什么？",
+          "a": "bèn zhuō，clumsy。"
+        },
+        {
+          "q": "“逃避”的意思是什么？",
+          "a": "táo bì，escape。"
+        },
+        {
+          "q": "“克服”的意思是什么？",
+          "a": "kè fú，overcome。"
+        },
+        {
+          "q": "“启示”的意思是什么？",
+          "a": "qǐ shì，inspiration。"
+        },
+        {
+          "q": "“误打误撞”的意思是什么？",
+          "a": "wù dǎ wù zhuàng，As luck would have it。"
+        },
+        {
+          "q": "“失去信心”的“失”是什么意思？",
+          "a": "shī，lose（失去）。"
+        },
+        {
+          "q": "“继承”的意思是什么？",
+          "a": "jì chéng，Inherit; carry on。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "“笨拙”的意思是？",
+          "choices": [
+            "聪明的",
+            "Clumsy（笨拙的）",
+            "勇敢的",
+            "优雅的"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记中“笨拙”意为clumsy。"
+        },
+        {
+          "question": "“克服”的意思是？",
+          "choices": [
+            "Give up",
+            "Overcome（克服）",
+            "Avoid",
+            "Fear"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记中“克服”意为overcome。"
+        },
+        {
+          "question": "“误打误撞”的意思是？",
+          "choices": [
+            "精心策划",
+            "As luck would have it（歪打正着）",
+            "彻底失败",
+            "有意为之"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记中“误打误撞”意为As luck would have it。"
+        },
+        {
+          "question": "“逃避”的意思是？",
+          "choices": [
+            "面对",
+            "Escape（逃避）",
+            "克服",
+            "接受"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记中“逃避”意为escape。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "请解释“笨拙”“逃避”“克服”三个词语的意思，并说明它们可能出现在什么情境中（如描述角色面对挑战）。",
+          "modelAnswer": "“笨拙”（bèn zhuō）意为clumsy，形容动作或言行不灵活；“逃避”（táo bì）意为escape，指躲避困难或责任；“克服”（kè fú）意为overcome，指战胜困难。这三个词常用来描述一个角色起初笨拙、想要逃避挑战，但最终克服困难、获得成长的情节，例如功夫电影中角色的成长历程。",
+          "rubric": [
+            "正确解释笨拙的意思",
+            "正确解释逃避的意思",
+            "正确解释克服的意思",
+            "能联系情境说明（如角色成长）"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-8-vocab",
+      "title": "第八课：词语表 (Vocabulary)",
+      "notesHtml": "<table><tr><th>词语</th><th>拼音</th><th>解释</th></tr><tr><td>封</td><td>fēng</td><td>Close down</td></tr><tr><td>致</td><td>zhì</td><td>Result in</td></tr><tr><td>锁</td><td>suǒ</td><td>Lock (up)</td></tr><tr><td>以致</td><td>yǐ zhì</td><td>So that</td></tr><tr><td>封锁</td><td>fēng suǒ</td><td>blockade</td></tr><tr><td>降</td><td>jiàng</td><td>fall</td></tr><tr><td>演讲</td><td>yǎn jiǎng</td><td>Deliver a speech</td></tr><tr><td>下降</td><td>xià jiàng</td><td>fall</td></tr><tr><td>题目</td><td>tí mù</td><td>Subject; topic</td></tr><tr><td>争辩</td><td>zhēng biàn</td><td>argue</td></tr><tr><td>辩</td><td>biàn</td><td>argue</td></tr><tr><td>进行</td><td>jìn xíng</td><td>Carry out</td></tr><tr><td>辩论</td><td>biàn lùn</td><td>debate</td></tr><tr><td>进度</td><td>jìn dù</td><td>Rate of progress</td></tr><tr><td>议题</td><td>yì tí</td><td>Topic for discussion</td></tr><tr><td>完成</td><td>wán chéng</td><td>complete</td></tr><tr><td>顾名思义</td><td>gù míng sī yì</td><td>As the term suggests</td></tr><tr><td>专题</td><td>zhuān tí</td><td>Special subject; special topic</td></tr><tr><td>网友</td><td>wǎng yǒu</td><td>Net pal</td></tr><tr><td>研</td><td>yán</td><td>research</td></tr><tr><td>互动</td><td>hù dòng</td><td>interact</td></tr><tr><td>研究</td><td>yán jiū</td><td>research</td></tr><tr><td>平台</td><td>píng tái</td><td>platform</td></tr><tr><td>然而</td><td>rán ér</td><td>however</td></tr><tr><td>相关</td><td>xiāng guān</td><td>Be related to</td></tr><tr><td>众所周知</td><td>zhòng suǒ zhōu zhī</td><td>As everyone knows</td></tr><tr><td>相对</td><td>xiāng duì</td><td>relative</td></tr><tr><td>径</td><td>jìng</td><td>way</td></tr><tr><td>枯</td><td>kū</td><td>uninteresting</td></tr><tr><td>途径</td><td>tú jìng</td><td>Way; channel</td></tr><tr><td>燥</td><td>zào</td><td>dry</td></tr><tr><td>扰</td><td>rǎo</td><td>disturb</td></tr><tr><td>枯燥</td><td>kū zào</td><td>uninteresting</td></tr><tr><td>干扰</td><td>gān rǎo</td><td>disturb</td></tr><tr><td>分散</td><td>fēn sàn</td><td>distract</td></tr><tr><td>禁</td><td>jīn</td><td>Prohibit; ban</td></tr><tr><td>注意力</td><td>zhù yì lì</td><td>attention</td></tr><tr><td>禁止</td><td>jīn zhǐ</td><td>Prohibit; ban</td></tr><tr><td>刺</td><td>cì</td><td>stimulate</td></tr><tr><td>忍</td><td>rěn</td><td>bear</td></tr><tr><td>刺激</td><td>cì jī</td><td>stimulate</td></tr><tr><td>专心</td><td>zhuān xīn</td><td>Concentrate (one's attention)</td></tr><tr><td>上瘾</td><td>shàng yǐn</td><td>Be addicted to</td></tr><tr><td>听讲</td><td>tīng jiǎng</td><td>Attend a lecture</td></tr></table>",
+      "flashcards": [
+        {
+          "q": "“辩论”的意思是什么？",
+          "a": "biàn lùn，debate。"
+        },
+        {
+          "q": "“研究”的意思是什么？",
+          "a": "yán jiū，research。"
+        },
+        {
+          "q": "“途径”的意思是什么？",
+          "a": "tú jìng，Way; channel。"
+        },
+        {
+          "q": "“枯燥”的意思是什么？",
+          "a": "kū zào，uninteresting。"
+        },
+        {
+          "q": "“禁止”的意思是什么？",
+          "a": "jīn zhǐ，Prohibit; ban。"
+        },
+        {
+          "q": "“刺激”的意思是什么？",
+          "a": "cì jī，stimulate。"
+        },
+        {
+          "q": "“上瘾”的意思是什么？",
+          "a": "shàng yǐn，Be addicted to。"
+        },
+        {
+          "q": "“专心”的意思是什么？",
+          "a": "zhuān xīn，Concentrate (one's attention)。"
+        },
+        {
+          "q": "“众所周知”的意思是什么？",
+          "a": "zhòng suǒ zhōu zhī，As everyone knows。"
+        },
+        {
+          "q": "“顾名思义”的意思是什么？",
+          "a": "gù míng sī yì，As the term suggests。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "“辩论”的意思是？",
+          "choices": [
+            "合作",
+            "Debate（辩论）",
+            "逃避",
+            "忽略"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记中“辩论”意为debate。"
+        },
+        {
+          "question": "“枯燥”的意思是？",
+          "choices": [
+            "有趣的",
+            "Uninteresting（枯燥乏味的）",
+            "刺激的",
+            "轻松的"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记中“枯燥”意为uninteresting。"
+        },
+        {
+          "question": "“上瘾”的意思是？",
+          "choices": [
+            "戒掉",
+            "Be addicted to（沉迷、上瘾）",
+            "拒绝",
+            "忘记"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记中“上瘾”意为Be addicted to。"
+        },
+        {
+          "question": "“众所周知”的意思是？",
+          "choices": [
+            "无人知晓",
+            "As everyone knows（众人皆知）",
+            "有争议的",
+            "秘密的"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记中“众所周知”意为As everyone knows。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "请解释“枯燥”“干扰”“上瘾”三个词语，并说明它们可能与什么主题（如网络使用）相关。",
+          "modelAnswer": "“枯燥”（kū zào）意为uninteresting，形容乏味无趣；“干扰”（gān rǎo）意为disturb，指打扰或分散注意力；“上瘾”（shàng yǐn）意为Be addicted to，指沉迷某事物难以自拔。这三个词常用于讨论网络、手机使用相关的话题，例如枯燥的学习内容容易被网络干扰分心，进而导致学生对网络上瘾。",
+          "rubric": [
+            "正确解释枯燥的意思",
+            "正确解释干扰的意思",
+            "正确解释上瘾的意思",
+            "联系相关主题（如网络使用）说明"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "festival-lunar-new-year",
+      "title": "农历新年 (Lunar New Year)",
+      "notesHtml": "<p>农历新年是中国众多传统节日中的其中一个传统节日。为时十五天，从农历的一月（元月）一日直到十五日（人日）。</p><h3>意义</h3><ol><li>团圆和谐 - 无论是繁忙的加班工作，都不能阻挡游子回家的脚步。这种家庭的温暖，是春节得以持存发展的重要原因。</li><li>辞旧迎新</li><li>传承孝道</li><li>辟邪祈福 - 许多春节习俗都旨在驱逐灾祸，祈求来年能有好运势。春节寄托了人们除旧迎新的朝气，以及对新一年的美好期许和愿景。也正因此，人们会通过写春联，贴窗花，庙会祈福等方式庆祝节日。</li></ol><h3>中国春节与其他节日有什么异同？</h3><ul><li>合家团圆的日子</li><li>春运（出外工作的中国人会在过年前一到半个月返乡与家人团聚）</li><li>长假期（从除夕到元月十五日）</li><li>长辈给小辈红包，成年子女给父母红包</li><li>各种社会活动非常频密。例如：舞狮、舞龙、社团团拜、到亲友家拜年</li></ul><h3>相关词汇</h3><table><tr><th>词语</th><th>解释</th></tr><tr><td>春运</td><td>指春节前夕与春节后，人们从工作的城市赶回家乡的大型运输现象。</td></tr><tr><td>压岁钱（红包）</td><td>新年传统习俗，长辈给晚辈装在红包里的压岁钱，为辟邪驱鬼，使晚辈平安。在近期，压岁钱也被实用为学习、购买书本的资金。</td></tr><tr><td>拜年</td><td>拜年是中国民间的传统习俗，是人们辞旧迎新、相互表达美好祝愿的一种方式。随着时代的发展，拜年的习俗亦不断增添新的内容和形式。除了沿袭以往的拜年方式外，又兴起了礼仪电报拜年、电话拜年、短信拜年、网络拜年等。</td></tr></table>",
+      "flashcards": [
+        {
+          "q": "农历新年为时多少天？",
+          "a": "十五天，从农历一月（元月）一日到十五日（人日）。"
+        },
+        {
+          "q": "农历新年的第一个意义是什么？",
+          "a": "团圆和谐——无论多忙都不能阻挡游子回家的脚步，这种家庭温暖是春节持存发展的重要原因。"
+        },
+        {
+          "q": "农历新年的其他三个意义是什么？",
+          "a": "辞旧迎新、传承孝道、辟邪祈福。"
+        },
+        {
+          "q": "“辟邪祈福”具体指什么？",
+          "a": "许多春节习俗旨在驱逐灾祸，祈求来年好运势，如写春联、贴窗花、庙会祈福。"
+        },
+        {
+          "q": "什么是“春运”？",
+          "a": "指春节前夕与春节后，人们从工作的城市赶回家乡的大型运输现象。"
+        },
+        {
+          "q": "什么是“压岁钱（红包）”？",
+          "a": "新年传统习俗，长辈给晚辈装在红包里的钱，为辟邪驱鬼，使晚辈平安；近期也被用作学习、购书资金。"
+        },
+        {
+          "q": "什么是“拜年”？",
+          "a": "中国民间的传统习俗，是人们辞旧迎新、相互表达美好祝愿的方式，形式随时代发展有电报、电话、短信、网络拜年等。"
+        },
+        {
+          "q": "中国春节有哪些相关社会活动？",
+          "a": "舞狮、舞龙、社团团拜、到亲友家拜年等，非常频密。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "农历新年为时多少天？",
+          "choices": [
+            "七天",
+            "十五天",
+            "三十天",
+            "一个月"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记指出农历新年为时十五天，从元月一日到十五日（人日）。"
+        },
+        {
+          "question": "“春运”指的是什么现象？",
+          "choices": [
+            "春节期间的运动会",
+            "春节前后人们从工作城市返乡的大型运输现象",
+            "春天的农耕活动",
+            "节日期间的物流延误"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记明确定义春运为春节前后返乡的大型运输现象。"
+        },
+        {
+          "question": "农历新年习俗中，写春联、贴窗花的意义属于哪一项？",
+          "choices": [
+            "团圆和谐",
+            "辞旧迎新",
+            "辟邪祈福",
+            "传承孝道"
+          ],
+          "answerIndex": 2,
+          "explanation": "笔记指出写春联、贴窗花等旨在驱逐灾祸、祈求好运，属于辟邪祈福。"
+        },
+        {
+          "question": "压岁钱（红包）的传统意义是什么？",
+          "choices": [
+            "用来炫富",
+            "辟邪驱鬼，使晚辈平安",
+            "作为工资",
+            "作为借款"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记说明压岁钱是长辈给晚辈的红包，为辟邪驱鬼，使晚辈平安。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "请说明农历新年的四个主要意义。",
+          "modelAnswer": "农历新年有四个主要意义：一，团圆和谐，家人无论多忙都会回家团聚；二，辞旧迎新；三，传承孝道；四，辟邪祈福，人们通过写春联、贴窗花、庙会祈福等方式祈求来年好运。",
+          "rubric": [
+            "提到团圆和谐",
+            "提到辞旧迎新",
+            "提到传承孝道",
+            "提到辟邪祈福并举例说明"
+          ]
+        },
+        {
+          "prompt": "中国春节与其他节日相比有哪些独特之处？",
+          "modelAnswer": "中国春节的独特之处包括：是合家团圆的日子；有春运现象，即出外工作的人在过年前返乡团聚；有较长的假期（从除夕到元月十五）；长辈会给小辈红包，成年子女也会给父母红包；社会活动频密，如舞狮、舞龙、社团团拜、到亲友家拜年等。",
+          "rubric": [
+            "提到合家团圆",
+            "提到春运及长假期",
+            "提到红包习俗",
+            "提到频密的社会活动，如舞狮舞龙拜年"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "festival-qingming",
+      "title": "清明节 (Qingming Festival / Tomb-Sweeping Day)",
+      "notesHtml": "<p>清明节，又称踏青节、行清节、三月节、祭祖节等，节期在仲春与暮春之交。清明节源自上古时代的祖先信仰与春祭礼俗，兼具自然与人文两大内涵，既是自然节气点，也是传统节日。</p><h3>意义</h3><ol><li>孝思 a. 孝顺父母 b. 思念先人</li><li>慎终追远 a. 追思，悼念先人</li></ol><h3>清明节与其他节日有什么异同？</h3><ul><li>以孝顺、祭祖为主</li><li>团圆意义较少</li></ul><h3>相关习俗</h3><table><tr><th>习俗</th><th>说明</th></tr><tr><td>踏青</td><td>到郊外郊游。1. 带祭品祭拜祖先。2. 铺下草席吃饭，聊天。</td></tr><tr><td>扫墓</td><td>扫墓，是指到墓地祭祀祖先表达祭祀者的孝道和对先人的思念之情，属于礼敬祖先、慎终追远的一种文化传统。按照习俗，一般在上午出发扫墓，扫墓时，人们要携带酒食果品、纸钱等物品到墓地，修整坟墓、培添新土、清除杂草，将食物供祭在祖先墓前，再将纸钱焚化，然后叩头行礼祭拜。中国人受传统文化心理的影响，有着强烈的家庭观念，尤其重视家族、祖先，对祖先的崇拜、返本归宗的意识特别浓厚，祭扫祖先的坟墓是对先人的特殊缅怀方式。</td></tr></table>",
+      "flashcards": [
+        {
+          "q": "清明节又称什么？",
+          "a": "踏青节、行清节、三月节、祭祖节等。"
+        },
+        {
+          "q": "清明节源自哪里？",
+          "a": "源自上古时代的祖先信仰与春祭礼俗，兼具自然与人文两大内涵。"
+        },
+        {
+          "q": "清明节的意义之一“孝思”指什么？",
+          "a": "孝顺父母；思念先人。"
+        },
+        {
+          "q": "清明节的意义之一“慎终追远”指什么？",
+          "a": "追思、悼念先人。"
+        },
+        {
+          "q": "什么是“踏青”？",
+          "a": "到郊外郊游，带祭品祭拜祖先，铺草席吃饭聊天。"
+        },
+        {
+          "q": "什么是“扫墓”？",
+          "a": "到墓地祭祀祖先，表达孝道和对先人的思念，属礼敬祖先、慎终追远的文化传统。"
+        },
+        {
+          "q": "扫墓时人们通常携带什么？",
+          "a": "酒食果品、纸钱等物品，修整坟墓、清除杂草，供祭食物后焚化纸钱，叩头行礼祭拜。"
+        },
+        {
+          "q": "清明节与其他节日相比有什么特点？",
+          "a": "以孝顺、祭祖为主，团圆意义较少。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "清明节又称为下列哪一个名称？",
+          "choices": [
+            "祭祖节",
+            "端午节",
+            "中秋节",
+            "冬至"
+          ],
+          "answerIndex": 0,
+          "explanation": "笔记指出清明节又称踏青节、行清节、三月节、祭祖节等。"
+        },
+        {
+          "question": "“慎终追远”指的是什么？",
+          "choices": [
+            "庆祝丰收",
+            "追思、悼念先人",
+            "祈求财富",
+            "驱邪避灾"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记明确“慎终追远”是追思、悼念先人。"
+        },
+        {
+          "question": "清明节与其他传统节日相比，主要特点是什么？",
+          "choices": [
+            "以团圆为主",
+            "以孝顺、祭祖为主，团圆意义较少",
+            "以驱邪祈福为主",
+            "以竞赛活动为主"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记明确指出清明节以孝顺、祭祖为主，团圆意义较少。"
+        },
+        {
+          "question": "扫墓时人们通常会做以下哪件事？",
+          "choices": [
+            "赛龙舟",
+            "携带酒食果品、纸钱祭拜祖先",
+            "吃月饼赏月",
+            "猜灯谜"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记描述扫墓时人们携带酒食果品、纸钱等物品祭拜祖先。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "请说明清明节的两个主要意义。",
+          "modelAnswer": "清明节的两个主要意义是：一，孝思，即孝顺父母、思念先人；二，慎终追远，即追思、悼念先人，体现中国人对祖先的崇敬和缅怀。",
+          "rubric": [
+            "说明孝思的含义",
+            "说明慎终追远的含义"
+          ]
+        },
+        {
+          "prompt": "请描述清明节“扫墓”这一习俗的具体做法及意义。",
+          "modelAnswer": "扫墓是指到墓地祭祀祖先，表达孝道和对先人的思念之情。按照习俗，人们一般在上午出发扫墓，携带酒食果品、纸钱等物品到墓地，修整坟墓、清除杂草，将食物供祭在祖先墓前，再焚化纸钱，并叩头行礼祭拜，这体现了中国人强烈的家庭观念和对祖先的崇拜。",
+          "rubric": [
+            "说明扫墓的行为过程（携带祭品、修整坟墓、焚化纸钱、行礼）",
+            "说明扫墓体现的孝道与慎终追远意义"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "festival-duanwu",
+      "title": "端午节 (Dragon Boat Festival)",
+      "notesHtml": "<p>端午节，本是上古先民创立用于拜祭龙祖、祈福辟邪的节日。传说战国时期的楚国诗人屈原在五月五日跳汨罗江自尽，后人亦将端午节作为纪念屈原的节日；也有纪念伍子胥、曹娥及介子推等说法。端午节的起源涵盖了古老星象文化、人文哲学等方面内容，蕴含着深邃丰厚的文化内涵，在传承发展中杂糅了多种民俗为一体，各地因地域文化不同而又存在着习俗内容或细节上的差异。</p><h3>意义</h3><ol><li>纪念爱国诗人屈原</li><li>爱国情怀</li><li>同心协力 a. 合作 b. 凝聚力</li></ol><h3>相关习俗</h3><table><tr><th>习俗</th><th>说明</th></tr><tr><td>粽子</td><td>粽子，由粽叶包裹糯米蒸制而成的食品，主要材料是糯米、馅料，用箬叶（或柊叶、簕古子叶等）包裹而成，形状多样。</td></tr><tr><td>赛龙舟</td><td>赛龙舟是中国端午节的习俗之一，也是端午节最重要的节日民俗活动之一，在中国南方地区普遍存在，在北方靠近河湖的城市也有赛龙舟习俗，而大部分是划旱龙舟舞龙船的形式。关于赛龙舟的起源，有多种说法，有祭曹娥，祭屈原，祭水神或龙神等祭祀活动，其起源可追溯至战国时代。</td></tr></table>",
+      "flashcards": [
+        {
+          "q": "端午节最初的起源是什么？",
+          "a": "上古先民创立用于拜祭龙祖、祈福辟邪的节日。"
+        },
+        {
+          "q": "端午节纪念的历史人物传说是谁？",
+          "a": "战国时期楚国诗人屈原，据传他在五月五日跳汨罗江自尽；也有纪念伍子胥、曹娥及介子推的说法。"
+        },
+        {
+          "q": "端午节的意义有哪些？",
+          "a": "纪念爱国诗人屈原、爱国情怀、同心协力（合作、凝聚力）。"
+        },
+        {
+          "q": "什么是粽子？",
+          "a": "由粽叶包裹糯米蒸制而成的食品，主要材料是糯米、馅料，用箬叶等包裹而成。"
+        },
+        {
+          "q": "什么是赛龙舟？",
+          "a": "端午节最重要的节日民俗活动之一，在南方地区普遍存在，起源说法包括祭曹娥、祭屈原、祭水神或龙神等，可追溯至战国时代。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "端午节主要纪念的历史人物是谁？",
+          "choices": [
+            "屈原",
+            "孔子",
+            "秦始皇",
+            "诸葛亮"
+          ],
+          "answerIndex": 0,
+          "explanation": "笔记指出端午节主要纪念战国时期楚国诗人屈原。"
+        },
+        {
+          "question": "端午节的意义不包括以下哪一项？",
+          "choices": [
+            "纪念爱国诗人屈原",
+            "爱国情怀",
+            "团圆和谐",
+            "同心协力"
+          ],
+          "answerIndex": 2,
+          "explanation": "笔记中端午节的意义列出纪念屈原、爱国情怀、同心协力，未提及团圆和谐。"
+        },
+        {
+          "question": "赛龙舟的起源说法不包括以下哪一项？",
+          "choices": [
+            "祭曹娥",
+            "祭屈原",
+            "祭水神或龙神",
+            "祭财神"
+          ],
+          "answerIndex": 3,
+          "explanation": "笔记列出赛龙舟起源于祭曹娥、祭屈原或祭水神/龙神，未提祭财神。"
+        },
+        {
+          "question": "粽子的主要材料是什么？",
+          "choices": [
+            "面粉和肉",
+            "糯米和馅料",
+            "米粉和蔬菜",
+            "豆沙和面团"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记说明粽子主要材料是糯米、馅料，用粽叶包裹蒸制而成。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "请说明端午节的起源与意义。",
+          "modelAnswer": "端午节本是上古先民创立用于拜祭龙祖、祈福辟邪的节日，后因战国时期楚国诗人屈原在五月五日跳汨罗江自尽，后人便将端午节作为纪念屈原的节日（也有纪念伍子胥、曹娥、介子推的说法）。其意义包括纪念爱国诗人屈原、体现爱国情怀，以及通过赛龙舟等活动展现同心协力、合作与凝聚力。",
+          "rubric": [
+            "说明端午节最初用于拜祭龙祖、祈福辟邪",
+            "说明纪念屈原的传说",
+            "提到端午节意义包括爱国情怀与同心协力"
+          ]
+        },
+        {
+          "prompt": "请介绍赛龙舟这一习俗及其起源说法。",
+          "modelAnswer": "赛龙舟是端午节最重要的节日民俗活动之一，在中国南方地区普遍存在，北方靠近河湖的城市也有类似习俗。关于其起源，有祭曹娥、祭屈原、祭水神或龙神等多种说法，据说可追溯至战国时代。",
+          "rubric": [
+            "说明赛龙舟是端午节重要习俗",
+            "提到南方地区普遍存在",
+            "提到多种起源说法（祭曹娥/屈原/水神龙神）"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "festival-zhongqiu",
+      "title": "中秋节 (Mid-Autumn Festival)",
+      "notesHtml": "<p>中秋节，又称祭月节、月光诞、月夕、秋节、仲秋节、拜月节、月娘节、月亮节、团圆节等，是中国民间的传统节日。中秋节源自天象崇拜，由上古时代秋夕祭月演变而来。最初“祭月节”的节期是在干支历二十四节气“秋分”这天，后来才调至夏历（农历）八月十五，也有些地方将中秋节定在夏历八月十六。中秋节自古便有祭月、赏月、吃月饼、玩花灯、赏桂花、饮桂花酒等民俗，流传至今，经久不息。</p><h3>意义</h3><ol><li>团圆</li></ol><h3>相关习俗</h3><table><tr><th>习俗</th><th>说明</th></tr><tr><td>月饼</td><td>月饼最初是用来拜祭月神的供品。据说中秋节吃月饼的习俗于唐朝开始。北宋之时，该种饼被称为“宫饼”，在宫廷内流行，但也流传到民间，当时俗称“小饼”和“月团”。后来演变成圆形，寓意团圆美好，反映了人们对家人团聚的美好愿望，也是对亲朋好友深深的思恋。月饼据说起源于唐代。</td></tr><tr><td>猜灯谜</td><td>猜灯谜又称打灯谜，是中国独有的富有民族风格的一种汉族民俗文娱活动形式，是从古代就开始流传的元宵节特色活动。每逢农历正月十五，民间都要挂起彩灯，燃放焰火，后来有好事者把谜语写在纸条上，贴在五光十色的彩灯上供人猜。因为谜语能启迪智慧又迎合节日气氛，所以响应的人众多，而后猜谜逐渐成为元宵节不可缺少的节目。灯谜增添节日气氛，展现了古代汉族劳动人民的聪明才智和对美好生活的向往。</td></tr></table>",
+      "flashcards": [
+        {
+          "q": "中秋节的别称有哪些？",
+          "a": "祭月节、月光诞、月夕、秋节、仲秋节、拜月节、月娘节、月亮节、团圆节等。"
+        },
+        {
+          "q": "中秋节起源于什么？",
+          "a": "源自天象崇拜，由上古时代秋夕祭月演变而来。"
+        },
+        {
+          "q": "中秋节最初的节期在哪一天？",
+          "a": "最初“祭月节”在干支历二十四节气“秋分”这天，后来调至夏历八月十五（有些地方定在八月十六）。"
+        },
+        {
+          "q": "中秋节的意义是什么？",
+          "a": "团圆。"
+        },
+        {
+          "q": "月饼最初的用途是什么？",
+          "a": "最初是用来拜祭月神的供品。"
+        },
+        {
+          "q": "月饼演变成圆形有什么寓意？",
+          "a": "寓意团圆美好，反映人们对家人团聚的美好愿望，也是对亲朋好友的思恋。"
+        },
+        {
+          "q": "什么是猜灯谜？",
+          "a": "又称打灯谜，是中国独有的富有民族风格的民俗文娱活动，从古代流传的元宵节特色活动，将谜语写在纸条上贴在彩灯上供人猜。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "中秋节的核心意义是什么？",
+          "choices": [
+            "驱邪辟邪",
+            "团圆",
+            "纪念历史人物",
+            "庆祝丰收"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记明确指出中秋节的意义是团圆。"
+        },
+        {
+          "question": "月饼最初的用途是什么？",
+          "choices": [
+            "日常主食",
+            "拜祭月神的供品",
+            "军粮",
+            "礼品交换用具"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记说明月饼最初是用来拜祭月神的供品。"
+        },
+        {
+          "question": "月饼演变成圆形象征什么？",
+          "choices": [
+            "财富",
+            "团圆美好",
+            "权力",
+            "长寿"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记指出圆形月饼寓意团圆美好，反映家人团聚的愿望。"
+        },
+        {
+          "question": "中秋节最初定在哪个节气？",
+          "choices": [
+            "春分",
+            "秋分",
+            "冬至",
+            "夏至"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记说明最初“祭月节”节期是在“秋分”这天，后来才调至夏历八月十五。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "请说明中秋节的起源及其核心意义。",
+          "modelAnswer": "中秋节源自天象崇拜，由上古时代秋夕祭月演变而来，最初节期在秋分这天，后来调至夏历八月十五。中秋节的核心意义是团圆，体现家人团聚的美好愿望。",
+          "rubric": [
+            "说明中秋节源自秋夕祭月/天象崇拜",
+            "说明节期由秋分调整至八月十五",
+            "指出核心意义为团圆"
+          ]
+        },
+        {
+          "prompt": "请介绍月饼这一习俗的起源与象征意义。",
+          "modelAnswer": "月饼最初是用来拜祭月神的供品，据说中秋节吃月饼的习俗始于唐朝，北宋时称为“宫饼”，后来演变成圆形，寓意团圆美好，反映了人们对家人团聚的美好愿望，也是对亲朋好友深深思恋的表达。",
+          "rubric": [
+            "说明月饼最初为拜祭月神供品",
+            "提到历史演变（唐朝起源、北宋宫饼）",
+            "说明圆形寓意团圆"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "festival-dongzhi",
+      "title": "冬至 (Winter Solstice Festival)",
+      "notesHtml": "<p>冬至，又称日南至、冬节、亚岁等，兼具自然与人文两大内涵，既是二十四节气中一个重要的节气，也是中国民间的传统祭祖节日。冬至是四时八节之一，被视为冬季的大节日，在古代民间有“冬至大如年”的讲法。冬至习俗因地域不同而又存在着习俗内容或细节上的差异。在中国南方地区，有冬至祭祖、宴饮的习俗。在中国北方地区，每年冬至日有吃饺子的习俗。</p><h3>意义</h3><ol><li>团圆</li></ol><h3>相关习俗</h3><table><tr><th>习俗</th><th>说明</th></tr><tr><td>汤圆</td><td>汤圆，别称“汤团”“浮元子”，是汉族传统小吃的代表之一。同时，也是中国的传统节日元宵节所最具有特色的食物，也表达了古代人民对幸福生活的一种向往和期盼。据传，汤圆起源于宋朝。当时的明州（现浙江省宁波市）所兴起的一种新奇食品，即用黑芝麻、猪板油做馅、加入少许白糖，外面用糯米粉搓成圆形，煮熟后，吃起来香甜软糯，回味无穷。同时，汤圆象征合家团圆美满，吃汤圆也意味着在新的一年里合家幸福、团团圆圆，所以是正月十五元宵节必备美食。</td></tr></table>",
+      "flashcards": [
+        {
+          "q": "冬至又称什么？",
+          "a": "日南至、冬节、亚岁等。"
+        },
+        {
+          "q": "冬至的双重内涵是什么？",
+          "a": "兼具自然与人文两大内涵，既是二十四节气中一个重要节气，也是中国民间的传统祭祖节日。"
+        },
+        {
+          "q": "古代对冬至的说法是什么？",
+          "a": "“冬至大如年”，被视为冬季的大节日。"
+        },
+        {
+          "q": "中国南方地区冬至有什么习俗？",
+          "a": "冬至祭祖、宴饮的习俗。"
+        },
+        {
+          "q": "中国北方地区冬至有什么习俗？",
+          "a": "每年冬至日有吃饺子的习俗。"
+        },
+        {
+          "q": "冬至的意义是什么？",
+          "a": "团圆。"
+        },
+        {
+          "q": "什么是汤圆？",
+          "a": "别称“汤团”“浮元子”，是汉族传统小吃的代表之一，也是元宵节最具特色的食物，象征合家团圆美满。"
+        },
+        {
+          "q": "汤圆据传起源于哪个朝代？",
+          "a": "据传起源于宋朝，源自明州（今浙江省宁波市）的新奇食品。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "冬至的核心意义是什么？",
+          "choices": [
+            "驱邪",
+            "团圆",
+            "丰收",
+            "纪念历史人物"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记指出冬至的意义是团圆。"
+        },
+        {
+          "question": "中国北方地区冬至有什么习俗？",
+          "choices": [
+            "吃月饼",
+            "吃饺子",
+            "赛龙舟",
+            "猜灯谜"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记说明北方地区每年冬至日有吃饺子的习俗。"
+        },
+        {
+          "question": "中国南方地区冬至有什么习俗？",
+          "choices": [
+            "祭祖、宴饮",
+            "吃饺子",
+            "赛龙舟",
+            "踏青扫墓"
+          ],
+          "answerIndex": 0,
+          "explanation": "笔记指出南方地区有冬至祭祖、宴饮的习俗。"
+        },
+        {
+          "question": "古代关于冬至有什么说法？",
+          "choices": [
+            "冬至大如年",
+            "冬至小如节",
+            "冬至无节庆意义",
+            "冬至只是普通节气"
+          ],
+          "answerIndex": 0,
+          "explanation": "笔记引用古代民间讲法“冬至大如年”，被视为冬季大节日。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "请说明冬至的性质及南北方习俗的差异。",
+          "modelAnswer": "冬至兼具自然与人文两大内涵，既是二十四节气中的重要节气，也是中国民间的传统祭祖节日，古代有“冬至大如年”的讲法。由于地域文化不同，南方地区有冬至祭祖、宴饮的习俗，而北方地区则每年冬至日有吃饺子的习俗。",
+          "rubric": [
+            "说明冬至兼具节气与节日的双重性质",
+            "提到“冬至大如年”的说法",
+            "分别说明南方（祭祖宴饮）与北方（吃饺子）习俗"
+          ]
+        },
+        {
+          "prompt": "请介绍汤圆这一食俗及其象征意义。",
+          "modelAnswer": "汤圆别称“汤团”“浮元子”，是汉族传统小吃的代表，也是元宵节最具特色的食物，据传起源于宋朝的明州（今浙江宁波），用黑芝麻、猪板油做馅，外裹糯米粉搓成圆形。汤圆象征合家团圆美满，吃汤圆意味着在新的一年里合家幸福、团团圆圆。",
+          "rubric": [
+            "说明汤圆的别称与来源（宋朝明州）",
+            "描述其制作方式",
+            "说明象征合家团圆美满的意义"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "poetry-analysis-tang-song",
+      "title": "诗歌，唐诗，宋词：如何分析诗歌 (How to Analyse Poetry)",
+      "notesHtml": "<h3>意象 (Imagery)</h3><ul><li>客观物象经过创作主体独特的情感活动而创造出来的一种艺术形象。赋予实物更深层的意义。</li><li>例子：白鸽、明月</li><li>注：有些物件是地方名称，不应误解为意象</li></ul><h3>意境 (Artistic Conception)</h3><ul><li>由特定的艺术形象及其所触发的艺术想象或意象所形成的境界</li></ul><p><em>注：来源文本在此处截断，后续关于唐诗、宋词的具体分析内容未包含在本节摘录中。</em></p>",
+      "flashcards": [
+        {
+          "q": "什么是意象？",
+          "a": "客观物象经过创作主体独特的情感活动而创造出来的一种艺术形象，赋予实物更深层的意义。"
+        },
+        {
+          "q": "意象的例子有哪些？",
+          "a": "例如：白鸽、明月。"
+        },
+        {
+          "q": "分析意象时需要注意什么？",
+          "a": "有些物件是地方名称，不应误解为意象。"
+        },
+        {
+          "q": "什么是意境？",
+          "a": "由特定的艺术形象及其所触发的艺术想象或意象所形成的境界。"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "“意象”的定义是什么？",
+          "choices": [
+            "纯粹的地理名称",
+            "客观物象经过创作主体独特情感活动创造出的艺术形象",
+            "诗歌的字数格式",
+            "诗人的生平背景"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记定义意象为客观物象经过创作主体独特的情感活动而创造出来的艺术形象，赋予实物更深层意义。"
+        },
+        {
+          "question": "以下哪个是笔记中给出的意象例子？",
+          "choices": [
+            "长安",
+            "明月",
+            "黄河",
+            "洛阳"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记举出的意象例子是白鸽、明月。"
+        },
+        {
+          "question": "分析诗歌意象时需要注意什么陷阱？",
+          "choices": [
+            "意象一定押韵",
+            "有些物件是地方名称，不应误解为意象",
+            "意象只能是动物",
+            "意象必须是颜色"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记提醒有些物件是地方名称，不应误解为意象。"
+        },
+        {
+          "question": "“意境”指的是什么？",
+          "choices": [
+            "诗歌的字数",
+            "由特定艺术形象及其触发的艺术想象所形成的境界",
+            "诗人的朝代",
+            "诗歌的押韵规则"
+          ],
+          "answerIndex": 1,
+          "explanation": "笔记定义意境为由特定的艺术形象及其所触发的艺术想象或意象所形成的境界。"
+        }
+      ],
+      "shortAnswer": [
+        {
+          "prompt": "请解释“意象”的定义，并举出笔记中的例子。",
+          "modelAnswer": "意象是客观物象经过创作主体独特的情感活动而创造出来的一种艺术形象，赋予实物更深层的意义，例如白鸽、明月等意象在诗歌中常承载特定的情感或象征意义。",
+          "rubric": [
+            "正确说明意象的定义",
+            "举出笔记中的例子（白鸽、明月）"
+          ]
+        },
+        {
+          "prompt": "分析诗歌意象时应注意什么，为什么？",
+          "modelAnswer": "分析诗歌意象时应注意，有些出现在诗中的物件实际上是地方名称，而非具有象征意义的意象，因此不应将其误解为意象，以免错误解读诗歌的深层含义。",
+          "rubric": [
+            "指出地方名称容易被误认为意象",
+            "说明这样区分的重要性（避免误解诗歌含义）"
+          ]
+        }
+      ]
+    }
+  ]
+}
