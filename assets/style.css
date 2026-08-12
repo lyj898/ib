@@ -68,12 +68,16 @@ header.site-header {
 }
 
 header.site-header .brand {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
   font-weight: 600;
   text-decoration: none;
   color: var(--text);
   font-size: 1.15rem;
   white-space: nowrap;
 }
+.brand-logo { width: 30px; height: 30px; border-radius: 8px; flex-shrink: 0; }
 
 #global-search {
   width: 100%;
