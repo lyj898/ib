@@ -66,6 +66,38 @@ function stripHtml(html) {
   return div.textContent || "";
 }
 
+// ---- Chinese-language card helpers ----
+function hasChinese(str) {
+  return /[一-鿿]/.test(str || "");
+}
+
+function speakChinese(str) {
+  if (!("speechSynthesis" in window)) return;
+  const parts = (str || "").match(/[一-鿿][一-鿿，。！？、；：]*/g) || [];
+  if (!parts.length) return;
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(parts.join("，"));
+  u.lang = "zh-CN";
+  u.rate = 0.85;
+  const voice = speechSynthesis.getVoices().find((v) => v.lang && v.lang.startsWith("zh"));
+  if (voice) u.voice = voice;
+  speechSynthesis.speak(u);
+}
+
+// Escape a card face; optionally blur parenthesized pinyin (tap to reveal).
+function renderCardFace(text, opts) {
+  let html = escapeHtml(text);
+  if (opts && opts.maskPinyin) {
+    const wrap = (m, inner) =>
+      /[a-zA-ZāáǎàēéěèīíǐìōóǒòūúǔùüǖǘǚǜĀÁĒÉĪÍŌÓŪÚ]/.test(inner)
+        ? `(<span class="pinyin-mask" onclick="event.stopPropagation();this.classList.toggle('revealed')">${inner}</span>)`
+        : m;
+    html = html.replace(/\(([^)<]{1,60}?)\)/g, wrap);
+    html = html.replace(/（([^）<]{1,60}?)）/g, wrap);
+  }
+  return html;
+}
+
 // ---- swipe gestures (touch/pen): drag a card sideways to rate it ----
 function attachSwipe(el, opts) {
   const threshold = (opts && opts.threshold) || 60;

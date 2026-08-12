@@ -43,32 +43,32 @@
         {
           "question": "When approaching a source-based question, what should you identify first alongside symbols and messages?",
           "choices": [
-            "The marking scheme",
-            "Source provenance (when and by whom created)",
             "The word count required",
-            "The exam timing"
+            "The exam timing",
+            "The marking scheme",
+            "Source provenance (when and by whom created)"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes state to look out for symbols/messages and source provenance (when created and who created it)."
         },
         {
           "question": "For the question 'What can you learn from this source about the Korean War?', where should the focus be?",
           "choices": [
-            "Only on China's role",
-            "Only on America's actions",
             "On the Korean War itself",
-            "On the background information only"
+            "Only on America's actions",
+            "On the background information only",
+            "Only on China's role"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "The notes give this exact example, clarifying the focus must be on the Korean War itself, not a specific country's role."
         },
         {
           "question": "Where is the 'question issue' or main issue typically found?",
           "choices": [
-            "In the mark scheme",
+            "In the footnotes only",
             "Above the background information, within the source",
             "In the appendix",
-            "In the footnotes only"
+            "In the mark scheme"
           ],
           "answerIndex": 1,
           "explanation": "The notes say to always look for the question issue/main issue in the source, above background information - this is the inference point."
@@ -76,23 +76,23 @@
         {
           "question": "How much factual support is generally required for an inference?",
           "choices": [
+            "10 lines minimum",
             "A full page",
-            "1-2 lines of sufficient facts",
             "No facts needed",
-            "10 lines minimum"
+            "1-2 lines of sufficient facts"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes specify requiring sufficient facts (1-2 lines) to support your inference."
         },
         {
           "question": "What quality must your source analysis always maintain?",
           "choices": [
+            "Ambiguity",
             "Length and complexity",
             "Accuracy and clarity",
-            "Ambiguity",
             "Brevity only"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state your analysis must always be accurate and clear."
         }
       ],
@@ -176,44 +176,44 @@
           "question": "How many marks is an Inference/Message question typically worth?",
           "choices": [
             "4 marks",
-            "6 marks",
             "8 marks",
-            "12 marks"
+            "12 marks",
+            "6 marks"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes state Inference questions are worth 6 marks."
         },
         {
           "question": "Which of the following is NOT listed as an acceptable tone descriptor in the notes?",
           "choices": [
-            "Sceptical",
-            "Pessimistic",
             "Positive",
-            "Melancholic"
+            "Pessimistic",
+            "Melancholic",
+            "Sceptical"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "The notes explicitly state that 'positive' and 'negative' are not considered tone."
         },
         {
           "question": "When the source is a cartoon with speech bubbles, what must you do?",
           "choices": [
-            "Ignore the speech bubbles",
             "Quote them in your answer",
+            "Paraphrase them loosely without quoting",
             "Only describe the artwork",
-            "Paraphrase them loosely without quoting"
+            "Ignore the speech bubbles"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes state if there are speech bubbles or accompanying text, you must quote them in your answer."
         },
         {
           "question": "What is the correct order when analysing a picture or cartoon source for inference?",
           "choices": [
+            "Only infer, never describe",
             "Describe first, then infer",
             "Infer first, then describe the source",
-            "Only describe, no inference needed",
-            "Only infer, never describe"
+            "Only describe, no inference needed"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state that when the source is a picture or cartoon, always infer first and then describe the source."
         },
         {
@@ -230,12 +230,12 @@
         {
           "question": "What is another name for the Inference question type?",
           "choices": [
-            "Reliability questions",
             "Message questions",
-            "Comparison questions",
-            "Usefulness questions"
+            "Reliability questions",
+            "Usefulness questions",
+            "Comparison questions"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes state Inference questions are also known as 'Message' questions."
         }
       ],
@@ -303,34 +303,34 @@
         {
           "question": "How many marks is an Inference with Purpose ('Why') question worth?",
           "choices": [
-            "6 marks",
             "7 marks",
             "8 marks",
+            "6 marks",
             "12 marks"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes state this question type is worth 7 marks."
         },
         {
           "question": "Which verb would be appropriate to open an Inference with Purpose answer?",
           "choices": [
-            "To show",
-            "To depict",
             "To persuade",
-            "To illustrate"
+            "To depict",
+            "To illustrate",
+            "To show"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "The notes list 'to show, to portray, to tell, to illustrate, to depict, to inform' as verbs to avoid; 'to persuade' is given as an example appropriate opening verb."
         },
         {
           "question": "What is another name for this question type?",
           "choices": [
-            "Message questions",
-            "Why questions",
+            "Reliability questions",
             "Comparison questions",
-            "Reliability questions"
+            "Message questions",
+            "Why questions"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes state Inference with Purpose questions are also known as 'Why' questions."
         },
         {
@@ -348,11 +348,11 @@
           "question": "Why should verbs like 'to show' or 'to depict' be avoided?",
           "choices": [
             "They are grammatically incorrect",
-            "They merely describe rather than convey purpose/intention",
             "They are too long",
+            "They merely describe rather than convey purpose/intention",
             "They are not English words"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "These verbs describe content rather than the persuasive intention behind the source, which is the focus of a purpose question."
         }
       ],
@@ -427,21 +427,21 @@
         {
           "question": "How many marks is a Comparison question worth?",
           "choices": [
-            "6 marks",
             "7 marks",
+            "12 marks",
             "8 marks",
-            "12 marks"
+            "6 marks"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes state Comparison questions are worth 7 marks."
         },
         {
           "question": "What should the third paragraph of a Comparison answer focus on?",
           "choices": [
-            "Repeating the evidence from paragraphs 1 and 2",
+            "A new unrelated inference",
             "Purpose and perspective supported by provenance, including audience and outcome",
-            "A summary of the background information",
-            "A new unrelated inference"
+            "Repeating the evidence from paragraphs 1 and 2",
+            "A summary of the background information"
           ],
           "answerIndex": 1,
           "explanation": "The notes specify the third paragraph should compare purpose/perspective with support of provenance, including audience and outcome."
@@ -449,34 +449,34 @@
         {
           "question": "If a comparison question asks 'how similar' rather than 'do they agree', what should you do?",
           "choices": [
-            "Use 'agree/disagree' regardless",
             "Use the exact word 'similar/different' as given in the question",
+            "Avoid answering the comparison directly",
             "Ignore the wording and use your own terms",
-            "Avoid answering the comparison directly"
+            "Use 'agree/disagree' regardless"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes state to use the exact word given in the question, e.g. 'similar' not 'agree'."
         },
         {
           "question": "What is a mistake to avoid when starting a Comparison paragraph?",
           "choices": [
             "Starting with an overarching idea of similarity or difference",
-            "Starting with 'Source A says... and Source B says...'",
+            "Making an inference about the issue",
             "Using a connecting phrase like 'Source A and Source B differ on...'",
-            "Making an inference about the issue"
+            "Starting with 'Source A says... and Source B says...'"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes explicitly warn against starting like 'Source A says... and Source B says...' and instead recommend a connecting phrase."
         },
         {
           "question": "According to the notes, is there such a thing as comparing a 'neutral tone' between two sources?",
           "choices": [
-            "Yes, tone is often neutral in both sources",
             "No, there is no such phrase as 'neutral tone' - tone comparison will always differ",
+            "Yes, tone is often neutral in both sources",
             "Only in written sources",
             "Only in cartoon sources"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes explicitly state there is no such phrase as 'neutral tone' - the comparison of tone will always be different."
         },
         {
@@ -484,8 +484,8 @@
           "choices": [
             "The source's colour scheme",
             "The speaker's intention",
-            "The date of publication only",
-            "Nothing further"
+            "Nothing further",
+            "The date of publication only"
           ],
           "answerIndex": 1,
           "explanation": "The notes state that if audience outcome is too generic, focus instead on comparing the speaker's intention."
@@ -568,67 +568,67 @@
         {
           "question": "How many marks is a Reliability question typically worth?",
           "choices": [
-            "6 marks",
-            "7 marks",
+            "12 marks",
             "8 marks",
-            "12 marks"
+            "6 marks",
+            "7 marks"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "The notes state Reliability questions are worth 8 marks."
         },
         {
           "question": "What does the second paragraph of a Reliability answer focus on?",
           "choices": [
-            "Provenance and purpose",
-            "Cross-referencing source content to contextual knowledge",
             "Comparing two sources' tone",
-            "Repeating the question wording only"
+            "Repeating the question wording only",
+            "Cross-referencing source content to contextual knowledge",
+            "Provenance and purpose"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The second paragraph cross-references the inference to contextual knowledge to establish reliability."
         },
         {
           "question": "What type of documents are described in the notes as objective and unbiased?",
           "choices": [
-            "Propaganda posters",
             "Meeting minutes or official documents",
+            "Propaganda posters",
             "Personal diaries",
             "Newspaper cartoons"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes explicitly state meeting minutes or official documents are objective and unbiased."
         },
         {
           "question": "If a reliability question asks 'Do you believe Source A?', what word should your answer use?",
           "choices": [
-            "Reliable",
             "Believe",
-            "Trustworthy",
-            "Credible"
+            "Reliable",
+            "Credible",
+            "Trustworthy"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes instruct to always repeat the keyword used in the question - here 'believe', not 'reliable'."
         },
         {
           "question": "What does the third paragraph of a Reliability answer examine?",
           "choices": [
-            "Only the source's content",
             "A closer examination of provenance and purpose, including bias",
             "A comparison with a second source's tone only",
-            "Nothing beyond paragraph two"
+            "Nothing beyond paragraph two",
+            "Only the source's content"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The third paragraph closely examines the source's provenance and purpose, covering intention, context, and bias."
         },
         {
           "question": "Which of these is NOT one of the listed reliability question phrasings in the notes?",
           "choices": [
-            "Credible",
-            "Trustworthy",
             "Surprising",
-            "Prove"
+            "Trustworthy",
+            "Prove",
+            "Credible"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "The notes list 'credible, trustworthy, believe, prove, accept' as reliability-related terms; 'surprising' belongs to the separate Surprised question type."
         }
       ],
@@ -697,54 +697,54 @@
           "choices": [
             "6 marks",
             "7 marks",
-            "8 marks",
-            "12 marks"
+            "12 marks",
+            "8 marks"
           ],
-          "answerIndex": 2,
+          "answerIndex": 3,
           "explanation": "The notes state Usefulness questions are worth 8 marks."
         },
         {
           "question": "According to the notes, can an unreliable source still be useful?",
           "choices": [
-            "No, unreliable sources are never useful",
-            "Yes, a source can be unreliable but still useful",
             "Only if it is an official document",
-            "Only if it agrees with contextual knowledge"
+            "No, unreliable sources are never useful",
+            "Only if it agrees with contextual knowledge",
+            "Yes, a source can be unreliable but still useful"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes explicitly state a source can be unreliable but still useful, e.g. a Hitler propaganda poster highlighting Weimar issues."
         },
         {
           "question": "What additional element should the second paragraph of a Usefulness answer include, beyond context cross-referencing?",
           "choices": [
-            "A new inference unrelated to paragraph one",
             "The limitations of the source (what it does not cover)",
-            "A repeat of the first paragraph's quotation",
-            "The cartoonist's name"
+            "A new inference unrelated to paragraph one",
+            "The cartoonist's name",
+            "A repeat of the first paragraph's quotation"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes state the second paragraph should also list the limitations of the source."
         },
         {
           "question": "What does the third paragraph of a Usefulness answer additionally need to consider that Reliability answers also address?",
           "choices": [
-            "The cartoonist's salary",
-            "How reliability affects usefulness, alongside provenance and purpose",
+            "The length of the source",
             "The date the exam was held",
-            "The length of the source"
+            "How reliability affects usefulness, alongside provenance and purpose",
+            "The cartoonist's salary"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The third paragraph considers the source's reliability and how usefulness is affected, alongside provenance and purpose."
         },
         {
           "question": "In the Weimar Government example, why is the Hitler propaganda poster still considered useful despite being unreliable?",
           "choices": [
-            "Because it is an official document",
             "Because it still highlights the issues faced by the Weimar Government",
-            "Because it agrees fully with contextual knowledge",
-            "Because it was written by a historian"
+            "Because it is an official document",
+            "Because it was written by a historian",
+            "Because it agrees fully with contextual knowledge"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes state that even though the propaganda poster is clearly unreliable, it is still useful because it highlights the issues faced."
         }
       ],
@@ -811,43 +811,43 @@
         {
           "question": "How many marks is a Testing Assertion question worth?",
           "choices": [
-            "8 marks",
             "10 marks",
-            "12 marks",
-            "15 marks"
+            "8 marks",
+            "15 marks",
+            "12 marks"
           ],
-          "answerIndex": 2,
+          "answerIndex": 3,
           "explanation": "The notes state Testing Assertion questions are worth 12 marks."
         },
         {
           "question": "How much time should be spent on a Testing Assertion question?",
           "choices": [
             "10-12 minutes",
-            "15-18 minutes",
             "20-25 minutes",
+            "15-18 minutes",
             "30-35 minutes"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "The notes specify about 20-25 minutes for this question type."
         },
         {
           "question": "What is the first step in answering a Testing Assertion question?",
           "choices": [
-            "Write the conclusion first",
-            "Separate sources into 'agree' and 'disagree' categories",
             "Only discuss one source in depth",
-            "Skip straight to context"
+            "Skip straight to context",
+            "Separate sources into 'agree' and 'disagree' categories",
+            "Write the conclusion first"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state you must first separate the sources into two categories: agree and disagree with the statement."
         },
         {
           "question": "Due to time constraints, how many sources does the structure recommend working with, most of the time?",
           "choices": [
-            "2 sources",
+            "All given sources equally",
             "4 sources",
-            "6 sources",
-            "All given sources equally"
+            "2 sources",
+            "6 sources"
           ],
           "answerIndex": 1,
           "explanation": "The notes state it is best to work with only 4 sources most of the time due to time constraints."
@@ -855,21 +855,21 @@
         {
           "question": "When should contextual knowledge to confirm or challenge the claim be introduced?",
           "choices": [
-            "At the end of every body paragraph",
             "Only in the final paragraph",
+            "Never - context is not used",
             "In the introduction only",
-            "Never - context is not used"
+            "At the end of every body paragraph"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes specify context should only be included in the final paragraph, not at the end of every body paragraph."
         },
         {
           "question": "How many total paragraphs does the Testing Assertion structure recommend?",
           "choices": [
+            "8 paragraphs",
             "3 paragraphs",
-            "4 paragraphs",
             "6 paragraphs",
-            "8 paragraphs"
+            "4 paragraphs"
           ],
           "answerIndex": 2,
           "explanation": "The notes lay out a 6-paragraph structure: several source-based paragraphs plus a final analysis/context/link paragraph."
@@ -954,43 +954,43 @@
         {
           "question": "How many marks is the Hybrid Reliability (with primary source) question worth according to the mark scheme?",
           "choices": [
-            "6 marks",
             "7 marks",
             "8 marks",
-            "10 marks"
+            "10 marks",
+            "6 marks"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes give a mark scheme totalling 7 marks for this question type."
         },
         {
           "question": "In paragraph 2, why must Source A itself be reliable?",
           "choices": [
-            "Because Source A is the only source given",
-            "Because Source A has to be reliable in order to prove something",
+            "Because Source B is always unreliable",
             "Because reliability is unrelated to proving anything",
-            "Because Source B is always unreliable"
+            "Because Source A has to be reliable in order to prove something",
+            "Because Source A is the only source given"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state Source A has to be reliable in order to prove something about Source B."
         },
         {
           "question": "According to the mark scheme, what does L2/3 assess?",
           "choices": [
-            "Use of source details with no reference to the question",
             "Similarity/Difference in the sources (Step 1)",
             "Reliability of Source A using contextual knowledge",
+            "Use of source details with no reference to the question",
             "Credibility of Source A through provenance analysis"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "L2/3 in the mark scheme corresponds to identifying similarity/difference between the sources, worth 2-3 marks."
         },
         {
           "question": "If Source A's content differs from Source B, but contextual knowledge does not support Source A, what is the likely conclusion?",
           "choices": [
-            "Source A can prove Source B wrong",
+            "No conclusion is possible under this framework",
             "Source A cannot prove anything, as it is factually inaccurate",
             "Source A and B are identical",
-            "No conclusion is possible under this framework"
+            "Source A can prove Source B wrong"
           ],
           "answerIndex": 1,
           "explanation": "Per the notes' summary table, if CK does not match, Source A cannot prove anything regardless of paragraph 1's findings."
@@ -998,12 +998,12 @@
         {
           "question": "If both sources are found to be opponents in the third paragraph, what should you do regarding Source B's CAP?",
           "choices": [
-            "Do a full CAP analysis of Source B",
-            "Simply state that they are opponents, without a full CAP of Source B",
             "Ignore this issue entirely",
-            "Assume Source B is unreliable automatically"
+            "Do a full CAP analysis of Source B",
+            "Assume Source B is unreliable automatically",
+            "Simply state that they are opponents, without a full CAP of Source B"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes state there is no need to explicitly do the CAP of the secondary source - just state that they are opponents."
         },
         {
@@ -1081,10 +1081,10 @@
         {
           "question": "What key feature distinguishes this hybrid reliability question type from the version with a primary source?",
           "choices": [
-            "It has more paragraphs",
+            "It does not require contextual knowledge",
             "There is no primary source - the comparison is between two sources on equal footing",
-            "It only requires one paragraph",
-            "It does not require contextual knowledge"
+            "It has more paragraphs",
+            "It only requires one paragraph"
           ],
           "answerIndex": 1,
           "explanation": "The notes explicitly state this version has NO primary source, unlike the previous hybrid reliability type."
@@ -1092,31 +1092,31 @@
         {
           "question": "In paragraph 2, what happens if context supports Source A but not Source B?",
           "choices": [
-            "You conclude you cannot trust either source",
             "You conclude you can trust Source A more",
+            "No conclusion can be drawn",
             "You conclude Source B is more useful",
-            "No conclusion can be drawn"
+            "You conclude you cannot trust either source"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes state if context supports Source A but not Source B, you can trust Source A more."
         },
         {
           "question": "What does paragraph 3 involve regarding provenance and purpose?",
           "choices": [
-            "Analysing only Source A's provenance",
-            "Critical analysis of BOTH sources' provenance and purpose",
+            "Only discussing the exam question wording",
             "Ignoring provenance entirely",
-            "Only discussing the exam question wording"
+            "Analysing only Source A's provenance",
+            "Critical analysis of BOTH sources' provenance and purpose"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes specify paragraph 3 does a critical analysis of both sources' purpose and provenance."
         },
         {
           "question": "If sources have similar content in paragraph 1, what is the initial conclusion?",
           "choices": [
-            "Can trust Source A more",
-            "Cannot trust Source A more",
             "Source B is definitely fake",
+            "Cannot trust Source A more",
+            "Can trust Source A more",
             "No conclusion possible"
           ],
           "answerIndex": 1,
@@ -1171,20 +1171,20 @@
           "question": "What kind of source relationship prompts the use of the Separate Inference structure?",
           "choices": [
             "Sources that need explicit direct comparison throughout",
+            "Sources are identical in every way",
             "Sources that differ in views, without a strong need for comparison",
-            "Only one source is given",
-            "Sources are identical in every way"
+            "Only one source is given"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state this applies when sources differ in views but there isn't a strong need for comparison (e.g. determining if one is useless)."
         },
         {
           "question": "What does paragraph one of a Separate Inference answer analyse?",
           "choices": [
-            "Source B's content, context, and provenance",
+            "The mark scheme only",
             "Source A's content, cross-referenced to context, and its purpose/provenance",
             "A direct comparison of both sources",
-            "The mark scheme only"
+            "Source B's content, context, and provenance"
           ],
           "answerIndex": 1,
           "explanation": "Paragraph one is dedicated entirely to analysing Source A - content inference, context cross-reference, and provenance/purpose."
@@ -1192,12 +1192,12 @@
         {
           "question": "What is the role of the third paragraph in a Separate Inference answer?",
           "choices": [
-            "To introduce brand new sources",
-            "To analyse findings from paragraphs one and two to ascertain usefulness/uselessness",
             "To repeat the question verbatim",
-            "To only discuss provenance"
+            "To only discuss provenance",
+            "To analyse findings from paragraphs one and two to ascertain usefulness/uselessness",
+            "To introduce brand new sources"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state paragraph three analyses what was found in the first two paragraphs to determine which source is useful/useless."
         }
       ],
@@ -1282,8 +1282,8 @@
           "choices": [
             "They are judged exactly the same way",
             "'Surprised' judgement is NOT based on reliability",
-            "'Reliability' is not based on context",
-            "'Surprised' always requires 5 paragraphs"
+            "'Surprised' always requires 5 paragraphs",
+            "'Reliability' is not based on context"
           ],
           "answerIndex": 1,
           "explanation": "The notes explicitly state that judgement for 'Surprised' questions is NOT based on reliability."
@@ -1292,42 +1292,42 @@
           "question": "In the CR to CK step, what does it mean if the source content is challenged by contextual knowledge, for a Surprised question?",
           "choices": [
             "Not surprised",
-            "Surprised",
             "Reliable",
-            "Neutral"
+            "Neutral",
+            "Surprised"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "For Surprised questions, if contextual knowledge challenges the source, this means you ARE surprised."
         },
         {
           "question": "According to the notes, does bias automatically make a source unreliable?",
           "choices": [
-            "Yes, always",
             "No - you must consider the context to determine reliability",
             "Only for cartoons",
+            "Yes, always",
             "Only for photographs"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes explicitly state bias does not instantly make a source unreliable - context must be considered."
         },
         {
           "question": "Why is a propaganda poster given as an example of something NOT surprising?",
           "choices": [
-            "Because propaganda is always false",
-            "Because it is expected to influence the public to support its cause",
             "Because propaganda posters are official documents",
-            "Because it lacks bias"
+            "Because it lacks bias",
+            "Because propaganda is always false",
+            "Because it is expected to influence the public to support its cause"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes state a propaganda poster is not surprising as it is expected to have this persuasive purpose."
         },
         {
           "question": "What must your inference for a Surprised question always be based on?",
           "choices": [
-            "Only the content described in the source",
-            "The person's position, not just what's stated in the source",
             "The exam mark scheme",
-            "The cartoonist's nationality only"
+            "The person's position, not just what's stated in the source",
+            "The cartoonist's nationality only",
+            "Only the content described in the source"
           ],
           "answerIndex": 1,
           "explanation": "The notes state you must always discuss the element of surprise based on the person's position, not merely restate the source's content."
@@ -1335,12 +1335,12 @@
         {
           "question": "Can the conclusion change between paragraphs 1, 2, and 3 in a Surprised answer (e.g. not surprised, then surprised)?",
           "choices": [
-            "No, it must be consistent",
-            "Yes, this is acceptable and does not need to be consistent",
             "Only in paragraph 3",
-            "Never allowed under any circumstances"
+            "Never allowed under any circumstances",
+            "Yes, this is acceptable and does not need to be consistent",
+            "No, it must be consistent"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes explicitly state the conclusion can differ across paragraphs and this is acceptable."
         }
       ],
@@ -1418,32 +1418,32 @@
         {
           "question": "What does paragraph two of this answer type primarily cross-reference?",
           "choices": [
-            "Only the other source to context",
             "The main source to contextual knowledge, with minor attention to the other source",
             "Both sources equally with no main focus",
-            "Neither source, only provenance"
+            "Neither source, only provenance",
+            "Only the other source to context"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes state paragraph two cross-references the main source with contextual knowledge, giving minor attention to the other source."
         },
         {
           "question": "If the other source has a more objective purpose while the main source is more biased, what is the conclusion in paragraph three?",
           "choices": [
+            "Both sources are equally reliable",
             "Not surprised by the main source",
             "Surprised by the main source, as it is less reliable on closer analysis",
-            "Both sources are equally reliable",
             "No conclusion can be drawn"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state that when the other source is more objective and the main source more biased, you are surprised by the main source."
         },
         {
           "question": "What kind of comparison happens in paragraph one of this question type?",
           "choices": [
             "Comparing similarities or differences in content/views between both sources",
-            "Comparing exam marks",
+            "Comparing font styles",
             "Comparing only provenance dates",
-            "Comparing font styles"
+            "Comparing exam marks"
           ],
           "answerIndex": 0,
           "explanation": "Paragraph one compares the sources for similarity or difference in content, views, or perspectives to determine initial surprise."
@@ -1504,12 +1504,12 @@
         {
           "question": "In 'Does Source A make you surprised about Source B?', which source is the main source?",
           "choices": [
-            "Source A",
             "Source B",
             "Both equally, with no distinction",
-            "Neither, a third source is needed"
+            "Neither, a third source is needed",
+            "Source A"
           ],
-          "answerIndex": 0,
+          "answerIndex": 3,
           "explanation": "The notes state for hybrid surprise questions phrased this way, Source A (the cause) is the main source."
         },
         {
@@ -1526,23 +1526,23 @@
         {
           "question": "What does paragraph three of a Hybrid Surprised answer examine, that differs from the 'Surprised with 2 Sources' structure?",
           "choices": [
-            "Only the main source's purpose",
             "The purposes and context of BOTH sources",
+            "Only the main source's purpose",
             "Neither source's purpose",
             "Only the exam mark scheme"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes state paragraph three checks the purposes and context of BOTH sources, a differing point from 'Surprised with 2 Sources.'"
         },
         {
           "question": "According to the notes, how should 'Does Source A make you surprised about Source B?' be conceptually understood?",
           "choices": [
-            "Focusing on the effect",
             "Focusing on the cause",
+            "Focusing only on provenance",
             "Focusing on neither source",
-            "Focusing only on provenance"
+            "Focusing on the effect"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes describe Hybrid Surprised questions as focusing on the cause, with Source A as the main source."
         }
       ],
@@ -1609,56 +1609,56 @@
         {
           "question": "How does the notes define 'social transformation'?",
           "choices": [
-            "A single dramatic event",
             "Changes in political, economic, social, and cultural structures in society",
             "Only economic changes",
+            "A single dramatic event",
             "A government policy document"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes define social transformation as changes in political, economic, social, and cultural structures in society."
         },
         {
           "question": "What is 'social identity creation' according to the notes?",
           "choices": [
-            "Creating a new passport",
             "A process of redefining essential qualities of group membership and seeking legitimisation of this definition",
+            "Creating a new passport",
             "Changing a country's flag",
             "Writing a new constitution"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes define social identity creation as redefining essential qualities of membership and seeking legitimisation."
         },
         {
           "question": "What is a common essay-writing mistake to avoid, especially in comparative essays?",
           "choices": [
             "Signposting each paragraph to the question",
-            "Focusing so strongly on comparison that you fail to answer the question",
             "Including concrete details and context",
-            "Using an introduction and conclusion"
+            "Using an introduction and conclusion",
+            "Focusing so strongly on comparison that you fail to answer the question"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes explicitly warn against overly focusing on comparison at the expense of directly answering the question."
         },
         {
           "question": "How much total time is allocated for the essay section, and how should it be divided?",
           "choices": [
             "1 hour, 30 minutes each",
+            "45 minutes total for both essays",
             "1 hour 30 minutes, roughly 45 minutes per essay",
-            "2 hours, 1 hour each",
-            "45 minutes total for both essays"
+            "2 hours, 1 hour each"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes specify 1 hour 30 minutes total, spending roughly 45 minutes on each essay, no more."
         },
         {
           "question": "How many essay questions must be answered out of how many given?",
           "choices": [
             "2 out of 2, both compulsory",
+            "3 out of 3, all compulsory",
             "2 out of 3, with Question 1 compulsory",
-            "1 out of 3, any choice",
-            "3 out of 3, all compulsory"
+            "1 out of 3, any choice"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state 3 questions are given, Question 1 is compulsory, and you choose 1 of Question 2 or 3."
         }
       ],
@@ -1738,42 +1738,42 @@
         {
           "question": "What is the key identifying feature of an Extreme/Relative Importance essay question?",
           "choices": [
-            "It asks for a simple summary",
-            "It asks which term/reason is most unreasonable/important, requiring weighing",
+            "It only has two paragraphs",
             "It never requires evidence",
-            "It only has two paragraphs"
+            "It asks for a simple summary",
+            "It asks which term/reason is most unreasonable/important, requiring weighing"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes describe these as questions asking for the most unreasonable/important reason, requiring you to weigh factors against each other."
         },
         {
           "question": "What must you NEVER use when answering a Balanced Perspective question about whether war was inevitable?",
           "choices": [
+            "A case study",
             "Content knowledge",
-            "A hypothetical situation",
             "Evidence",
-            "A case study"
+            "A hypothetical situation"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes explicitly state to NEVER use a hypothetical situation, especially for questions on whether war was inevitable."
         },
         {
           "question": "How long should the introduction of a Level 1 essay typically be?",
           "choices": [
-            "A full page",
-            "Short, about 3-4 lines",
+            "No introduction is needed",
             "At least 10 lines",
-            "No introduction is needed"
+            "A full page",
+            "Short, about 3-4 lines"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes specify the introduction should be short, about 3-4 lines."
         },
         {
           "question": "What four elements make up each body paragraph in a Level 1 essay?",
           "choices": [
             "Point, Evidence, Elaboration, Link",
-            "Introduction, Body, Conclusion, Reference",
             "Message, Context, Purpose, Provenance",
+            "Introduction, Body, Conclusion, Reference",
             "Compare, Contrast, Analyse, Conclude"
           ],
           "answerIndex": 0,
@@ -1782,9 +1782,9 @@
         {
           "question": "What must the 'Point' of a body paragraph be, according to the notes' example?",
           "choices": [
-            "General, e.g. just 'discrimination'",
-            "Specific, e.g. Discrimination -> Education",
             "Written in one word",
+            "Specific, e.g. Discrimination -> Education",
+            "General, e.g. just 'discrimination'",
             "A direct quote from the source"
           ],
           "answerIndex": 1,
@@ -1794,11 +1794,11 @@
           "question": "What should the conclusion of a Level 1 essay do?",
           "choices": [
             "Introduce new evidence",
-            "Reiterate your stand and evaluate points using a basis of comparison",
             "Simply restate the question",
-            "List all sources used"
+            "List all sources used",
+            "Reiterate your stand and evaluate points using a basis of comparison"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes state the conclusion should reiterate your stand and evaluate your points using a basis of comparison, e.g. long term vs short term."
         }
       ],
@@ -1895,21 +1895,21 @@
         {
           "question": "What must a Direct Compare and Contrast essay explicitly show, unlike an Evaluative Comparative essay?",
           "choices": [
+            "No comparison at all",
             "Only similarities, never differences",
             "Explicit similarities AND differences",
-            "No comparison at all",
             "Only differences, never similarities"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state Direct Compare and Contrast questions require showing explicit similarities and differences."
         },
         {
           "question": "In an Evaluative Comparative essay (e.g. assessing validity of social movements using 2 case studies), what is the primary purpose of using two case studies?",
           "choices": [
-            "To show they are identical in every way",
-            "To illustrate an argument that answers the question",
             "To fill up word count only",
-            "To avoid answering the question directly"
+            "To illustrate an argument that answers the question",
+            "To avoid answering the question directly",
+            "To show they are identical in every way"
           ],
           "answerIndex": 1,
           "explanation": "The notes state the idea in Evaluative Comparative essays is to illustrate an argument using 2 case studies, not simply compare for its own sake."
@@ -1917,45 +1917,45 @@
         {
           "question": "According to the notes, what defines 'social movements' as opposed to 'social transformations'?",
           "choices": [
-            "Social movements are deliberate and intentional; social transformations are not forced and change over time",
-            "They are identical concepts",
             "Social movements only occur in Europe",
-            "Social transformations always involve violence"
+            "They are identical concepts",
+            "Social transformations always involve violence",
+            "Social movements are deliberate and intentional; social transformations are not forced and change over time"
           ],
-          "answerIndex": 0,
+          "answerIndex": 3,
           "explanation": "The notes define social movements as deliberate and intentional actions, while social transformations are not forced and occur gradually over time."
         },
         {
           "question": "What mistake should be avoided when comparing case studies in an Evaluative Comparative essay?",
           "choices": [
-            "Comparing with varying criteria and perspectives",
-            "Simply listing a chunk of information or only comparing similarities/differences",
+            "Providing relevant, sufficient details",
             "Building an argument that answers the question",
-            "Providing relevant, sufficient details"
+            "Comparing with varying criteria and perspectives",
+            "Simply listing a chunk of information or only comparing similarities/differences"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes warn against just listing information chunks and simply comparing similarities/differences without deeper analytical criteria."
         },
         {
           "question": "Which criterion/perspective pair is listed under 'Stages of causation' in the notes?",
           "choices": [
+            "Short-term/Long-term",
             "Violent/Peaceful",
             "Root cause/Trigger cause",
-            "High income/Low income",
-            "Short-term/Long-term"
+            "High income/Low income"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes list 'Root cause/Trigger cause' specifically under the 'Stages of causation' criterion."
         },
         {
           "question": "What must the introduction of a Direct Compare and Contrast essay include?",
           "choices": [
+            "The mark scheme breakdown",
             "Only a thesis statement with no context",
             "Short context about the case studies plus a thesis statement answering the question",
-            "A full case study in detail",
-            "The mark scheme breakdown"
+            "A full case study in detail"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes specify the introduction should include short context about the case studies and the question, plus a thesis statement listing your arguments."
         }
       ],
@@ -2043,67 +2043,67 @@
         {
           "question": "What is a [6] mark question also known as?",
           "choices": [
-            "A [2+2] question",
-            "A [3+3] question",
+            "A [1+5] question",
             "A [4+2] question",
-            "A [1+5] question"
+            "A [3+3] question",
+            "A [2+2] question"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state [6] mark questions can be known as [3+3] questions, requiring 3 points and 3 explanations."
         },
         {
           "question": "According to the notes, what should you always do before writing an answer?",
           "choices": [
-            "Write as much as possible immediately",
-            "Read the provenance and plan your points",
             "Skip planning to save time",
-            "Only read the question's last sentence"
+            "Only read the question's last sentence",
+            "Write as much as possible immediately",
+            "Read the provenance and plan your points"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes advise reading the question and provenance, then planning points before writing."
         },
         {
           "question": "For an 'Impacts / Benefits' question, what framework should be used?",
           "choices": [
-            "SWOT",
             "ESPN (Economic, Social, Political, Natural/environmental)",
             "PEST only",
-            "Push and pull only"
+            "Push and pull only",
+            "SWOT"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes specify using ESPN and giving both positive and negative impacts."
         },
         {
           "question": "What is the correct approach to a 'Contrast' question?",
           "choices": [
-            "Give similarities and differences",
             "Give differences only",
             "Give only positive impacts",
-            "Give push and pull factors"
+            "Give push and pull factors",
+            "Give similarities and differences"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "Contrast requires differences only, unlike Compare which requires both similarities and differences."
         },
         {
           "question": "Why is answering 'less traffic congestion in MEDC, more in LEDC' for a push/pull question problematic?",
           "choices": [
-            "It is factually wrong",
-            "It only warrants 1 mark as it repeats the same point differently",
             "It doesn't mention ESPN",
-            "It is too long"
+            "It is too long",
+            "It is factually wrong",
+            "It only warrants 1 mark as it repeats the same point differently"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes explain this repeats the same point in different wording, so only 1 mark is given, showing the need for a variety of answers."
         },
         {
           "question": "For a [4] mark question with only 3 identifiable points, what should you do?",
           "choices": [
-            "Leave the 4th point blank",
             "Explain as thoroughly as possible to avoid losing the mark",
-            "Repeat one of the 3 points twice",
-            "Write a conclusion instead"
+            "Leave the 4th point blank",
+            "Write a conclusion instead",
+            "Repeat one of the 3 points twice"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes state this is an exception where thorough explanation helps avoid losing the 4th mark."
         }
       ],
@@ -2190,21 +2190,21 @@
         {
           "question": "What should you do for a 'State / Identify' command word?",
           "choices": [
-            "Give a full explanation with data",
             "Just give the reason or state it, with no explanation needed",
-            "Compare two objects",
-            "Write a concluding statement"
+            "Write a concluding statement",
+            "Give a full explanation with data",
+            "Compare two objects"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes say State/Identify/Give a reason only requires stating, no explanation, though data may occasionally be needed."
         },
         {
           "question": "What is the correct formula for rate of change given values A and B?",
           "choices": [
-            "(A−B)/B × 100%",
-            "(B−A)/A × 100%",
             "(A+B)/2",
-            "B/A × 100%"
+            "(B−A)/A × 100%",
+            "B/A × 100%",
+            "(A−B)/B × 100%"
           ],
           "answerIndex": 1,
           "explanation": "The notes specify (B−A)/A × 100% = rate of change in %."
@@ -2212,21 +2212,21 @@
         {
           "question": "When describing a photo of a squatter settlement, what should you avoid doing?",
           "choices": [
-            "Just stating 'poor infrastructure' without inference from what is seen",
-            "Giving specific details like zinc roofs and wood stilts",
             "Making an inference based on visual evidence",
-            "Referencing the diagram"
+            "Referencing the diagram",
+            "Just stating 'poor infrastructure' without inference from what is seen",
+            "Giving specific details like zinc roofs and wood stilts"
           ],
-          "answerIndex": 0,
+          "answerIndex": 2,
           "explanation": "The notes warn against simply stating without using visual evidence to make an inference."
         },
         {
           "question": "What must 'Differentiate' questions establish according to the notes?",
           "choices": [
-            "A list of similarities",
-            "A Basis of Comparison explaining why there is a difference",
             "A calculation",
-            "A definition only"
+            "A Basis of Comparison explaining why there is a difference",
+            "A definition only",
+            "A list of similarities"
           ],
           "answerIndex": 1,
           "explanation": "Differentiate requires establishing a Basis of Comparison, the overarching reason for the difference."
@@ -2234,23 +2234,23 @@
         {
           "question": "How should a 'Distribution' question be structured?",
           "choices": [
-            "General trend, then cluster, then anomalies",
-            "Anomalies first, then trend",
             "Comparison only",
-            "Definition then calculation"
+            "Anomalies first, then trend",
+            "Definition then calculation",
+            "General trend, then cluster, then anomalies"
           ],
-          "answerIndex": 0,
+          "answerIndex": 3,
           "explanation": "The notes state to give a general trend first, then cluster based on the question's given criteria, then anomalies."
         },
         {
           "question": "What should always be used when a question includes a diagram, table, graph, or photo?",
           "choices": [
+            "Only reference it if marks are more than 4",
             "Ignore it and use only prior knowledge",
             "Reference and use specific, accurate, relevant data from it",
-            "Only reference it if marks are more than 4",
             "Describe it without any numbers"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state the answer must always make reference to given data representations with specific, accurate and relevant data."
         }
       ],
@@ -2322,43 +2322,43 @@
         {
           "question": "What distinguishes an 'annotated diagram' from a 'well-labelled diagram'?",
           "choices": [
-            "Annotated diagrams need no sketch",
-            "Annotated diagrams require a short description for each label/part",
             "Annotated diagrams require a full paragraph for each label",
-            "There is no difference"
+            "Annotated diagrams need no sketch",
+            "There is no difference",
+            "Annotated diagrams require a short description for each label/part"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes explain annotated diagrams require a sketch plus short descriptions of each label/part."
         },
         {
           "question": "For 'With the aid of a well-labelled diagram, account for the formation of stratovolcanoes,' what should you do?",
           "choices": [
             "Only sketch without labels",
-            "Label the diagram with numbers and write the process in a paragraph below, corresponding to those numbers",
             "Just write a paragraph with no diagram",
-            "Annotate only, no paragraph"
+            "Annotate only, no paragraph",
+            "Label the diagram with numbers and write the process in a paragraph below, corresponding to those numbers"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "This type of question requires a numbered diagram plus a paragraph explanation matching the numbers."
         },
         {
           "question": "If a question provides specific place names, what must your diagram include?",
           "choices": [
-            "You can omit them if space is limited",
             "Your sketch must show details of the information given, e.g. names of places",
             "Only include them if asked to annotate",
+            "You can omit them if space is limited",
             "Ignore them since diagrams don't need text"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes state your sketch must show details of any given information, such as names of places."
         },
         {
           "question": "Which of the following diagrams is explicitly mentioned as one you need to know how to sketch?",
           "choices": [
             "Convectional rain formation",
-            "Plate boundary formation",
+            "Earthquake epicentre diagram",
             "Tsunami formation",
-            "Earthquake epicentre diagram"
+            "Plate boundary formation"
           ],
           "answerIndex": 0,
           "explanation": "The notes list relief rain formation, convectional rain formation, and monsoon diagrams as required sketches."
@@ -2411,30 +2411,30 @@
           "question": "How many marks is the infographic analysis section worth according to the notes?",
           "choices": [
             "5 marks",
-            "10 marks",
             "15 marks",
+            "10 marks",
             "20 marks"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state this section will be worth 10 marks."
         },
         {
           "question": "Which of these is an example of a data retrieval question for an infographic?",
           "choices": [
-            "Suggest why there were so many aftershocks",
-            "Describe how the earthquake affected the economy",
             "What is the epicentre?",
-            "Explain the impacts of the earthquake"
+            "Describe how the earthquake affected the economy",
+            "Explain the impacts of the earthquake",
+            "Suggest why there were so many aftershocks"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "'What is the epicentre?' is listed as a retrieval-type question, simply asking to pick out data."
         },
         {
           "question": "What must analysis-type infographic questions do, unlike simple retrieval questions?",
           "choices": [
-            "Simply restate figures from the infographic",
-            "Take data and make inferences or build upon it",
             "Avoid using any infographic data",
+            "Take data and make inferences or build upon it",
+            "Simply restate figures from the infographic",
             "Only require a definition"
           ],
           "answerIndex": 1,
@@ -2443,12 +2443,12 @@
         {
           "question": "What is the first step recommended when approaching an infographic analysis question?",
           "choices": [
+            "Only look at the title of the infographic",
             "Immediately write your answer",
-            "Read and spend time analysing the infographic, noting all details",
             "Skip the infographic and use prior knowledge",
-            "Only look at the title of the infographic"
+            "Read and spend time analysing the infographic, noting all details"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes instruct reading and analysing the infographic thoroughly before answering."
         }
       ],
@@ -2535,12 +2535,12 @@
         {
           "question": "What must you do when a question contains 'To what extent'?",
           "choices": [
-            "Fully agree or fully disagree",
-            "Take a stand (large or small extent) and discuss perspectives",
+            "Avoid giving a stand",
             "Only state facts with no opinion",
-            "Avoid giving a stand"
+            "Take a stand (large or small extent) and discuss perspectives",
+            "Fully agree or fully disagree"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes specify you must take a stand to a large or small extent, not fully agree/disagree, and discuss perspectives."
         },
         {
@@ -2559,8 +2559,8 @@
           "choices": [
             "Introduction, Body, Conclusion, Evidence, Stand",
             "Topic Sentence, Writing conceptually, Elaborate, Evidence, Evaluation",
-            "Hook, Thesis, Body, Rebuttal, Conclusion",
-            "Definition, Scope, Stand, Argument, Summary"
+            "Definition, Scope, Stand, Argument, Summary",
+            "Hook, Thesis, Body, Rebuttal, Conclusion"
           ],
           "answerIndex": 1,
           "explanation": "The notes list these five components in the body paragraph structure."
@@ -2568,34 +2568,34 @@
         {
           "question": "What method is recommended for elaborating on a point?",
           "choices": [
+            "SWOT analysis",
             "PEEL method",
             "5W1H method, asking 'how?' and 'why?'",
-            "SWOT analysis",
             "ESPN framework"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes recommend the 5W1H method with emphasis on 'how' and 'why' questions to elaborate."
         },
         {
           "question": "What is the recommended time limit for writing a full essay including planning?",
           "choices": [
-            "15 minutes",
-            "20 minutes",
             "25 minutes",
-            "40 minutes"
+            "40 minutes",
+            "20 minutes",
+            "15 minutes"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "The notes state no more than 25 minutes for 5 paragraphs and planning."
         },
         {
           "question": "What balanced argument structure is recommended in the conclusion?",
           "choices": [
-            "3 points for your stand, no counterpoints",
-            "2 points for your stand and 1 counterpoint",
             "Only counterpoints",
-            "1 point total"
+            "1 point total",
+            "2 points for your stand and 1 counterpoint",
+            "3 points for your stand, no counterpoints"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes specify ensuring a balanced argument of 2 points for your stand and 1 counterpoint."
         },
         {
@@ -2682,43 +2682,43 @@
         {
           "question": "Under which concept can we explain why MEDCs adopt disaster measures more effectively than LEDCs?",
           "choices": [
-            "Concept of Time",
-            "Concept of Place",
+            "Concept of Spatial Interaction",
             "Concept of Possibilities",
-            "Concept of Spatial Interaction"
+            "Concept of Time",
+            "Concept of Place"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes attribute this to the Concept of Place, due to differing resources (financial, technological, manpower) between MEDCs and LEDCs."
         },
         {
           "question": "What does the Concept of Power refer to in the context of hazard response?",
           "choices": [
+            "Only communication technology",
             "Only the government's ability to decide measures",
-            "Both the government's decision-making ability and the magnitude of a hazard like an earthquake",
             "Only economic wealth",
-            "Only communication technology"
+            "Both the government's decision-making ability and the magnitude of a hazard like an earthquake"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes state power refers to both governments' decision-making power and could also refer to hazard magnitude, e.g. earthquake magnitude that drills may not prepare for."
         },
         {
           "question": "What is the Concept of Possibilities primarily concerned with?",
           "choices": [
-            "Physical mechanisms of change like weathering",
             "Alternative events, futures, and outcomes geographers can model or predict",
-            "Proportionality in time and space",
-            "Flows of activity in geographic space"
+            "Physical mechanisms of change like weathering",
+            "Flows of activity in geographic space",
+            "Proportionality in time and space"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes define possibilities as alternative events, futures and outcomes with varying degrees of certainty."
         },
         {
           "question": "According to the notes, what limits the effectiveness of early warning systems, related to the Concept of Time?",
           "choices": [
             "Warnings may not reach people in time to prepare",
-            "Warnings are always too accurate",
+            "Warning systems are unrelated to time",
             "Time has no effect on warning systems",
-            "Warning systems are unrelated to time"
+            "Warnings are always too accurate"
           ],
           "answerIndex": 0,
           "explanation": "The notes state warnings may not reach people in time to prepare adequately, varying the outcome of the measure."
@@ -2726,12 +2726,12 @@
         {
           "question": "What is the overall conclusion in the notes regarding solutions to geographic issues?",
           "choices": [
-            "MEDCs always have perfect solutions",
             "No solution is perfect and there is no single solution for every country",
-            "LEDCs have better solutions due to lower cost",
-            "Solutions are unaffected by government"
+            "Solutions are unaffected by government",
+            "MEDCs always have perfect solutions",
+            "LEDCs have better solutions due to lower cost"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes conclude no solution is perfect, and success depends on timeliness/effectiveness of government and the concepts discussed."
         }
       ],
@@ -2791,9 +2791,9 @@
           "question": "Which of the following is listed as a case study topic under coastal protection?",
           "choices": [
             "Soft Coastal Protection Measures",
-            "Volcanic Island Arc Formation",
+            "ESPN Framework",
             "Monsoon Diagram Sketching",
-            "ESPN Framework"
+            "Volcanic Island Arc Formation"
           ],
           "answerIndex": 0,
           "explanation": "Soft Coastal Protection Measures is explicitly listed among the case study topics."
@@ -2801,23 +2801,23 @@
         {
           "question": "Which two levels are mentioned for climate change responses in the overview list?",
           "choices": [
-            "Local and regional",
             "International and national",
-            "Urban and rural",
-            "Personal and community"
+            "Local and regional",
+            "Personal and community",
+            "Urban and rural"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes list 'Responses on an international level' and 'Responses on a national level'."
         },
         {
           "question": "Which of these is NOT listed as a case study topic in the overview?",
           "choices": [
-            "Role of Transnational Corporations in Globalisation",
             "Hard River Protection Measures",
-            "Natural Causes (of climate change)",
-            "Formation of Fold Mountains"
+            "Role of Transnational Corporations in Globalisation",
+            "Formation of Fold Mountains",
+            "Natural Causes (of climate change)"
           ],
-          "answerIndex": 3,
+          "answerIndex": 2,
           "explanation": "Formation of Fold Mountains is not among the listed topics; the others are explicitly named."
         }
       ],
@@ -2893,55 +2893,55 @@
           "question": "How much did Mount Pinatubo's 1991 eruption lower northern hemisphere temperatures?",
           "choices": [
             "0.1°C",
-            "0.6°C",
             "1.5°C",
-            "2.0°C"
+            "2.0°C",
+            "0.6°C"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes state temperatures were lowered by as much as 0.6°C due to sulphur-based particles reflecting solar energy."
         },
         {
           "question": "According to NASA modelling, what percentage of the past century's ~0.6°C temperature increase is due to solar heating?",
           "choices": [
-            "10%",
-            "25%",
             "50%",
-            "75%"
+            "10%",
+            "75%",
+            "25%"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "Solar heating accounts for about 0.15°C, or 25%, of the change."
         },
         {
           "question": "How much more potent is methane compared to carbon dioxide as a greenhouse gas, per the notes?",
           "choices": [
-            "2 times",
             "10 times",
             "28 times",
-            "100 times"
+            "100 times",
+            "2 times"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "The notes state methane is 28 times more potent than carbon dioxide."
         },
         {
           "question": "What percentage of global greenhouse gas emissions is attributed to deforestation?",
           "choices": [
-            "5%",
-            "11%",
             "25%",
-            "40%"
+            "40%",
+            "5%",
+            "11%"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The best current estimate attributes 11% of global greenhouse gas emissions to deforestation."
         },
         {
           "question": "How large was the area deforested in January 2020 alone, according to the notes?",
           "choices": [
-            "28.4 km²",
-            "284 km²",
             "2,840 km²",
-            "10 million km²"
+            "10 million km²",
+            "284 km²",
+            "28.4 km²"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state 284 km² was deforested in January 2020 alone — 83 times the size of Central Park."
         }
       ],
@@ -3009,43 +3009,43 @@
         {
           "question": "What percentage shorter could shipping travel distances between Asia and Europe become via the Northern Sea Route?",
           "choices": [
-            "Up to 10%",
-            "Up to 40%",
             "Up to 60%",
-            "Up to 90%"
+            "Up to 10%",
+            "Up to 90%",
+            "Up to 40%"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes state shorter travel distances of up to 40% are possible via the Northern Sea Route."
         },
         {
           "question": "By how much did the UK's average growing season length increase according to the notes?",
           "choices": [
-            "From 252 to 270 days",
             "From 200 to 252 days",
-            "From 270 to 300 days",
-            "No change"
+            "No change",
+            "From 252 to 270 days",
+            "From 270 to 300 days"
           ],
-          "answerIndex": 0,
+          "answerIndex": 2,
           "explanation": "The 1961-1990 average was 252 days, increasing to up to 270 days in the early 21st century."
         },
         {
           "question": "According to the IPCC, what percentage of coastal land and wetland habitats may be lost in the next hundred years due to sea level rise?",
           "choices": [
+            "75%",
             "10%",
-            "33%",
             "50%",
-            "75%"
+            "33%"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The IPCC estimate cited is 33% of coastal land and wetland habitats."
         },
         {
           "question": "How many people could be at risk of dengue fever in the 2080s per IPCC projections cited in the notes?",
           "choices": [
-            "500 million to 1 billion",
+            "8 to 9 billion",
             "1 to 2 billion",
             "5 to 6 billion",
-            "8 to 9 billion"
+            "500 million to 1 billion"
           ],
           "answerIndex": 2,
           "explanation": "The notes state the IPCC projection is 5 to 6 billion people at risk."
@@ -3053,12 +3053,12 @@
         {
           "question": "What happened to agricultural land in Cuddalore district, Tamil Nadu?",
           "choices": [
-            "It became more fertile",
-            "It turned into wasteland due to sea level rise",
+            "It experienced a longer growing season",
             "It was converted into new shipping routes",
-            "It experienced a longer growing season"
+            "It turned into wasteland due to sea level rise",
+            "It became more fertile"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state sea level rise turned large tracts of agricultural land into wasteland in Cuddalore."
         }
       ],
@@ -3165,23 +3165,23 @@
         {
           "question": "By 2010, what percentage of Singapore's electricity was generated from natural gas, exceeding the Green Plan 2012 target ahead of schedule?",
           "choices": [
-            "60%",
-            "79%",
+            "95%",
             "28%",
-            "95%"
+            "79%",
+            "60%"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state about 79% of Singapore's electricity was already from natural gas by 2010, exceeding the 60% target."
         },
         {
           "question": "What energy efficiency improvement did the BCA Green Mark Scheme target from 2005 building codes?",
           "choices": [
-            "10%",
             "28%",
-            "50%",
-            "75%"
+            "75%",
+            "10%",
+            "50%"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The scheme aimed for a 28% energy efficiency improvement."
         },
         {
@@ -3198,10 +3198,10 @@
         {
           "question": "Which countries are noted as not signing the Kyoto Protocol, contributing 42% of world CO2 emissions?",
           "choices": [
-            "China, Japan, Russia",
+            "Brazil, India, Nigeria",
             "United States, India and China",
-            "UK, Germany, France",
-            "Brazil, India, Nigeria"
+            "China, Japan, Russia",
+            "UK, Germany, France"
           ],
           "answerIndex": 1,
           "explanation": "The notes specifically name the United States, India and China as contributing 42% of global CO2 emissions."
@@ -3209,34 +3209,34 @@
         {
           "question": "How does the Climate Action Tracker rate the UK's Paris Agreement climate targets and policies?",
           "choices": [
+            "Critically insufficient",
             "1.5°C Paris Agreement compatible",
-            "Almost sufficient",
             "Insufficient",
-            "Critically insufficient"
+            "Almost sufficient"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The CAT rates the UK's targets and policies as 'Almost sufficient'."
         },
         {
           "question": "What percentage of UK electricity came from renewable sources in 2020?",
           "choices": [
             "1.7%",
-            "28%",
             "43%",
+            "28%",
             "60%"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "The notes state 43% of UK electricity in 2020 came from renewable sources, while coal fell to 1.7%."
         },
         {
           "question": "What is cited as a limitation of the Kyoto Protocol?",
           "choices": [
-            "It was too strictly enforced",
-            "It was not enforced, and world CO2 emissions rose 51% since 1997",
+            "It banned all fossil fuel use",
             "It only applied to developing countries",
-            "It banned all fossil fuel use"
+            "It was too strictly enforced",
+            "It was not enforced, and world CO2 emissions rose 51% since 1997"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes state the Protocol was not enforced and world CO2 emissions increased 51% since 1997."
         }
       ],
@@ -3300,42 +3300,42 @@
         {
           "question": "By how much did the Empire State Building's energy use reduce after retrofitting?",
           "choices": [
-            "15%",
             "38%",
+            "15%",
             "50%",
             "96%"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes state energy use was reduced by 38% after retrofitting."
         },
         {
           "question": "How many metric tons of CO2 emissions does US public transport save annually according to the notes?",
           "choices": [
             "4,000",
-            "37 million",
+            "10 billion",
             "800 million",
-            "10 billion"
+            "37 million"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "US public transport saves 37 million metric tons of CO2 emissions annually."
         },
         {
           "question": "What can the Netherlands' storm surge barrier near Rotterdam protect the city from?",
           "choices": [
+            "Wildfires",
             "Storm surges 3m higher than normal",
-            "Earthquakes up to magnitude 7",
             "Droughts lasting a year",
-            "Wildfires"
+            "Earthquakes up to magnitude 7"
           ],
-          "answerIndex": 0,
+          "answerIndex": 1,
           "explanation": "The barrier, consisting of 13 dams, can protect against storm surges 3m higher than normal."
         },
         {
           "question": "What example of Bangladesh's climate adaptation is mentioned in the notes?",
           "choices": [
-            "Storm surge barriers",
-            "Floating vegetable gardens that double as shelter for cattle/poultry",
             "Retrofitted skyscrapers",
+            "Floating vegetable gardens that double as shelter for cattle/poultry",
+            "Storm surge barriers",
             "Reforestation of 40,000 trees"
           ],
           "answerIndex": 1,
@@ -3410,10 +3410,10 @@
         {
           "question": "In the Indonesia mangrove study, what was the percentage decrease in coastal erosion area with mangroves present?",
           "choices": [
-            "10%",
-            "26.5%",
             "50%",
-            "75%"
+            "26.5%",
+            "75%",
+            "10%"
           ],
           "answerIndex": 1,
           "explanation": "Erosion area decreased from 37,904 km² to 27,865 km², a 26.5% decrease with 26,705 km² of mangrove area."
@@ -3421,56 +3421,56 @@
         {
           "question": "How much sand was used in the UK Lincshore beach nourishment scheme in 2013?",
           "choices": [
-            "50,000 m³",
             "530,000 m³",
-            "5 million m³",
-            "20,000 m³"
+            "20,000 m³",
+            "50,000 m³",
+            "5 million m³"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "530,000 m³ of sand were pumped onto 20 km of beach."
         },
         {
           "question": "How many deaths occurred in Kapuhenwala village during the 2004 tsunami, protected by dense mangroves?",
           "choices": [
+            "5,000-6,000",
             "Only 2",
             "200",
-            "2,000",
-            "5,000-6,000"
+            "2,000"
           ],
-          "answerIndex": 0,
+          "answerIndex": 1,
           "explanation": "Kapuhenwala had only 2 deaths — the lowest tsunami-related fatalities in a Sri Lankan village — due to its 200 hectares of dense mangroves."
         },
         {
           "question": "In Ishinomaki City during the 2011 Japan tsunami, what percentage of buildings were damaged in areas WITH breakwaters?",
           "choices": [
-            "About 25%",
             "About 50%",
-            "87%",
-            "100%"
+            "100%",
+            "About 25%",
+            "87%"
           ],
-          "answerIndex": 0,
+          "answerIndex": 2,
           "explanation": "Areas with breakwaters had only about 25% of buildings damaged, versus 87% swept away without breakwaters."
         },
         {
           "question": "How high is the seawall protecting Pondicherry, India above sea level?",
           "choices": [
-            "10 feet",
-            "27 feet",
+            "100 feet",
             "50 feet",
-            "100 feet"
+            "27 feet",
+            "10 feet"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The seawall reaches a height of 27 feet above sea level, stretching 2 km along the coastline."
         },
         {
           "question": "What hard engineering measures protected Mappleton, UK from coastal erosion in 1991?",
           "choices": [
-            "Mangrove planting",
             "Revetments and two large rock groynes",
+            "Beach nourishment",
             "A storm surge barrier",
-            "Beach nourishment"
+            "Mangrove planting"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "Mappleton was protected using revetments and two large rock groynes costing GBP 2 million."
         }
       ],
@@ -3537,20 +3537,20 @@
         {
           "question": "By how much did tree planting reduce peak river flow during the 2016 Yorkshire flood?",
           "choices": [
-            "5%",
-            "20%",
+            "80%",
             "50%",
-            "80%"
+            "20%",
+            "5%"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The 40,000 trees planted reduced peak river flow by 20% during the 2016 flood event."
         },
         {
           "question": "What is the estimated cost of the Beam Washlands scheme in Dagenham, UK?",
           "choices": [
-            "£450,000",
-            "£4.5 million",
             "£45 million",
+            "£4.5 million",
+            "£450,000",
             "£450 million"
           ],
           "answerIndex": 1,
@@ -3560,33 +3560,33 @@
           "question": "According to Samuel Muñoz's research, what percentage of increased Mississippi flood risk comes from human engineering?",
           "choices": [
             "20%",
-            "50%",
             "75%",
+            "50%",
             "100%"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "75% of the 20% increase in overall flood risk comes from human engineering of the Mississippi."
         },
         {
           "question": "By how much did reservoirs in the Ebro River Basin reduce peak flows in neighbouring downstream zones?",
           "choices": [
-            "Up to 20%",
-            "Up to 57%",
             "Up to 80%",
+            "Up to 57%",
+            "Up to 20%",
             "Up to 100%"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "Studies showed reservoirs reduced peak flows in neighbouring downstream zones by as much as 80%."
         },
         {
           "question": "How much did 2019 levee breaches along the Mississippi cost the US government to repair?",
           "choices": [
-            "US$190 million",
-            "US$1.9 billion",
             "US$19 billion",
-            "US$190 billion"
+            "US$190 billion",
+            "US$190 million",
+            "US$1.9 billion"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes state repair costs totalled US$1.9 billion."
         }
       ],
@@ -3682,10 +3682,10 @@
         {
           "question": "What percentage of the US population were immigrants as of 2015?",
           "choices": [
-            "5.1%",
-            "14.4%",
             "19.1%",
-            "25%"
+            "14.4%",
+            "25%",
+            "5.1%"
           ],
           "answerIndex": 1,
           "explanation": "The 47 million immigrants represent 14.4% of the US population."
@@ -3693,45 +3693,45 @@
         {
           "question": "Singapore is the world's ___ largest recipient of FDI inflows, per UNCTAD's 2020 report.",
           "choices": [
-            "1st",
-            "3rd",
+            "10th",
             "5th",
-            "10th"
+            "3rd",
+            "1st"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "Singapore is the 5th largest recipient, behind the US, China, Netherlands and Hong Kong."
         },
         {
           "question": "By how much did trade between NAFTA members grow from 1993 to 2019?",
           "choices": [
-            "Doubled",
-            "Tripled",
             "Quadrupled",
-            "Increased tenfold"
+            "Tripled",
+            "Increased tenfold",
+            "Doubled"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "Trade quadrupled from US$290 billion to US$1.23 trillion."
         },
         {
           "question": "How much faster is the modern Maersk Triple E ship at loading compared to loading times in 1956?",
           "choices": [
-            "1956: 1 week; 2015: 5 hours",
-            "1956: 5 hours; 2015: 1 week",
             "No change in loading times",
-            "1956: 1 day; 2015: 1 hour"
+            "1956: 1 week; 2015: 5 hours",
+            "1956: 1 day; 2015: 1 hour",
+            "1956: 5 hours; 2015: 1 week"
           ],
-          "answerIndex": 0,
+          "answerIndex": 1,
           "explanation": "Loading times reduced from up to 1 week in 1956 to 5 hours by 2015 due to mechanised loading."
         },
         {
           "question": "How many years did it take the internet to reach 50 million users, compared to radio (38 years) and television (13 years)?",
           "choices": [
-            "1 year",
             "4 years",
+            "20 years",
             "10 years",
-            "20 years"
+            "1 year"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The internet took just 4 years to reach 50 million users, far faster than radio or television."
         },
         {
@@ -3739,10 +3739,10 @@
           "choices": [
             "25%",
             "50%",
-            "81%",
-            "100%"
+            "100%",
+            "81%"
           ],
-          "answerIndex": 2,
+          "answerIndex": 3,
           "explanation": "81% of Singapore's exports to India benefit from tariff reduction/elimination."
         }
       ],
@@ -3817,67 +3817,67 @@
         {
           "question": "How many people have been lifted out of poverty since 1990, according to the notes?",
           "choices": [
-            "100 million",
-            "600 million",
             "1 billion",
-            "2 billion"
+            "2 billion",
+            "600 million",
+            "100 million"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "Since 1990, with increasing globalisation, 1 billion people have been lifted out of poverty."
         },
         {
           "question": "How many people does the World Food Programme help annually, across how many countries?",
           "choices": [
-            "10 million people in 20 countries",
             "100 million people in 88 countries",
             "1 billion people in 200 countries",
+            "10 million people in 20 countries",
             "50 million people in 50 countries"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The WFP helps almost 100 million people in approximately 88 countries annually."
         },
         {
           "question": "What does the Kafala 'sponsorship system' deny migrant domestic workers in the Middle East?",
           "choices": [
-            "Access to healthcare",
-            "Their right to freedom of movement",
             "Access to food",
-            "The right to vote"
+            "The right to vote",
+            "Their right to freedom of movement",
+            "Access to healthcare"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The Kafala system denies migrant workers their right to freedom of movement, with employers controlling documents and mobility."
         },
         {
           "question": "By how much did the total warming effect of greenhouse gases from fossil fuels increase between 1990 and 2015?",
           "choices": [
             "10%",
-            "37%",
             "50%",
-            "80%"
+            "80%",
+            "37%"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The total warming effect increased by 37% during this period."
         },
         {
           "question": "What percentage of women in Nigeria were reported overweight or obese, linked to globalisation-driven Westernisation?",
           "choices": [
+            "One in three",
             "One in ten",
             "One in five",
-            "One in two",
-            "One in three"
+            "One in two"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Over one in five women in Nigeria were reported overweight or obese."
         },
         {
           "question": "What percentage of total electricity generation comes from fossil fuels, according to the notes?",
           "choices": [
-            "50%",
-            "65%",
             "80%",
-            "95%"
+            "65%",
+            "95%",
+            "50%"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "The notes state fossil fuels provide 80% of total electricity."
         }
       ],
@@ -3960,21 +3960,21 @@
         {
           "question": "How much did Shell provide in 2000 to launch the Shell Foundation?",
           "choices": [
-            "US$25 million",
             "US$250 million",
             "US$2.5 billion",
+            "US$25 million",
             "US$25 billion"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "Shell provided a US$250 million endowment to launch the Shell Foundation."
         },
         {
           "question": "What percentage of all full-time jobs in the Netherlands are created because of foreign-owned TNCs?",
           "choices": [
-            "5%",
+            "70%",
             "20%",
-            "50%",
-            "70%"
+            "5%",
+            "50%"
           ],
           "answerIndex": 1,
           "explanation": "The notes state 20% of all full-time jobs in the Netherlands are created because of these organisations."
@@ -3982,45 +3982,45 @@
         {
           "question": "By 1992, garment exports accounted for what percentage of Bangladesh's total export earnings, following Daewoo's investment?",
           "choices": [
-            "10%",
-            "25%",
+            "70%",
             "46%",
-            "70%"
+            "25%",
+            "10%"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "Garment exports accounted for 46% of Bangladesh's total export earnings by 1992."
         },
         {
           "question": "How many immediate deaths resulted from the 1984 Bhopal disaster caused by Union Carbide's plant?",
           "choices": [
-            "300",
-            "3,000",
+            "120,000",
             "20,000",
-            "120,000"
+            "300",
+            "3,000"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "3,000 people died immediately, with a further 20,000 deaths over the next 25 years."
         },
         {
           "question": "According to Nike's internal investigation, what fraction of South Asian plants had cases of abusive treatment?",
           "choices": [
-            "Less than 5%",
-            "More than a quarter",
             "Exactly half",
-            "All of them"
+            "All of them",
+            "Less than 5%",
+            "More than a quarter"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The investigation found abusive treatment cases in more than a quarter of its South Asian plants."
         },
         {
           "question": "How many jobs did the Siemens semiconductor plant in North Tyneside create when it opened in 1997?",
           "choices": [
-            "80",
-            "800",
             "8,000",
-            "80,000"
+            "80,000",
+            "800",
+            "80"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The plant created nearly 800 jobs after opening in 1997."
         }
       ],

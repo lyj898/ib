@@ -16,6 +16,7 @@
     dash.innerHTML = `
       <div class="dash-actions">
         <a class="btn primary" href="review.html">▶ Try a daily mix</a>
+        <a class="btn" href="exam.html">📝 Exam mode</a>
       </div>
       <p class="progress-text">New here? Pick a subject below — cards you review get scheduled and resurface right before you'd forget them.</p>
     `;
@@ -40,6 +41,7 @@
       <div class="stat-row">${stats.join("")}</div>
       <div class="dash-actions">
         <a class="btn primary" href="review.html">▶ Daily mix</a>
+        <a class="btn" href="exam.html">📝 Exam mode</a>
         ${
           last
             ? `<a class="btn" href="subject.html?s=${last.s}&t=${encodeURIComponent(last.t)}">Continue: ${escapeHtml(last.title)}</a>`

@@ -81,11 +81,17 @@
       const card = cards[idx];
       const pct = Math.round((done / Math.max(sessionTotal, 1)) * 100);
       const iv = SRS.previewIntervals(subjectId, topic.id, idx);
+      const faceText = flipped ? card.a : card.q;
+      const isZh = subjectId === "chinese" && hasChinese(card.q + " " + card.a);
+      const pinyinHidden = localStorage.getItem("sg2:pinyin") === "hide";
+      const face = isZh ? renderCardFace(faceText, { maskPinyin: pinyinHidden }) : escapeHtml(faceText);
       panel.innerHTML = `
         <div class="progress-bar"><div style="width:${pct}%"></div></div>
-        <div class="progress-text">${queue.length} to go · ${done} done</div>
+        <div class="progress-text">${queue.length} to go · ${done} done
+          ${isZh ? `<button class="pinyin-toggle" id="pinyin-toggle">拼音: ${pinyinHidden ? "hidden" : "shown"}</button>` : ""}
+        </div>
         <div class="flashcard-wrap">
-          <div class="flashcard" id="flip-card"><span class="label">${flipped ? "Answer" : "Question"}</span>${escapeHtml(flipped ? card.a : card.q)}</div>
+          <div class="flashcard" id="flip-card"><span class="label">${flipped ? "Answer" : "Question"}</span>${face}${isZh && hasChinese(faceText) ? `<button class="speak-btn" id="speak-btn" title="Listen">🔊</button>` : ""}</div>
         </div>
         ${
           flipped
@@ -104,6 +110,18 @@
         flipped = !flipped;
         draw();
       });
+      const speakBtn = panel.querySelector("#speak-btn");
+      if (speakBtn)
+        speakBtn.addEventListener("click", (e) => {
+          e.stopPropagation();
+          speakChinese(faceText);
+        });
+      const pinyinBtn = panel.querySelector("#pinyin-toggle");
+      if (pinyinBtn)
+        pinyinBtn.addEventListener("click", () => {
+          localStorage.setItem("sg2:pinyin", pinyinHidden ? "show" : "hide");
+          draw();
+        });
       const flipBtn = panel.querySelector("#flip-btn");
       if (flipBtn)
         flipBtn.addEventListener("click", () => {

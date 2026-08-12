@@ -68,66 +68,66 @@
           "question": "Which formula for pressure is typically used when dealing with liquids and no applied force is given?",
           "choices": [
             "P = F / A",
-            "P = h x density x g",
             "P = m x a",
+            "P = h x density x g",
             "P = W / t"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "P = h x density x g is used for pressure in fluids, especially when no force is directly given."
         },
         {
           "question": "A chair with 4 legs, total mass 30 kg, rests on the ground. Each leg has area 0.0020 m2. Using g = 10 N/kg, what is the pressure exerted by each leg?",
           "choices": [
-            "3,750 Pa",
-            "15,000 Pa",
             "37,500 Pa",
-            "75,000 Pa"
+            "75,000 Pa",
+            "15,000 Pa",
+            "3,750 Pa"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "Force per leg = (30x10)/4 = 75 N; Pressure = 75/0.0020 = 37,500 Pa."
         },
         {
           "question": "Why is pressure classified as a scalar quantity?",
           "choices": [
             "It has both magnitude and direction",
+            "It always acts perpendicular to a surface",
             "It does not have a direction and follows the scalar addition rule",
-            "It can be measured with a vector diagram",
-            "It always acts perpendicular to a surface"
+            "It can be measured with a vector diagram"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Pressure has no direction, and per the scalar rule (like temperature), individual pressure values are not simply summed."
         },
         {
           "question": "If the same force acts on a smaller area, what happens to the pressure?",
           "choices": [
-            "Pressure decreases",
-            "Pressure stays the same",
             "Pressure increases",
-            "Pressure becomes zero"
+            "Pressure becomes zero",
+            "Pressure stays the same",
+            "Pressure decreases"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "Pressure is inversely related to area for a constant force — a smaller area increases the pressure."
         },
         {
           "question": "What is the approximate value of atmospheric pressure in cmHg?",
           "choices": [
+            "101 cmHg",
             "10 cmHg",
             "76 cmHg",
-            "101 cmHg",
             "1000 cmHg"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Atmospheric pressure is about 101,000 Pa, equivalent to 76 cmHg."
         },
         {
           "question": "In a barometer, why is the vertical height of the mercury column 76 cm?",
           "choices": [
             "Because mercury is heavier than water",
-            "Because the pressure at the base equals atmospheric pressure (76 cmHg), since points at the same level in the same fluid have equal pressure",
+            "Because mercury boils at 76 degrees",
             "Because the tube is exactly 76 cm long",
-            "Because mercury boils at 76 degrees"
+            "Because the pressure at the base equals atmospheric pressure (76 cmHg), since points at the same level in the same fluid have equal pressure"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "Points at the same level in the same fluid have equal pressure; since one point is exposed to atmospheric pressure (76 cmHg), the sealed end must match it via the mercury column height."
         },
         {
@@ -233,10 +233,10 @@
         {
           "question": "Which two conditions are required for the human eye to see an object?",
           "choices": [
-            "The object must be luminous and moving",
-            "Light rays must be reflected off the object and reach the eyes",
             "The object must be larger than the eye",
-            "The eye must emit light rays toward the object"
+            "Light rays must be reflected off the object and reach the eyes",
+            "The eye must emit light rays toward the object",
+            "The object must be luminous and moving"
           ],
           "answerIndex": 1,
           "explanation": "Seeing requires light to be reflected off the object and for those reflected rays to reach the eyes."
@@ -245,19 +245,19 @@
           "question": "According to the 2nd Law of Reflection, what is true of the angle of incidence and angle of reflection?",
           "choices": [
             "They are always 90 degrees",
-            "They are equal to each other",
             "The angle of reflection is always double the angle of incidence",
-            "They lie in different planes"
+            "They lie in different planes",
+            "They are equal to each other"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The 2nd Law of Reflection states the angle of incidence equals the angle of reflection."
         },
         {
           "question": "Which of the following is NOT a characteristic of an image formed by a plane mirror?",
           "choices": [
-            "Same size as the object",
             "Virtual image",
             "Laterally inverted",
+            "Same size as the object",
             "Formed on a screen"
           ],
           "answerIndex": 3,
@@ -266,34 +266,34 @@
         {
           "question": "In a ray diagram, how should construction lines and virtual elements be represented?",
           "choices": [
+            "They should not be drawn at all",
             "As solid lines",
-            "As dotted or broken lines",
             "As colored lines",
-            "They should not be drawn at all"
+            "As dotted or broken lines"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "Construction lines and virtual elements are imaginary and must be shown as dotted or broken lines."
         },
         {
           "question": "What is the correct first step when drawing a ray diagram for reflection?",
           "choices": [
-            "Draw the mirror line",
             "Locate the image of the eye or object",
-            "Join the eye to the object directly",
-            "Add arrows to all rays"
+            "Draw the mirror line",
+            "Add arrows to all rays",
+            "Join the eye to the object directly"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The first step is to locate the image of the eye or object before joining points with lines."
         },
         {
           "question": "Which statement about arrows on light rays in a ray diagram is correct?",
           "choices": [
-            "Arrows should point from the eye outward",
             "Arrows should point in the direction of actual light travel, never shooting out from the eye",
             "Arrows are optional in ray diagrams",
+            "Arrows should point from the eye outward",
             "Arrows should only be added to construction lines"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "Light rays must have arrows showing their true direction of travel; showing light shooting from the eye is incorrect since the eye receives light rather than emits it."
         }
       ],
@@ -399,42 +399,42 @@
         {
           "question": "Which of the following is a necessary condition for refraction to occur?",
           "choices": [
-            "The light must enter perpendicular to the surface",
-            "The light's speed must change and it must enter the new medium at an angle",
             "The medium must be a vacuum",
-            "The light must be reflected first"
+            "The light must be reflected first",
+            "The light's speed must change and it must enter the new medium at an angle",
+            "The light must enter perpendicular to the surface"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Refraction requires both a change in speed (due to different optical densities) and the ray entering at an angle."
         },
         {
           "question": "When light travels from an optically less dense medium into an optically denser medium, how does it bend?",
           "choices": [
             "Away from the normal",
-            "Towards the normal",
             "It does not bend",
-            "Parallel to the normal"
+            "Parallel to the normal",
+            "Towards the normal"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "Light bends towards the normal when entering an optically denser medium."
         },
         {
           "question": "Which substance listed has the highest refractive index?",
           "choices": [
             "Air",
+            "Diamond",
             "Water",
-            "Glass",
-            "Diamond"
+            "Glass"
           ],
-          "answerIndex": 3,
+          "answerIndex": 1,
           "explanation": "Diamond has a refractive index of 2.40, the highest among those listed."
         },
         {
           "question": "What is the formula relating the critical angle (c) to the refractive index (n)?",
           "choices": [
-            "sin c = n",
-            "sin c = 1/n",
             "c = n x 90",
+            "sin c = 1/n",
+            "sin c = n",
             "cos c = 1/n"
           ],
           "answerIndex": 1,
@@ -443,34 +443,34 @@
         {
           "question": "Under what condition does total internal reflection occur?",
           "choices": [
-            "Light travels from a less dense to a denser medium at any angle",
-            "Light travels from a denser to a less dense medium, with angle of incidence greater than the critical angle",
             "Light enters perpendicular to the surface",
-            "Light travels through a vacuum only"
+            "Light travels from a less dense to a denser medium at any angle",
+            "Light travels through a vacuum only",
+            "Light travels from a denser to a less dense medium, with angle of incidence greater than the critical angle"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "Total internal reflection requires travel from denser to less dense medium AND an angle of incidence exceeding the critical angle."
         },
         {
           "question": "When a light ray passes through a parallel-sided glass block, why must it exit at the same angle it entered?",
           "choices": [
-            "Because glass has no refractive index",
-            "Because if it didn't, it would imply an impossible angle of incidence greater than 90 degrees, given total internal reflection constraints",
             "Because the light ray loses energy inside the glass",
-            "Because the critical angle equals 90 degrees always"
+            "Because the critical angle equals 90 degrees always",
+            "Because glass has no refractive index",
+            "Because if it didn't, it would imply an impossible angle of incidence greater than 90 degrees, given total internal reflection constraints"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The proof shows that for TIR to occur in that scenario, angle of incidence would need to exceed 90 degrees, which is impossible, so the ray must exit at the same angle."
         },
         {
           "question": "Which of these is NOT listed as an advantage of optical fibres over copper wires?",
           "choices": [
             "Higher carrying capacity",
-            "Less signal degradation",
             "Higher cost of manufacturing",
+            "Less signal degradation",
             "Lightweight"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "Optical fibres are noted as becoming cheaper (lower cost), not more expensive, compared to copper wires."
         }
       ],
@@ -564,78 +564,78 @@
         {
           "question": "What type of wave classification applies to all electromagnetic waves?",
           "choices": [
-            "Longitudinal",
-            "Transverse",
+            "Torsional",
             "Mechanical",
-            "Torsional"
+            "Transverse",
+            "Longitudinal"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "All electromagnetic waves are transverse waves."
         },
         {
           "question": "At what speed do electromagnetic waves travel in a vacuum?",
           "choices": [
-            "3 x 10^5 ms-1",
-            "3 x 10^6 ms-1",
             "3 x 10^8 ms-1",
+            "3 x 10^6 ms-1",
+            "3 x 10^5 ms-1",
             "3 x 10^10 ms-1"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "All electromagnetic waves travel at 3 x 10^8 ms-1 in a vacuum."
         },
         {
           "question": "Why do FM radio waves require a more unobstructed path than AM radio waves?",
           "choices": [
             "FM waves have longer wavelengths and travel around obstructions better",
-            "FM waves have shorter wavelengths and cannot travel around obstructions as well as longer wavelength waves",
             "FM waves cannot travel through air",
+            "FM waves have shorter wavelengths and cannot travel around obstructions as well as longer wavelength waves",
             "FM waves travel slower than AM waves"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "FM radio has shorter wavelength/higher frequency, so it needs an unobstructed straight path, unlike longer-wavelength AM waves which travel around obstructions better."
         },
         {
           "question": "How does a microwave oven heat food?",
           "choices": [
             "By directly burning the surface of food",
-            "By causing water molecules in food to vibrate vigorously, generating heat",
             "By using infrared radiation to warm the food's surface",
+            "By causing water molecules in food to vibrate vigorously, generating heat",
             "By passing an electric current through the food"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Microwaves penetrate food and cause water molecules to vibrate vigorously, generating heat throughout."
         },
         {
           "question": "How do Passive Infrared Detectors (PID) used in intruder alarms function?",
           "choices": [
+            "They measure sound waves produced by intruders",
             "They emit infrared radiation and measure its reflection",
-            "They detect changes in the level of infrared radiation in the environment without emitting any themselves",
             "They use visible light sensors",
-            "They measure sound waves produced by intruders"
+            "They detect changes in the level of infrared radiation in the environment without emitting any themselves"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "PIDs are passive — they detect changes in ambient infrared radiation levels, such as the increase caused by an intruder, without emitting radiation themselves."
         },
         {
           "question": "Why is ultrasound (not directly an EM wave topic, distractor check) — instead, why is ultraviolet radiation risky in sunbeds?",
           "choices": [
-            "It can cause premature aging and skin cancer with excessive exposure",
-            "It causes immediate blindness",
             "It has no known risks",
+            "It causes immediate blindness",
+            "It can cause premature aging and skin cancer with excessive exposure",
             "It only affects synthetic materials"
           ],
-          "answerIndex": 0,
+          "answerIndex": 2,
           "explanation": "Excessive exposure to ultraviolet radiation from sunbeds may lead to premature aging and even skin cancer."
         },
         {
           "question": "Which of the following is a use of X-rays described in the notes?",
           "choices": [
-            "Heating food in microwave ovens",
-            "Diagnosing fractures via radiography and screening baggage at airports",
+            "Optic fibre communication",
             "Artificial tanning",
-            "Optic fibre communication"
+            "Diagnosing fractures via radiography and screening baggage at airports",
+            "Heating food in microwave ovens"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "X-rays are used for radiography (diagnosing fractures/tooth decay) and airport security screening, among other uses like radiation therapy."
         }
       ],
@@ -747,43 +747,43 @@
         {
           "question": "Which best describes a wave motion?",
           "choices": [
+            "A stationary vibration with no energy transfer",
             "A net transfer of matter from point A to point B",
             "A means of transferring energy from point A to point B without a net transfer of matter",
-            "A stationary vibration with no energy transfer",
             "A transfer of matter without any energy transfer"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "A wave transfers energy without a net transfer of the medium/matter itself."
         },
         {
           "question": "In a transverse wave, how do particles oscillate relative to the wave's direction of travel?",
           "choices": [
-            "Parallel to the direction of travel",
             "Perpendicular to the direction of travel",
             "In a circular pattern only",
+            "Parallel to the direction of travel",
             "They do not oscillate"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "Transverse waves have particles oscillating perpendicular to the direction of wave motion."
         },
         {
           "question": "Which of these is an example of a longitudinal wave?",
           "choices": [
-            "Water waves",
+            "Sound waves",
             "Wave on a rope",
-            "Electromagnetic waves",
-            "Sound waves"
+            "Water waves",
+            "Electromagnetic waves"
           ],
-          "answerIndex": 3,
+          "answerIndex": 0,
           "explanation": "Sound waves are longitudinal waves, involving compressions and rarefactions, unlike the transverse examples listed."
         },
         {
           "question": "What is the key difference between a displacement-distance graph and a displacement-time graph?",
           "choices": [
-            "They are always identical",
+            "There is no meaningful difference between the two",
             "A displacement-distance graph is a snapshot of all particles at one instant; a displacement-time graph tracks one particle over time",
             "A displacement-time graph shows all particles at once",
-            "There is no meaningful difference between the two"
+            "They are always identical"
           ],
           "answerIndex": 1,
           "explanation": "Displacement-distance is a snapshot of all particles at an instant, while displacement-time tracks one particle's history over time."
@@ -791,10 +791,10 @@
         {
           "question": "What determines whether the frequency of a wave changes?",
           "choices": [
-            "The medium through which it travels",
             "The depth of the medium (for water waves)",
+            "The optical density of the medium",
             "Only a change in the source",
-            "The optical density of the medium"
+            "The medium through which it travels"
           ],
           "answerIndex": 2,
           "explanation": "Frequency is only affected when the source changes; it is unaffected by medium properties."
@@ -802,8 +802,8 @@
         {
           "question": "If a wave's speed decreases while its frequency stays constant, what happens to its wavelength, according to V = f(lambda)?",
           "choices": [
-            "Wavelength increases",
             "Wavelength stays the same",
+            "Wavelength increases",
             "Wavelength decreases",
             "Wavelength becomes infinite"
           ],
@@ -813,12 +813,12 @@
         {
           "question": "What happens to the speed of sound waves as the density of the medium increases?",
           "choices": [
-            "Speed decreases",
-            "Speed increases",
+            "Speed becomes zero",
             "Speed remains unchanged",
-            "Speed becomes zero"
+            "Speed increases",
+            "Speed decreases"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Higher density of the medium increases the speed of sound waves, per the notes."
         }
       ],
@@ -920,8 +920,8 @@
           "choices": [
             "Static electric charge",
             "Vibrations from a source",
-            "Light energy",
-            "Chemical reactions"
+            "Chemical reactions",
+            "Light energy"
           ],
           "answerIndex": 1,
           "explanation": "Sound waves are always produced by vibrations from a source."
@@ -929,12 +929,12 @@
         {
           "question": "Why can't sound be transmitted through a vacuum?",
           "choices": [
-            "Sound needs light to travel",
-            "Sound waves require a medium of molecules to transmit vibrations, and a vacuum has none",
+            "Vacuums absorb all sound energy instantly",
             "Sound waves are electromagnetic",
-            "Vacuums absorb all sound energy instantly"
+            "Sound waves require a medium of molecules to transmit vibrations, and a vacuum has none",
+            "Sound needs light to travel"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Sound is transmitted via vibrations passed molecule to molecule, so it requires a medium and cannot travel through a vacuum."
         },
         {
@@ -942,19 +942,19 @@
           "choices": [
             "Slower than in air",
             "About the same as in air",
-            "Much faster than in air (about 5000 ms-1 vs 300 ms-1)",
-            "Sound cannot travel through iron"
+            "Sound cannot travel through iron",
+            "Much faster than in air (about 5000 ms-1 vs 300 ms-1)"
           ],
-          "answerIndex": 2,
+          "answerIndex": 3,
           "explanation": "Sound travels much faster in iron (~5000 ms-1) than in air (~300 ms-1) because molecules are more closely spaced in solids."
         },
         {
           "question": "On a displacement graph of a sound wave, what characterizes a centre of compression or rarefaction?",
           "choices": [
-            "It is always the highest point (crest)",
             "It is always the lowest point (trough)",
+            "It has maximum displacement in either direction",
             "It is a point with zero displacement",
-            "It has maximum displacement in either direction"
+            "It is always the highest point (crest)"
           ],
           "answerIndex": 2,
           "explanation": "Centres of compression and rarefaction are points with zero displacement, not crests or troughs."
@@ -963,33 +963,33 @@
           "question": "Why did the boy clapping 125 m from a wall not hear an echo?",
           "choices": [
             "The wall absorbed all the sound",
-            "The interval between claps equaled the time for the echo to return, making the reflected sound indistinguishable from the original",
+            "Sound cannot reflect off walls",
             "Echoes cannot occur at that distance",
-            "Sound cannot reflect off walls"
+            "The interval between claps equaled the time for the echo to return, making the reflected sound indistinguishable from the original"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "Since the clap interval matched the echo return time, the reflected sound was not distinguishable from the original sound and thus not heard as an echo."
         },
         {
           "question": "What determines the pitch of a sound wave?",
           "choices": [
+            "Its wavelength independent of frequency",
             "Its amplitude",
-            "Its frequency",
             "Its speed only",
-            "Its wavelength independent of frequency"
+            "Its frequency"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "Pitch is related to frequency — higher frequency means higher pitch."
         },
         {
           "question": "Why is ultrasound used instead of X-rays for prenatal scanning?",
           "choices": [
-            "Ultrasound is cheaper to produce",
             "Ultrasound is less hazardous due to its lower energy",
             "Ultrasound provides a clearer image than X-rays in all cases",
+            "Ultrasound is cheaper to produce",
             "X-rays cannot penetrate the womb"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "Ultrasound is preferred for prenatal scanning because it is less hazardous than X-rays, owing to its lower energy."
         }
       ],
@@ -1113,9 +1113,9 @@
         {
           "question": "What is the fundamental difference between current electricity and static electricity?",
           "choices": [
-            "Current electricity deals with charges at rest; static electricity deals with charges in motion",
-            "Current electricity deals with charges in motion; static electricity deals with charges on a stationary body",
             "There is no difference; they are the same phenomenon",
+            "Current electricity deals with charges in motion; static electricity deals with charges on a stationary body",
+            "Current electricity deals with charges at rest; static electricity deals with charges in motion",
             "Static electricity only applies to insulators"
           ],
           "answerIndex": 1,
@@ -1124,65 +1124,65 @@
         {
           "question": "How does an atom become negatively charged?",
           "choices": [
-            "Protons are added to the nucleus",
-            "Electrons are removed from the atom",
             "Electrons are added to the atom",
-            "Neutrons are removed from the nucleus"
+            "Electrons are removed from the atom",
+            "Neutrons are removed from the nucleus",
+            "Protons are added to the nucleus"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "Adding electrons makes the number of electrons exceed protons, giving the atom a net negative charge."
         },
         {
           "question": "Why is repulsion, rather than attraction, used to test whether a body is charged?",
           "choices": [
-            "Repulsion only occurs between a charged and a neutral body",
-            "A neutral body can be attracted to a charged body, but only two charged bodies with like charge will repel",
+            "Repulsion cannot be observed in insulators",
             "Attraction is stronger than repulsion",
-            "Repulsion cannot be observed in insulators"
+            "A neutral body can be attracted to a charged body, but only two charged bodies with like charge will repel",
+            "Repulsion only occurs between a charged and a neutral body"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Since attraction can occur even with a neutral body, repulsion is the reliable test because it only happens between two charged (like) bodies."
         },
         {
           "question": "How is the direction of an electric field at a point determined?",
           "choices": [
+            "By the temperature at that point",
             "By the direction a negative charge would move",
             "By the direction a positive charge would experience force",
-            "By the nearest conductor",
-            "By the temperature at that point"
+            "By the nearest conductor"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The direction of an electric field is defined by the direction of force on a positive charge placed at that point."
         },
         {
           "question": "What is the key difference between conductors and insulators regarding charged particles?",
           "choices": [
             "Conductors have no charged particles; insulators do",
-            "In conductors, charged particles are free to move; in insulators, they are bound to atoms",
+            "There is no difference",
             "Insulators conduct electricity better than conductors",
-            "There is no difference"
+            "In conductors, charged particles are free to move; in insulators, they are bound to atoms"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "Conductors allow free movement of charged particles, while in insulators, electrons remain bound to their atoms."
         },
         {
           "question": "What is the purpose of the metal chain hanging from petrol tankers?",
           "choices": [
-            "To decorate the vehicle",
-            "To provide an earthing path for excess charge buildup, reducing spark/ignition risk",
+            "To measure the vehicle's speed",
             "To increase friction with the road",
-            "To measure the vehicle's speed"
+            "To decorate the vehicle",
+            "To provide an earthing path for excess charge buildup, reducing spark/ignition risk"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The chain provides an earthing path for charges accumulated via friction, reducing the risk of sparks igniting flammable substances."
         },
         {
           "question": "How does an electrostatic precipitator help power stations reduce pollution?",
           "choices": [
-            "It burns fly ash completely before release",
+            "It has no relation to pollution control",
             "It removes fly ash (smoke and dust particles) from waste gases using electrostatic principles",
             "It converts fly ash into fuel",
-            "It has no relation to pollution control"
+            "It burns fly ash completely before release"
           ],
           "answerIndex": 1,
           "explanation": "Electrostatic precipitators remove fly ash from waste gases, preventing it from being released into the environment; the collected ash can be used as a bonding agent in cement."
@@ -1272,56 +1272,56 @@
         {
           "question": "What is the correct definition of electric current?",
           "choices": [
-            "The movement of electric charges",
-            "The rate of flow of electric charges",
             "The total amount of electric charge in a circuit",
-            "The force experienced by a charge in an electric field"
+            "The movement of electric charges",
+            "The force experienced by a charge in an electric field",
+            "The rate of flow of electric charges"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "Current is specifically defined as the rate of flow of electric charges, not merely their movement."
         },
         {
           "question": "Which formula correctly represents electric current?",
           "choices": [
             "I = Q x t",
-            "I = Q / t",
             "I = t / Q",
-            "I = Q + t"
+            "I = Q + t",
+            "I = Q / t"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "I = Q / t, where I is current, Q is charge, and t is time."
         },
         {
           "question": "How must an ammeter be connected in a circuit to measure current?",
           "choices": [
+            "Directly across the battery terminals only",
             "In parallel",
             "In series",
-            "Directly across the battery terminals only",
             "It doesn't matter how it's connected"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "An ammeter must be placed in series in the circuit to measure current."
         },
         {
           "question": "In conventional current flow, what is the direction of flow relative to the terminals?",
           "choices": [
+            "It flows in both directions simultaneously",
             "From negative terminal to positive terminal",
             "From positive terminal to negative terminal",
-            "It flows in both directions simultaneously",
             "There is no defined direction"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Conventional current flows from the positive terminal to the negative terminal, opposite to electron flow."
         },
         {
           "question": "Why is conventional current considered less scientifically accurate than electron flow, according to the notes?",
           "choices": [
-            "Because electrons don't actually exist",
-            "Because the positive terminal actually lacks electrons and the negative terminal has excess electrons, meaning electrons truly flow the opposite way to conventional current",
+            "Because conventional current only applies to AC circuits",
             "Because conventional current cannot be measured",
-            "Because conventional current only applies to AC circuits"
+            "Because the positive terminal actually lacks electrons and the negative terminal has excess electrons, meaning electrons truly flow the opposite way to conventional current",
+            "Because electrons don't actually exist"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The positive terminal lacks electrons (net positive) and the negative terminal has excess electrons (net negative), so electron flow direction is physically opposite to the historically defined conventional current direction."
         },
         {
@@ -1329,8 +1329,8 @@
           "choices": [
             "0.05 A to the right",
             "0.45 A to the left",
-            "0.45 A to the right",
-            "0.05 A to the left"
+            "0.05 A to the left",
+            "0.45 A to the right"
           ],
           "answerIndex": 1,
           "explanation": "Electrons flowing right at 0.20 A means conventional current flows left at 0.20 A; positive ions flowing left at 0.25 A means conventional current flows left at 0.25 A. Total = 0.20 + 0.25 = 0.45 A to the left."
@@ -1422,31 +1422,31 @@
           "question": "Which of the following best defines electromotive force?",
           "choices": [
             "The force of attraction and repulsion in a circuit",
+            "The current supplied by a battery",
             "The work done by a source in driving unit charge around a complete circuit",
-            "The energy converted per unit charge across a load",
-            "The current supplied by a battery"
+            "The energy converted per unit charge across a load"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "EMF is defined as the work done by the source in driving unit charge (1 C) around a complete circuit."
         },
         {
           "question": "What is the SI unit of EMF?",
           "choices": [
             "Newton",
-            "Joule",
             "Volt",
-            "Coulomb"
+            "Coulomb",
+            "Joule"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "EMF is energy per unit charge, measured in volts."
         },
         {
           "question": "Which equation correctly represents EMF?",
           "choices": [
-            "ε = QW",
-            "ε = W/Q",
             "ε = Q/W",
-            "ε = WQ"
+            "ε = W/Q",
+            "ε = WQ",
+            "ε = QW"
           ],
           "answerIndex": 1,
           "explanation": "EMF equals work done divided by charge: ε = W/Q."
@@ -1456,8 +1456,8 @@
           "choices": [
             "Because it has no physical meaning",
             "Because it is not measured in newtons",
-            "Because it only occurs in AC circuits",
-            "Because forces cannot exist in circuits"
+            "Because forces cannot exist in circuits",
+            "Because it only occurs in AC circuits"
           ],
           "answerIndex": 1,
           "explanation": "If EMF were a force it would be measured in newtons, but it is measured in volts instead."
@@ -1465,10 +1465,10 @@
         {
           "question": "Where does the energy needed to produce EMF come from?",
           "choices": [
-            "The external resistor",
+            "The voltmeter",
             "Energy conversion within the source/cell/battery",
-            "The connecting wires",
-            "The voltmeter"
+            "The external resistor",
+            "The connecting wires"
           ],
           "answerIndex": 1,
           "explanation": "The notes state the energy comes from energy conversion taking place within the source/cell/battery."
@@ -1476,12 +1476,12 @@
         {
           "question": "What is the symbol for the physical quantity of EMF?",
           "choices": [
-            "V",
             "ε",
-            "W",
-            "Q"
+            "Q",
+            "V",
+            "W"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The unit symbol is V (volts), but the physical quantity symbol is ε."
         }
       ],
@@ -1565,43 +1565,43 @@
         {
           "question": "What is potential difference?",
           "choices": [
+            "The current flowing through a resistor",
             "The total charge flowing between two points",
             "The difference in electric potential between two points",
-            "The current flowing through a resistor",
             "The rate of energy conversion in a circuit"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "P.d. is defined as the difference in potential (electric potential) between two points."
         },
         {
           "question": "How is potential difference across a component measured?",
           "choices": [
-            "Ammeter in series",
             "Voltmeter in parallel",
-            "Ammeter in parallel",
-            "Voltmeter in series"
+            "Voltmeter in series",
+            "Ammeter in series",
+            "Ammeter in parallel"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "A voltmeter is connected in parallel with the component to measure p.d."
         },
         {
           "question": "Which equation gives potential difference?",
           "choices": [
-            "V = QW",
             "V = W/Q",
-            "V = Q/W",
-            "V = W+Q"
+            "V = QW",
+            "V = W+Q",
+            "V = Q/W"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "Potential difference V = W/Q, work done per unit charge."
         },
         {
           "question": "In a series circuit, how does the sum of p.d.'s across components relate to EMF?",
           "choices": [
-            "It is always less than EMF",
             "It is always greater than EMF",
+            "It is unrelated to EMF",
             "It equals the EMF",
-            "It is unrelated to EMF"
+            "It is always less than EMF"
           ],
           "answerIndex": 2,
           "explanation": "The sum of all p.d.'s in series equals the EMF of the source."
@@ -1609,23 +1609,23 @@
         {
           "question": "Which statement correctly distinguishes EMF from p.d.?",
           "choices": [
+            "P.d. is measured in joules while EMF is measured in volts",
             "EMF is for any two points, p.d. is only for sources",
             "EMF is strictly for sources, p.d. is for potential between any two points",
-            "EMF and p.d. measure the same physical concept with no differences",
-            "P.d. is measured in joules while EMF is measured in volts"
+            "EMF and p.d. measure the same physical concept with no differences"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "EMF is specific to sources/cells/batteries, while p.d. refers to potential difference between any two points."
         },
         {
           "question": "In a parallel circuit, the p.d. across each branch is:",
           "choices": [
-            "Different for each branch depending on resistance",
             "The same across branches and equal to EMF",
-            "Always zero",
-            "Equal to the total current"
+            "Different for each branch depending on resistance",
+            "Equal to the total current",
+            "Always zero"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes state p.d. across separate parallel branches is the same and equal to the EMF."
         }
       ],
@@ -1693,43 +1693,43 @@
         {
           "question": "How is resistance defined?",
           "choices": [
-            "The product of voltage and current",
-            "The ratio of p.d. across a load to current through it",
+            "The total charge passing through a circuit",
             "The ratio of current to p.d.",
-            "The total charge passing through a circuit"
+            "The ratio of p.d. across a load to current through it",
+            "The product of voltage and current"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Resistance R = V/I, the ratio of potential difference to current."
         },
         {
           "question": "What is the SI unit of resistance?",
           "choices": [
-            "Volt",
             "Ampere",
             "Ohm",
+            "Volt",
             "Watt"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "Resistance is measured in ohms (Ω)."
         },
         {
           "question": "What equipment combination is used to measure resistance?",
           "choices": [
             "Only an ammeter",
-            "Rheostat, voltmeter, and ammeter",
+            "Thermometer and voltmeter",
             "Only a voltmeter",
-            "Thermometer and voltmeter"
+            "Rheostat, voltmeter, and ammeter"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "A rheostat with a voltmeter and ammeter is used to vary and measure V and I to determine R."
         },
         {
           "question": "1 ohm is equivalent to:",
           "choices": [
-            "1 joule per coulomb",
+            "1 watt per second",
             "1 volt per ampere",
-            "1 ampere per volt",
-            "1 watt per second"
+            "1 joule per coulomb",
+            "1 ampere per volt"
           ],
           "answerIndex": 1,
           "explanation": "1 Ohm = 1 Volt / 1 Ampere by definition."
@@ -1738,11 +1738,11 @@
           "question": "What is generated from experimental V and I data to calculate resistance?",
           "choices": [
             "A p.d. vs time graph",
-            "A V/I graph",
             "A power vs time graph",
+            "A V/I graph",
             "A charge vs time graph"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "A V/I graph is plotted, and its characteristics are used to calculate resistance."
         }
       ],
@@ -1813,32 +1813,32 @@
         {
           "question": "According to Ohm's Law, what is the relationship between current and p.d. at constant temperature?",
           "choices": [
-            "Inversely proportional",
-            "Directly proportional",
             "No relationship",
-            "Exponentially related"
+            "Exponentially related",
+            "Directly proportional",
+            "Inversely proportional"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Ohm's Law states I is directly proportional to V when temperature (and other physical conditions) is constant."
         },
         {
           "question": "What term describes conductors that obey Ohm's Law?",
           "choices": [
-            "Non-ohmic conductors",
-            "Ohmic conductors",
             "Semi-conductors",
-            "Insulators"
+            "Insulators",
+            "Non-ohmic conductors",
+            "Ohmic conductors"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "Conductors obeying Ohm's Law are called Ohmic conductors."
         },
         {
           "question": "Why does resistance increase with rising temperature in a conductor?",
           "choices": [
-            "Electrons stop moving",
+            "Current decreases to zero",
             "Atoms vibrate more vigorously, obstructing electron flow",
-            "The conductor becomes an insulator",
-            "Current decreases to zero"
+            "Electrons stop moving",
+            "The conductor becomes an insulator"
           ],
           "answerIndex": 1,
           "explanation": "More vigorous atomic vibration at higher temperatures increases obstruction to electron flow, raising resistance."
@@ -1846,23 +1846,23 @@
         {
           "question": "On a V/I graph, resistance is:",
           "choices": [
-            "Equal to the gradient",
-            "Equal to V/I, which is affected by the gradient",
             "Equal to the y-intercept",
-            "Unrelated to the graph"
+            "Unrelated to the graph",
+            "Equal to V/I, which is affected by the gradient",
+            "Equal to the gradient"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Resistance is not literally equal to the gradient but equals V/I; the gradient affects this ratio."
         },
         {
           "question": "Do Ohmic conductors always obey Ohm's Law regardless of temperature?",
           "choices": [
             "Yes, always",
-            "No, at higher temperatures they tend to stop obeying it",
             "Only at absolute zero",
+            "No, at higher temperatures they tend to stop obeying it",
             "Only in parallel circuits"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "At higher temperatures, even Ohmic conductors tend to deviate from Ohm's Law."
         },
         {
@@ -1948,20 +1948,20 @@
         {
           "question": "How does resistance relate to the cross-sectional area of a wire?",
           "choices": [
-            "Directly proportional",
             "Inversely proportional",
+            "Proportional to the square of area",
             "No relationship",
-            "Proportional to the square of area"
+            "Directly proportional"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "R ∝ 1/A — resistance is inversely proportional to cross-sectional area."
         },
         {
           "question": "How does resistance relate to the length of a wire?",
           "choices": [
-            "Inversely proportional",
-            "Directly proportional",
             "Unrelated",
+            "Directly proportional",
+            "Inversely proportional",
             "Proportional to length squared"
           ],
           "answerIndex": 1,
@@ -1970,12 +1970,12 @@
         {
           "question": "What is the correct formula for resistance in terms of resistivity?",
           "choices": [
+            "R = A/(ρl)",
             "R = ρA/l",
-            "R = ρl/A",
             "R = l/(ρA)",
-            "R = A/(ρl)"
+            "R = ρl/A"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "R = ρl/A, combining direct proportionality to length and inverse proportionality to area, scaled by resistivity."
         },
         {
@@ -1992,21 +1992,21 @@
         {
           "question": "Which cross-sectional area should be used in the resistance formula?",
           "choices": [
-            "Any arbitrary cross-section of the wire",
             "The cross-sectional area the current first flows through",
             "The largest cross-section available",
+            "Any arbitrary cross-section of the wire",
             "The average of all cross-sections"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes specify the cross-sectional area refers to the surface the current first flows through."
         },
         {
           "question": "If a wire's length doubles and area stays the same, what happens to resistance?",
           "choices": [
-            "Halves",
-            "Doubles",
             "Stays the same",
-            "Quadruples"
+            "Doubles",
+            "Quadruples",
+            "Halves"
           ],
           "answerIndex": 1,
           "explanation": "Since R ∝ l, doubling length doubles resistance."
@@ -2088,21 +2088,21 @@
         {
           "question": "In a series circuit, which quantity is the same throughout all components?",
           "choices": [
-            "Potential difference",
             "Current",
             "Resistance",
+            "Potential difference",
             "Power"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "In series circuits, the same current flows through all components."
         },
         {
           "question": "In a parallel circuit, which quantity is the same across all branches?",
           "choices": [
+            "Charge",
             "Current",
-            "Resistance",
             "Potential difference",
-            "Charge"
+            "Resistance"
           ],
           "answerIndex": 2,
           "explanation": "In parallel circuits, the p.d. across each branch is the same and equals the EMF."
@@ -2111,29 +2111,29 @@
           "question": "What happens to other bulbs in a series circuit when one bulb blows?",
           "choices": [
             "They get brighter",
-            "They remain unaffected",
             "They also stop working",
+            "They remain unaffected",
             "They flicker randomly"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "In series, a blown bulb creates an open circuit, stopping current flow to all bulbs."
         },
         {
           "question": "Why are parallel circuits preferred in household wiring?",
           "choices": [
-            "They use less wire",
             "One appliance failing doesn't affect others",
+            "They use less wire",
             "They require less current",
             "They are cheaper to install"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "In parallel, if one appliance/bulb fails, others continue operating since their circuit paths remain closed."
         },
         {
           "question": "When resistors are connected in series, the total resistance is:",
           "choices": [
-            "Smaller than the smallest resistor",
             "Equal to the average of the resistors",
+            "Smaller than the smallest resistor",
             "Bigger than the individual resistors",
             "Always zero"
           ],
@@ -2154,10 +2154,10 @@
         {
           "question": "In a parallel circuit, if R1 < R2, which branch carries more current?",
           "choices": [
-            "The branch with R2",
+            "Neither carries current",
             "The branch with R1",
-            "Both carry equal current",
-            "Neither carries current"
+            "The branch with R2",
+            "Both carry equal current"
           ],
           "answerIndex": 1,
           "explanation": "Lower resistance allows more current to flow, similar to a faster immigration checkpoint attracting more people."
@@ -2232,22 +2232,22 @@
           "question": "What is a potential divider?",
           "choices": [
             "Resistors connected in parallel to split current",
-            "Resistors connected in series to tap a fraction of voltage",
             "A single resistor used to measure current",
-            "A device that converts AC to DC"
+            "A device that converts AC to DC",
+            "Resistors connected in series to tap a fraction of voltage"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "A potential divider is resistors in series used to tap a fraction of the source voltage."
         },
         {
           "question": "What is the formula for the tapped voltage V2 in a potential divider?",
           "choices": [
-            "V2 = [R1/(R1+R2)] × VE",
-            "V2 = [R2/(R1+R2)] × VE",
             "V2 = R1 × R2 × VE",
-            "V2 = VE/(R1+R2)"
+            "V2 = [R1/(R1+R2)] × VE",
+            "V2 = VE/(R1+R2)",
+            "V2 = [R2/(R1+R2)] × VE"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "V2 = [R2/(R1+R2)] × VE, derived from the series circuit relationships."
         },
         {
@@ -2255,8 +2255,8 @@
           "choices": [
             "Increase R1",
             "Decrease R1",
-            "Set R1 to zero and R2 to zero",
-            "V2 cannot be changed without changing R2"
+            "V2 cannot be changed without changing R2",
+            "Set R1 to zero and R2 to zero"
           ],
           "answerIndex": 1,
           "explanation": "Reducing R1 while R2 stays constant increases the fraction R2/(R1+R2), increasing V2."
@@ -2264,34 +2264,34 @@
         {
           "question": "What devices are used to vary the resistances R1 and R2 in a potential divider?",
           "choices": [
-            "Ammeter or voltmeter",
-            "Variable resistor or potentiometer with jockey",
+            "Fuse or circuit breaker",
             "Thermistor or LDR only",
-            "Fuse or circuit breaker"
+            "Variable resistor or potentiometer with jockey",
+            "Ammeter or voltmeter"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "A variable resistor or a potentiometer with a jockey is used to vary R1 and R2."
         },
         {
           "question": "Where are variable potential dividers commonly applied?",
           "choices": [
-            "Fuse boxes",
-            "Dimmer switches",
             "Circuit breakers",
-            "Earthing systems"
+            "Earthing systems",
+            "Fuse boxes",
+            "Dimmer switches"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes state variable potential dividers are often used in dimmer switches."
         },
         {
           "question": "In a potentiometer, what happens to V2 when RAB is set to maximum?",
           "choices": [
-            "V2 is minimum",
             "V2 is maximum",
+            "V2 is unaffected",
             "V2 becomes zero",
-            "V2 is unaffected"
+            "V2 is minimum"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "Setting RAB to maximum results in V2 being maximum."
         }
       ],
@@ -2366,10 +2366,10 @@
         {
           "question": "What is an input transducer?",
           "choices": [
-            "A device that only amplifies signals",
-            "A device converting non-electrical signals to electrical signals",
             "A type of fuse",
-            "A device that stores electrical energy"
+            "A device converting non-electrical signals to electrical signals",
+            "A device that stores electrical energy",
+            "A device that only amplifies signals"
           ],
           "answerIndex": 1,
           "explanation": "Input transducers convert non-electrical signals (like light or temperature) into electrical signals."
@@ -2377,56 +2377,56 @@
         {
           "question": "What happens to the resistance of an LDR as it gets darker?",
           "choices": [
-            "R(LDR) decreases",
-            "R(LDR) increases",
+            "R(LDR) becomes zero",
             "R(LDR) stays the same",
-            "R(LDR) becomes zero"
+            "R(LDR) decreases",
+            "R(LDR) increases"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "As light intensity decreases (dimmer), the resistance of an LDR increases."
         },
         {
           "question": "An LDR-based burglar alarm is triggered by:",
           "choices": [
-            "A decrease in light intensity",
             "An increase in light intensity, e.g., a torch shining",
+            "An increase in current only",
             "A drop in temperature",
-            "An increase in current only"
+            "A decrease in light intensity"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "Increased light intensity (e.g., from a torch) decreases R(LDR), which can trigger the alarm circuit."
         },
         {
           "question": "What happens to a thermistor's resistance as temperature decreases?",
           "choices": [
-            "R(TH) increases",
-            "R(TH) decreases",
             "R(TH) is unaffected",
-            "R(TH) becomes infinite"
+            "R(TH) becomes infinite",
+            "R(TH) increases",
+            "R(TH) decreases"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "As it gets cooler, thermistor resistance decreases."
         },
         {
           "question": "Which two components are given as examples of input transducers in the notes?",
           "choices": [
+            "Solenoids and magnets",
             "Fuses and circuit breakers",
-            "Thermistors and LDRs",
             "Resistors and capacitors",
-            "Solenoids and magnets"
+            "Thermistors and LDRs"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "Thermistors and Light-dependent Resistors (LDRs) are the two examples given."
         },
         {
           "question": "A heating device that activates when it gets cold likely uses which component behavior?",
           "choices": [
-            "LDR resistance increasing with brightness",
             "Thermistor resistance decreasing as it cools",
-            "Thermistor resistance increasing as it warms",
-            "Fuse blowing at low temperature"
+            "Fuse blowing at low temperature",
+            "LDR resistance increasing with brightness",
+            "Thermistor resistance increasing as it warms"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "As it gets cooler, thermistor resistance decreases, which can be used to trigger a heating device."
         }
       ],
@@ -2501,43 +2501,43 @@
         {
           "question": "What energy conversion occurs in an electric kettle's heating element?",
           "choices": [
-            "Thermal to electrical",
             "Electrical to thermal",
-            "Chemical to electrical",
-            "Electrical to light"
+            "Electrical to light",
+            "Thermal to electrical",
+            "Chemical to electrical"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "Heating elements convert electrical energy into thermal energy."
         },
         {
           "question": "What material is commonly used in household heating elements?",
           "choices": [
-            "Copper",
             "Tungsten",
             "Nichrome",
-            "Aluminium"
+            "Aluminium",
+            "Copper"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "Nichrome is used due to its high resistivity and ability to withstand high temperatures."
         },
         {
           "question": "What is the resistivity of nichrome compared to copper?",
           "choices": [
-            "Lower than copper",
+            "Cannot be compared",
             "About the same as copper",
-            "Much higher than copper",
-            "Cannot be compared"
+            "Lower than copper",
+            "Much higher than copper"
           ],
-          "answerIndex": 2,
+          "answerIndex": 3,
           "explanation": "Nichrome's resistivity (100×10⁻⁸ Ωm) is much higher than copper's (1.68×10⁻⁸ Ωm)."
         },
         {
           "question": "What material is used for the filament in a filament lamp, and why?",
           "choices": [
-            "Nichrome, because of low melting point",
-            "Tungsten, because of its high melting point",
             "Copper, because of high resistivity",
-            "Aluminium, because it is cheap"
+            "Tungsten, because of its high melting point",
+            "Aluminium, because it is cheap",
+            "Nichrome, because of low melting point"
           ],
           "answerIndex": 1,
           "explanation": "Tungsten is used because despite lower resistivity than nichrome, its very high melting point (3400°C) prevents it from melting."
@@ -2545,10 +2545,10 @@
         {
           "question": "Why is melting point more significant than resistivity in selecting filament material?",
           "choices": [
-            "Melting point has no real significance",
-            "A material with a higher melting point can withstand intense heat without melting, even if resistivity is lower",
             "Resistivity does not affect heat generation at all",
-            "Filaments do not need to withstand heat"
+            "A material with a higher melting point can withstand intense heat without melting, even if resistivity is lower",
+            "Filaments do not need to withstand heat",
+            "Melting point has no real significance"
           ],
           "answerIndex": 1,
           "explanation": "The notes state melting point is clearly more significant since it determines whether the wire will melt/blow despite heat generated."
@@ -2556,10 +2556,10 @@
         {
           "question": "To what approximate temperature is a tungsten filament heated during operation?",
           "choices": [
-            "100°C",
             "500°C",
+            "5000°C",
             "2500°C",
-            "5000°C"
+            "100°C"
           ],
           "answerIndex": 2,
           "explanation": "The tungsten filament is heated to about 2500°C, generating light due to intense heating."
@@ -2642,31 +2642,31 @@
           "question": "Which equation for power is derived by substituting I=Q/t into P=VQ/t?",
           "choices": [
             "P=I²R",
-            "P=V²/R",
             "P=VI",
+            "P=V²/R",
             "P=E/t"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "Substituting I=Q/t into P=VQ/t directly gives P=VI."
         },
         {
           "question": "Which power equation is most useful when voltage is constant, as in most home appliances?",
           "choices": [
-            "P=I²R",
-            "P=V²/R",
             "P=E/t",
-            "P=W/Q"
+            "P=W/Q",
+            "P=V²/R",
+            "P=I²R"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Since V is often constant at home, P=V²/R is more practically used, where smaller resistance gives larger power."
         },
         {
           "question": "What defines 1 kilowatt-hour (kWh)?",
           "choices": [
-            "Energy consumed by a 1W device in 1 second",
+            "Energy consumed by a 1kW device in 1 second",
             "Energy consumed by a 1kW device in 1 hour",
             "Power consumed by any device in 1 hour",
-            "Energy consumed by a 1kW device in 1 second"
+            "Energy consumed by a 1W device in 1 second"
           ],
           "answerIndex": 1,
           "explanation": "1 kWh is defined as the energy consumed by a 1 kW device operating for 1 hour."
@@ -2674,8 +2674,8 @@
         {
           "question": "A 20W bulb operates for 10 seconds. How much energy does it consume?",
           "choices": [
-            "2 J",
             "20 J",
+            "2 J",
             "200 J",
             "2000 J"
           ],
@@ -2685,23 +2685,23 @@
         {
           "question": "A bulb rated 60W, 240V is supplied with only 120V. What is the correct method to find the current flowing?",
           "choices": [
-            "Use P=VI directly with 60W and 120V",
-            "Use P=VI directly with 60W and 240V",
+            "Assume current is unaffected by voltage changes",
             "Find R from rated values (P=V²/R), then use V=IR with actual supply voltage",
-            "Assume current is unaffected by voltage changes"
+            "Use P=VI directly with 60W and 240V",
+            "Use P=VI directly with 60W and 120V"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "The correct method is to calculate resistance from rated values, then apply the actual supply voltage using V=IR."
         },
         {
           "question": "For the 60W, 240V bulb supplied with 120V, what is the calculated resistance and current?",
           "choices": [
-            "R=480Ω, I=0.25A",
             "R=960Ω, I=0.125A",
+            "R=480Ω, I=0.25A",
             "R=240Ω, I=0.5A",
             "R=120Ω, I=1A"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "R=240²/60=960Ω; then I=120/960=0.125A."
         },
         {
@@ -2804,23 +2804,23 @@
         {
           "question": "Which of these is an example of a non-renewable energy source?",
           "choices": [
-            "Solar energy",
-            "Wind energy",
             "Fossil fuels",
-            "Hydro-electric energy"
+            "Wind energy",
+            "Hydro-electric energy",
+            "Solar energy"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "Fossil fuels and nuclear energy are given as examples of non-renewable energy sources."
         },
         {
           "question": "What is the main source of electrical energy in Singapore?",
           "choices": [
-            "Solar power",
-            "Wind power",
+            "Hydroelectric power",
             "Burning fossil fuels",
-            "Hydroelectric power"
+            "Solar power",
+            "Wind power"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "The notes state most of Singapore's electrical energy is produced by burning fossil fuels."
         },
         {
@@ -2828,8 +2828,8 @@
           "choices": [
             "Kinetic energy to electrical energy",
             "Gravitational potential energy to electrical energy",
-            "Chemical potential energy to electrical energy",
-            "Nuclear energy to electrical energy"
+            "Nuclear energy to electrical energy",
+            "Chemical potential energy to electrical energy"
           ],
           "answerIndex": 1,
           "explanation": "Hydroelectric power converts gravitational potential energy of water into electrical energy."
@@ -2859,23 +2859,23 @@
         {
           "question": "What is the energy conversion chain for fossil fuel-based electricity generation?",
           "choices": [
-            "Light energy → electrical energy",
             "Chemical potential energy → heat energy → electrical energy",
+            "Nuclear energy → heat energy → electrical energy",
             "Kinetic energy → electrical energy",
-            "Nuclear energy → heat energy → electrical energy"
+            "Light energy → electrical energy"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "Fossil fuels convert chemical potential energy to heat energy, then to electrical energy."
         },
         {
           "question": "Which negative impact is associated with wind power?",
           "choices": [
             "Radioactive waste",
-            "Air pollution",
             "Requires large open areas and can cause noise pollution",
-            "Flooding of ecosystems"
+            "Flooding of ecosystems",
+            "Air pollution"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "Wind power requires large unobstructed areas and can cause noise pollution."
         }
       ],
@@ -2937,33 +2937,33 @@
           "question": "What danger is associated with damaged insulation?",
           "choices": [
             "Reduced current flow",
-            "Exposed wires causing electric shocks and short-circuits",
             "Increased resistance only",
-            "No significant danger"
+            "No significant danger",
+            "Exposed wires causing electric shocks and short-circuits"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "Damaged insulation exposes conducting wires, risking electric shocks and short-circuits."
         },
         {
           "question": "What are two common causes of overheated cables?",
           "choices": [
             "Low voltage supply and thick wires",
-            "Overloaded power sockets and inappropriate (thin) wires",
             "Cold environments and thick wires",
+            "Overloaded power sockets and inappropriate (thin) wires",
             "High resistance materials only"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Overloaded sockets and using wires too thin for the required power cause overheating."
         },
         {
           "question": "Why does an overloaded power socket risk overheating?",
           "choices": [
-            "It reduces the current flowing",
-            "It causes an unusually large current, raising temperature",
+            "It has no effect on temperature",
             "It disconnects the circuit",
-            "It has no effect on temperature"
+            "It causes an unusually large current, raising temperature",
+            "It reduces the current flowing"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Overloading causes an unusually large current, and temperature increases with current, risking overheating."
         },
         {
@@ -2971,8 +2971,8 @@
           "choices": [
             "Water increases resistance, preventing current flow",
             "Water provides a conducting path, risking electric shock",
-            "Water has no effect on electrical safety",
-            "Water causes wires to become insulators"
+            "Water causes wires to become insulators",
+            "Water has no effect on electrical safety"
           ],
           "answerIndex": 1,
           "explanation": "Water in contact with exposed wires conducts current, posing an electric shock risk."
@@ -2980,10 +2980,10 @@
         {
           "question": "Why do appliances requiring high power need thicker wires?",
           "choices": [
-            "Thicker wires look better",
+            "Thicker wires are cheaper",
             "Thicker wires prevent overheating from larger currents",
-            "Thicker wires reduce voltage",
-            "Thicker wires are cheaper"
+            "Thicker wires look better",
+            "Thicker wires reduce voltage"
           ],
           "answerIndex": 1,
           "explanation": "Higher power appliances draw larger currents, and thicker wires prevent overheating."
@@ -3096,78 +3096,78 @@
         {
           "question": "Which three safety features are found in a three-pin plug?",
           "choices": [
-            "Fuse, switch, resistor",
             "Fuse, earth wire, cord grip",
             "Earth wire, capacitor, resistor",
-            "Switch, cord grip, transformer"
+            "Switch, cord grip, transformer",
+            "Fuse, switch, resistor"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The three-pin plug includes a fuse, an earth wire, and a cord grip as safety features."
         },
         {
           "question": "Why must switches be connected to the live wire rather than the neutral wire?",
           "choices": [
-            "It saves electricity",
-            "It ensures the casing returns to low voltage when the switch is open, preventing shock",
             "It makes the appliance work faster",
-            "It has no real safety significance"
+            "It has no real safety significance",
+            "It ensures the casing returns to low voltage when the switch is open, preventing shock",
+            "It saves electricity"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Connecting to the live wire ensures that opening the switch disconnects the high voltage from the casing."
         },
         {
           "question": "What is the key difference between a fuse and a circuit breaker?",
           "choices": [
-            "A fuse can be reset, a circuit breaker must be replaced",
             "A fuse must be replaced after blowing; a circuit breaker can be reset",
-            "They function identically with no differences",
-            "Circuit breakers are only used in overseas countries"
+            "Circuit breakers are only used in overseas countries",
+            "A fuse can be reset, a circuit breaker must be replaced",
+            "They function identically with no differences"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "Fuses must be replaced once blown, whereas circuit breakers can simply be reset after tripping."
         },
         {
           "question": "Why must a fuse always be connected to the live wire?",
           "choices": [
-            "To reduce current in the neutral wire",
             "To isolate the appliance from the high voltage of the live wire",
-            "To increase the appliance's power",
-            "To make the earth wire unnecessary"
+            "To reduce current in the neutral wire",
+            "To make the earth wire unnecessary",
+            "To increase the appliance's power"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The fuse isolates the appliance from the high voltage by breaking the live wire connection when excessive current flows."
         },
         {
           "question": "Why is an earth wire ineffective without a fuse?",
           "choices": [
             "The earth wire works independently and needs no fuse",
-            "Without a fuse, large current continues flowing through the live wire, so the appliance isn't isolated",
             "Earth wires do not need any pairing to function",
+            "Without a fuse, large current continues flowing through the live wire, so the appliance isn't isolated",
             "Fuses have no relation to earth wires"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Without a fuse, current continues on the live wire, meaning the appliance is not disconnected from the fault, defeating the earth wire's purpose."
         },
         {
           "question": "What safety feature is used instead of an earth wire in appliances with two-pin plugs?",
           "choices": [
-            "A thicker cord grip",
-            "Double insulation",
+            "A larger circuit breaker",
             "An extra fuse",
-            "A larger circuit breaker"
+            "Double insulation",
+            "A thicker cord grip"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Double insulation replaces the earth wire in two-pin plug appliances."
         },
         {
           "question": "Why might a fuse not blow even when a person receives an electric shock?",
           "choices": [
-            "The fuse is defective",
             "The current through the person's body (high resistance) is too low to blow the fuse",
-            "Fuses are designed to never blow due to shocks",
-            "The person is not part of the circuit"
+            "The person is not part of the circuit",
+            "The fuse is defective",
+            "Fuses are designed to never blow due to shocks"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "Due to the high resistance of the human body, the current through a person during a shock is often too low to blow the fuse."
         }
       ],
@@ -3245,31 +3245,31 @@
           "question": "Which acronym helps remember the four common magnetic materials?",
           "choices": [
             "CHNOPS",
-            "SINC",
+            "ROYGBIV",
             "NPK",
-            "ROYGBIV"
+            "SINC"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "SINC stands for Steel, Iron, Nickel, Cobalt — the common magnetic materials."
         },
         {
           "question": "Where is the magnetic effect of a magnet strongest?",
           "choices": [
-            "At the center",
-            "At the poles",
             "Uniformly everywhere",
-            "Only on the North pole"
+            "Only on the North pole",
+            "At the center",
+            "At the poles"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The magnetic effect is strongest at the poles, where the most iron filings are found."
         },
         {
           "question": "What is the only reliable test for determining if an object is a magnet?",
           "choices": [
-            "Attraction to iron",
+            "Weight of the object",
             "Repulsion between two magnets",
-            "Ability to point North",
-            "Weight of the object"
+            "Attraction to iron",
+            "Ability to point North"
           ],
           "answerIndex": 1,
           "explanation": "The notes specify that the only test for magnetism is repulsion between two magnets, since magnetic materials always attract to a magnet regardless."
@@ -3277,23 +3277,23 @@
         {
           "question": "How does a magnet interact with a magnetic material (non-magnet)?",
           "choices": [
-            "Always repels",
-            "Always attracts",
             "Sometimes attracts, sometimes repels",
-            "No interaction occurs"
+            "Always repels",
+            "No interaction occurs",
+            "Always attracts"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "Magnets always attract magnetic materials; repulsion does not occur in this case."
         },
         {
           "question": "Which of the following is a non-magnetic material?",
           "choices": [
-            "Iron",
             "Cobalt",
-            "Copper",
-            "Nickel"
+            "Nickel",
+            "Iron",
+            "Copper"
           ],
-          "answerIndex": 2,
+          "answerIndex": 3,
           "explanation": "Copper is explicitly listed as a non-magnetic material, unlike iron, cobalt, and nickel."
         },
         {
@@ -3301,8 +3301,8 @@
           "choices": [
             "East-West",
             "North-South",
-            "Vertically",
-            "Randomly, no fixed direction"
+            "Randomly, no fixed direction",
+            "Vertically"
           ],
           "answerIndex": 1,
           "explanation": "A freely suspended magnet aligns itself in the North-South direction, which is the basis for compasses."
@@ -3384,65 +3384,65 @@
         {
           "question": "What is magnetic induction?",
           "choices": [
+            "The alignment of the Earth's magnetic field",
             "The process of demagnetising a magnet",
             "The process where a magnetic material becomes a magnet near/in contact with a magnet",
-            "The generation of current from a magnet",
-            "The alignment of the Earth's magnetic field"
+            "The generation of current from a magnet"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Magnetic induction is when an object of magnetic material becomes magnetised due to proximity/contact with a magnet."
         },
         {
           "question": "What are magnetic domains?",
           "choices": [
-            "Regions of a magnet with no atoms",
-            "Groups of atomic magnets pointing in the same direction",
             "The poles of a magnet",
-            "Non-magnetic regions within a magnet"
+            "Non-magnetic regions within a magnet",
+            "Regions of a magnet with no atoms",
+            "Groups of atomic magnets pointing in the same direction"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "Magnetic domains are groups of atomic magnets aligned in the same direction."
         },
         {
           "question": "According to the Right Hand Grip Rule, how do you find the North pole of a current-carrying solenoid?",
           "choices": [
-            "Point fingers in direction of current, thumb points to South pole",
             "Curl fingers in direction of current flow, thumb points to North pole",
             "Point thumb in direction of current flow",
-            "Use the left hand instead"
+            "Use the left hand instead",
+            "Point fingers in direction of current, thumb points to South pole"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "Gripping with the right hand, fingers curling in the current direction, the thumb indicates the North pole."
         },
         {
           "question": "Which method is used to demagnetise a magnet using electricity?",
           "choices": [
-            "Direct current in a solenoid",
             "Alternating current in a solenoid, withdrawing the magnet",
+            "Direct current with the magnet held stationary",
             "Static electricity",
-            "Direct current with the magnet held stationary"
+            "Direct current in a solenoid"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "An alternating current must be used, with the magnet gradually withdrawn from the solenoid, to demagnetise it."
         },
         {
           "question": "Why is a magnet oriented east-west when demagnetising it?",
           "choices": [
             "It has no significance",
-            "More free poles in this orientation help disrupt domain alignment",
             "It aligns with the current direction",
+            "More free poles in this orientation help disrupt domain alignment",
             "It increases the magnet's strength temporarily"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The east-west orientation provides more free poles to disrupt magnetic domain alignment, aiding demagnetisation."
         },
         {
           "question": "What happens to magnetic domains when a magnet is heated and cooled in the east-west direction?",
           "choices": [
-            "They become more aligned",
+            "Nothing changes",
             "They vibrate vigorously and lose alignment, demagnetising the material",
-            "They multiply in number",
-            "Nothing changes"
+            "They become more aligned",
+            "They multiply in number"
           ],
           "answerIndex": 1,
           "explanation": "Heating causes vigorous atomic vibration, disrupting the domains' alignment and demagnetising the magnet."
@@ -3526,8 +3526,8 @@
           "choices": [
             "Direction a compass needle points away from",
             "Direction of magnetic force acting on a tiny North-pole magnet",
-            "Direction of electron flow",
-            "Direction from South pole to North pole always"
+            "Direction from South pole to North pole always",
+            "Direction of electron flow"
           ],
           "answerIndex": 1,
           "explanation": "The magnetic field direction is defined by the force direction on a tiny North-pole magnet placed in the field."
@@ -3535,67 +3535,67 @@
         {
           "question": "Which method of showing a magnetic field pattern also indicates its direction?",
           "choices": [
-            "Sprinkling iron filings",
             "Plotting with a compass",
             "Both methods equally",
-            "Neither method"
+            "Neither method",
+            "Sprinkling iron filings"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "Plotting with a compass shows direction, while iron filings only reveal the pattern, not direction."
         },
         {
           "question": "What do closer magnetic field lines represent?",
           "choices": [
+            "Reversed field direction",
             "Weaker fields",
-            "Stronger fields",
             "No difference in field strength",
-            "Reversed field direction"
+            "Stronger fields"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "Field lines drawn closer together represent stronger magnetic fields."
         },
         {
           "question": "What materials are used for magnetic shielding?",
           "choices": [
-            "Copper and aluminium",
-            "Thin sheets of soft magnetic materials like iron or MuMetal",
+            "Any non-magnetic material",
             "Plastic and glass",
-            "Any non-magnetic material"
+            "Thin sheets of soft magnetic materials like iron or MuMetal",
+            "Copper and aluminium"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Soft magnetic materials such as iron or MuMetal are used because magnetic field lines tend to pass within them, diverting the field."
         },
         {
           "question": "What is the purpose of magnetic keepers?",
           "choices": [
             "To increase a magnet's temperature",
-            "To keep magnetic domains aligned and prevent weakening over time",
             "To demagnetise old magnets",
+            "To keep magnetic domains aligned and prevent weakening over time",
             "To measure magnetic field strength"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Keepers prevent free poles from repelling each other and disrupting domain alignment, thus preserving magnet strength."
         },
         {
           "question": "Where is the Earth's imaginary magnetic South pole located?",
           "choices": [
+            "At the equator",
             "At the geographic South pole",
             "At the geographic North pole",
-            "At the equator",
             "There is no imaginary magnet within Earth"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The Earth's imaginary bar magnet has its magnetic South pole at the geographic North pole, which is why compasses point North."
         },
         {
           "question": "Do magnetic fields pass through non-magnetic materials?",
           "choices": [
-            "No, they are completely blocked",
-            "Yes, magnetic fields work through non-magnetic materials",
+            "Only through gases",
             "Only through liquids",
-            "Only through gases"
+            "Yes, magnetic fields work through non-magnetic materials",
+            "No, they are completely blocked"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state magnetic fields work through non-magnetic materials."
         }
       ],
@@ -3670,43 +3670,43 @@
         {
           "question": "Which of these describes a soft magnetic material?",
           "choices": [
-            "Difficult to magnetise and demagnetise, retains magnetism long-term",
-            "Easily magnetised and demagnetised, does not retain magnetism long",
+            "Only found in permanent magnets",
             "Cannot be magnetised at all",
-            "Only found in permanent magnets"
+            "Easily magnetised and demagnetised, does not retain magnetism long",
+            "Difficult to magnetise and demagnetise, retains magnetism long-term"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Soft magnetic materials are easily magnetised and demagnetised and do not retain magnetism for long."
         },
         {
           "question": "Which material is an example of a hard magnetic material?",
           "choices": [
-            "Iron",
             "Steel",
-            "Copper",
-            "Aluminium"
+            "Aluminium",
+            "Iron",
+            "Copper"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "Steel (along with alnico and neodymium) is listed as a hard magnetic material used for permanent magnets."
         },
         {
           "question": "What type of magnet is made from soft magnetic materials?",
           "choices": [
-            "Permanent magnet",
             "Temporary magnet",
+            "Permanent magnet",
             "Neither type",
             "Electromagnetic shield"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "Soft magnetic materials are used to make temporary magnets."
         },
         {
           "question": "Why are soft magnetic materials used in electromagnets for scrap yard cranes?",
           "choices": [
-            "They retain magnetism permanently",
-            "They can be quickly magnetised and demagnetised to pick up and release materials",
             "They are cheaper than hard magnetic materials",
-            "They do not conduct electricity"
+            "They can be quickly magnetised and demagnetised to pick up and release materials",
+            "They do not conduct electricity",
+            "They retain magnetism permanently"
           ],
           "answerIndex": 1,
           "explanation": "Soft magnetic materials allow the electromagnet to be quickly magnetised to lift materials and demagnetised to release them when the current is switched off."
@@ -3714,23 +3714,23 @@
         {
           "question": "What is an application of permanent magnets mentioned in the notes?",
           "choices": [
-            "Electromagnets in cranes",
-            "Magnetic door catches for refrigerators",
             "Alternating current generators only",
-            "Wireless charging pads"
+            "Wireless charging pads",
+            "Electromagnets in cranes",
+            "Magnetic door catches for refrigerators"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "Magnetic door catches, made from permanent magnets, keep refrigerator doors airtight."
         },
         {
           "question": "Which statement about hard magnetic materials is correct?",
           "choices": [
+            "They are used for temporary magnets",
             "They are easily demagnetised",
             "They retain magnetism for a long time",
-            "They produce stronger induced magnets than soft materials",
-            "They are used for temporary magnets"
+            "They produce stronger induced magnets than soft materials"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Hard magnetic materials retain their magnetism for a long time, making them suitable for permanent magnets."
         }
       ],
@@ -3793,53 +3793,53 @@
         {
           "question": "What experiment demonstrated the magnetic effect of an electric current?",
           "choices": [
-            "Faraday's Experiment",
-            "Oersted's Experiment",
+            "Millikan's Experiment",
             "Newton's Experiment",
-            "Millikan's Experiment"
+            "Oersted's Experiment",
+            "Faraday's Experiment"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Oersted's Experiment demonstrated that a current-carrying conductor produces a magnetic field."
         },
         {
           "question": "In Oersted's experiment, where do the compass needles point before the switch is closed?",
           "choices": [
-            "East and West",
-            "North",
             "South",
-            "Randomly in different directions"
+            "Randomly in different directions",
+            "East and West",
+            "North"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "Before current flows, both compass needles point North, as expected in Earth's magnetic field."
         },
         {
           "question": "What happened to the compass above the wire when the switch was closed?",
           "choices": [
             "It stayed pointing North",
-            "It was deflected and pointed East",
+            "It stopped moving entirely",
             "It pointed South",
-            "It stopped moving entirely"
+            "It was deflected and pointed East"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The compass above the wire deflected to the right, pointing East, when current flowed."
         },
         {
           "question": "How did the compass below the wire behave compared to the one above, when current flowed?",
           "choices": [
-            "It behaved identically, pointing East",
-            "It deflected in the opposite direction (to the left)",
             "It stopped functioning",
-            "It pointed straight up"
+            "It pointed straight up",
+            "It deflected in the opposite direction (to the left)",
+            "It behaved identically, pointing East"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The compass below the wire deflected to the left, opposite to the compass above the wire."
         },
         {
           "question": "What does Oersted's Experiment prove?",
           "choices": [
-            "Magnets attract all metals equally",
-            "A current-carrying conductor produces a magnetic field around it",
             "Current cannot affect a compass",
+            "A current-carrying conductor produces a magnetic field around it",
+            "Magnets attract all metals equally",
             "Magnetic fields do not exist around wires"
           ],
           "answerIndex": 1,
@@ -3922,12 +3922,12 @@
         {
           "question": "Who first demonstrated that a current-carrying wire produces a magnetic field?",
           "choices": [
-            "Faraday",
-            "Oersted",
+            "Fleming",
             "Lenz",
-            "Fleming"
+            "Oersted",
+            "Faraday"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state Oersted's experiment demonstrated a current-carrying conductor produces a magnetic field around it."
         },
         {
@@ -3944,10 +3944,10 @@
         {
           "question": "Where is the magnetic field of a straight wire the strongest?",
           "choices": [
-            "Furthest from the wire",
+            "Only at the ends of the wire",
             "Closer to the wire",
-            "Equal everywhere",
-            "Only at the ends of the wire"
+            "Furthest from the wire",
+            "Equal everywhere"
           ],
           "answerIndex": 1,
           "explanation": "The field is stronger closer to the wire, shown by more circles per unit area."
@@ -3955,12 +3955,12 @@
         {
           "question": "What happens to the magnetic field strength of a straight wire when current is increased?",
           "choices": [
-            "It decreases",
-            "It stays the same",
             "It increases",
-            "It reverses"
+            "It reverses",
+            "It stays the same",
+            "It decreases"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "The notes state the field strength increases when the current is increased."
         },
         {
@@ -3977,23 +3977,23 @@
         {
           "question": "What happens to the magnetic field direction if the current direction in the wire is reversed?",
           "choices": [
-            "It stays the same",
-            "It reverses",
             "It disappears",
-            "It becomes twice as strong"
+            "It becomes twice as strong",
+            "It reverses",
+            "It stays the same"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state the direction of the magnetic field reverses when the current direction reverses."
         },
         {
           "question": "For a solenoid, what does the thumb point to in the right hand grip rule?",
           "choices": [
             "The direction of current",
-            "The North Pole (magnetic field)",
             "The South Pole",
-            "The weakest field point"
+            "The weakest field point",
+            "The North Pole (magnetic field)"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "For a solenoid, fingers curl in the direction of current while the thumb points to the North Pole."
         }
       ],
@@ -4055,21 +4055,21 @@
         {
           "question": "The magnetic field pattern of a flat coil is essentially the same as:",
           "choices": [
-            "A single straight wire",
-            "Two straight wires carrying current in opposite directions placed side by side",
+            "A solenoid with no current",
             "A bar magnet",
-            "A solenoid with no current"
+            "Two straight wires carrying current in opposite directions placed side by side",
+            "A single straight wire"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state the flat coil pattern is essentially the same as two straight wires travelling in opposite directions."
         },
         {
           "question": "From what perspective should magnetic field patterns always be analysed?",
           "choices": [
-            "From the side",
+            "From behind the wire",
             "From the top",
-            "From below",
-            "From behind the wire"
+            "From the side",
+            "From below"
           ],
           "answerIndex": 1,
           "explanation": "The notes emphasize identifying magnetic field patterns always from the top."
@@ -4077,45 +4077,45 @@
         {
           "question": "Which of the following increases the magnetic field strength of a flat coil?",
           "choices": [
-            "Increasing the number of coils",
-            "Increasing the number of turns in the coils",
+            "Spacing the turns further apart",
             "Decreasing the current",
-            "Spacing the turns further apart"
+            "Increasing the number of coils",
+            "Increasing the number of turns in the coils"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "Increasing the number of turns compresses the field lines, increasing field strength; increasing the number of coils does not."
         },
         {
           "question": "Why does increasing the number of coils NOT increase the magnetic field strength?",
           "choices": [
             "It decreases the current",
-            "It only increases the number of different magnetic fields, not the strength of one",
             "It reverses the field direction",
-            "It has no effect on anything"
+            "It has no effect on anything",
+            "It only increases the number of different magnetic fields, not the strength of one"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes explicitly state increasing the number of coils increases the number of different magnetic fields rather than strengthening a single field."
         },
         {
           "question": "At a point where current in the flat coil travels towards the viewer, applying the right hand grip rule, which way do fingers curl?",
           "choices": [
-            "Towards the right",
-            "Towards the left",
+            "There is no field",
             "Downwards",
-            "There is no field"
+            "Towards the right",
+            "Towards the left"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "With current towards the viewer, thumb points upward and fingers curl towards the left, per the notes."
         },
         {
           "question": "What causes the magnetic field lines to become more compressed (stronger field) in a flat coil?",
           "choices": [
-            "Increasing turns in the coils",
-            "Decreasing current",
             "Increasing wire length only",
-            "Increasing coil diameter"
+            "Increasing turns in the coils",
+            "Increasing coil diameter",
+            "Decreasing current"
           ],
-          "answerIndex": 0,
+          "answerIndex": 1,
           "explanation": "Increasing turns in the coils causes lines to be closer together, indicating a stronger field."
         }
       ],
@@ -4178,10 +4178,10 @@
         {
           "question": "The magnetic field pattern of a solenoid closely resembles that of:",
           "choices": [
+            "A charged particle",
             "A straight wire",
-            "A flat coil",
             "A bar magnet",
-            "A charged particle"
+            "A flat coil"
           ],
           "answerIndex": 2,
           "explanation": "The notes state the solenoid's field pattern is extremely similar to that of a bar magnet."
@@ -4189,10 +4189,10 @@
         {
           "question": "Using the right hand grip rule for a solenoid, what does the thumb indicate?",
           "choices": [
-            "The direction of current",
-            "The North Pole (magnetic field direction)",
             "The South Pole only",
-            "The strength of current"
+            "The North Pole (magnetic field direction)",
+            "The strength of current",
+            "The direction of current"
           ],
           "answerIndex": 1,
           "explanation": "For a solenoid, fingers curl in the direction of current while the thumb points to the North Pole."
@@ -4213,8 +4213,8 @@
           "choices": [
             "Total turns never matter",
             "A solenoid with more turns per unit length has more closely packed turns, compressing field lines more strongly",
-            "Turns per unit length only matters for flat coils",
-            "It relates only to current, not field strength"
+            "It relates only to current, not field strength",
+            "Turns per unit length only matters for flat coils"
           ],
           "answerIndex": 1,
           "explanation": "The notes explain that even with fewer or equal total turns, greater turns per unit length means more closely packed turns and a stronger field."
@@ -4222,23 +4222,23 @@
         {
           "question": "Why does a soft iron core increase the magnetic field strength of a solenoid?",
           "choices": [
-            "It increases the resistance of the wire",
-            "Magnetic field lines concentrate and travel through magnetic materials rather than air",
             "It reverses the current direction",
-            "It removes the air gaps entirely"
+            "It increases the resistance of the wire",
+            "It removes the air gaps entirely",
+            "Magnetic field lines concentrate and travel through magnetic materials rather than air"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "Per magnetic shielding principles, field lines concentrate in magnetic materials, compressing them and strengthening the field."
         },
         {
           "question": "What occupies the space between turns of a solenoid without a core, allowing for weaker field concentration?",
           "choices": [
             "Soft iron",
-            "Air",
             "Copper",
+            "Air",
             "Vacuum sealed material"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state the space between turns is air, and placing a soft iron core there compresses field lines."
         }
       ],
@@ -4305,43 +4305,43 @@
         {
           "question": "What is the function of a circuit breaker?",
           "choices": [
-            "To increase current flow",
             "To switch off electrical supply when there is excessive current flow",
-            "To convert AC to DC",
-            "To store electrical energy"
+            "To increase current flow",
+            "To store electrical energy",
+            "To convert AC to DC"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes define a circuit breaker as a safety device that switches off supply during excessive current flow."
         },
         {
           "question": "What key electromagnetism-related component does a circuit breaker use?",
           "choices": [
-            "A transformer",
             "An electromagnet (solenoid)",
-            "A generator",
-            "A CRO"
+            "A transformer",
+            "A CRO",
+            "A generator"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes state the circuit breaker's core component is the electromagnet."
         },
         {
           "question": "Under normal current conditions (below the limit), what is true of the soft iron latch?",
           "choices": [
             "It is strongly attracted to the solenoid",
+            "It is repelled from the solenoid",
             "It is not strongly attracted to the solenoid because the field is weak",
-            "It melts",
-            "It is repelled from the solenoid"
+            "It melts"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "With current below the limit, the magnetic field is weak, so the latch is not strongly attracted."
         },
         {
           "question": "What happens when a short circuit or current overload occurs?",
           "choices": [
-            "The magnetic field weakens",
-            "The magnetic field of the solenoid becomes very strong, attracting the soft iron latch",
             "The switch stays closed permanently",
-            "Nothing changes"
+            "The magnetic field of the solenoid becomes very strong, attracting the soft iron latch",
+            "Nothing changes",
+            "The magnetic field weakens"
           ],
           "answerIndex": 1,
           "explanation": "A surge in current creates a strong magnetic field, strongly attracting the soft iron latch."
@@ -4349,23 +4349,23 @@
         {
           "question": "What ultimately happens to the interrupt point after the soft iron latch is strongly attracted during an overload?",
           "choices": [
-            "It remains closed",
             "It opens, stopping current flow",
-            "It short-circuits further",
-            "It doubles the current"
+            "It doubles the current",
+            "It remains closed",
+            "It short-circuits further"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The latch tilts, releasing the safety bar (pushed by the spring), and the switch moves to 'off', opening the interrupt point."
         },
         {
           "question": "What pushes the safety bar outward once released by the soft iron latch?",
           "choices": [
+            "Gravity alone",
             "The current itself",
             "A spring",
-            "Gravity alone",
             "The interrupt point"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state the safety bar is pushed outwards by the spring once released."
         }
       ],
@@ -4444,12 +4444,12 @@
         {
           "question": "What is the 'motor effect'?",
           "choices": [
-            "The force that induces current in a stationary wire",
             "The force experienced by a current-carrying conductor placed in a magnetic field",
+            "The force that induces current in a stationary wire",
             "The reversal of magnetic poles",
             "The generation of heat in a wire"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes define the motor effect as the force experienced by a current-carrying conductor in a magnetic field."
         },
         {
@@ -4457,8 +4457,8 @@
           "choices": [
             "It stays the same",
             "It swings inwards instead of outwards",
-            "It stops moving",
-            "It vibrates rapidly"
+            "It vibrates rapidly",
+            "It stops moving"
           ],
           "answerIndex": 1,
           "explanation": "Reversing current from D-C-B-A causes the wire to swing inwards instead of outwards."
@@ -4466,56 +4466,56 @@
         {
           "question": "In Fleming's Left Hand Rule, what does the middle (third) finger represent?",
           "choices": [
-            "Magnetic field",
-            "Force",
             "Conventional current",
-            "Particle charge"
+            "Particle charge",
+            "Magnetic field",
+            "Force"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "The middle finger points in the direction of current (conventional current) in Fleming's Left Hand Rule."
         },
         {
           "question": "What does Fleming's Left Hand Rule fail to explain?",
           "choices": [
-            "The relative directions of field, current, and force",
-            "Why there is a force and its magnitude",
             "The direction of the magnetic field only",
-            "The direction of current only"
+            "The direction of current only",
+            "Why there is a force and its magnitude",
+            "The relative directions of field, current, and force"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state the rule determines relative directions but does not explain why there is a force or its magnitude."
         },
         {
           "question": "What happens to two parallel current-carrying wires with currents flowing in opposite directions?",
           "choices": [
-            "They attract",
-            "They repel",
+            "They align",
             "No force acts",
-            "They align"
+            "They attract",
+            "They repel"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "Conductors carrying currents in opposite directions repel, per the notes."
         },
         {
           "question": "Explaining the motor effect via overlapping magnetic fields, the resultant force acts:",
           "choices": [
+            "Perpendicular to both fields always",
             "Towards the stronger side of the combined field",
             "Towards the weaker side of the combined field",
-            "Perpendicular to both fields always",
             "In the direction of current only"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state the resultant force is in the direction of the weaker side where fields are less concentrated."
         },
         {
           "question": "A charged particle sitting stationary in a magnetic field will:",
           "choices": [
             "Experience the motor effect strongly",
+            "Attract nearby wires",
             "Not produce a magnetic field, only an electric field",
-            "Immediately deflect",
-            "Attract nearby wires"
+            "Immediately deflect"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state a stationary charged particle produces only an electric field, not a magnetic field, so no motor effect occurs."
         }
       ],
@@ -4587,20 +4587,20 @@
           "question": "About what axis does coil ABCD experience a turning effect in a magnetic field?",
           "choices": [
             "Axis AB",
-            "Axis PQ",
             "Axis CD",
+            "Axis PQ",
             "No fixed axis"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state coil ABCD experiences a turning effect about the axis PQ."
         },
         {
           "question": "Which of the following will NOT increase the turning effect of a current-carrying coil?",
           "choices": [
-            "Increasing current in the coil",
+            "Placing a soft iron core in the coil",
             "Decreasing the number of turns on the coil",
             "Increasing the external magnetic field strength",
-            "Placing a soft iron core in the coil"
+            "Increasing current in the coil"
           ],
           "answerIndex": 1,
           "explanation": "Decreasing the number of turns would reduce, not increase, the field strength and thus the turning effect."
@@ -4608,43 +4608,43 @@
         {
           "question": "Why does placing a soft iron core in the coil increase the turning effect?",
           "choices": [
-            "It increases resistance",
-            "It concentrates the magnetic field, producing a stronger force and larger moment",
             "It reduces the current",
-            "It changes the direction of rotation"
+            "It changes the direction of rotation",
+            "It concentrates the magnetic field, producing a stronger force and larger moment",
+            "It increases resistance"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "Magnetic field lines concentrate through the magnetic core rather than air, strengthening the field and the resulting moment."
         },
         {
           "question": "According to the notes, moment is defined as:",
           "choices": [
             "Current multiplied by voltage",
-            "Force multiplied by the perpendicular distance of the line of action of force to the pivot",
             "Voltage divided by resistance",
+            "Force multiplied by the perpendicular distance of the line of action of force to the pivot",
             "Magnetic field strength divided by current"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "This is the standard definition of moment used throughout the notes to explain increased turning effect."
         },
         {
           "question": "How does increasing the size of the coil (distance of points A, B, C, D from the pivot) affect the turning effect?",
           "choices": [
-            "It has no effect",
-            "It can increase the moment by increasing the perpendicular distance",
             "It only affects current, not moment",
-            "It decreases the moment"
+            "It has no effect",
+            "It decreases the moment",
+            "It can increase the moment by increasing the perpendicular distance"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "A larger perpendicular distance from the pivot increases the moment produced, per the moment formula."
         },
         {
           "question": "Which factor increases the turning effect by directly increasing the strength of the magnetic force acting on the coil (external field)?",
           "choices": [
             "Increasing the strength of the external magnetic field",
-            "Reducing the coil size",
             "Reducing current",
-            "Removing the soft iron core"
+            "Removing the soft iron core",
+            "Reducing the coil size"
           ],
           "answerIndex": 0,
           "explanation": "A stronger external magnetic field increases the force on the coil, producing a larger moment."
@@ -4721,12 +4721,12 @@
         {
           "question": "What energy conversion does a D.C. motor perform?",
           "choices": [
-            "Mechanical to electrical",
             "Electrical to mechanical",
             "Chemical to thermal",
+            "Mechanical to electrical",
             "Electrical to chemical"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes state the D.C. motor converts electrical energy to mechanical energy."
         },
         {
@@ -4734,8 +4734,8 @@
           "choices": [
             "It stays the same",
             "It reverses direction",
-            "It doubles in strength",
-            "It disappears"
+            "It disappears",
+            "It doubles in strength"
           ],
           "answerIndex": 1,
           "explanation": "The notes describe the moment switching from clockwise to anticlockwise as the wire crosses to the opposite pole."
@@ -4743,12 +4743,12 @@
         {
           "question": "What is the function of the split ring commutator?",
           "choices": [
-            "To measure the current",
             "To reverse current direction in the coil at the vertical position, maintaining consistent rotation direction",
-            "To increase the voltage supplied",
-            "To act as an insulator only"
+            "To act as an insulator only",
+            "To measure the current",
+            "To increase the voltage supplied"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The split ring commutator reverses current direction as the coil passes vertical, keeping the moment consistent for continuous rotation."
         },
         {
@@ -4765,34 +4765,34 @@
         {
           "question": "At what point in the coil's rotation does the current direction change via the commutator?",
           "choices": [
-            "At the horizontal position",
-            "At the vertical position, where rings lose contact with brushes",
+            "Only at the start of rotation",
             "Continuously throughout rotation",
-            "Only at the start of rotation"
+            "At the vertical position, where rings lose contact with brushes",
+            "At the horizontal position"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state the current reverses when the coil is vertical, where the split rings have no contact with the carbon brushes."
         },
         {
           "question": "Which of the following would NOT increase the turning effect of a D.C. motor's coil?",
           "choices": [
-            "Increasing the number of turns",
-            "Increasing the current",
             "Removing the soft iron core",
-            "Increasing the external magnetic field strength"
+            "Increasing the external magnetic field strength",
+            "Increasing the number of turns",
+            "Increasing the current"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "Removing (not adding) a soft iron core would reduce field concentration, decreasing rather than increasing the turning effect."
         },
         {
           "question": "Give an example of a common appliance that uses a D.C. motor.",
           "choices": [
-            "A refrigerator compressor only",
             "Battery operated toys",
             "A transformer",
+            "A refrigerator compressor only",
             "A CRO"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes list battery operated toys and DVD players as examples of D.C. motor applications."
         }
       ],
@@ -4892,64 +4892,64 @@
         {
           "question": "Who discovered electromagnetic induction, and through what experiment?",
           "choices": [
-            "Oersted's straight wire experiment",
-            "Faraday's Solenoid Experiment in 1831",
+            "Lenz's coil experiment",
             "Fleming's hand rule experiment",
-            "Lenz's coil experiment"
+            "Oersted's straight wire experiment",
+            "Faraday's Solenoid Experiment in 1831"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes state electromagnetic induction was first discovered by Faraday's Solenoid Experiment in 1831."
         },
         {
           "question": "What is required to induce an e.m.f. in a coil?",
           "choices": [
-            "A constant magnetic flux linkage",
             "A change in magnetic flux linkage",
-            "A stationary magnet inside the coil",
-            "High flux density alone"
+            "High flux density alone",
+            "A constant magnetic flux linkage",
+            "A stationary magnet inside the coil"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "An e.m.f. is induced only when there is a change in flux linkage, not from flux linkage alone."
         },
         {
           "question": "According to the notes, what does high flux linkage indicate?",
           "choices": [
-            "A strong magnetic field",
             "How closely linked the field lines are with the solenoid, not field strength",
-            "Always induces an e.m.f. on its own",
-            "The current in the coil"
+            "A strong magnetic field",
+            "The current in the coil",
+            "Always induces an e.m.f. on its own"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "High flux linkage relates to how closely linked the field lines are with the solenoid, not to field strength (which relates to flux density)."
         },
         {
           "question": "Which of the following would NOT increase the magnitude of induced e.m.f.?",
           "choices": [
-            "Increasing the cross-sectional area of the coil",
             "Increasing the speed of relative movement",
             "Placing a soft iron core in the solenoid",
+            "Increasing the cross-sectional area of the coil",
             "Increasing the number of turns in the coil"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "A soft iron core increases flux density, not the rate of change of flux linkage, so it does not affect induced e.m.f. magnitude."
         },
         {
           "question": "What does Lenz's Law state?",
           "choices": [
+            "Flux linkage determines field strength",
             "Induced current always flows in the same direction as the inducing current",
-            "The direction of induced e.m.f. is such that its magnetic effect opposes the motion or change producing it",
             "Induced e.m.f. is always momentary",
-            "Flux linkage determines field strength"
+            "The direction of induced e.m.f. is such that its magnetic effect opposes the motion or change producing it"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "This is the exact statement of Lenz's Law given in the notes."
         },
         {
           "question": "If a South pole of a magnet approaches a solenoid, what pole is induced at the near end of the solenoid?",
           "choices": [
-            "North pole",
-            "South pole",
             "No pole is induced",
+            "South pole",
+            "North pole",
             "Both poles simultaneously"
           ],
           "answerIndex": 1,
@@ -4958,12 +4958,12 @@
         {
           "question": "Why is galvanometer deflection during electromagnetic induction often momentary?",
           "choices": [
-            "Because current always decays over time regardless of flux linkage",
             "Because only a change in flux linkage induces an e.m.f., and deflection stops once the change stops",
-            "Because galvanometers can only show brief readings",
-            "Because Lenz's Law forbids sustained current"
+            "Because current always decays over time regardless of flux linkage",
+            "Because Lenz's Law forbids sustained current",
+            "Because galvanometers can only show brief readings"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes state deflection is momentary because the induced e.m.f. depends on a continuing change in flux linkage."
         }
       ],
@@ -5046,23 +5046,23 @@
         {
           "question": "In Fleming's Right Hand Rule, what does the thumb represent?",
           "choices": [
-            "Direction of induced current",
             "Direction of the magnetic field",
             "Direction of movement of the conductor",
+            "Direction of induced current",
             "Direction of conventional current only"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "The thumb points in the direction of the conductor's movement in Fleming's Right Hand Rule."
         },
         {
           "question": "In Fleming's Right Hand Rule, what does the middle (third) finger represent?",
           "choices": [
+            "Direction of force",
             "Direction of movement",
             "Direction of magnetic field",
-            "Direction of induced current",
-            "Direction of force"
+            "Direction of induced current"
           ],
-          "answerIndex": 2,
+          "answerIndex": 3,
           "explanation": "The middle finger points in the direction of the induced current in Fleming's Right Hand Rule."
         },
         {
@@ -5070,8 +5070,8 @@
           "choices": [
             "Fleming's Left Hand Rule",
             "Fleming's Right Hand Rule",
-            "The right hand grip rule",
-            "Lenz's Law directly, with no hand rule"
+            "Lenz's Law directly, with no hand rule",
+            "The right hand grip rule"
           ],
           "answerIndex": 1,
           "explanation": "Fleming's Right Hand Rule (generator rule) is used when a conductor is moved and cuts field lines to induce current."
@@ -5080,8 +5080,8 @@
           "question": "Which rule is typically used when a current is already flowing in a conductor within a magnetic field, to find the resulting force?",
           "choices": [
             "Fleming's Left Hand Rule (motor rule)",
-            "Fleming's Right Hand Rule (generator rule)",
             "The right hand grip rule",
+            "Fleming's Right Hand Rule (generator rule)",
             "Lenz's Law of induction only"
           ],
           "answerIndex": 0,
@@ -5090,12 +5090,12 @@
         {
           "question": "In the example where a conductor moves upward through a field going into the screen, what is the resulting direction of conventional current?",
           "choices": [
-            "Upwards",
             "Downwards",
             "To the left",
+            "Upwards",
             "To the right"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "The notes state that after applying Fleming's Left Hand Rule to moving electrons, conventional current results to the left."
         }
       ],
@@ -5190,78 +5190,78 @@
         {
           "question": "What energy conversion does an A.C. generator perform?",
           "choices": [
-            "Electrical to mechanical",
-            "Mechanical to electrical",
             "Chemical to electrical",
-            "Thermal to mechanical"
+            "Electrical to mechanical",
+            "Thermal to mechanical",
+            "Mechanical to electrical"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes state the A.C. generator converts mechanical energy into electrical energy."
         },
         {
           "question": "What is the function of slip rings in an A.C. generator?",
           "choices": [
+            "To generate the magnetic field",
             "To reverse current direction every half cycle",
             "To solely connect the coil to the external circuit via carbon brushes",
-            "To generate the magnetic field",
             "To store electrical charge"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes explicitly state slip rings do NOT reverse current direction; that is not their function, unlike split rings in a motor."
         },
         {
           "question": "At what coil position (relative to the magnetic field) is the induced e.m.f. in an A.C. generator at its lowest?",
           "choices": [
-            "When the plane of the coil is parallel to the field",
-            "When the plane of the coil is perpendicular to the field",
             "At all positions equally",
-            "Only when the coil is stationary"
+            "Only when the coil is stationary",
+            "When the plane of the coil is perpendicular to the field",
+            "When the plane of the coil is parallel to the field"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "At the perpendicular position, the rate of cutting is lowest, so induced e.m.f. is at its lowest (zero)."
         },
         {
           "question": "What is 'back e.m.f.' associated with?",
           "choices": [
             "A.C. generators only",
-            "D.C. motors, where induced e.m.f. opposes the original current per Lenz's Law",
             "Circuit breakers",
-            "Transformers"
+            "Transformers",
+            "D.C. motors, where induced e.m.f. opposes the original current per Lenz's Law"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "Back e.m.f. occurs in D.C. motors as the motion-induced e.m.f. opposes the original current."
         },
         {
           "question": "Which factor increases BOTH the magnitude and frequency of the output voltage of an A.C. generator?",
           "choices": [
-            "Increasing the number of turns on the coil",
-            "Increasing the strength of the magnet",
             "Increasing the frequency of rotation",
-            "Placing a soft iron core in the coil"
+            "Increasing the number of turns on the coil",
+            "Placing a soft iron core in the coil",
+            "Increasing the strength of the magnet"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "The notes state only increasing rotation frequency affects both magnitude and frequency of output voltage; the others affect magnitude only."
         },
         {
           "question": "How does a fixed coil generator induce an e.m.f.?",
           "choices": [
             "By rotating the coil within a stationary magnet",
-            "By rotating magnets around a stationary coil",
             "By using a split ring commutator",
-            "By using a battery-driven electromagnet"
+            "By using a battery-driven electromagnet",
+            "By rotating magnets around a stationary coil"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "A fixed coil generator rotates magnets around the coil, inducing e.m.f. via changing flux linkage, per the notes."
         },
         {
           "question": "What is an advantage of a fixed coil generator over a standard A.C. generator?",
           "choices": [
-            "It requires higher voltage",
-            "It does not require carbon brushes, reducing wear and overheating",
             "It produces D.C. current directly",
-            "It requires a split-ring commutator"
+            "It requires a split-ring commutator",
+            "It does not require carbon brushes, reducing wear and overheating",
+            "It requires higher voltage"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The notes state fixed coil generators are more compact and do not require carbon brushes, reducing wear/overheating and resistance."
         }
       ],
@@ -5376,32 +5376,32 @@
         {
           "question": "In a step-up transformer, which relationship is true?",
           "choices": [
-            "Np > Ns and Vp > Vs",
-            "Ns > Np and Vs > Vp",
             "Ns = Np and Vs = Vp",
-            "Vs is always 0"
+            "Np > Ns and Vp > Vs",
+            "Vs is always 0",
+            "Ns > Np and Vs > Vp"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "A step-up transformer has more turns in the secondary than primary, resulting in a higher secondary voltage."
         },
         {
           "question": "Why is soft iron used in transformer cores?",
           "choices": [
-            "It is a good insulator",
             "It is easily magnetised and demagnetised, reducing energy loss",
-            "It increases resistance intentionally",
-            "It prevents any current flow"
+            "It prevents any current flow",
+            "It is a good insulator",
+            "It increases resistance intentionally"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes state soft iron is used because it is easily magnetised/demagnetised, reducing energy loss."
         },
         {
           "question": "In an ideal transformer, what is the relationship between input and output power?",
           "choices": [
-            "Input power is always greater than output power",
+            "Power is unrelated to voltage and current",
             "Input power equals output power (VpIp = VsIs)",
-            "Output power is always greater than input power",
-            "Power is unrelated to voltage and current"
+            "Input power is always greater than output power",
+            "Output power is always greater than input power"
           ],
           "answerIndex": 1,
           "explanation": "By conservation of energy in an ideal transformer, VpIp = VsIs."
@@ -5409,34 +5409,34 @@
         {
           "question": "Does transformer efficiency affect the ratio Vs/Vp = Ns/Np?",
           "choices": [
-            "Yes, efficiency directly changes this ratio",
-            "No, efficiency only affects current and power calculations",
+            "Efficiency only matters for step-up transformers",
             "Efficiency doubles this ratio",
-            "Efficiency only matters for step-up transformers"
+            "Yes, efficiency directly changes this ratio",
+            "No, efficiency only affects current and power calculations"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes explicitly state the voltage-turns ratio is not affected by efficiency; only current and power are."
         },
         {
           "question": "Why is P_loss calculated as I²R rather than V²/R when minimizing power loss in transmission cables?",
           "choices": [
+            "Because resistance never matters in transmission",
             "Because V²/R would suggest reducing R increases power loss, which is misleading, and V there refers to a different voltage than across the cables",
             "Because V²/R is mathematically incorrect",
-            "Because current is always zero in transmission lines",
-            "Because resistance never matters in transmission"
+            "Because current is always zero in transmission lines"
           ],
-          "answerIndex": 0,
+          "answerIndex": 1,
           "explanation": "Reducing R in V²/R appears to increase power loss (wrong conclusion), and the V in that formula is not the cable's voltage but often the cell's p.d."
         },
         {
           "question": "Why are high voltage cables preferred for power transmission?",
           "choices": [
+            "They eliminate all resistance",
             "They increase current for the same power, increasing power loss",
             "They decrease current for the same power, reducing power loss and allowing thinner cables",
-            "They eliminate all resistance",
             "They require no insulation"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "With P=VI, higher voltage means lower current for a given power, reducing I²R losses and permitting thinner, cheaper cables."
         }
       ],
@@ -5524,10 +5524,10 @@
         {
           "question": "What is the function of the cathode in a CRO?",
           "choices": [
-            "To focus electrons into a beam",
-            "To release the electrons",
             "To deflect the beam vertically",
-            "To display the waveform"
+            "To release the electrons",
+            "To display the waveform",
+            "To focus electrons into a beam"
           ],
           "answerIndex": 1,
           "explanation": "The notes state the cathode releases the electrons."
@@ -5535,54 +5535,54 @@
         {
           "question": "What is the function of the grid in a CRO?",
           "choices": [
-            "To release electrons",
-            "To focus the electrons into a single beam",
             "To connect to the timebase",
-            "To measure voltage directly"
+            "To measure voltage directly",
+            "To release electrons",
+            "To focus the electrons into a single beam"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The grid focuses the released electrons into a single beam."
         },
         {
           "question": "What does the Y-gain control adjust?",
           "choices": [
-            "The horizontal speed of deflection",
-            "The amplification of vertical deflection (voltage sensitivity)",
             "The brightness of the screen",
-            "The frequency of the input"
+            "The frequency of the input",
+            "The amplification of vertical deflection (voltage sensitivity)",
+            "The horizontal speed of deflection"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "The Y-gain amplifies the deflection of the electron beam in the vertical direction."
         },
         {
           "question": "What happens to the CRO display when the timebase is switched off?",
           "choices": [
-            "The beam disappears entirely",
             "There is no horizontal deflection of the beam",
-            "The vertical deflection stops",
-            "The screen goes blank permanently"
+            "The screen goes blank permanently",
+            "The beam disappears entirely",
+            "The vertical deflection stops"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "With the timebase off, the horizontal deflection speed is 0, so no horizontal deflection is shown."
         },
         {
           "question": "On a CRO with the timebase off, how can you distinguish a D.C. supply from an A.C. supply?",
           "choices": [
             "D.C. voltage changes, A.C. voltage is constant",
-            "D.C. voltage is constant, A.C. voltage changes",
             "Both appear identical always",
-            "Only A.C. can be displayed with timebase off"
+            "Only A.C. can be displayed with timebase off",
+            "D.C. voltage is constant, A.C. voltage changes"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "The notes state D.C. supply shows constant voltage while A.C. supply shows changing voltage with timebase off."
         },
         {
           "question": "When measuring the voltage of an A.C. supply using a CRO, how does the peak voltage relate to the displayed trace height?",
           "choices": [
-            "Peak voltage equals the full displayed trace height",
-            "Peak voltage is half of the voltage displayed (trace height is twice the peak voltage)",
             "Peak voltage is unrelated to trace height",
-            "Peak voltage is double the displayed height"
+            "Peak voltage is half of the voltage displayed (trace height is twice the peak voltage)",
+            "Peak voltage is double the displayed height",
+            "Peak voltage equals the full displayed trace height"
           ],
           "answerIndex": 1,
           "explanation": "The notes state that for A.C. supply, the peak voltage is half of the displayed voltage (peak-to-peak measurement)."
@@ -5590,12 +5590,12 @@
         {
           "question": "What must be done first before connecting a voltage to be measured to the Y-plates terminal of a CRO?",
           "choices": [
-            "Turn on the timebase to maximum",
             "Switch off the timebase and center the trace/dot vertically",
+            "Remove the fluorescent screen",
             "Disconnect the grid",
-            "Remove the fluorescent screen"
+            "Turn on the timebase to maximum"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "The notes describe switching off the timebase and centering the trace before connecting the voltage to measure it."
         }
       ],

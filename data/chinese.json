@@ -43,10 +43,10 @@
         {
           "question": "“他像王子一样”属于什么修辞手法？",
           "choices": [
-            "暗喻",
-            "明喻",
             "拟人",
-            "设问"
+            "明喻",
+            "设问",
+            "暗喻"
           ],
           "answerIndex": 1,
           "explanation": "这是明确地把他比作王子，属于明喻。"
@@ -54,56 +54,56 @@
         {
           "question": "“蝴蝶是花儿”属于什么修辞手法？",
           "choices": [
-            "明喻",
-            "暗喻",
+            "拟物",
             "反问",
-            "拟物"
+            "明喻",
+            "暗喻"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "这是不明确的对比，属于暗喻。"
         },
         {
           "question": "“桌子走到了厨房”是什么修辞手法？",
           "choices": [
-            "拟物",
             "拟人",
+            "明喻",
             "设问",
-            "明喻"
+            "拟物"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "把物品（桌子）赋予人的行为（走），属于拟人。"
         },
         {
           "question": "“这个城市有什么特色？这个城市有丰富的人文风情...”属于什么修辞手法？",
           "choices": [
-            "反问",
             "设问",
             "拟人",
+            "反问",
             "明喻"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "这是自问自答的设问。"
         },
         {
           "question": "“你们想成功吗？”这样的问句，答案明显但不作答，属于什么？",
           "choices": [
-            "设问",
             "反问",
             "拟物",
-            "暗喻"
+            "暗喻",
+            "设问"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "有问不答，属于反问。"
         },
         {
           "question": "把人形容成物品的修辞手法叫什么？",
           "choices": [
-            "拟人",
             "拟物",
+            "暗喻",
             "明喻",
-            "暗喻"
+            "拟人"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "拟物是把人形容成物品，与拟人相反。"
         }
       ],
@@ -186,9 +186,9 @@
         {
           "question": "关联词的主要作用是什么？",
           "choices": [
-            "形容名词",
-            "把两个句子连成一个句子",
             "替代主语",
+            "把两个句子连成一个句子",
+            "形容名词",
             "表示时间"
           ],
           "answerIndex": 1,
@@ -197,43 +197,43 @@
         {
           "question": "“无论”等同于下列哪个词？",
           "choices": [
-            "因为",
             "不管",
-            "所以",
-            "仍然"
+            "仍然",
+            "因为",
+            "所以"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "笔记说明“无论”等于“不管”。"
         },
         {
           "question": "“他不仅会跳舞，他还会唱歌”属于哪一类关联句？",
           "choices": [
             "并列句",
-            "承接句",
             "递进句",
+            "承接句",
             "选择句"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "“不仅...还...”表示递进关系，是递进句。"
         },
         {
           "question": "“不是赢了，就是输了”属于哪一类句子？",
           "choices": [
-            "选择句",
-            "并列句",
             "递进句",
-            "承接句"
+            "承接句",
+            "选择句",
+            "并列句"
           ],
-          "answerIndex": 0,
+          "answerIndex": 2,
           "explanation": "“不是...就是...”表示选择关系。"
         },
         {
           "question": "动宾搭配中，动词和名词的顺序是？",
           "choices": [
-            "名词在前，动词在后",
-            "动词在前，名词在后",
             "没有固定顺序",
-            "名词与动词同时出现"
+            "动词在前，名词在后",
+            "名词与动词同时出现",
+            "名词在前，动词在后"
           ],
           "answerIndex": 1,
           "explanation": "笔记指出动宾搭配里动词在前面，名词跟在后面，如“找工作”。"
@@ -241,12 +241,12 @@
         {
           "question": "“天气预报说今天会下雨；果然，今天下起倾盆大雨”中的“果然”表示什么？",
           "choices": [
-            "出乎意料",
-            "与预期相符",
+            "强调时间",
             "相反的结果",
-            "强调时间"
+            "与预期相符",
+            "出乎意料"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "“果然”表示事情与预期一致（as expected）。"
         }
       ],
@@ -313,10 +313,10 @@
         {
           "question": "写作的字数限制是多少？",
           "choices": [
-            "300字",
+            "1000字",
             "480字",
-            "600字",
-            "1000字"
+            "300字",
+            "600字"
           ],
           "answerIndex": 1,
           "explanation": "笔记明确指出字数限制为480字。"
@@ -324,12 +324,12 @@
         {
           "question": "写作时可以使用辞典吗？",
           "choices": [
-            "可以",
-            "不能",
             "只能查生字",
-            "视情况而定"
+            "视情况而定",
+            "不能",
+            "可以"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "笔记明确指出不能使用辞典。"
         },
         {
@@ -337,8 +337,8 @@
           "choices": [
             "一面",
             "两面",
-            "三面",
-            "没有要求"
+            "没有要求",
+            "三面"
           ],
           "answerIndex": 1,
           "explanation": "笔记指出必须抓紧内容，至少写到两面。"
@@ -346,10 +346,10 @@
         {
           "question": "下列哪一项不是写作格式注意点中提到的内容？",
           "choices": [
+            "扣紧受众与主题",
             "审题",
-            "分段",
             "使用辞典",
-            "扣紧受众与主题"
+            "分段"
           ],
           "answerIndex": 2,
           "explanation": "笔记明确说不能使用辞典，这不是应注意做的事而是禁止的事。"
@@ -357,12 +357,12 @@
         {
           "question": "关于语言使用，笔记建议怎么做？",
           "choices": [
-            "尽量使用生僻字",
             "用简单的字，适当使用成语可加分",
+            "字数越多越好",
             "完全不用成语",
-            "字数越多越好"
+            "尽量使用生僻字"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "笔记指出用简单的字就可以，但用成语也会加分，须用得对。"
         }
       ],
@@ -425,23 +425,23 @@
         {
           "question": "演讲稿的受众通常是谁？",
           "choices": [
-            "自己",
             "朋友",
-            "大家/很多人",
-            "网友"
+            "网友",
+            "自己",
+            "大家/很多人"
           ],
-          "answerIndex": 2,
+          "answerIndex": 3,
           "explanation": "笔记指出演讲稿的受众是大家/很多人。"
         },
         {
           "question": "演讲稿的语气应为？",
           "choices": [
-            "非正式的",
-            "正式的",
+            "随意的",
             "半正式的",
-            "随意的"
+            "正式的",
+            "非正式的"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "笔记明确指出演讲稿语气必须是正式的。"
         },
         {
@@ -459,22 +459,22 @@
           "question": "根据内容概要，演讲稿一般应包含几个主体？",
           "choices": [
             "1个",
-            "2至3个",
             "5个",
-            "没有限制"
+            "没有限制",
+            "2至3个"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "笔记的内容概要指出应有2至3个主体。"
         },
         {
           "question": "演讲稿开头的第一步骤是什么？",
           "choices": [
             "自我介绍",
-            "问候观众",
+            "讲主题",
             "呼吁",
-            "讲主题"
+            "问候观众"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "笔记列出的第一步是问候观众，如“老师同学们好！”。"
         }
       ],
@@ -538,56 +538,56 @@
         {
           "question": "博客的受众是谁？",
           "choices": [
-            "自己",
             "网友们",
+            "老师",
             "亲人",
-            "老师"
+            "自己"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "笔记指出博客的受众是网友们。"
         },
         {
           "question": "博客的语气应该是？",
           "choices": [
-            "完全正式的",
-            "完全非正式的",
             "半非正式半正式（50-50）",
-            "没有语气要求"
+            "没有语气要求",
+            "完全正式的",
+            "完全非正式的"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "笔记说明博客语气是半非正式的，半正式的（50-50）。"
         },
         {
           "question": "博客结尾常见的元素包括？",
           "choices": [
+            "呼吁与谢谢",
             "签名与日期",
             "赞与转发",
-            "呼吁与谢谢",
             "地址与电话"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "笔记提到博客结尾要加上博客必有的东西（赞，转发）。"
         },
         {
           "question": "根据内容概要，博客应该有几个主体？",
           "choices": [
-            "1个",
             "2个",
-            "3个",
-            "4个"
+            "4个",
+            "1个",
+            "3个"
           ],
-          "answerIndex": 2,
+          "answerIndex": 3,
           "explanation": "笔记内容概要中列出3个主体。"
         },
         {
           "question": "博客的一个重要格式要求是什么？",
           "choices": [
-            "不需要标题",
-            "要有标题",
+            "必须用文言文",
             "必须署名地址",
-            "必须用文言文"
+            "要有标题",
+            "不需要标题"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "笔记指出博客要有标题。"
         }
       ],
@@ -646,21 +646,21 @@
         {
           "question": "日记的受众是谁？",
           "choices": [
-            "网友",
             "自己",
-            "朋友",
-            "老师"
+            "老师",
+            "网友",
+            "朋友"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "笔记指出日记的受众是自己。"
         },
         {
           "question": "日记的语气特点是？",
           "choices": [
-            "必须非常正式",
+            "必须像演讲稿",
             "可以是非正式的",
-            "必须用文言文",
-            "必须像演讲稿"
+            "必须非常正式",
+            "必须用文言文"
           ],
           "answerIndex": 1,
           "explanation": "笔记说明日记语气可以是非正式的。"
@@ -679,12 +679,12 @@
         {
           "question": "日记写作时最重要的原则是什么？",
           "choices": [
-            "要像写给别人看",
-            "必须听起来是写给自己听的",
             "必须呼吁读者",
-            "必须有标题"
+            "要像写给别人看",
+            "必须有标题",
+            "必须听起来是写给自己听的"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "笔记强调日记必须听起来是想写给自己听的，而不是给别人听的。"
         }
       ],
@@ -741,11 +741,11 @@
           "question": "个人书信的受众通常是谁？",
           "choices": [
             "网友",
-            "朋友/亲人",
+            "老板",
             "陌生人",
-            "老板"
+            "朋友/亲人"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "笔记指出个人书信受众是朋友/亲人，例如表哥、爸爸。"
         },
         {
@@ -762,12 +762,12 @@
         {
           "question": "个人书信的语气应该是？",
           "choices": [
-            "完全非正式",
             "半非正式半正式",
-            "完全正式",
-            "官方公文语气"
+            "官方公文语气",
+            "完全非正式",
+            "完全正式"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "笔记指出语气是50-50，半非正式半正式。"
         }
       ],
@@ -805,23 +805,23 @@
         {
           "question": "电邮的受众可以包括？",
           "choices": [
-            "只能是老师",
             "朋友、老师、亲人",
             "只能是陌生人",
+            "只能是老师",
             "只能是网友"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "笔记指出电邮受众可以是朋友/老师/亲人。"
         },
         {
           "question": "电邮的语气特点是？",
           "choices": [
-            "只能非正式",
             "只能正式",
             "可以非正式也可以正式",
-            "必须用文言文"
+            "必须用文言文",
+            "只能非正式"
           ],
-          "answerIndex": 2,
+          "answerIndex": 1,
           "explanation": "笔记说明电邮语气可以是非正式的，也可以是正式的，视对象而定。"
         }
       ],
@@ -899,43 +899,43 @@
         {
           "question": "“财神”指的是什么？",
           "choices": [
-            "财富",
             "God of wealth",
+            "财富",
             "财政部长",
             "富人"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "笔记明确“财神”意为God of wealth。"
         },
         {
           "question": "成语“物极必反”的含义是？",
           "choices": [
             "事情越做越好",
-            "事物发展到极点会向相反方向转化",
             "做事要坚持到底",
+            "事物发展到极点会向相反方向转化",
             "凡事都有例外"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "笔记解释“物极必反”指事物发展到极点会向相反方向转化。"
         },
         {
           "question": "谚语“贪小便宜吃大亏”比喻什么？",
           "choices": [
-            "努力工作会有回报",
             "为小利益而遭受大损失",
-            "诚实是最好的策略",
-            "节俭是美德"
+            "努力工作会有回报",
+            "节俭是美德",
+            "诚实是最好的策略"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "笔记解释此谚语意为因贪图小利益而遭受重大损失，即Penny wise, pound foolish。"
         },
         {
           "question": "“拿了手短，吃了嘴软”这句谚语的英译是什么？",
           "choices": [
-            "A closed mouth catches no flies",
+            "Penny wise, pound foolish",
             "Gifts blind the eyes",
             "Survival of the fittest",
-            "Penny wise, pound foolish"
+            "A closed mouth catches no flies"
           ],
           "answerIndex": 1,
           "explanation": "笔记中该谚语对应英译为Gifts blind the eyes。"
@@ -943,20 +943,20 @@
         {
           "question": "“优胜劣汰”对应哪个英文概念？",
           "choices": [
-            "Survival of the fittest",
+            "A closed mouth catches no flies",
             "Go all out",
-            "Coincide without consultation",
-            "A closed mouth catches no flies"
+            "Survival of the fittest",
+            "Coincide without consultation"
           ],
-          "answerIndex": 0,
+          "answerIndex": 2,
           "explanation": "笔记解释“优胜劣汰”意为适应力强的存留，弱的被淘汰，即Survival of the fittest。"
         },
         {
           "question": "“不约而同”是指什么？",
           "choices": [
-            "事先商量好一致行动",
-            "没有事先约定却意见或行为相同",
             "完全没有共识",
+            "没有事先约定却意见或行为相同",
+            "事先商量好一致行动",
             "故意模仿他人"
           ],
           "answerIndex": 1,
@@ -1042,10 +1042,10 @@
         {
           "question": "“会考”的意思是什么？",
           "choices": [
-            "会议",
+            "考虑",
             "考试/Exams",
             "开会",
-            "考虑"
+            "会议"
           ],
           "answerIndex": 1,
           "explanation": "笔记中“会考”意为Exams。"
@@ -1053,43 +1053,43 @@
         {
           "question": "“温室花朵”这个说法比喻什么样的人？",
           "choices": [
+            "富有的人",
             "坚强的人",
-            "娇气、无法承受困难的人",
             "勤奋的人",
-            "富有的人"
+            "娇气、无法承受困难的人"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "笔记解释“温室花朵”意为娇气、无法承受风雨（困难）的人。"
         },
         {
           "question": "根据笔记，支持保留会考的理由不包括以下哪项？",
           "choices": [
-            "能让学生了解知识掌握情况",
             "是学习的动力",
-            "能为高考作准备",
-            "能减轻学生压力"
+            "能让学生了解知识掌握情况",
+            "能减轻学生压力",
+            "能为高考作准备"
           ],
-          "answerIndex": 3,
+          "answerIndex": 2,
           "explanation": "“能减轻学生压力”是支持取消会考的理由，不是保留会考的理由。"
         },
         {
           "question": "支持取消会考的理由之一是什么？",
           "choices": [
-            "有助于打基础",
-            "能为高考做准备",
             "增添学生压力，影响健康",
-            "是学习的动力"
+            "有助于打基础",
+            "是学习的动力",
+            "能为高考做准备"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "笔记指出会考增添学生压力，对健康造成负面影响，是支持取消的理由。"
         },
         {
           "question": "“掌握”的意思是？",
           "choices": [
-            "放弃",
+            "拒绝",
             "Grasp; master (掌握、精通)",
             "忘记",
-            "拒绝"
+            "放弃"
           ],
           "answerIndex": 1,
           "explanation": "笔记中“掌握”意为Grasp; master。"
@@ -1174,9 +1174,9 @@
         {
           "question": "根据笔记，上寄宿学校的好处不包括以下哪项？",
           "choices": [
-            "丰富生活阅历",
             "培养自立自律能力",
             "为当地大学做准备",
+            "丰富生活阅历",
             "不会有文化差异问题"
           ],
           "answerIndex": 3,
@@ -1185,32 +1185,32 @@
         {
           "question": "上寄宿学校生活条件方面的弊端是什么？",
           "choices": [
+            "无需自理生活",
             "房间宽敞舒适",
             "住宿舍、与陌生人共享房间等条件较差",
-            "伙食丰富多样",
-            "无需自理生活"
+            "伙食丰富多样"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "笔记指出生活条件可能比较差，如住宿舍、与陌生人共享房间、公共厕所、配餐。"
         },
         {
           "question": "“学历”在笔记中主要指什么？",
           "choices": [
-            "生活经验",
             "大学以上教育与文凭",
             "本领与技能",
-            "个人性格"
+            "个人性格",
+            "生活经验"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "笔记明确指出学历指大学以上教育与文凭。"
         },
         {
           "question": "“能力”与“学历”相比有什么特点？",
           "choices": [
-            "能力比学历更容易证明",
+            "学历比能力更有弹性",
             "能力难证明，除非有证书",
             "学历难以培养",
-            "学历比能力更有弹性"
+            "能力比学历更容易证明"
           ],
           "answerIndex": 1,
           "explanation": "笔记指出能力难证明（除非有证书），而学历是有形的文凭。"
@@ -1218,12 +1218,12 @@
         {
           "question": "为什么许多招聘单位重视学历？",
           "choices": [
-            "因为学历能保证能力强",
             "因为常要求本科或以上学历，否则没有应聘资格",
+            "因为学历比能力更灵活",
             "因为学历便宜易得",
-            "因为学历比能力更灵活"
+            "因为学历能保证能力强"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "笔记指出许多用人单位招聘时标注学历要求，专科生往往没有应聘资格。"
         }
       ],
@@ -1300,44 +1300,44 @@
           "question": "穿校服的好处之一是什么？",
           "choices": [
             "能增加攀比",
-            "能节省早上挑选衣服的时间",
+            "能增加穿衣自由",
             "能提高学习成绩",
-            "能增加穿衣自由"
+            "能节省早上挑选衣服的时间"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "笔记指出穿校服能节省时间，学生不用花时间挑选衣服。"
         },
         {
           "question": "“约束”在笔记中的意思是？",
           "choices": [
             "自由",
-            "restrain（限制/约束）",
             "放松",
-            "攀比"
+            "攀比",
+            "restrain（限制/约束）"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "笔记明确“约束”意为restrain。"
         },
         {
           "question": "穿校服如何帮助防止攀比？",
           "choices": [
+            "因为校服可以自由搭配",
             "因为校服很贵",
-            "因为大家穿着相同的衣服，没有比较的空间",
             "因为校服很好看",
-            "因为校服可以自由搭配"
+            "因为大家穿着相同的衣服，没有比较的空间"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "笔记提到穿校服能防止攀比，因大家衣着统一。"
         },
         {
           "question": "根据笔记，穿校服的一个坏处是什么？",
           "choices": [
             "节省时间",
+            "培养归属感",
             "没有特点，同一化",
-            "增加约束力",
-            "培养归属感"
+            "增加约束力"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "笔记列出穿校服的坏处包括贵、需花钱，以及没有特点、同一化。"
         },
         {
@@ -1422,56 +1422,56 @@
         {
           "question": "以下哪一项属于笔记中列出的坏习惯？",
           "choices": [
-            "记笔记",
             "逃学",
             "锻炼身体",
-            "树立目标"
+            "树立目标",
+            "记笔记"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "逃学是笔记中列出的坏习惯之一。"
         },
         {
           "question": "根据笔记，青少年面对烦恼和压力应该采取什么态度？",
           "choices": [
-            "消极逃避",
-            "正面积极的态度，坚持到底",
             "放弃目标",
-            "独自承受，不求助"
+            "独自承受，不求助",
+            "正面积极的态度，坚持到底",
+            "消极逃避"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "笔记指出应以正面、积极的态度应对，不放弃，并积极寻求帮助。"
         },
         {
           "question": "“逆反”的意思是？",
           "choices": [
+            "积极的",
             "顺从的",
-            "rebellious（叛逆的）",
             "害怕的",
-            "积极的"
+            "rebellious（叛逆的）"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "笔记中“逆反”意为rebellious。"
         },
         {
           "question": "下列哪一项是笔记中列出的好习惯？",
           "choices": [
-            "逃学",
             "不懂就问，不带问题离开课堂",
             "偷东西",
-            "吸毒"
+            "吸毒",
+            "逃学"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "笔记列出的好习惯包括“不懂就问，不带问题离开课堂”。"
         },
         {
           "question": "青少年面对压力时可以向哪些人求助？",
           "choices": [
-            "只能靠自己",
-            "老师、父母、同学、朋友",
+            "不需要求助",
             "陌生人",
-            "不需要求助"
+            "只能靠自己",
+            "老师、父母、同学、朋友"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "笔记指出应向老师、父母、同学、朋友求助，进行辅导。"
         }
       ],
@@ -1546,12 +1546,12 @@
         {
           "question": "“开阔眼界”的意思是？",
           "choices": [
-            "缩小视野",
             "Widen one's field of vision（扩展视野）",
-            "忽视问题",
-            "专注一点"
+            "专注一点",
+            "缩小视野",
+            "忽视问题"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "笔记中“开阔眼界”意为Widen one's field of vision。"
         },
         {
@@ -1559,8 +1559,8 @@
           "choices": [
             "都是指借钱",
             "捐款是donate，筹款是Raise money",
-            "捐款是Raise money，筹款是donate",
-            "两者意思相同，无分别"
+            "两者意思相同，无分别",
+            "捐款是Raise money，筹款是donate"
           ],
           "answerIndex": 1,
           "explanation": "笔记中“捐款”是donate，“筹款”是Raise money。"
@@ -1568,20 +1568,20 @@
         {
           "question": "“家境”指的是什么？",
           "choices": [
+            "家乡地理位置",
             "家里的装饰",
-            "Family financial circumstance（家庭经济状况）",
             "家庭成员数量",
-            "家乡地理位置"
+            "Family financial circumstance（家庭经济状况）"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "笔记中“家境”意为Family financial circumstance。"
         },
         {
           "question": "“朴实”的意思是？",
           "choices": [
-            "奢华的",
-            "Simple; plain（简朴的）",
             "复杂的",
+            "Simple; plain（简朴的）",
+            "奢华的",
             "昂贵的"
           ],
           "answerIndex": 1,
@@ -1650,21 +1650,21 @@
         {
           "question": "“分手”的意思是什么？",
           "choices": [
-            "Fall in love",
             "Break up",
             "Comfort",
+            "Fall in love",
             "Recall"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "笔记中“分手”意为Break up。"
         },
         {
           "question": "“羡慕”的意思是什么？",
           "choices": [
-            "Hate",
+            "Forget",
             "Admire; envy",
             "Ignore",
-            "Forget"
+            "Hate"
           ],
           "answerIndex": 1,
           "explanation": "笔记中“羡慕”意为Admire; envy。"
@@ -1673,22 +1673,22 @@
           "question": "“危机”的意思是什么？",
           "choices": [
             "Opportunity",
+            "Comfort",
             "Crisis",
-            "Safety",
-            "Comfort"
+            "Safety"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "笔记中“危机”意为crisis。"
         },
         {
           "question": "“普遍”的意思是什么？",
           "choices": [
-            "罕见的",
             "Widespread（普遍的）",
+            "罕见的",
             "单一的",
             "个别的"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "笔记中“普遍”意为widespread。"
         }
       ],
@@ -1754,10 +1754,10 @@
         {
           "question": "“笨拙”的意思是？",
           "choices": [
-            "聪明的",
-            "Clumsy（笨拙的）",
             "勇敢的",
-            "优雅的"
+            "Clumsy（笨拙的）",
+            "优雅的",
+            "聪明的"
           ],
           "answerIndex": 1,
           "explanation": "笔记中“笨拙”意为clumsy。"
@@ -1765,34 +1765,34 @@
         {
           "question": "“克服”的意思是？",
           "choices": [
-            "Give up",
             "Overcome（克服）",
-            "Avoid",
-            "Fear"
+            "Fear",
+            "Give up",
+            "Avoid"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "笔记中“克服”意为overcome。"
         },
         {
           "question": "“误打误撞”的意思是？",
           "choices": [
-            "精心策划",
-            "As luck would have it（歪打正着）",
             "彻底失败",
-            "有意为之"
+            "有意为之",
+            "精心策划",
+            "As luck would have it（歪打正着）"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "笔记中“误打误撞”意为As luck would have it。"
         },
         {
           "question": "“逃避”的意思是？",
           "choices": [
-            "面对",
-            "Escape（逃避）",
             "克服",
-            "接受"
+            "面对",
+            "接受",
+            "Escape（逃避）"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "笔记中“逃避”意为escape。"
         }
       ],
@@ -1859,45 +1859,45 @@
         {
           "question": "“辩论”的意思是？",
           "choices": [
+            "忽略",
             "合作",
             "Debate（辩论）",
-            "逃避",
-            "忽略"
+            "逃避"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "笔记中“辩论”意为debate。"
         },
         {
           "question": "“枯燥”的意思是？",
           "choices": [
-            "有趣的",
-            "Uninteresting（枯燥乏味的）",
             "刺激的",
-            "轻松的"
+            "轻松的",
+            "Uninteresting（枯燥乏味的）",
+            "有趣的"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "笔记中“枯燥”意为uninteresting。"
         },
         {
           "question": "“上瘾”的意思是？",
           "choices": [
-            "戒掉",
             "Be addicted to（沉迷、上瘾）",
+            "忘记",
             "拒绝",
-            "忘记"
+            "戒掉"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "笔记中“上瘾”意为Be addicted to。"
         },
         {
           "question": "“众所周知”的意思是？",
           "choices": [
-            "无人知晓",
             "As everyone knows（众人皆知）",
             "有争议的",
-            "秘密的"
+            "秘密的",
+            "无人知晓"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "笔记中“众所周知”意为As everyone knows。"
         }
       ],
@@ -1957,44 +1957,44 @@
           "question": "农历新年为时多少天？",
           "choices": [
             "七天",
-            "十五天",
             "三十天",
+            "十五天",
             "一个月"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "笔记指出农历新年为时十五天，从元月一日到十五日（人日）。"
         },
         {
           "question": "“春运”指的是什么现象？",
           "choices": [
-            "春节期间的运动会",
-            "春节前后人们从工作城市返乡的大型运输现象",
             "春天的农耕活动",
-            "节日期间的物流延误"
+            "春节期间的运动会",
+            "节日期间的物流延误",
+            "春节前后人们从工作城市返乡的大型运输现象"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "笔记明确定义春运为春节前后返乡的大型运输现象。"
         },
         {
           "question": "农历新年习俗中，写春联、贴窗花的意义属于哪一项？",
           "choices": [
-            "团圆和谐",
-            "辞旧迎新",
             "辟邪祈福",
-            "传承孝道"
+            "团圆和谐",
+            "传承孝道",
+            "辞旧迎新"
           ],
-          "answerIndex": 2,
+          "answerIndex": 0,
           "explanation": "笔记指出写春联、贴窗花等旨在驱逐灾祸、祈求好运，属于辟邪祈福。"
         },
         {
           "question": "压岁钱（红包）的传统意义是什么？",
           "choices": [
             "用来炫富",
-            "辟邪驱鬼，使晚辈平安",
             "作为工资",
+            "辟邪驱鬼，使晚辈平安",
             "作为借款"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "笔记说明压岁钱是长辈给晚辈的红包，为辟邪驱鬼，使晚辈平安。"
         }
       ],
@@ -2064,9 +2064,9 @@
           "question": "清明节又称为下列哪一个名称？",
           "choices": [
             "祭祖节",
+            "冬至",
             "端午节",
-            "中秋节",
-            "冬至"
+            "中秋节"
           ],
           "answerIndex": 0,
           "explanation": "笔记指出清明节又称踏青节、行清节、三月节、祭祖节等。"
@@ -2074,34 +2074,34 @@
         {
           "question": "“慎终追远”指的是什么？",
           "choices": [
-            "庆祝丰收",
-            "追思、悼念先人",
             "祈求财富",
-            "驱邪避灾"
+            "驱邪避灾",
+            "庆祝丰收",
+            "追思、悼念先人"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "笔记明确“慎终追远”是追思、悼念先人。"
         },
         {
           "question": "清明节与其他传统节日相比，主要特点是什么？",
           "choices": [
-            "以团圆为主",
-            "以孝顺、祭祖为主，团圆意义较少",
+            "以竞赛活动为主",
             "以驱邪祈福为主",
-            "以竞赛活动为主"
+            "以团圆为主",
+            "以孝顺、祭祖为主，团圆意义较少"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "笔记明确指出清明节以孝顺、祭祖为主，团圆意义较少。"
         },
         {
           "question": "扫墓时人们通常会做以下哪件事？",
           "choices": [
-            "赛龙舟",
             "携带酒食果品、纸钱祭拜祖先",
-            "吃月饼赏月",
-            "猜灯谜"
+            "猜灯谜",
+            "赛龙舟",
+            "吃月饼赏月"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "笔记描述扫墓时人们携带酒食果品、纸钱等物品祭拜祖先。"
         }
       ],
@@ -2154,21 +2154,21 @@
         {
           "question": "端午节主要纪念的历史人物是谁？",
           "choices": [
-            "屈原",
             "孔子",
+            "屈原",
             "秦始皇",
             "诸葛亮"
           ],
-          "answerIndex": 0,
+          "answerIndex": 1,
           "explanation": "笔记指出端午节主要纪念战国时期楚国诗人屈原。"
         },
         {
           "question": "端午节的意义不包括以下哪一项？",
           "choices": [
-            "纪念爱国诗人屈原",
             "爱国情怀",
+            "同心协力",
             "团圆和谐",
-            "同心协力"
+            "纪念爱国诗人屈原"
           ],
           "answerIndex": 2,
           "explanation": "笔记中端午节的意义列出纪念屈原、爱国情怀、同心协力，未提及团圆和谐。"
@@ -2176,23 +2176,23 @@
         {
           "question": "赛龙舟的起源说法不包括以下哪一项？",
           "choices": [
-            "祭曹娥",
-            "祭屈原",
+            "祭财神",
             "祭水神或龙神",
-            "祭财神"
+            "祭曹娥",
+            "祭屈原"
           ],
-          "answerIndex": 3,
+          "answerIndex": 0,
           "explanation": "笔记列出赛龙舟起源于祭曹娥、祭屈原或祭水神/龙神，未提祭财神。"
         },
         {
           "question": "粽子的主要材料是什么？",
           "choices": [
-            "面粉和肉",
-            "糯米和馅料",
             "米粉和蔬菜",
-            "豆沙和面团"
+            "面粉和肉",
+            "豆沙和面团",
+            "糯米和馅料"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "笔记说明粽子主要材料是糯米、馅料，用粽叶包裹蒸制而成。"
         }
       ],
@@ -2255,32 +2255,32 @@
         {
           "question": "中秋节的核心意义是什么？",
           "choices": [
+            "庆祝丰收",
             "驱邪辟邪",
-            "团圆",
             "纪念历史人物",
-            "庆祝丰收"
+            "团圆"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "笔记明确指出中秋节的意义是团圆。"
         },
         {
           "question": "月饼最初的用途是什么？",
           "choices": [
-            "日常主食",
-            "拜祭月神的供品",
+            "礼品交换用具",
             "军粮",
-            "礼品交换用具"
+            "拜祭月神的供品",
+            "日常主食"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "笔记说明月饼最初是用来拜祭月神的供品。"
         },
         {
           "question": "月饼演变成圆形象征什么？",
           "choices": [
-            "财富",
+            "长寿",
             "团圆美好",
-            "权力",
-            "长寿"
+            "财富",
+            "权力"
           ],
           "answerIndex": 1,
           "explanation": "笔记指出圆形月饼寓意团圆美好，反映家人团聚的愿望。"
@@ -2289,11 +2289,11 @@
           "question": "中秋节最初定在哪个节气？",
           "choices": [
             "春分",
-            "秋分",
             "冬至",
-            "夏至"
+            "夏至",
+            "秋分"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "笔记说明最初“祭月节”节期是在“秋分”这天，后来才调至夏历八月十五。"
         }
       ],
@@ -2361,44 +2361,44 @@
           "question": "冬至的核心意义是什么？",
           "choices": [
             "驱邪",
-            "团圆",
+            "纪念历史人物",
             "丰收",
-            "纪念历史人物"
+            "团圆"
           ],
-          "answerIndex": 1,
+          "answerIndex": 3,
           "explanation": "笔记指出冬至的意义是团圆。"
         },
         {
           "question": "中国北方地区冬至有什么习俗？",
           "choices": [
+            "赛龙舟",
             "吃月饼",
             "吃饺子",
-            "赛龙舟",
             "猜灯谜"
           ],
-          "answerIndex": 1,
+          "answerIndex": 2,
           "explanation": "笔记说明北方地区每年冬至日有吃饺子的习俗。"
         },
         {
           "question": "中国南方地区冬至有什么习俗？",
           "choices": [
-            "祭祖、宴饮",
-            "吃饺子",
             "赛龙舟",
-            "踏青扫墓"
+            "踏青扫墓",
+            "吃饺子",
+            "祭祖、宴饮"
           ],
-          "answerIndex": 0,
+          "answerIndex": 3,
           "explanation": "笔记指出南方地区有冬至祭祖、宴饮的习俗。"
         },
         {
           "question": "古代关于冬至有什么说法？",
           "choices": [
-            "冬至大如年",
             "冬至小如节",
+            "冬至只是普通节气",
             "冬至无节庆意义",
-            "冬至只是普通节气"
+            "冬至大如年"
           ],
-          "answerIndex": 0,
+          "answerIndex": 3,
           "explanation": "笔记引用古代民间讲法“冬至大如年”，被视为冬季大节日。"
         }
       ],
@@ -2449,10 +2449,10 @@
         {
           "question": "“意象”的定义是什么？",
           "choices": [
-            "纯粹的地理名称",
+            "诗人的生平背景",
             "客观物象经过创作主体独特情感活动创造出的艺术形象",
-            "诗歌的字数格式",
-            "诗人的生平背景"
+            "纯粹的地理名称",
+            "诗歌的字数格式"
           ],
           "answerIndex": 1,
           "explanation": "笔记定义意象为客观物象经过创作主体独特的情感活动而创造出来的艺术形象，赋予实物更深层意义。"
@@ -2460,10 +2460,10 @@
         {
           "question": "以下哪个是笔记中给出的意象例子？",
           "choices": [
-            "长安",
-            "明月",
             "黄河",
-            "洛阳"
+            "明月",
+            "洛阳",
+            "长安"
           ],
           "answerIndex": 1,
           "explanation": "笔记举出的意象例子是白鸽、明月。"
@@ -2471,10 +2471,10 @@
         {
           "question": "分析诗歌意象时需要注意什么陷阱？",
           "choices": [
-            "意象一定押韵",
+            "意象必须是颜色",
             "有些物件是地方名称，不应误解为意象",
-            "意象只能是动物",
-            "意象必须是颜色"
+            "意象一定押韵",
+            "意象只能是动物"
           ],
           "answerIndex": 1,
           "explanation": "笔记提醒有些物件是地方名称，不应误解为意象。"
@@ -2482,12 +2482,12 @@
         {
           "question": "“意境”指的是什么？",
           "choices": [
-            "诗歌的字数",
             "由特定艺术形象及其触发的艺术想象所形成的境界",
-            "诗人的朝代",
-            "诗歌的押韵规则"
+            "诗歌的字数",
+            "诗歌的押韵规则",
+            "诗人的朝代"
           ],
-          "answerIndex": 1,
+          "answerIndex": 0,
           "explanation": "笔记定义意境为由特定的艺术形象及其所触发的艺术想象或意象所形成的境界。"
         }
       ],
