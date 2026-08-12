@@ -1,7 +1,8 @@
 // Daily mix (cross-subject due cards + weighted quiz round) and mistakes drill.
 (function () {
   const mode = qs("m") || "mix";
-  initHeader();
+  initHeader(null, mode === "mistakes" ? "mistakes" : "mix");
+  initStudyKeys();
   const content = document.getElementById("content");
 
   function subjectTitle(s) {
@@ -151,7 +152,9 @@
               : `<div class="deck-controls"><button class="btn primary" id="flip-btn" style="width:100%;">Show answer</button></div>`
           }
         `;
-        body.querySelector("#flip-card").addEventListener("click", () => {
+        const cardEl = body.querySelector("#flip-card");
+        cardEl.addEventListener("click", () => {
+          if (cardEl.dataset.swiped) return;
           flipped = !flipped;
           draw();
         });
@@ -161,16 +164,19 @@
             flipped = true;
             draw();
           });
+        function applyRating(r) {
+          SRS.rate(item.s, item.t, item.idx, r);
+          queue.shift();
+          if (r === "again") queue.splice(Math.min(2, queue.length), 0, item);
+          else reviewed++;
+          flipped = false;
+          draw();
+        }
+        if (flipped) {
+          attachSwipe(cardEl, { onRight: () => applyRating("good"), onLeft: () => applyRating("again") });
+        }
         body.querySelectorAll(".rate").forEach((b) => {
-          b.addEventListener("click", () => {
-            const r = b.dataset.r;
-            SRS.rate(item.s, item.t, item.idx, r);
-            queue.shift();
-            if (r === "again") queue.splice(Math.min(2, queue.length), 0, item);
-            else reviewed++;
-            flipped = false;
-            draw();
-          });
+          b.addEventListener("click", () => applyRating(b.dataset.r));
         });
       }
 

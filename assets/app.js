@@ -66,8 +66,136 @@ function stripHtml(html) {
   return div.textContent || "";
 }
 
-function initHeader(activeSubjectId) {
+// ---- swipe gestures (touch/pen): drag a card sideways to rate it ----
+function attachSwipe(el, opts) {
+  const threshold = (opts && opts.threshold) || 60;
+  let startX = null,
+    startY = null,
+    dx = 0,
+    dragging = false;
+  el.style.touchAction = "pan-y";
+  el.addEventListener("pointerdown", (e) => {
+    if (e.pointerType === "mouse") return;
+    startX = e.clientX;
+    startY = e.clientY;
+    dx = 0;
+    dragging = true;
+  });
+  el.addEventListener("pointermove", (e) => {
+    if (!dragging) return;
+    dx = e.clientX - startX;
+    const dy = e.clientY - startY;
+    if (Math.abs(dy) > Math.abs(dx) * 1.5) return;
+    el.style.transform = `translateX(${dx}px) rotate(${dx / 40}deg)`;
+    el.style.transition = "none";
+  });
+  const end = () => {
+    if (!dragging) return;
+    dragging = false;
+    el.style.transform = "";
+    el.style.transition = "";
+    if (Math.abs(dx) >= threshold) {
+      el.dataset.swiped = "1";
+      setTimeout(() => delete el.dataset.swiped, 400);
+      if (dx > 0 && opts.onRight) opts.onRight();
+      else if (dx < 0 && opts.onLeft) opts.onLeft();
+    }
+    dx = 0;
+  };
+  el.addEventListener("pointerup", end);
+  el.addEventListener("pointercancel", () => {
+    dragging = false;
+    dx = 0;
+    el.style.transform = "";
+    el.style.transition = "";
+  });
+}
+
+// ---- keyboard shortcuts for study pages ----
+// space/enter: flip card or advance; 1-4: rate card or pick quiz choice
+function initStudyKeys() {
+  if (window.__studyKeys) return;
+  window.__studyKeys = true;
+  document.addEventListener("keydown", (e) => {
+    const tag = e.target && e.target.tagName;
+    if (tag === "INPUT" || tag === "TEXTAREA" || tag === "SELECT") return;
+    if (e.key >= "1" && e.key <= "4") {
+      const n = Number(e.key) - 1;
+      const rates = document.querySelectorAll(".rate");
+      if (rates.length) {
+        if (rates[n]) rates[n].click();
+        e.preventDefault();
+        return;
+      }
+      const choices = document.querySelectorAll(".choice:not(:disabled)");
+      if (choices.length) {
+        if (choices[n]) choices[n].click();
+        e.preventDefault();
+      }
+      return;
+    }
+    if (e.key === " " || e.key === "Enter") {
+      const flipBtn = document.getElementById("flip-btn");
+      if (flipBtn) {
+        flipBtn.click();
+        e.preventDefault();
+        return;
+      }
+      const nextQ = document.getElementById("next-q");
+      if (nextQ && nextQ.style.display !== "none") {
+        nextQ.click();
+        e.preventDefault();
+        return;
+      }
+      const card = document.getElementById("flip-card");
+      if (card) {
+        card.click();
+        e.preventDefault();
+      }
+    }
+  });
+}
+
+// ---- bottom tab bar (mobile) ----
+function initTabbar(active) {
+  if (document.querySelector(".tabbar")) return;
+  const last = typeof SRS !== "undefined" ? SRS.getLast() : null;
+  const notesHref = last ? `subject.html?s=${last.s}&t=${encodeURIComponent(last.t)}` : "subject.html?s=physics";
+  const mistakes = typeof SRS !== "undefined" ? SRS.mistakeCount() : 0;
+  const bar = document.createElement("nav");
+  bar.className = "tabbar";
+  bar.innerHTML = `
+    <a href="index.html" class="${active === "home" ? "active" : ""}"><span>🏠</span>Home</a>
+    <a href="${notesHref}" class="${active === "notes" ? "active" : ""}"><span>📖</span>Notes</a>
+    <a href="review.html" class="${active === "mix" ? "active" : ""}"><span>🔁</span>Mix</a>
+    <a href="review.html?m=mistakes" class="${active === "mistakes" ? "active" : ""}"><span>🎯</span>Mistakes${mistakes ? `<b class="tab-badge">${mistakes}</b>` : ""}</a>
+  `;
+  document.body.appendChild(bar);
+}
+
+// ---- global search over the prebuilt index ----
+let __searchIndex = null;
+function loadSearchIndex() {
+  if (!__searchIndex) {
+    __searchIndex = fetch("data/search-index.json")
+      .then((r) => (r.ok ? r.json() : []))
+      .catch(() => []);
+  }
+  return __searchIndex;
+}
+
+function searchSnippet(body, pos, qlen) {
+  const start = Math.max(0, pos - 40);
+  const end = Math.min(body.length, pos + qlen + 50);
+  const before = escapeHtml((start > 0 ? "…" : "") + body.slice(start, pos));
+  const match = escapeHtml(body.slice(pos, pos + qlen));
+  const after = escapeHtml(body.slice(pos + qlen, end) + (end < body.length ? "…" : ""));
+  return `${before}<mark>${match}</mark>${after}`;
+}
+
+function initHeader(activeSubjectId, activeTab) {
   if (activeSubjectId) applySubjectTheme(activeSubjectId);
+  initTabbar(activeTab);
   const header = document.querySelector("header.site-header");
   if (!header) return;
   const wrap = document.createElement("div");
@@ -80,7 +208,6 @@ function initHeader(activeSubjectId) {
 
   const input = wrap.querySelector("#global-search");
   const results = wrap.querySelector("#search-results");
-  let dataPromise = null;
   let debounceTimer = null;
 
   input.addEventListener("input", () => {
@@ -92,32 +219,34 @@ function initHeader(activeSubjectId) {
       return;
     }
     debounceTimer = setTimeout(async () => {
-      if (!dataPromise) dataPromise = loadAllSubjectData();
-      const all = await dataPromise;
-      const matches = [];
-      for (const s of SUBJECTS) {
-        const data = all[s.id];
-        if (!data) continue;
-        for (const topic of data.topics) {
-          const haystack = (
-            topic.title + " " + stripHtml(topic.notesHtml || "")
-          ).toLowerCase();
-          if (haystack.includes(query)) {
-            matches.push({ subject: s, topic });
-          }
-          if (matches.length >= 25) break;
+      const index = await loadSearchIndex();
+      const titleHits = [];
+      const bodyHits = [];
+      for (const entry of index) {
+        const subject = SUBJECTS.find((s) => s.id === entry.s);
+        if (!subject) continue;
+        const titlePos = entry.title.toLowerCase().indexOf(query);
+        if (titlePos >= 0) {
+          titleHits.push({ entry, subject, snippet: null });
+        } else {
+          const bodyPos = entry.body.toLowerCase().indexOf(query);
+          if (bodyPos >= 0) bodyHits.push({ entry, subject, snippet: searchSnippet(entry.body, bodyPos, query.length) });
         }
-        if (matches.length >= 25) break;
+        if (titleHits.length >= 25) break;
       }
+      const matches = titleHits.concat(bodyHits).slice(0, 25);
       if (!matches.length) {
         results.innerHTML = `<a href="#" style="cursor:default">No matches</a>`;
       } else {
         results.innerHTML = matches
           .map(
             (m) => `
-          <a href="subject.html?s=${m.subject.id}&t=${encodeURIComponent(m.topic.id)}">
+          <a href="subject.html?s=${m.subject.id}&t=${encodeURIComponent(m.entry.t)}">
             <span class="result-icon">${m.subject.icon}</span>
-            <span>${escapeHtml(m.topic.title)}<small>${escapeHtml(m.subject.title)}</small></span>
+            <span>${escapeHtml(m.entry.title)}
+              ${m.snippet ? `<small class="result-snippet">${m.snippet}</small>` : ""}
+              <small>${escapeHtml(m.subject.title)}</small>
+            </span>
           </a>`
           )
           .join("");

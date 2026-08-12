@@ -98,7 +98,9 @@
             : `<div class="deck-controls"><button class="btn primary" id="flip-btn" style="width:100%;">Show answer</button></div>`
         }
       `;
-      panel.querySelector("#flip-card").addEventListener("click", () => {
+      const cardEl = panel.querySelector("#flip-card");
+      cardEl.addEventListener("click", () => {
+        if (cardEl.dataset.swiped) return;
         flipped = !flipped;
         draw();
       });
@@ -108,16 +110,19 @@
           flipped = true;
           draw();
         });
+      function applyRating(r) {
+        SRS.rate(subjectId, topic.id, idx, r);
+        queue.shift();
+        if (r === "again") queue.splice(Math.min(2, queue.length), 0, idx);
+        else done++;
+        flipped = false;
+        draw();
+      }
+      if (flipped) {
+        attachSwipe(cardEl, { onRight: () => applyRating("good"), onLeft: () => applyRating("again") });
+      }
       panel.querySelectorAll(".rate").forEach((b) => {
-        b.addEventListener("click", () => {
-          const r = b.dataset.r;
-          SRS.rate(subjectId, topic.id, idx, r);
-          queue.shift();
-          if (r === "again") queue.splice(Math.min(2, queue.length), 0, idx);
-          else done++;
-          flipped = false;
-          draw();
-        });
+        b.addEventListener("click", () => applyRating(b.dataset.r));
       });
     }
 
@@ -264,7 +269,8 @@
     const subjectId = qs("s") || "physics";
     const mode = qs("m") || "flashcards";
     const subjectMeta = SUBJECTS.find((s) => s.id === subjectId) || SUBJECTS[0];
-    initHeader(subjectId);
+    initHeader(subjectId, "notes");
+    initStudyKeys();
 
     const content = document.getElementById("content");
     let data;

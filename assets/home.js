@@ -1,6 +1,6 @@
 // Homepage dashboard: due cards, streak, mistakes, resume, weak topics, subject grid.
 (function () {
-  initHeader();
+  initHeader(null, "home");
 
   const dash = document.getElementById("dash");
   const grid = document.getElementById("subject-grid");

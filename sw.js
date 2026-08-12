@@ -1,5 +1,5 @@
 // Stale-while-revalidate service worker: instant loads from cache, refresh in background.
-const CACHE = "sg-cache-v1";
+const CACHE = "sg-cache-v2";
 const SHELL = [
   "./",
   "index.html",
@@ -15,6 +15,10 @@ const SHELL = [
   "assets/practice.js",
   "assets/review.js",
   "assets/logo.svg",
+  "assets/icon-192.png",
+  "assets/icon-512.png",
+  "assets/apple-touch-icon.png",
+  "data/search-index.json",
   "data/chinese.json",
   "data/chemistry.json",
   "data/physics.json",
