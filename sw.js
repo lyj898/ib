@@ -1,5 +1,5 @@
 // Stale-while-revalidate service worker: instant loads from cache, refresh in background.
-const CACHE = "sg-cache-v8";
+const CACHE = "sg-cache-v9";
 const SHELL = [
   "./",
   "index.html",

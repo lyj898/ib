@@ -1,64 +1,64 @@
-// Homepage dashboard: due cards, streak, mistakes, resume, weak topics, subject grid.
+// Homepage: streak, the four study modes (with what-is-this descriptions), subject grid.
 (function () {
   initHeader(null, "home");
 
   const dash = document.getElementById("dash");
   const grid = document.getElementById("subject-grid");
 
-  const { counts, total } = SRS.dueCountBySubject();
+  const { counts } = SRS.dueCountBySubject();
   const streak = SRS.streak();
-  const mistakes = SRS.mistakeCount();
-  const last = SRS.getLast();
-  const { tracked } = SRS.stats();
-  const isNew = !total && !streak && !last && !tracked && !mistakes;
 
-  if (isNew) {
-    dash.innerHTML = `
-      <div class="dash-actions">
-        <a class="btn primary" href="path.html">🧭 Start the Study Path</a>
-        <a class="btn" href="review.html">▶ Try a daily mix</a>
-        <a class="btn" href="exam.html">📝 Exam mode</a>
-        <a class="btn" href="assess.html">🎚️ Adaptive test</a>
-      </div>
-      <p class="progress-text">New here? The Study Path walks you through each subject: read, practice, checkpoint, retrain weak spots, then sit the exam. Or explore any subject freely below.</p>
-    `;
-  } else {
-    const stats = [];
-    stats.push(
-      `<a class="stat-card" href="review.html"><span class="stat-big">${total}</span><span class="stat-label">card${total === 1 ? "" : "s"} due today</span></a>`
-    );
-    const act = SRS.recentActivity(14);
-    const strip = `<span class="activity-strip">${act
-      .map((a) => `<i class="${a.count ? (a.count >= 15 ? "l3" : a.count >= 5 ? "l2" : "l1") : ""}" title="${a.date}: ${a.count} reviews"></i>`)
-      .join("")}</span>`;
-    stats.push(
-      `<div class="stat-card"><span class="stat-big">${streak} 🔥</span><span class="stat-label">day streak${SRS.studiedToday() ? "" : " — study today to keep it"}</span>${strip}</div>`
-    );
-    if (mistakes) {
-      stats.push(
-        `<a class="stat-card" href="review.html?m=mistakes"><span class="stat-big">${mistakes}</span><span class="stat-label">mistake${mistakes === 1 ? "" : "s"} to clear</span></a>`
-      );
-    }
-    stats.push(
-      `<div class="stat-card"><span class="stat-big">${tracked}</span><span class="stat-label">cards in rotation</span></div>`
-    );
+  const MODES = [
+    {
+      href: "path.html",
+      icon: "🧭",
+      title: "Study Path",
+      desc: "The guided journey: read the notes, practice, take a checkpoint, retrain your weak topics, then sit the exam.",
+    },
+    {
+      href: "review.html",
+      icon: "🔁",
+      title: "Daily Mix",
+      desc: "Your daily 10 minutes: flashcards due today across all subjects, plus a short quiz aimed at your mistakes and weak spots.",
+    },
+    {
+      href: "assess.html",
+      icon: "🎚️",
+      title: "Adaptive Test",
+      desc: "15 questions that get harder as you get them right and easier when you slip — ends with a map of where you're weak.",
+    },
+    {
+      href: "exam.html",
+      icon: "📝",
+      title: "Exam Mode",
+      desc: "A timed mock paper with no feedback until you submit — the dress rehearsal that shows where you stand.",
+    },
+  ];
 
-    dash.innerHTML = `
-      <div class="stat-row">${stats.join("")}</div>
-      <div class="dash-actions">
-        <a class="btn primary" href="path.html">🧭 Study Path</a>
-        <a class="btn" href="review.html">▶ Daily mix</a>
-        <a class="btn" href="exam.html">📝 Exam mode</a>
-        <a class="btn" href="assess.html">🎚️ Adaptive test</a>
-        ${
-          last
-            ? `<a class="btn" href="subject.html?s=${last.s}&t=${encodeURIComponent(last.t)}">Continue: ${escapeHtml(last.title)}</a>`
-            : ""
-        }
-      </div>
-      <div id="weak-area"></div>
-    `;
-  }
+  const streakCard = streak > 0 || SRS.studiedToday()
+    ? (() => {
+        const act = SRS.recentActivity(14);
+        const strip = `<span class="activity-strip">${act
+          .map((a) => `<i class="${a.count ? (a.count >= 15 ? "l3" : a.count >= 5 ? "l2" : "l1") : ""}" title="${a.date}: ${a.count} reviews"></i>`)
+          .join("")}</span>`;
+        return `<div class="streak-bar"><span class="stat-big">${streak} 🔥</span><span class="stat-label">day streak${SRS.studiedToday() ? "" : " — study today to keep it"}</span>${strip}</div>`;
+      })()
+    : "";
+
+  dash.innerHTML = `
+    ${streakCard}
+    <div class="mode-grid">
+      ${MODES.map(
+        (m) => `
+      <a class="mode-card" href="${m.href}">
+        <span class="mode-icon">${m.icon}</span>
+        <h3>${m.title}</h3>
+        <p>${m.desc}</p>
+      </a>`
+      ).join("")}
+    </div>
+    <div id="weak-area"></div>
+  `;
 
   grid.innerHTML = SUBJECTS.map((s) => {
     const due = counts[s.id] || 0;
@@ -74,7 +74,7 @@
 
   // Weak topics need titles, so resolve them after subject data loads.
   const weak = SRS.weakTopics(3);
-  if (weak.length && !isNew) {
+  if (weak.length) {
     loadAllSubjectData().then((all) => {
       const chips = weak
         .map((w) => {
