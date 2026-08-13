@@ -28,6 +28,7 @@
     const prevTopic = data.topics[topicIdx - 1];
     const nextTopic = data.topics[topicIdx + 1];
     content.innerHTML = `
+      <p style="margin:0 0 0.6rem;"><a href="hub.html?s=${subjectId}">&larr; ${escapeHtml(subjectMeta.title)} hub</a></p>
       <div class="subject-heading"><span class="subject-heading-icon">${subjectMeta.icon}</span><h1>${escapeHtml(subjectMeta.title)}</h1></div>
       <div class="layout" id="layout">
         <nav class="sidebar" id="topic-nav"></nav>

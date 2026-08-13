@@ -41,7 +41,7 @@
         Subject:
         <select id="assess-subject" style="margin-left:0.5rem;padding:0.35rem 0.5rem;border-radius:8px;border:1px solid var(--border);background:var(--bg-elevated);color:var(--text);">
           <option value="all">All subjects</option>
-          ${SUBJECTS.map((s) => `<option value="${s.id}">${s.title}</option>`).join("")}
+          ${SUBJECTS.map((s) => `<option value="${s.id}" ${qs("s") === s.id ? "selected" : ""}>${s.title}</option>`).join("")}
         </select>
       </label>
       <div class="dash-actions" style="margin-top:1rem;">
