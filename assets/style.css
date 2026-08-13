@@ -737,6 +737,100 @@ kbd {
 .activity-strip i.l2 { background: color-mix(in srgb, var(--accent) 60%, var(--bg-soft)); border-color: transparent; }
 .activity-strip i.l3 { background: var(--accent); border-color: transparent; }
 
+/* ---- study path ---- */
+.continue-banner {
+  display: block;
+  background: linear-gradient(135deg, var(--accent), color-mix(in srgb, var(--accent) 65%, #a855f7));
+  color: var(--accent-text);
+  border-radius: var(--radius);
+  padding: 1.1rem 1.4rem;
+  text-decoration: none;
+  margin-bottom: 1.5rem;
+  box-shadow: var(--shadow);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.continue-banner:hover { transform: translateY(-2px); box-shadow: var(--shadow-hover); }
+.continue-kicker {
+  display: block;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  opacity: 0.85;
+  margin-bottom: 0.15rem;
+}
+.continue-banner strong { display: block; font-family: var(--font-display); font-size: 1.15rem; }
+.continue-banner small { display: block; opacity: 0.85; margin-top: 0.15rem; }
+
+.unit-card {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.1rem 1.3rem;
+  margin-bottom: 1rem;
+  box-shadow: var(--shadow);
+}
+.unit-card.status-verified { border-left-color: var(--good); }
+.unit-card.status-needs-work { border-left-color: var(--bad); }
+.unit-card.status-in-progress { border-left-color: var(--accent); }
+.unit-head { display: flex; justify-content: space-between; align-items: baseline; gap: 0.8rem; flex-wrap: wrap; }
+.unit-head h3 { margin: 0 0 0.3rem; font-size: 1.15rem; }
+.unit-status { font-size: 0.8rem; color: var(--text-muted); white-space: nowrap; }
+
+.path-topics { list-style: none; padding: 0; margin: 0.8rem 0 0; }
+.path-topic {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.8rem;
+  padding: 0.4rem 0;
+  border-bottom: 1px solid var(--border);
+  font-size: 0.9rem;
+}
+.path-topic:last-child { border-bottom: none; }
+.path-topic.weak .path-topic-title { color: var(--bad); font-weight: 500; }
+.path-topic-steps { display: flex; gap: 0.4rem; flex-shrink: 0; }
+.path-topic-steps a {
+  text-decoration: none;
+  font-size: 0.78rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+}
+.path-topic-steps a:hover { border-color: var(--accent); color: var(--text); }
+.path-topic-steps a.done {
+  border-color: color-mix(in srgb, var(--good) 50%, var(--border));
+  color: var(--good);
+  background: color-mix(in srgb, var(--good) 8%, transparent);
+}
+
+.remediation {
+  margin-top: 0.9rem;
+  padding: 0.9rem 1rem;
+  background: color-mix(in srgb, var(--bad) 7%, transparent);
+  border: 1px solid color-mix(in srgb, var(--bad) 30%, var(--border));
+  border-radius: var(--radius-sm);
+  font-size: 0.9rem;
+}
+
+.final-exam-block {
+  margin-top: 2rem;
+  padding: 1.3rem 1.4rem;
+  background: var(--bg-elevated);
+  border: 1px dashed var(--border);
+  border-radius: var(--radius);
+}
+.final-exam-block.ready { border: 1px solid var(--good); }
+.final-exam-block h2 { margin: 0 0 0.4rem; }
+
+.learn-mark.done {
+  border-color: color-mix(in srgb, var(--good) 55%, var(--border));
+  color: var(--good);
+  background: color-mix(in srgb, var(--good) 8%, transparent);
+}
+
 /* ---- adaptive assessment ---- */
 .level-chip {
   display: inline-block;

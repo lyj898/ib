@@ -15,11 +15,12 @@
   if (isNew) {
     dash.innerHTML = `
       <div class="dash-actions">
-        <a class="btn primary" href="review.html">▶ Try a daily mix</a>
+        <a class="btn primary" href="path.html">🧭 Start the Study Path</a>
+        <a class="btn" href="review.html">▶ Try a daily mix</a>
         <a class="btn" href="exam.html">📝 Exam mode</a>
         <a class="btn" href="assess.html">🎚️ Adaptive test</a>
       </div>
-      <p class="progress-text">New here? Pick a subject below — cards you review get scheduled and resurface right before you'd forget them.</p>
+      <p class="progress-text">New here? The Study Path walks you through each subject: read, practice, checkpoint, retrain weak spots, then sit the exam. Or explore any subject freely below.</p>
     `;
   } else {
     const stats = [];
@@ -45,7 +46,8 @@
     dash.innerHTML = `
       <div class="stat-row">${stats.join("")}</div>
       <div class="dash-actions">
-        <a class="btn primary" href="review.html">▶ Daily mix</a>
+        <a class="btn primary" href="path.html">🧭 Study Path</a>
+        <a class="btn" href="review.html">▶ Daily mix</a>
         <a class="btn" href="exam.html">📝 Exam mode</a>
         <a class="btn" href="assess.html">🎚️ Adaptive test</a>
         ${

@@ -63,6 +63,7 @@
     }
 
     function summary() {
+      if (done > 0) SRS.markPracticed(subjectId, topic.id);
       const s = SRS.splitTopic(subjectId, topic.id, cards.length);
       const inRotation = cards.length - s.fresh.length;
       panel.innerHTML = `
@@ -164,6 +165,7 @@
 
     function draw() {
       if (idx >= order.length) {
+        SRS.markPracticed(subjectId, topic.id);
         panel.innerHTML = `
           <div class="score-summary">
             <div class="big">${score} / ${order.length}</div>

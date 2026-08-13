@@ -35,7 +35,7 @@
         Subject:
         <select id="exam-subject" style="margin-left:0.5rem;padding:0.35rem 0.5rem;border-radius:8px;border:1px solid var(--border);background:var(--bg-elevated);color:var(--text);">
           <option value="all">All subjects</option>
-          ${SUBJECTS.map((s) => `<option value="${s.id}">${s.title}</option>`).join("")}
+          ${SUBJECTS.map((s) => `<option value="${s.id}" ${qs("s") === s.id ? "selected" : ""}>${s.title}</option>`).join("")}
         </select>
       </label>
       <div class="preset-row">
@@ -247,6 +247,7 @@
       const saRubricTotal = sas.reduce((n, sa) => n + (sa.item.rubric || []).length, 0);
       const entry = {
         date: SRS.todayStr(),
+        s: subjectId,
         subjectTitle,
         preset: preset.label,
         mcqScore: score,

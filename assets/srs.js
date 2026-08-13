@@ -222,6 +222,40 @@ const SRS = (() => {
     return Object.keys(load("sg2:mistakes", {})).length;
   }
 
+  // ---- study path progress ----
+  function pathState() {
+    return load("sg2:path", { learned: {}, practiced: {} });
+  }
+  function markLearned(s, t) {
+    const p = pathState();
+    p.learned[`${s}:${t}`] = Date.now();
+    save("sg2:path", p);
+  }
+  function unmarkLearned(s, t) {
+    const p = pathState();
+    delete p.learned[`${s}:${t}`];
+    save("sg2:path", p);
+  }
+  function markPracticed(s, t) {
+    const p = pathState();
+    p.practiced[`${s}:${t}`] = Date.now();
+    save("sg2:path", p);
+  }
+  function isLearned(s, t) {
+    return !!pathState().learned[`${s}:${t}`];
+  }
+  function isPracticed(s, t) {
+    return !!pathState().practiced[`${s}:${t}`];
+  }
+  function getCheckpoint(s, unitId) {
+    return load("sg2:checkpoints", {})[`${s}:${unitId}`] || null;
+  }
+  function setCheckpoint(s, unitId, rec) {
+    const c = load("sg2:checkpoints", {});
+    c[`${s}:${unitId}`] = rec;
+    save("sg2:checkpoints", c);
+  }
+
   // ---- resume where you left off ----
   function setLast(s, t, title, subjectTitle) {
     save("sg2:last", { s, t, title, subjectTitle, when: Date.now() });
@@ -278,5 +312,12 @@ const SRS = (() => {
     mistakeCount,
     setLast,
     getLast,
+    markLearned,
+    unmarkLearned,
+    markPracticed,
+    isLearned,
+    isPracticed,
+    getCheckpoint,
+    setCheckpoint,
   };
 })();

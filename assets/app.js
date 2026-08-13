@@ -208,6 +208,7 @@ function initTabbar(active) {
   bar.className = "tabbar";
   bar.innerHTML = `
     <a href="index.html" class="${active === "home" ? "active" : ""}"><span>🏠</span>Home</a>
+    <a href="path.html" class="${active === "path" ? "active" : ""}"><span>🧭</span>Path</a>
     <a href="${notesHref}" class="${active === "notes" ? "active" : ""}"><span>📖</span>Notes</a>
     <a href="review.html" class="${active === "mix" ? "active" : ""}"><span>🔁</span>Mix</a>
     <a href="review.html?m=mistakes" class="${active === "mistakes" ? "active" : ""}"><span>🎯</span>Mistakes${mistakes ? `<b class="tab-badge">${mistakes}</b>` : ""}</a>

@@ -38,6 +38,7 @@
               <a class="btn primary" href="practice.html?s=${subjectId}&t=${encodeURIComponent(topic.id)}&m=flashcards">Flashcards</a>
               <a class="btn" href="practice.html?s=${subjectId}&t=${encodeURIComponent(topic.id)}&m=quiz">Quiz</a>
               <a class="btn" href="practice.html?s=${subjectId}&t=${encodeURIComponent(topic.id)}&m=short">Short Answer</a>
+              <button class="btn learn-mark ${SRS.isLearned(subjectId, topic.id) ? "done" : ""}" id="learn-mark">${SRS.isLearned(subjectId, topic.id) ? "✓ Learned" : "Mark as learned"}</button>
             </div>
             <div class="notes-body" id="notes-body">${topic.notesHtml || "<p><em>No notes yet.</em></p>"}</div>
             <div class="topic-nav-row">
@@ -81,6 +82,14 @@
       );
       heads.forEach((h) => io.observe(h));
     }
+
+    const learnBtn = document.getElementById("learn-mark");
+    if (learnBtn)
+      learnBtn.addEventListener("click", () => {
+        if (SRS.isLearned(subjectId, topic.id)) SRS.unmarkLearned(subjectId, topic.id);
+        else SRS.markLearned(subjectId, topic.id);
+        render();
+      });
 
     content.querySelectorAll(".topic-step").forEach((a) => {
       a.addEventListener("click", (e) => {

@@ -8,6 +8,11 @@
   const SESSION_LENGTH = 15;
   const LEVEL_NAMES = { 1: "Easy", 2: "Medium", 3: "Hard" };
 
+  // unit checkpoint mode: assess.html?s=<subject>&unit=<unitId>&topics=a,b,c[&mini=1]
+  const unitId = qs("unit");
+  const topicFilter = qs("topics") ? qs("topics").split(",").filter(Boolean) : null;
+  const isMini = qs("mini") === "1";
+
   function loadAbility() {
     try {
       return JSON.parse(localStorage.getItem("sg2:ability") || "{}");
@@ -68,13 +73,17 @@
       const d = all[sid];
       if (!d || !d.topics) continue;
       for (const topic of d.topics) {
+        if (topicFilter && !topicFilter.includes(topic.id)) continue;
         (topic.quiz || []).forEach((q, i) =>
           pool.push({ s: sid, t: topic.id, idx: i, topic, q, d: q.d || 2, used: false })
         );
       }
     }
-    if (pool.length < SESSION_LENGTH) {
-      content.innerHTML = `<p class="empty-state">Not enough questions for this subject.</p>`;
+    const sessionLength = topicFilter
+      ? Math.min(isMini ? 8 : 12, Math.max(6, topicFilter.length * 2), pool.length)
+      : SESSION_LENGTH;
+    if (pool.length < sessionLength || !pool.length) {
+      content.innerHTML = `<p class="empty-state">Not enough questions for this selection.</p>`;
       return;
     }
 
@@ -121,17 +130,17 @@
     }
 
     function draw() {
-      if (qNum >= SESSION_LENGTH) return results();
+      if (qNum >= sessionLength) return results();
       const item = pickNext();
       if (!item) return results();
       item.used = true;
       const key = `${item.s}:${item.t}`;
       sessionStats[key] = sessionStats[key] || { right: 0, wrong: 0, title: item.topic.title, s: item.s, t: item.t };
 
-      const pct = Math.round((qNum / SESSION_LENGTH) * 100);
+      const pct = Math.round((qNum / sessionLength) * 100);
       content.innerHTML = `
         <div class="progress-bar"><div style="width:${pct}%"></div></div>
-        <div class="progress-text">Question ${qNum + 1} of ${SESSION_LENGTH} ${levelChip()}</div>
+        <div class="progress-text">${unitId ? (isMini ? "Mini-check" : "Checkpoint") : "Question"} ${qNum + 1} of ${sessionLength} ${levelChip()}</div>
         <p class="card-source">${escapeHtml(subjectTitleOf(item.s))} · ${escapeHtml(item.topic.title)}</p>
         <div class="quiz-question">
           <h3>${escapeHtml(item.q.question)}</h3>
@@ -187,6 +196,33 @@
       saveAbility(ab);
 
       const score = answered.filter((x) => x.correct).length;
+
+      // record unit checkpoint result (merging with a previous record on mini-checks)
+      if (unitId) {
+        const prev = SRS.getCheckpoint(subjectId, unitId);
+        const testedWeak = [];
+        const testedOk = [];
+        Object.values(sessionStats).forEach((st) => {
+          const n = st.right + st.wrong;
+          if (!n) return;
+          (st.right / n < 0.7 ? testedWeak : testedOk).push(st.t);
+        });
+        let weak;
+        if (isMini && prev) {
+          weak = (prev.weak || []).filter((t) => !testedOk.includes(t));
+          testedWeak.forEach((t) => {
+            if (!weak.includes(t)) weak.push(t);
+          });
+        } else {
+          weak = testedWeak;
+        }
+        SRS.setCheckpoint(subjectId, unitId, {
+          score: isMini && prev ? prev.score : score,
+          total: isMini && prev ? prev.total : answered.length,
+          weak,
+          when: SRS.todayStr(),
+        });
+      }
       const rows = Object.values(sessionStats)
         .filter((st) => st.right + st.wrong > 0)
         .sort((x, y) => x.right / (x.right + x.wrong) - y.right / (y.right + y.wrong));
@@ -230,7 +266,7 @@
             : ""
         }
         <div style="display:flex;gap:0.6rem;flex-wrap:wrap;margin-top:1.5rem;">
-          <a class="btn primary" href="assess.html">New assessment</a>
+          ${unitId ? `<a class="btn primary" href="path.html?s=${subjectId}">Back to study path</a>` : `<a class="btn primary" href="assess.html">New assessment</a>`}
           <a class="btn" href="index.html">Back home</a>
         </div>
       `;
@@ -241,5 +277,7 @@
     draw();
   }
 
-  setup();
+  // checkpoint links start immediately; plain visits get the setup screen
+  if (topicFilter && qs("s")) start(qs("s"));
+  else setup();
 })();

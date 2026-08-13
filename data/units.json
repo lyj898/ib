@@ -1,0 +1,46 @@
+{
+  "chinese": [
+    { "id": "writing-formats", "title": "写作手法与文体格式", "topicIds": ["writing-techniques-figures-of-speech", "connective-words-guanlianci", "writing-technique-format", "speech-script-yanjianggao", "blog-boke", "diary-riji", "personal-letter-shuxin", "email-youjian"] },
+    { "id": "vocab-lessons", "title": "词语复习（第1-13课）", "topicIds": ["lesson-1-vocab-and-essay", "lesson-2-vocab-and-essay", "lesson-3-vocab-and-essay", "lesson-4-vocab-and-essay", "lesson-5-vocab", "lesson-6-vocab", "lesson-7-vocab", "lesson-8-vocab", "lesson-13-vocab-idioms"] },
+    { "id": "festivals-poetry", "title": "节日与诗歌", "topicIds": ["festival-lunar-new-year", "festival-qingming", "festival-duanwu", "festival-zhongqiu", "festival-dongzhi", "poetry-analysis-tang-song"] }
+  ],
+  "chemistry": [
+    { "id": "periodic-trends", "title": "Periodic Table & Trends", "topicIds": ["periodic-table", "atomic-and-ionic-radii", "melting-boiling-points", "first-ionization-energy", "reactivity-trend"] },
+    { "id": "metals-redox", "title": "Metals, Reactivity & Redox", "topicIds": ["metals-and-alloys", "reactivity-series", "redox-reactions", "oxidation-state", "reducing-and-oxidising-agents"] },
+    { "id": "electrolysis-cells", "title": "Electrolysis & Simple Cells", "topicIds": ["electrolysis-basics", "electrolysis-of-aqueous-solutions", "applications-of-electrolysis", "simple-cells"] },
+    { "id": "rates-energy", "title": "Rates of Reaction & Energy", "topicIds": ["speed-of-reaction", "catalysts-and-enzymes", "exothermic-and-endothermic-reactions", "heat-changes-in-a-reaction", "activation-energy-and-energy-profile-diagrams", "combustion-of-fuels"] },
+    { "id": "organic", "title": "Organic Chemistry", "topicIds": ["organic-chemistry-introduction", "competing-uses-of-petroleum", "the-homologous-series", "naming-organic-compounds", "alkanes", "alkenes", "alcohols", "carboxylic-acids", "esters", "macromolecules-and-polymerisation"] }
+  ],
+  "physics": [
+    { "id": "pressure-light", "title": "Pressure & Light", "topicIds": ["pressure", "light-reflection", "light-refraction"] },
+    { "id": "waves-sound", "title": "Waves & Sound", "topicIds": ["electromagnetic-waves", "general-wave-properties", "sound"] },
+    { "id": "electricity-basics", "title": "Static & Current Electricity", "topicIds": ["static-electricity", "current-electricity", "electromotive-force", "potential-difference", "resistance", "ohms-law", "resistivity"] },
+    { "id": "circuits-practical", "title": "Circuits & Practical Electricity", "topicIds": ["dc-circuits-series-parallel", "potential-dividers", "input-transducers", "practical-electricity-uses", "measuring-electrical-energy", "sources-of-electrical-energy", "dangers-of-electricity", "safety-features-home-circuitries"] },
+    { "id": "magnetism", "title": "Magnetism", "topicIds": ["properties-of-magnets", "magnetic-induction", "magnetic-fields", "temporary-permanent-magnets"] },
+    { "id": "electromagnetism", "title": "Electromagnetism", "topicIds": ["magnetic-effect-of-current", "magnetic-field-straight-wire", "magnetic-field-flat-coil", "magnetic-field-solenoid", "circuit-breakers", "motor-effect-and-flemings-left-hand-rule", "turning-effect-on-current-carrying-coil"] },
+    { "id": "induction-applications", "title": "Induction, Generators & Transformers", "topicIds": ["dc-motor", "electromagnetic-induction", "straight-conductor-and-flemings-right-hand-rule", "alternating-current-generator", "transformers", "cathode-ray-oscilloscopes"] }
+  ],
+  "geography": [
+    { "id": "weather-climate", "title": "Weather & Climate", "topicIds": ["atmospheric-system", "temperature", "relative-humidity", "precipitation", "pressure", "winds", "possibilities-opportunities-and-risks", "el-nino-and-la-nina"] },
+    { "id": "climate-change", "title": "Climate Change", "topicIds": ["what-is-climate-change", "causes-of-climate-change", "impacts-of-climate-change", "responses-to-climate-change", "mitigation-and-adaptation-examples", "kyoto-protocol", "paris-agreement", "national-responses-singapore"] },
+    { "id": "rivers-processes", "title": "Rivers: Processes", "topicIds": ["hydrological-cycle", "water-transfer-and-storage-processes", "drainage-basin-and-river-system", "drainage-patterns", "river-processes-energy-velocity-volume", "river-erosion-processes", "river-transportation-processes", "river-deposition-and-course-characteristics"] },
+    { "id": "rivers-coasts-landforms", "title": "Rivers & Coasts: Landforms", "topicIds": ["river-landforms-floodplains-levees-deltas", "storm-hydrograph", "coasts-definition-of-terms", "waves-definitions-and-types", "wave-erosion-transportation-deposition", "coastal-features-headlands-and-bays", "wave-refraction-headlands-and-bays", "wave-cut-platform-caves-and-notches"] },
+    { "id": "protection-management", "title": "Protection & Management", "topicIds": ["river-and-coastal-protection-measures-overview", "soft-coastal-protection-measures", "hard-coastal-protection-measures", "soft-river-protection-measures", "hard-river-protection-measures", "evaluation-of-protection-measures", "quick-summary-rivers-and-coasts"] },
+    { "id": "globalisation-drivers", "title": "Globalisation: Drivers & TNCs", "topicIds": ["globalisation-and-development", "driving-forces-and-aspects-of-globalisation", "role-of-transport-and-technology-in-globalisation", "role-of-transnational-corporations-in-globalisation", "tncs-and-globalisation", "global-industrial-shift"] },
+    { "id": "globalisation-resources", "title": "Globalisation: Resources", "topicIds": ["impact-of-globalisation-on-resources", "food-and-globalisation", "managing-food-shortage", "water-and-globalisation", "managing-water-shortage", "energy-and-globalisation", "managing-energy-shortage", "challenges-of-globalisation", "summary-of-globalisation"] }
+  ],
+  "history": [
+    { "id": "cold-war-origins", "title": "Origins of the Cold War", "topicIds": ["cold-war-definition-and-outbreak", "yalta-and-potsdam-conferences", "mistrust-suspicion-and-post-war-developments", "escalation-truman-doctrine-marshall-plan-nato", "soviet-response-cominform-comecon-warsaw-pact", "division-of-germany-and-berlin-blockade"] },
+    { "id": "hot-conflicts", "title": "Korea, Vietnam & Cuba", "topicIds": ["korean-war", "vietnam-war", "end-of-vietnam-war", "cuban-missile-crisis-background", "cuban-missile-crisis-timeline", "korean-vietnam-cmc-comparison", "united-nations"] },
+    { "id": "cold-war-end", "title": "End of the Cold War", "topicIds": ["end-of-cold-war-external", "ussr-internal-collapse-factors", "gorbachev-reforms", "eastern-europe-prague-berlin"] },
+    { "id": "movements-urbanisation", "title": "Social Movements & Urbanisation", "topicIds": ["social-movements-sea-intro", "free-aceh-movement", "people-power-movement", "usa-urbanisation"] }
+  ],
+  "skills": [
+    { "id": "source-basics", "title": "Source Analysis: Basics", "topicIds": ["question-approach-and-source-analysis", "inference", "inference-with-purpose", "comparison"] },
+    { "id": "source-evaluation", "title": "Source Evaluation", "topicIds": ["reliability", "usefulness", "testing-assertion", "hybrid-reliability-with-primary-source", "hybrid-reliability-no-primary-source", "separate-inference"] },
+    { "id": "surprised-essays", "title": "\"Surprised\" Questions & Essays", "topicIds": ["surprised", "surprised-with-2-sources", "hybrid-surprised", "essay-key-notes-and-overview", "level-1-essay-questions", "comparative-essay-questions"] },
+    { "id": "geography-technique", "title": "Geography Technique", "topicIds": ["general-exam-technique", "data-response-questions", "diagram-sketching", "infographic-analysis", "essay-writing", "geographical-concepts"] },
+    { "id": "case-studies-climate", "title": "Case Studies: Climate Change", "topicIds": ["case-studies-overview", "climate-change-causes", "climate-change-impacts", "climate-change-responses", "climate-change-mitigation-adaptation"] },
+    { "id": "case-studies-management", "title": "Case Studies: Management & Globalisation", "topicIds": ["coastal-management", "river-management", "globalisation-causes", "globalisation-impacts", "transnational-corporations"] }
+  ]
+}
