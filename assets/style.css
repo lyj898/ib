@@ -156,6 +156,21 @@ main.container {
   grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
   gap: 1.1rem;
 }
+/* balanced 3 + 2 bento layout for the five subjects on desktop */
+@media (min-width: 900px) {
+  .subject-grid { grid-template-columns: repeat(6, 1fr); gap: 1.3rem; }
+  .subject-grid .subject-card { grid-column: span 2; padding: 1.7rem 1.6rem 1.8rem; }
+  .subject-grid .subject-card:nth-last-child(-n + 2) { grid-column: span 3; }
+  .subject-grid .subject-icon { font-size: 2.3rem; margin-bottom: 0.8rem; }
+  .subject-grid .subject-card h3 { font-size: 1.3rem; }
+  .subject-grid .subject-card p { font-size: 0.93rem; }
+}
+.card-meta {
+  display: block;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  margin: -0.4rem 0 0.9rem;
+}
 
 .subject-card {
   position: relative;

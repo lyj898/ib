@@ -26,7 +26,27 @@
       <span class="subject-icon">${s.icon}</span>
       <h3>${s.title}</h3>
       <p>${s.desc}</p>
+      <span class="card-meta" id="meta-${s.id}"></span>
       <span class="card-arrow">Open →</span>
     </a>`;
   }).join("");
+
+  // fill each card's meta line (units/topics, plus path progress once started)
+  fetch("data/units.json")
+    .then((r) => r.json())
+    .then((units) => {
+      SUBJECTS.forEach((s) => {
+        const us = units[s.id] || [];
+        const topics = us.reduce((n, u) => n + u.topicIds.length, 0);
+        const verified = us.filter((u) => {
+          const cp = SRS.getCheckpoint(s.id, u.id);
+          return cp && (cp.weak || []).length === 0;
+        }).length;
+        const el = document.getElementById(`meta-${s.id}`);
+        if (el) {
+          el.textContent = verified > 0 ? `${verified}/${us.length} units verified · ${topics} topics` : `${us.length} units · ${topics} topics`;
+        }
+      });
+    })
+    .catch(() => {});
 })();
