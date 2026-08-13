@@ -2,7 +2,7 @@
   const subjectId = qs("s") || "physics";
   const subjectMeta = SUBJECTS.find((s) => s.id === subjectId) || SUBJECTS[0];
   document.title = `${subjectMeta.title} — Year 4 Study Guide`;
-  initHeader(subjectId, "notes");
+  initHeader(subjectId, "hub");
 
   const content = document.getElementById("content");
   let data;

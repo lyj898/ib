@@ -107,6 +107,7 @@
       e.returnValue = "";
     };
     window.addEventListener("beforeunload", guard);
+    document.body.classList.add("exam-running");
 
     const tick = setInterval(() => {
       const el = document.getElementById("exam-timer");
@@ -263,6 +264,7 @@
     }
 
     function results(score, entry, h) {
+      document.body.classList.remove("exam-running");
       document.title = "Exam Results — Year 4 Study Guide";
       const pct = Math.round((score / mcqs.length) * 100);
       content.innerHTML = `

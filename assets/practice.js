@@ -291,7 +291,7 @@
     const subjectId = qs("s") || "physics";
     const mode = qs("m") || "flashcards";
     const subjectMeta = SUBJECTS.find((s) => s.id === subjectId) || SUBJECTS[0];
-    initHeader(subjectId, "notes");
+    initHeader(subjectId, "hub");
     initStudyKeys();
 
     const content = document.getElementById("content");

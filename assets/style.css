@@ -37,6 +37,8 @@
 
 * { box-sizing: border-box; }
 
+select { max-width: 100%; }
+
 html { scroll-behavior: smooth; }
 
 body {
@@ -186,7 +188,7 @@ main.container {
 .subject-card p { margin: 0 0 0.9rem; color: var(--text-muted); font-size: 0.9rem; }
 .card-arrow { font-size: 0.85rem; font-weight: 600; color: var(--card-accent, var(--accent)); }
 
-.subject-heading { display: flex; align-items: center; gap: 0.6rem; margin-bottom: 1.5rem; }
+.subject-heading { display: flex; align-items: center; gap: 0.6rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
 .subject-heading-icon { font-size: 1.8rem; }
 .subject-heading h1 { margin: 0; font-size: 1.9rem; }
 
@@ -653,6 +655,11 @@ a.stat-card:hover { border-color: var(--accent); transform: translateY(-2px); }
   box-shadow: var(--shadow);
 }
 #exam-timer { font-weight: 700; font-variant-numeric: tabular-nums; font-size: 1.05rem; }
+@media (max-width: 560px) {
+  /* during an exam the timer bar owns the top of the screen */
+  body.exam-running header.site-header { position: static; }
+  body.exam-running .exam-bar { top: 0.5rem; }
+}
 #exam-timer.low { color: var(--bad); }
 .palette { display: flex; flex-wrap: wrap; gap: 0.35rem; margin: 0 0 1.2rem; }
 .palette button {
@@ -855,6 +862,10 @@ kbd {
   border-color: color-mix(in srgb, var(--good) 50%, var(--border));
   color: var(--good);
   background: color-mix(in srgb, var(--good) 8%, transparent);
+}
+@media (max-width: 560px) {
+  .path-topic-steps a { padding: 0.55rem 0.9rem; font-size: 0.82rem; }
+  .path-topic { padding: 0.55rem 0; }
 }
 
 .remediation {

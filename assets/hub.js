@@ -3,7 +3,7 @@
 (function () {
   const subjectId = qs("s") || localStorage.getItem("sg2:pathSubject") || SUBJECTS[0].id;
   const meta = SUBJECTS.find((x) => x.id === subjectId) || SUBJECTS[0];
-  initHeader(subjectId);
+  initHeader(subjectId, "hub");
   const content = document.getElementById("content");
   document.title = `${meta.title} — Year 4 Study Guide`;
   try {

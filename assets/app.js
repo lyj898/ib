@@ -197,20 +197,28 @@ function kbdHints(type) {
   return `<p class="kbd-hints">${hints[type] || ""}</p>`;
 }
 
-// ---- bottom tab bar (mobile) ----
+// ---- bottom tab bar (mobile), scoped to the current subject ----
 function initTabbar(active) {
   if (document.querySelector(".tabbar")) return;
-  const last = typeof SRS !== "undefined" ? SRS.getLast() : null;
-  const notesHref = last ? `subject.html?s=${last.s}&t=${encodeURIComponent(last.t)}` : "subject.html?s=physics";
-  const mistakes = typeof SRS !== "undefined" ? SRS.mistakeCount() : 0;
+  let cur = null;
+  try {
+    cur = localStorage.getItem("sg2:pathSubject");
+  } catch (e) { /* ignore */ }
+  if (!cur && typeof SRS !== "undefined") {
+    const last = SRS.getLast();
+    cur = last ? last.s : null;
+  }
+  const meta = SUBJECTS.find((s) => s.id === cur) || SUBJECTS.find((s) => s.id === "physics") || SUBJECTS[0];
+  const sid = meta.id;
+  const mistakes = typeof SRS !== "undefined" ? SRS.mistakeList().filter((m) => m.s === sid).length : 0;
   const bar = document.createElement("nav");
   bar.className = "tabbar";
   bar.innerHTML = `
     <a href="index.html" class="${active === "home" ? "active" : ""}"><span>🏠</span>Home</a>
-    <a href="path.html" class="${active === "path" ? "active" : ""}"><span>🧭</span>Path</a>
-    <a href="${notesHref}" class="${active === "notes" ? "active" : ""}"><span>📖</span>Notes</a>
-    <a href="review.html" class="${active === "mix" ? "active" : ""}"><span>🔁</span>Mix</a>
-    <a href="review.html?m=mistakes" class="${active === "mistakes" ? "active" : ""}"><span>🎯</span>Mistakes${mistakes ? `<b class="tab-badge">${mistakes}</b>` : ""}</a>
+    <a href="hub.html?s=${sid}" class="${active === "hub" ? "active" : ""}"><span>${meta.icon}</span>Hub</a>
+    <a href="path.html?s=${sid}" class="${active === "path" ? "active" : ""}"><span>🧭</span>Path</a>
+    <a href="review.html?s=${sid}" class="${active === "mix" ? "active" : ""}"><span>🔁</span>Mix</a>
+    <a href="review.html?s=${sid}&m=mistakes" class="${active === "mistakes" ? "active" : ""}"><span>🎯</span>Mistakes${mistakes ? `<b class="tab-badge">${mistakes}</b>` : ""}</a>
   `;
   document.body.appendChild(bar);
 }
@@ -236,7 +244,12 @@ function searchSnippet(body, pos, qlen) {
 }
 
 function initHeader(activeSubjectId, activeTab) {
-  if (activeSubjectId) applySubjectTheme(activeSubjectId);
+  if (activeSubjectId) {
+    applySubjectTheme(activeSubjectId);
+    try {
+      localStorage.setItem("sg2:pathSubject", activeSubjectId);
+    } catch (e) { /* ignore */ }
+  }
   initTabbar(activeTab);
   const header = document.querySelector("header.site-header");
   if (!header) return;
