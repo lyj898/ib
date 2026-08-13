@@ -151,6 +151,126 @@
           "answerIndex": 1,
           "explanation": "Noble gases have a stable, full outer shell configuration, making them largely unreactive.",
           "d": 2
+        },
+        {
+          "question": "What determines the group number of an element in the Periodic Table?",
+          "choices": [
+            "The number of valence electrons",
+            "The number of electron shells",
+            "The number of protons",
+            "The atomic mass"
+          ],
+          "answerIndex": 0,
+          "explanation": "Group number corresponds to the number of valence electrons an element has, as stated in the notes.",
+          "d": 1
+        },
+        {
+          "question": "An atom has the electron configuration 2,8,2. Which period is it in, and why?",
+          "choices": [
+            "Period 3, because it has 3 electron shells",
+            "Period 2, because it has 2 valence electrons",
+            "Group 2, because it has 2 valence electrons",
+            "Period 8, because the second shell contains 8 electrons"
+          ],
+          "answerIndex": 0,
+          "explanation": "Period number corresponds to the number of electron shells. 2,8,2 has three shells (as with the Mg example, 2,8,2), so the element is in Period 3.",
+          "d": 2
+        },
+        {
+          "question": "Solid iodine is black, but when heated it sublimes directly into a gas without passing through a liquid state. What is this process called, and what colour is the gas produced?",
+          "choices": [
+            "Sublimation; purple",
+            "Deposition; purple",
+            "Sublimation; brown",
+            "Evaporation; purple"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes describe I₂ (s) as black, and on heating (sublimation) I₂ (g) is purple.",
+          "d": 2
+        },
+        {
+          "question": "Based on the ion charge trends for Period 3, which statement correctly describes Group 14 and Group 15 elements?",
+          "choices": [
+            "They tend to share electrons to form covalent bonds instead of ions",
+            "They form +4 and +5 ions respectively",
+            "They form -4 and -5 ions respectively",
+            "They form amphoteric oxides"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that elements in Groups IV and V share electrons to form covalent bonds instead of ions (e.g. CH₄, PCl₅), unlike Groups I–III which form cations equal to the group number.",
+          "d": 3
+        },
+        {
+          "question": "An element has 7 valence electrons and 3 electron shells. What is this element, and what is the nature of its oxide?",
+          "choices": [
+            "Chlorine; acidic",
+            "Fluorine; acidic",
+            "Chlorine; amphoteric",
+            "Sulfur; acidic"
+          ],
+          "answerIndex": 0,
+          "explanation": "7 valence electrons places it in Group 17, and 3 shells places it in Period 3, giving chlorine (2,8,7). Per the Nature of Oxides table, phosphorus, sulfur and chlorine oxides are acidic.",
+          "d": 3
+        },
+        {
+          "question": "What colour is chlorine gas (Cl₂)?",
+          "choices": [
+            "Brown",
+            "Yellowish-green",
+            "Colourless",
+            "Purple"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes list Cl₂ as yellowish-green, distinguishing it from brown gases like NO₂/Br₂, colourless gases like CO₂/O₂/SO₂, and purple iodine vapour.",
+          "d": 1
+        },
+        {
+          "question": "According to the Period 3 table, what is the nature of the oxides formed by sodium and magnesium?",
+          "choices": [
+            "Alkali (basic)",
+            "They do not form oxides",
+            "Amphoteric",
+            "Acidic"
+          ],
+          "answerIndex": 0,
+          "explanation": "The Period 3 oxide-nature row shows Groups 1 and 2 (Na, Mg) forming alkali/basic oxides, while Group 13 (Al) is amphoteric and Groups 14-17 are acidic.",
+          "d": 2
+        },
+        {
+          "question": "The notes point out that Bismuth(III) oxide is yellow while bismuth metal is silver. What general principle does this example illustrate?",
+          "choices": [
+            "Colours change as a substance changes from element, to ion, to compound",
+            "All metal oxides are always yellow",
+            "Bismuth is classified as a Group 1 metal",
+            "Oxides of Period 3 elements are always brightly coloured"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes explicitly use the Bismuth example to show that colour changes as substances change from elements to ions to compounds.",
+          "d": 2
+        },
+        {
+          "question": "An atom has the electron configuration 2,8,3. Based on the rules linking electron shells/valence electrons to periods/groups, and the ion-charge trend for Period 3, what period and group is it in, and what ion charge would it form?",
+          "choices": [
+            "Period 3, Group 13, +3 charge",
+            "Period 3, Group 15, no ion (covalent)",
+            "Period 2, Group 3, +2 charge",
+            "Period 3, Group 17, -1 charge"
+          ],
+          "answerIndex": 0,
+          "explanation": "3 electron shells place it in Period 3 (period number = number of shells); 3 valence electrons place it in Group 13 (group number = valence electrons); since Groups I-III are metals that lose electrons to form cations equal to the group number, it forms a +3 ion, matching Al³⁺ in the notes.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following ion-charge pairings is INCORRECT, based on the Period 3 ion-charge trend described in the notes?",
+          "choices": [
+            "Group 16 ions have a charge of -2",
+            "Group 17 ions have a charge of +1",
+            "Group 1 ions have a charge of +1",
+            "Group 2 ions have a charge of +2"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state Groups VI/VII (non-metals) gain electrons to form negative ions; Group 17 ions have a charge of -1 (e.g. F⁻, Cl⁻), not +1, making that pairing incorrect.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -273,6 +393,126 @@
           "answerIndex": 0,
           "explanation": "Atomic radius increases down Group 1, so K (further down) is larger than Li.",
           "d": 2
+        },
+        {
+          "question": "What happens to ionic radius down Group 17?",
+          "choices": [
+            "It increases",
+            "It decreases",
+            "It stays constant",
+            "It becomes zero"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that down Groups 1 and 17, both atomic and ionic radii increase.",
+          "d": 1
+        },
+        {
+          "question": "Which ion has the larger ionic radius: F⁻ or Cl⁻?",
+          "choices": [
+            "Cl⁻",
+            "F⁻",
+            "They are equal",
+            "Cannot be determined"
+          ],
+          "answerIndex": 0,
+          "explanation": "Down Group 17, ionic radius increases, and Cl is below F in the group, so Cl⁻ has the larger ionic radius.",
+          "d": 2
+        },
+        {
+          "question": "Down Group 1, do atomic radius and ionic radius change in the same direction?",
+          "choices": [
+            "Yes, both increase",
+            "No, atomic radius increases while ionic radius decreases",
+            "No, both decrease",
+            "No, atomic radius decreases while ionic radius increases"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that down Group 1, both atomic and ionic radii increase together.",
+          "d": 2
+        },
+        {
+          "question": "Sodium (Na) and chlorine (Cl) are both in Period 3, with Na in Group 1 and Cl in Group 17. Which has the larger atomic radius?",
+          "choices": [
+            "Na",
+            "Cl",
+            "They are equal",
+            "Cannot be determined"
+          ],
+          "answerIndex": 0,
+          "explanation": "Across Period 3, atomic radius decreases from left (Group 1) to right (Group 17), so Na, being furthest left, has the larger atomic radius.",
+          "d": 3
+        },
+        {
+          "question": "Na⁺ and Al³⁺ are both ions of Period 3 elements. Which has the smaller ionic radius?",
+          "choices": [
+            "Al³⁺",
+            "Na⁺",
+            "They are equal",
+            "Cannot be determined"
+          ],
+          "answerIndex": 0,
+          "explanation": "Across Period 3, ionic radius decreases from left to right. Al is to the right of Na, so Al³⁺ has the smaller ionic radius.",
+          "d": 3
+        },
+        {
+          "question": "What happens to ionic radius across Period 3, from left to right?",
+          "choices": [
+            "It stays the same",
+            "It increases",
+            "It decreases",
+            "It increases then decreases"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state that across Period 3, both atomic and ionic radii decrease.",
+          "d": 1
+        },
+        {
+          "question": "Between Mg²⁺ and Al³⁺, both ions of Period 3 elements, which has the larger ionic radius?",
+          "choices": [
+            "Cannot be determined",
+            "They are equal",
+            "Al³⁺",
+            "Mg²⁺"
+          ],
+          "answerIndex": 3,
+          "explanation": "Magnesium is to the left of aluminium in Period 3, and ionic radius decreases across Period 3 from left to right, so Mg²⁺ is larger than Al³⁺.",
+          "d": 2
+        },
+        {
+          "question": "Which has the larger ionic radius: Na⁺ or K⁺ (both Group 1 ions)?",
+          "choices": [
+            "They are equal",
+            "K⁺",
+            "Cannot be determined",
+            "Na⁺"
+          ],
+          "answerIndex": 1,
+          "explanation": "Potassium is below sodium in Group 1, and ionic radius increases down Group 1, so K⁺ is larger than Na⁺.",
+          "d": 2
+        },
+        {
+          "question": "Rank Li⁺, Na⁺, and K⁺ (all Group 1 ions, with Li above Na above K) from SMALLEST to LARGEST ionic radius.",
+          "choices": [
+            "K⁺ < Na⁺ < Li⁺",
+            "Li⁺ < K⁺ < Na⁺",
+            "Li⁺ < Na⁺ < K⁺",
+            "Na⁺ < Li⁺ < K⁺"
+          ],
+          "answerIndex": 2,
+          "explanation": "Since ionic radius increases down Group 1, and Li is above Na which is above K, the correct order from smallest to largest is Li⁺ < Na⁺ < K⁺.",
+          "d": 3
+        },
+        {
+          "question": "Potassium ion (K⁺) is in Period 4, Group 1. Chloride ion (Cl⁻) is in Period 3, Group 17. Sodium ion (Na⁺) is in Period 3, Group 1. Using the trends that ionic radius increases down Group 1 and decreases across Period 3 (Group 1 leftmost, Group 17 rightmost), which ion is larger: K⁺ or Cl⁻?",
+          "choices": [
+            "K⁺",
+            "Cannot be determined",
+            "Cl⁻",
+            "They are equal"
+          ],
+          "answerIndex": 0,
+          "explanation": "K⁺ is larger than Na⁺ (ionic radius increases down Group 1), and Na⁺ is larger than Cl⁻ (ionic radius decreases across Period 3, with Group 1 leftmost being largest). Therefore K⁺ > Na⁺ > Cl⁻, so K⁺ is larger than Cl⁻.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -396,6 +636,126 @@
           "answerIndex": 2,
           "explanation": "Non-metals exist as simple molecules held together by weak intermolecular forces, giving low melting/boiling points.",
           "d": 1
+        },
+        {
+          "question": "What is the general trend of melting/boiling points across the metallic elements of Period 3?",
+          "choices": [
+            "They generally increase",
+            "They generally decrease",
+            "They remain constant",
+            "They decrease then increase sharply"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that melting/boiling points generally increase across the metallic elements of Period 3.",
+          "d": 1
+        },
+        {
+          "question": "What type of structure does silicon have, and to which other substance's structure is it compared in the notes?",
+          "choices": [
+            "A giant covalent structure, similar to diamond",
+            "A giant ionic structure, similar to graphite",
+            "A simple molecular structure, similar to diamond",
+            "A giant metallic structure, similar to graphite"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that silicon has a giant covalent structure similar to diamond.",
+          "d": 2
+        },
+        {
+          "question": "In silicon's giant covalent structure, each atom is bonded to 4 neighbouring atoms in what geometric arrangement?",
+          "choices": [
+            "Tetrahedral",
+            "Linear",
+            "Hexagonal",
+            "Octahedral"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes describe each Si atom as bonded to 4 others in a tetrahedral arrangement.",
+          "d": 2
+        },
+        {
+          "question": "Silicon is a metalloid, yet its melting/boiling point behaves nothing like the low melting/boiling points of the other Period 3 non-metals. Why?",
+          "choices": [
+            "It has a giant covalent structure held by strong covalent bonds throughout, unlike the simple molecular non-metals",
+            "It is actually a metal like Na and Mg",
+            "It has weak intermolecular forces like the other non-metals",
+            "It has an unusually low nuclear charge"
+          ],
+          "answerIndex": 0,
+          "explanation": "Unlike the simple molecular structures of the other non-metals (held by weak intermolecular forces), silicon's giant covalent structure requires a large amount of energy to break its strong covalent bonds, giving it a very high melting/boiling point.",
+          "d": 3
+        },
+        {
+          "question": "A student argues: 'Since silicon is in Period 3, and Period 3 non-metals generally have low melting/boiling points, silicon should have a low melting/boiling point.' What is wrong with this reasoning, based on the notes?",
+          "choices": [
+            "Silicon has a giant covalent structure (unlike the simple molecular non-metals), so it requires far more energy to melt/boil, giving it a very high melting/boiling point instead",
+            "Silicon is not actually part of Period 3",
+            "Period 3 elements always have high melting/boiling points",
+            "Silicon's atomic radius is unusually large, which the student failed to consider"
+          ],
+          "answerIndex": 0,
+          "explanation": "The general 'low melting/boiling point' trend applies to the simple molecular non-metals of Period 3, but silicon is an exception because its giant covalent structure (with strong covalent bonds) gives it a very high melting/boiling point.",
+          "d": 3
+        },
+        {
+          "question": "Based on the notes, which category of Period 3 elements has the LOWEST melting/boiling points?",
+          "choices": [
+            "The non-metals",
+            "Silicon (the metalloid)",
+            "They are all equal",
+            "The metals"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes describe non-metal melting/boiling points in Period 3 as 'generally low' (simple molecular structures, weak intermolecular forces), while metals 'generally increase' and silicon is 'very high'.",
+          "d": 1
+        },
+        {
+          "question": "If melting/boiling point were observed to increase going down Group 17, what would this imply about the trend going down Group 1, based on the notes?",
+          "choices": [
+            "It would stay constant down Group 1",
+            "It would also increase down Group 1",
+            "Cannot be determined",
+            "It would decrease down Group 1"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state Group 1 and Group 17 show OPPOSITE melting/boiling point trends down their groups, so if Group 17 increases, Group 1 must decrease.",
+          "d": 2
+        },
+        {
+          "question": "Based on the notes' descriptions of bonding, which requires MORE heat energy to overcome: silicon's giant covalent structure, or the intermolecular forces holding together the simple molecular non-metals of Period 3?",
+          "choices": [
+            "They require the same amount of energy",
+            "Neither requires any heat energy",
+            "The non-metals' intermolecular forces",
+            "Silicon's giant covalent structure"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state silicon's strong covalent bonds require a large amount of heat energy to overcome (giving a very high melting/boiling point), whereas the non-metals are held by weak intermolecular forces, giving generally low melting/boiling points.",
+          "d": 2
+        },
+        {
+          "question": "Based on the notes, which correctly ranks a typical Period 3 metal, silicon, and a typical Period 3 non-metal from LOWEST to HIGHEST melting/boiling point?",
+          "choices": [
+            "Non-metal < Metal < Silicon",
+            "Silicon < Metal < Non-metal",
+            "Non-metal < Silicon < Metal",
+            "Metal < Non-metal < Silicon"
+          ],
+          "answerIndex": 0,
+          "explanation": "Non-metals have generally low melting/boiling points (weak intermolecular forces), metals generally increase across the period, and silicon has a very high melting/boiling point due to its strong giant covalent structure — so the order from lowest to highest is Non-metal < Metal < Silicon.",
+          "d": 3
+        },
+        {
+          "question": "A student claims: 'Since silicon is a metalloid sharing properties of both metals and non-metals, its melting point should be roughly intermediate between typical Period 3 metals and non-metals.' Is this reasoning correct, based on the notes?",
+          "choices": [
+            "Yes — this is exactly what the notes describe",
+            "Yes, but only for boiling point, not melting point",
+            "No — silicon actually has the lowest melting point of all Period 3 elements",
+            "No — silicon's giant covalent structure (like diamond) gives it a VERY HIGH melting point, not an intermediate one"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state silicon has a giant covalent structure similar to diamond, with strong covalent bonds requiring a large amount of heat energy to overcome, resulting in a very high melting/boiling point — not an intermediate value between metals and non-metals.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -518,6 +878,126 @@
           "answerIndex": 3,
           "explanation": "Across a period, nuclear charge increases while atomic radius decreases, holding electrons more strongly and increasing ionization energy.",
           "d": 2
+        },
+        {
+          "question": "What happens to first ionization energy down Group 17?",
+          "choices": [
+            "It decreases",
+            "It increases",
+            "It stays constant",
+            "It becomes negative"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that down Groups 1 and 17, first ionization energy decreases.",
+          "d": 1
+        },
+        {
+          "question": "Between fluorine (F) and chlorine (Cl), which requires less energy to remove an outer electron?",
+          "choices": [
+            "Cl",
+            "F",
+            "They require equal energy",
+            "Cannot be determined"
+          ],
+          "answerIndex": 0,
+          "explanation": "Down Group 17, first ionization energy decreases, and Cl is below F, so Cl has the lower ionization energy, requiring less energy to remove an electron.",
+          "d": 2
+        },
+        {
+          "question": "According to the notes, which two factors together explain why first ionization energy increases across Period 3?",
+          "choices": [
+            "Decreasing atomic radius and increasing nuclear charge",
+            "Increasing atomic radius and increasing shielding",
+            "Decreasing nuclear charge and increasing shielding",
+            "Increasing number of electron shells"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that across Period 3, atomic radius decreases and nuclear charge increases, so electrons are held more strongly, increasing ionization energy.",
+          "d": 2
+        },
+        {
+          "question": "Potassium (K) has a lower first ionization energy than sodium (Na). Based on the notes' explanation for why ionization energy decreases down a group, what can be inferred about the atomic radius of K compared to Na?",
+          "choices": [
+            "K has a larger atomic radius than Na",
+            "K has a smaller atomic radius than Na",
+            "Atomic radius has no relationship to ionization energy",
+            "K has a higher nuclear charge than Na"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes explain that down a group, ionization energy decreases because atomic radius increases (outer electrons are further from the nucleus and more shielded), making them easier to remove. A lower IE for K therefore implies a larger atomic radius than Na.",
+          "d": 3
+        },
+        {
+          "question": "Consider Na (Group 1, Period 3), K (Group 1, Period 4), and Cl (Group 17, Period 3). Which of these has the LOWEST first ionization energy?",
+          "choices": [
+            "K",
+            "Na",
+            "Cl",
+            "All three are equal"
+          ],
+          "answerIndex": 0,
+          "explanation": "Down Group 1, ionization energy decreases, so K (below Na) has a lower IE than Na. Across Period 3, ionization energy increases, so Cl has a higher IE than Na. This gives the order K < Na < Cl, making K the lowest.",
+          "d": 3
+        },
+        {
+          "question": "For first ionization energy to be defined, what state must the atom be in?",
+          "choices": [
+            "Solid state",
+            "Aqueous state",
+            "Liquid state",
+            "Gaseous state"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes define first ionization energy as the minimum energy to remove an electron from a neutral atom in its gaseous state.",
+          "d": 1
+        },
+        {
+          "question": "According to the notes, why does first ionization energy decrease going down Groups 1 and 17?",
+          "choices": [
+            "Nuclear charge increases, holding electrons more strongly",
+            "Atomic radius increases, so outer electrons are further from the nucleus and more shielded, making them easier to remove",
+            "Atomic radius decreases, making electrons easier to remove",
+            "The number of valence electrons decreases"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state that down Groups 1 and 17, atomic radius increases, so outer electrons are further from the nucleus and more shielded, and thus easier to remove — lowering ionization energy.",
+          "d": 2
+        },
+        {
+          "question": "Based on the general trend that first ionization energy increases across Period 3, which would be expected to have a HIGHER first ionization energy: sodium (Na) or magnesium (Mg)?",
+          "choices": [
+            "Cannot be determined",
+            "Sodium (Na)",
+            "They are equal",
+            "Magnesium (Mg)"
+          ],
+          "answerIndex": 3,
+          "explanation": "Magnesium is to the right of sodium in Period 3, and first ionization energy generally increases across Period 3 from left to right, so Mg is expected to have the higher ionization energy.",
+          "d": 2
+        },
+        {
+          "question": "Consider Na (Period 3, Group 1), K (Period 4, Group 1), and Cl (Period 3, Group 17). Based on the trends in the notes, rank them from LOWEST to HIGHEST first ionization energy.",
+          "choices": [
+            "Cl < Na < K",
+            "K < Cl < Na",
+            "K < Na < Cl",
+            "Na < K < Cl"
+          ],
+          "answerIndex": 2,
+          "explanation": "Down Group 1, ionization energy decreases, so K (Period 4) has a lower first ionization energy than Na (Period 3). Across Period 3, ionization energy increases, so Cl has a higher ionization energy than Na. This gives the order K < Na < Cl.",
+          "d": 3
+        },
+        {
+          "question": "The notes explain the down-a-group decrease in ionization energy using atomic radius/shielding, and the across-a-period increase using nuclear charge. Fluorine (F) has a higher first ionization energy than chlorine (Cl), both being Group 17 elements. Which explanation applies to this comparison?",
+          "choices": [
+            "The atomic radius/shielding explanation, since F and Cl are compared down the same group, not across a period",
+            "Both explanations apply equally",
+            "Neither explanation applies since F and Cl are non-metals",
+            "The nuclear charge explanation, since they are in the same period"
+          ],
+          "answerIndex": 0,
+          "explanation": "F and Cl are both in Group 17 (F above Cl), so this is a down-the-group comparison. The notes attribute the down-group trend to atomic radius and shielding, not to nuclear charge (which explains the across-period trend).",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -641,6 +1121,126 @@
           "answerIndex": 2,
           "explanation": "According to the notes, reactivity of metals decreases across Period 3.",
           "d": 1
+        },
+        {
+          "question": "Reactivity can be classified according to a substance's affinity to do what?",
+          "choices": [
+            "Lose or gain electrons",
+            "Dissolve or precipitate",
+            "Melt or boil",
+            "Expand or contract"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that reactivity can be classified according to a substance's affinity to lose or gain electrons.",
+          "d": 1
+        },
+        {
+          "question": "Among the non-metals across Period 3, reactivity trends are related to what?",
+          "choices": [
+            "The ease of gaining electrons",
+            "The ease of losing electrons",
+            "The melting point of the element",
+            "The number of electron shells"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that among the non-metals across Period 3, reactivity trends are related to the ease of gaining electrons.",
+          "d": 2
+        },
+        {
+          "question": "Which pattern correctly contrasts the reactivity trends of Group 1 and Group 17 down their respective groups?",
+          "choices": [
+            "Group 1 becomes more reactive while Group 17 becomes less reactive",
+            "Both become more reactive",
+            "Both become less reactive",
+            "Group 1 becomes less reactive while Group 17 becomes more reactive"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that Group 1 metals become more reactive going down the group, while Group 17 non-metals become less reactive going down the group.",
+          "d": 2
+        },
+        {
+          "question": "Which of the following statements about reactivity is INCORRECT, based on the notes?",
+          "choices": [
+            "Group 17 non-metals become more reactive going down the group",
+            "Group 1 metals become more reactive going down the group",
+            "Reactivity of metals decreases across Period 3",
+            "Noble gases are largely unreactive due to stable, full outer electron shells"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that Group 17 non-metals become LESS reactive going down the group, not more, making this statement incorrect.",
+          "d": 3
+        },
+        {
+          "question": "Non-metal reactivity across Period 3 relates to the ease of gaining electrons, yet noble gases (Group 18/0) are an exception. Why?",
+          "choices": [
+            "Noble gases have stable, full outer shells and have no tendency to gain (or lose) electrons at all, unlike other non-metals whose reactivity depends on ease of gaining electrons",
+            "Noble gases gain electrons more easily than Group 17 elements",
+            "Noble gases lose electrons very easily like Group 1 metals",
+            "Noble gases have only 1 electron in their outer shell"
+          ],
+          "answerIndex": 0,
+          "explanation": "Noble gases have stable, full outer electron shells, making them largely unreactive and unwilling to gain electrons, unlike the other Period 3 non-metals whose reactivity depends on ease of gaining electrons.",
+          "d": 3
+        },
+        {
+          "question": "Based on the notes, which of the following would be expected to be the LEAST reactive?",
+          "choices": [
+            "A Group 17 non-metal",
+            "A Group 1 metal",
+            "A Period 3 metal",
+            "A noble gas (Group 18/0)"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state noble gases are largely unreactive due to their stable, full outer electron shells, unlike Group 1 metals, Group 17 non-metals, or Period 3 metals, which are described as reactive to varying degrees.",
+          "d": 1
+        },
+        {
+          "question": "Reactivity is defined as how readily a substance undergoes a chemical reaction. Since Group 1 metals become more reactive going down the group, how would a Group 1 metal further down the group be expected to react with a given substance, compared to one higher up?",
+          "choices": [
+            "It would not react at all",
+            "At exactly the same rate",
+            "More vigorously/readily",
+            "Less vigorously/readily"
+          ],
+          "answerIndex": 2,
+          "explanation": "Since reactivity means how readily a substance reacts, and Group 1 metals become more reactive going down the group, a metal further down would be expected to react more vigorously/readily.",
+          "d": 2
+        },
+        {
+          "question": "The notes state reactivity can be classified according to a substance's affinity to lose or gain electrons. Based on this, a highly reactive metal would most likely have a strong affinity to do what?",
+          "choices": [
+            "Lose electrons",
+            "Gain protons",
+            "Neither lose nor gain electrons",
+            "Gain electrons"
+          ],
+          "answerIndex": 0,
+          "explanation": "Metals are reactive substances, and per the notes' classification, this affinity for metals is to lose electrons (forming positive ions), consistent with reactive metals having a strong tendency to lose electrons.",
+          "d": 2
+        },
+        {
+          "question": "A Group 17 non-metal near the top of the group (where reactivity is highest) is compared with a Group 18/0 noble gas. Based on the notes, which is more reactive?",
+          "choices": [
+            "They are equally unreactive",
+            "Cannot be determined from the notes",
+            "The noble gas, since Group 0 elements are always the most reactive",
+            "The Group 17 element, since it is highly reactive near the top of its group, while noble gases are largely unreactive regardless"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state Group 17 non-metals become LESS reactive going down the group (implying high reactivity near the top), while noble gases are largely unreactive due to their stable full outer shells — so the Group 17 element near the top is more reactive.",
+          "d": 3
+        },
+        {
+          "question": "Metal X is in Period 3, Group 1. Metal Y is directly below Metal X, in Period 4, Group 1. Metal Z is in Period 3, Group 2 (to the right of Metal X in the same period). Based on the trends in the notes, rank X, Y, and Z from LEAST to MOST reactive.",
+          "choices": [
+            "X < Y < Z",
+            "Z < X < Y",
+            "Z < Y < X",
+            "Y < X < Z"
+          ],
+          "answerIndex": 1,
+          "explanation": "Going down Group 1, reactivity increases, so Y (below X) is more reactive than X. Going across Period 3, metal reactivity decreases, so Z (to the right of X) is less reactive than X. This gives Z < X < Y.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -789,6 +1389,126 @@
           "answerIndex": 1,
           "explanation": "The sea of mobile electrons continues to hold the metal ions together even when the metal is distorted, allowing malleability and ductility.",
           "d": 2
+        },
+        {
+          "question": "Why do metals generally have high densities, melting points and boiling points?",
+          "choices": [
+            "Strong electrostatic forces of attraction hold the metal ions closely together, requiring a large amount of energy to break the bonds",
+            "Mobile electrons act as charge carriers, aiding conduction",
+            "Metals have weak intermolecular forces between particles",
+            "Alloying disrupts the orderly arrangement of atoms"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that strong electrostatic forces hold metal ions closely together, so more ions occupy less space and a larger amount of energy is required to break the bonds, giving high density, melting and boiling points.",
+          "d": 1
+        },
+        {
+          "question": "Which group of metals is an exception to the general rule that metals have high densities, melting points and boiling points?",
+          "choices": [
+            "Group 1 metals",
+            "Transition metals",
+            "Group 17 non-metals",
+            "Group 2 metals"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes explicitly note high densities, melting points and boiling points as a property of metals 'with the exception of Group 1 metals'.",
+          "d": 2
+        },
+        {
+          "question": "Why is pewter used in preference to tin for certain items, according to the notes?",
+          "choices": [
+            "Pewter looks better than tin, which is duller in comparison",
+            "Pewter is harder than tin",
+            "Pewter is cheaper than tin",
+            "Pewter conducts electricity better than tin"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that pewter (an alloy of tin, antimony and copper) improves the appearance of the metal, looking better than tin, which is duller in comparison.",
+          "d": 2
+        },
+        {
+          "question": "The notes state that brass is harder and stronger than a specific pure metal. Which pure metal is this comparison made against?",
+          "choices": [
+            "Zinc",
+            "Copper",
+            "Tin",
+            "Lead"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that brass, an alloy of copper and zinc, is harder and stronger than pure zinc (not copper).",
+          "d": 3
+        },
+        {
+          "question": "The notes give two main reasons why pure metals are not widely used in industry. Which pair correctly identifies both reasons?",
+          "choices": [
+            "Pure metals are too soft, and they may corrode/react with air and water",
+            "Pure metals are too hard, and they are too expensive",
+            "Pure metals have low melting points, and they are poor conductors",
+            "Pure metals are too reactive, and they are too dense"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state pure metals are too soft, and that they may react with air and water, wearing away or corroding easily, so they are not widely used in industry.",
+          "d": 3
+        },
+        {
+          "question": "According to the notes, solder is an alloy of which two metals?",
+          "choices": [
+            "Copper and nickel",
+            "Tin and lead",
+            "Tin, antimony, and copper",
+            "Copper and zinc"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state solder is an alloy of tin and lead, used for joining metals due to its lower melting point.",
+          "d": 1
+        },
+        {
+          "question": "According to the notes, pewter is an alloy of which three metals?",
+          "choices": [
+            "Tin and lead",
+            "Copper and zinc",
+            "Copper and nickel",
+            "Tin, antimony, and copper"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state pewter is an alloy of tin, antimony, and copper, and looks better than the duller pure tin.",
+          "d": 2
+        },
+        {
+          "question": "Pure metals may react with air and water, causing them to corrode easily. Based on the notes, which alloy specifically addresses this weakness, and why?",
+          "choices": [
+            "Solder, because it has a lower melting point",
+            "Brass, because it is harder and stronger",
+            "Cupronickel, because it resists corrosion and is used in coins",
+            "Pewter, because it improves appearance"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state cupronickel (copper and nickel) is used in coins because it does not corrode easily, directly addressing the corrosion weakness of pure metals.",
+          "d": 2
+        },
+        {
+          "question": "Which of the following correctly matches an alloy with the specific benefit described for it in the notes?",
+          "choices": [
+            "Solder (tin + lead) — improves the appearance of metals",
+            "Cupronickel (copper + nickel) — lowers the melting point of metals",
+            "Pewter (tin, antimony, copper) — makes metals more resistant to corrosion",
+            "Brass (copper + zinc) — harder and stronger than pure zinc"
+          ],
+          "answerIndex": 3,
+          "explanation": "Only the brass pairing is correct: the notes attribute appearance improvement to pewter, corrosion resistance to cupronickel, and lower melting point to solder — not to the alloys listed against them in the other options.",
+          "d": 3
+        },
+        {
+          "question": "Pure metals are malleable/ductile because the 'sea of electrons' keeps ions bonded even after distortion. Alloys like brass are harder because differently-sized atoms disrupt the orderly arrangement of atoms. Based on this, why can a pure metal's layers of ions slide and reshape, while an alloy's cannot slide as easily?",
+          "choices": [
+            "Pure metals have no electrons to hold ions together",
+            "Alloys have no metallic bonding at all, unlike pure metals",
+            "Alloys have more mobile electrons than pure metals, which prevents sliding",
+            "In a pure metal, ions are uniformly sized and held together by mobile electrons even when layers shift, but in an alloy, differently-sized atoms block the layers from sliding over each other"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes explain pure metal malleability via the sea of electrons continuing to hold uniform ions together as layers shift, whereas in alloys, atoms of a different size disrupt this orderly arrangement so layers cannot slide over each other easily — making alloys harder.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -958,6 +1678,126 @@
           "answerIndex": 1,
           "explanation": "As in the Zn + CuO reaction, a magnesium fuse can provide the initial energy needed to start the reaction.",
           "d": 2
+        },
+        {
+          "question": "Between zinc and iron, which is more reactive according to the reactivity series?",
+          "choices": [
+            "Zinc",
+            "Iron",
+            "They are equally reactive",
+            "Cannot be determined"
+          ],
+          "answerIndex": 0,
+          "explanation": "In the reactivity series order (K, Na, Ca, Mg, Al, C, Zn, Fe, Pb, H, Cu, Ag, Au), zinc appears above iron, so zinc is more reactive.",
+          "d": 1
+        },
+        {
+          "question": "When potassium and sodium each react with cold water, the hydrogen gas produced explodes with a distinctively coloured flame. What are these two flame colours?",
+          "choices": [
+            "Potassium: lilac; Sodium: yellow",
+            "Potassium: yellow; Sodium: lilac",
+            "Both lilac",
+            "Both yellow"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state potassium's hydrogen gas explodes with a lilac flame, while sodium's explodes with a yellow flame.",
+          "d": 2
+        },
+        {
+          "question": "Besides the basic oxide K₂O, what other two oxides does potassium form when reacting with oxygen?",
+          "choices": [
+            "Peroxide K₂O₂ and superoxide KO₂",
+            "Hydroxide and carbonate",
+            "Nitride and hydride",
+            "Sulfate and chloride"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that potassium forms basic oxide K₂O, peroxide K₂O₂ and superoxide KO₂ when reacting with oxygen.",
+          "d": 2
+        },
+        {
+          "question": "According to the decomposition table, which two metals decompose on heating to form the free metal itself, rather than a metal oxide?",
+          "choices": [
+            "Silver and gold",
+            "Potassium and sodium",
+            "Calcium and magnesium",
+            "Zinc and iron"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that silver and gold nitrates/carbonates are unstable and decompose to form the metal itself, unlike calcium, magnesium, aluminium, zinc, iron, lead and copper, which decompose to form the metal oxide, and potassium and sodium, which are very stable and do not decompose at all.",
+          "d": 3
+        },
+        {
+          "question": "How do zinc and iron differ in their reaction with steam, according to the notes?",
+          "choices": [
+            "Zinc reacts readily, forming ZnO (yellow when hot, white when cold), while iron reacts slowly, forming Fe₃O₄",
+            "Zinc reacts slowly, forming Fe₃O₄, while iron reacts readily, forming ZnO",
+            "Neither zinc nor iron reacts with steam",
+            "Both react explosively, forming the same oxide"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state zinc 'reacts readily. Forms oxide ZnO (hot: yellow, cold: white)', while iron 'reacts slowly. Forms Fe₃O₄'.",
+          "d": 3
+        },
+        {
+          "question": "According to the steam-reaction notes, which metal produces a white glow when it reacts with steam?",
+          "choices": [
+            "Zinc (Zn)",
+            "Magnesium (Mg)",
+            "Potassium (K)",
+            "Iron (Fe)"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes describe magnesium's reaction with steam as fast, producing a white glow, forming MgO + H₂.",
+          "d": 1
+        },
+        {
+          "question": "According to the notes, which metal extraction method is used for metals BELOW carbon in the reactivity series?",
+          "choices": [
+            "No extraction is needed",
+            "Electrolysis",
+            "Reduction with carbon",
+            "Reaction with steam"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state metals below carbon (Zn, Fe, Pb, Cu, Ag, Au) are less reactive and can be displaced by carbon, so reduction with carbon is used, while metals above carbon (K, Na, Ca, Mg, Al) require electrolysis.",
+          "d": 2
+        },
+        {
+          "question": "According to the notes, what three oxide compounds does sodium form when reacting with oxygen?",
+          "choices": [
+            "NaO and Na₂O₃",
+            "Na₂O only",
+            "Na₂O₂ and NaO only",
+            "Na₂O, Na₂O₂, and NaO₂"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state sodium forms the basic oxide Na₂O, the peroxide Na₂O₂, and the superoxide NaO₂ when reacting with oxygen.",
+          "d": 2
+        },
+        {
+          "question": "In the reaction Zn(s) + CuO(s) → ZnO(s) + Cu(s), a magnesium ribbon is ignited to act as a fuse. Based on the notes, why is zinc able to reduce copper(II) oxide to copper in this reaction?",
+          "choices": [
+            "Because magnesium directly reduces the copper(II) oxide, not zinc",
+            "Because zinc is below copper in the reactivity series",
+            "Because copper is more reactive than zinc",
+            "Because zinc is more reactive than copper and forms Zn²⁺ ions more readily, so it reduces CuO to Cu"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state the magnesium ribbon only acts as a fuse, providing energy to start the reaction; it is zinc, being more reactive than copper (forming Zn²⁺ ions more readily), that reduces copper(II) oxide to copper.",
+          "d": 3
+        },
+        {
+          "question": "Aluminium does not react with steam due to its unreactive oxide layer, yet it undergoes only a SLOW reaction (not no reaction) with dilute acid, also attributed to the aluminium oxide layer. Based on this and aluminium's high position in the reactivity series, which best explains aluminium's slow reaction with acid?",
+          "choices": [
+            "Aluminium reacts slowly because it is below hydrogen in the reactivity series",
+            "The protective aluminium oxide layer delays contact between the metal and the acid, despite aluminium being intrinsically highly reactive",
+            "The oxide layer speeds up the reaction between aluminium and acid",
+            "Aluminium is actually one of the least reactive metals in the series"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes attribute both aluminium's lack of reaction with steam and its slow reaction with dilute acid to the same unreactive aluminium oxide layer, which shields the reactive metal underneath and delays reaction, despite aluminium's high position in the reactivity series.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -1121,6 +1961,126 @@
           "answerIndex": 0,
           "explanation": "Neutralisation is explicitly listed as a non-redox reaction.",
           "d": 2
+        },
+        {
+          "question": "In the reaction Cu²⁺ + Mg → Cu + Mg²⁺, how many electrons does each magnesium atom lose, and is this oxidation or reduction?",
+          "choices": [
+            "2 electrons; oxidation",
+            "2 electrons; reduction",
+            "1 electron; oxidation",
+            "2 electrons gained; oxidation"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that Mg loses 2 electrons per atom to form Mg²⁺ ions, and this loss of electrons is oxidation.",
+          "d": 1
+        },
+        {
+          "question": "In the reaction Cu²⁺ + Mg → Cu + Mg²⁺, why is Cu²⁺ described as being reduced?",
+          "choices": [
+            "Because it gains 2 electrons per ion to form Cu",
+            "Because it loses 2 electrons per ion to form Cu",
+            "Because it gains oxygen",
+            "Because its oxidation state increases"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that Cu²⁺ gains 2 electrons per ion to form Cu, and reduction is defined as a gain of electrons.",
+          "d": 2
+        },
+        {
+          "question": "Based on the change in oxidation state (not hydrogen transfer), why is sulfur in H₂S said to be oxidised in the reaction H₂S + Cl → 2HCl + S?",
+          "choices": [
+            "Because sulfur's oxidation state increases from -2 (in H₂S) to 0 (in S), and oxidation is a gain (increase) in oxidation state",
+            "Because sulfur's oxidation state decreases from -2 to 0",
+            "Because sulfur loses 2 hydrogen atoms",
+            "Because sulfur gains oxygen"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that, by oxidation state, H₂S is oxidised as the oxidation state of S increases from -2 to 0, and oxidation is defined as a gain (increase) in oxidation state.",
+          "d": 2
+        },
+        {
+          "question": "OIL RIG generally states oxidation is loss and reduction is gain of electrons. According to the notes, in which two cases does the OPPOSITE pattern occur (oxidation being a gain rather than a loss)?",
+          "choices": [
+            "Oxygen transfer and change in oxidation state",
+            "Electron transfer and hydrogen transfer",
+            "Oxygen transfer and hydrogen transfer",
+            "Electron transfer and change in oxidation state"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that OIL RIG generally holds, 'except when involving oxygen or oxidation state, where the opposite occurs' — oxidation is a gain of oxygen or oxidation state in those two cases.",
+          "d": 3
+        },
+        {
+          "question": "Neutralisation and precipitation are both listed as non-redox reactions. Since redox reactions involve electrons lost by one substance being gained by another, what does this imply about neutralisation and precipitation?",
+          "choices": [
+            "No electrons are transferred between the reacting species",
+            "Electrons are transferred but not conserved",
+            "Only oxidation occurs, without reduction",
+            "Only oxygen is transferred, not electrons"
+          ],
+          "answerIndex": 0,
+          "explanation": "Since oxidation and reduction (electron transfer) always occur together in redox reactions, and neutralisation/precipitation are explicitly classified as non-redox, no electron transfer occurs between the reacting species in these reactions.",
+          "d": 3
+        },
+        {
+          "question": "In terms of hydrogen transfer, what is oxidation, according to the notes?",
+          "choices": [
+            "Loss of oxygen",
+            "Gain of hydrogen",
+            "Gain of electrons",
+            "Loss of hydrogen"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state that in terms of hydrogen transfer, oxidation is a loss of hydrogen (as shown by H₂S losing 2H to form S).",
+          "d": 1
+        },
+        {
+          "question": "In the reaction H₂S + Cl → 2HCl + S, the oxidation state of chlorine changes from 0 in Cl to -1 in HCl. Based on the oxidation-state definition in the notes, is chlorine oxidised or reduced?",
+          "choices": [
+            "Reduced",
+            "Neither, since chlorine's oxidation state does not represent a redox change",
+            "Oxidised",
+            "Both oxidised and reduced simultaneously"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state reduction is a loss (decrease) in oxidation state; since chlorine's oxidation state decreases from 0 to -1, chlorine is reduced.",
+          "d": 2
+        },
+        {
+          "question": "In terms of electron transfer, what is reduction, in general, according to the notes?",
+          "choices": [
+            "Gain of oxygen",
+            "Loss of electrons",
+            "Gain of electrons",
+            "Loss of hydrogen"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state that in terms of electron transfer, reduction is a gain of electrons (as shown by Cu²⁺ gaining 2 electrons to form Cu).",
+          "d": 2
+        },
+        {
+          "question": "Which of the following statements about REDUCTION is INCORRECT, based on the notes?",
+          "choices": [
+            "Reduction is a gain of electrons",
+            "Reduction is a gain of hydrogen",
+            "Reduction is a loss of oxygen",
+            "Reduction is an increase in oxidation state"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state reduction is a DECREASE (loss) in oxidation state, not an increase — the other three statements (loss of oxygen, gain of electrons, gain of hydrogen) are all correctly described as reduction in the notes.",
+          "d": 3
+        },
+        {
+          "question": "The notes state that oxidation and reduction must always occur together in a redox reaction. In a reaction between elements P and Q, which combination of oxidation state changes represents a VALID redox reaction?",
+          "choices": [
+            "P's oxidation state increases from 0 to +2, while Q's oxidation state also increases from +1 to +3",
+            "P's oxidation state decreases from +2 to 0, while Q's oxidation state also decreases from +1 to -1",
+            "P's oxidation state increases from 0 to +2, while Q's oxidation state decreases from +1 to -1",
+            "Both P's and Q's oxidation states stay unchanged"
+          ],
+          "answerIndex": 2,
+          "explanation": "A valid redox reaction requires oxidation (increase in oxidation state) and reduction (decrease in oxidation state) to occur together. Only the second option shows one species increasing (P, oxidised) while the other decreases (Q, reduced); the others show both increasing, both decreasing, or no change, which the notes' principle rules out as invalid.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -1294,6 +2254,66 @@
           "answerIndex": 2,
           "explanation": "Group 1 metals have oxidation state +1 in their compounds.",
           "d": 1
+        },
+        {
+          "question": "What is the oxidation state of a simple ion such as Al³⁺?",
+          "choices": [
+            "+3, the same as the charge on the ion",
+            "-3, opposite to the charge on the ion",
+            "+1, like other simple ions",
+            "0, since it is a single element"
+          ],
+          "answerIndex": 0,
+          "explanation": "The oxidation state of a simple ion is the same as the charge on the ion (including sign), so Al³⁺ has an oxidation state of +3.",
+          "d": 1
+        },
+        {
+          "question": "What is the oxidation number of calcium in the compound CaO?",
+          "choices": [
+            "0",
+            "+2",
+            "-2",
+            "+1"
+          ],
+          "answerIndex": 1,
+          "explanation": "Group 2 metals such as calcium have an oxidation number of +2 in their compounds, as shown by the example Ca in CaO.",
+          "d": 2
+        },
+        {
+          "question": "What is the oxidation state of fluorine in the compound MgF₂?",
+          "choices": [
+            "+2",
+            "-1",
+            "-2",
+            "+1"
+          ],
+          "answerIndex": 1,
+          "explanation": "Fluorine has an oxidation state of -1 in its compounds, as shown by the example MgF₂.",
+          "d": 2
+        },
+        {
+          "question": "In the polyatomic ion ClO₃⁻, oxygen has its usual oxidation state of -2. Using the rule that the oxidation numbers of all atoms in a polyatomic ion must sum to the charge of the ion, what is the oxidation state of chlorine in ClO₃⁻?",
+          "choices": [
+            "-1",
+            "+3",
+            "+7",
+            "+5"
+          ],
+          "answerIndex": 3,
+          "explanation": "The three oxygen atoms contribute 3 x (-2) = -6. Since the ion's overall charge is -1, chlorine's oxidation number x must satisfy x + (-6) = -1, giving x = +5, matching the exception noted for Cl in ClO₃⁻.",
+          "d": 3
+        },
+        {
+          "question": "In which of the following compounds does oxygen NOT have its usual oxidation state of -2?",
+          "choices": [
+            "Na₂O",
+            "F₂O",
+            "MgO",
+            "CO₂"
+          ],
+          "answerIndex": 1,
+          "explanation": "In F₂O, fluorine is more electronegative than oxygen, so oxygen instead takes an oxidation state of +2, unlike in Na₂O, MgO, and CO₂ where oxygen has its usual -2 oxidation state.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -1423,6 +2443,66 @@
           "answerIndex": 3,
           "explanation": "A reducing agent is itself oxidised as it reduces another substance.",
           "d": 2
+        },
+        {
+          "question": "When an oxidising agent oxidises another substance by giving it oxygen, what happens to the oxygen content of that substance?",
+          "choices": [
+            "It loses oxygen",
+            "It gains hydrogen",
+            "It loses electrons only, with no change in oxygen",
+            "It gains oxygen"
+          ],
+          "answerIndex": 3,
+          "explanation": "One of the three ways an oxidising agent causes oxidation is by giving that substance oxygen, so the substance gains oxygen.",
+          "d": 1
+        },
+        {
+          "question": "Which of the following is one of the three ways a reducing agent can cause another substance to be reduced?",
+          "choices": [
+            "Donating electrons to that substance",
+            "Giving that substance oxygen",
+            "Removing hydrogen from that substance",
+            "Accepting electrons from that substance"
+          ],
+          "answerIndex": 0,
+          "explanation": "A reducing agent reduces another substance by removing oxygen from it, giving it hydrogen, or donating electrons to it; the other options describe how an oxidising agent causes oxidation instead.",
+          "d": 2
+        },
+        {
+          "question": "Sulfur dioxide (SO₂) is used to reduce another substance in a reaction, being oxidised itself in the process. Based on its classification in the notes, what role does SO₂ play?",
+          "choices": [
+            "Neither, as SO₂ is unreactive",
+            "Reducing agent",
+            "Oxidising agent",
+            "Both, depending on temperature"
+          ],
+          "answerIndex": 1,
+          "explanation": "Sulfur dioxide (SO₂) is listed as a reducing agent, and reducing agents are themselves oxidised by the end of a reaction.",
+          "d": 2
+        },
+        {
+          "question": "Potassium dichromate(VI) (K₂Cr₂O₇) is used to oxidise potassium iodide (KI) in a reaction. Based on how oxidising and reducing agents are classified in the notes, which statement about electron transfer is correct?",
+          "choices": [
+            "Neither substance gains or loses electrons",
+            "Potassium dichromate(VI) accepts electrons from potassium iodide",
+            "Potassium dichromate(VI) donates electrons to potassium iodide",
+            "Potassium iodide accepts electrons from potassium dichromate(VI)"
+          ],
+          "answerIndex": 1,
+          "explanation": "Potassium dichromate(VI) is an oxidising agent, which causes oxidation by accepting electrons from the other substance; potassium iodide is a reducing agent, which donates those electrons.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following substances is classified as a reducing agent rather than an oxidising agent, according to the notes?",
+          "choices": [
+            "Potassium manganate(VII) (KMnO₄)",
+            "Hydrogen sulfide (H₂S)",
+            "Hydrogen peroxide (H₂O₂)",
+            "Nitric acid (HNO₃)"
+          ],
+          "answerIndex": 1,
+          "explanation": "Hydrogen sulfide (H₂S) is listed as a reducing agent, whereas hydrogen peroxide, nitric acid, and potassium manganate(VII) are all listed as oxidising agents in the notes.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -1583,6 +2663,66 @@
           "answerIndex": 2,
           "explanation": "Sugar does not ionise and cannot conduct electricity under any conditions, making it a non-electrolyte.",
           "d": 1
+        },
+        {
+          "question": "In electrolysis, what term describes a cation or anion that gains or loses electrons to form an atom or molecule?",
+          "choices": [
+            "Ionised",
+            "Discharged",
+            "Neutralised",
+            "Electrolysed"
+          ],
+          "answerIndex": 1,
+          "explanation": "When cations or anions gain or lose electrons to form atoms or molecules, they are said to be discharged.",
+          "d": 1
+        },
+        {
+          "question": "Which electrode in an electrolytic cell is connected to the positive terminal of the battery?",
+          "choices": [
+            "Both electrodes equally",
+            "Neither electrode",
+            "The cathode",
+            "The anode"
+          ],
+          "answerIndex": 3,
+          "explanation": "The anode is the positive electrode and is connected to the positive terminal of the battery, while the cathode is connected to the negative terminal.",
+          "d": 2
+        },
+        {
+          "question": "Which of the following correctly describes an electrolyte, as used in electrolysis?",
+          "choices": [
+            "A substance that never conducts electricity, such as sugar",
+            "A solid ionic compound with ions fixed in position",
+            "A metal electrode that conducts electricity",
+            "A molten ionic compound or aqueous solution containing free-moving ions that allow electricity to flow"
+          ],
+          "answerIndex": 3,
+          "explanation": "An electrolyte is a molten ionic compound or aqueous solution containing free-moving ions that allow electricity to flow through it and be decomposed into cations and anions.",
+          "d": 2
+        },
+        {
+          "question": "Lead(II) bromide (PbBr₂) is a binary compound like sodium chloride. Following the same rules used to write the half equation for chlorine gas formation at the anode in molten NaCl electrolysis (balance atoms first, then add electrons on the product side), which half equation correctly represents the anode reaction for molten PbBr₂?",
+          "choices": [
+            "Br₂ (g) + 2e⁻ → 2Br⁻ (l)",
+            "2Br⁻ (l) → Br₂ (g) - 2e⁻",
+            "Br⁻ (l) + e⁻ → Br (l)",
+            "2Br⁻ (l) → Br₂ (g) + 2e⁻"
+          ],
+          "answerIndex": 3,
+          "explanation": "As with Cl⁻ in molten NaCl, Br⁻ ions are oxidised at the anode: atoms are balanced first (2Br⁻ to give Br₂), then the 2 electrons lost are added on the product (right) side, since electrons must never be subtracted, giving 2Br⁻ (l) → Br₂ (g) + 2e⁻.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following statements about electrolysis is NOT correct?",
+          "choices": [
+            "Cations move to the cathode and gain electrons through reduction",
+            "Electrolysis takes place in an electrolytic cell",
+            "Anions move to the anode and lose electrons through oxidation",
+            "In a molten electrolyte, H⁺ and OH⁻ ions are present"
+          ],
+          "answerIndex": 3,
+          "explanation": "H⁺ and OH⁻ ions are present only in aqueous electrolytes, which contain water; molten compounds do not have water, so H⁺ and OH⁻ ions are not present in a molten electrolyte.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -1744,6 +2884,66 @@
           "answerIndex": 1,
           "explanation": "Polyatomic ions like SO₄²⁻ and NO₃⁻ cannot be discharged and remain in solution.",
           "d": 1
+        },
+        {
+          "question": "At the cathode during electrolysis of an aqueous solution with inert electrodes, which ions are selectively discharged in preference to metal ions above hydrogen in the reactivity series?",
+          "choices": [
+            "SO₄²⁻ ions",
+            "The metal ions themselves",
+            "OH⁻ ions",
+            "H⁺ ions"
+          ],
+          "answerIndex": 3,
+          "explanation": "H⁺ ions are selectively discharged in preference to ions of metals above hydrogen in the reactivity series, though metals below hydrogen (e.g. Cu, Ag) are discharged in preference to H⁺.",
+          "d": 1
+        },
+        {
+          "question": "In the electrolysis of aqueous copper sulfate solution with inert electrodes, why does the solution gradually become acidic?",
+          "choices": [
+            "Because O₂ gas dissolves in the solution to form an acid",
+            "Because the remaining H⁺ ions (from the cathode) and SO₄²⁻ ions (from the anode) recombine to form H₂SO₄",
+            "Because Cu²⁺ ions react with water to form acid",
+            "Because OH⁻ ions accumulate and lower the pH"
+          ],
+          "answerIndex": 1,
+          "explanation": "Since Cu²⁺ is discharged at the cathode and OH⁻ is discharged at the anode, the H⁺ and SO₄²⁻ ions left behind recombine to form H₂SO₄, making the solution acidic.",
+          "d": 2
+        },
+        {
+          "question": "A student is told that electroplating with nickel is taking place in an electrolysis setup, even though nickel is only slightly above hydrogen in the reactivity series. Based on the general rule given in the notes, what should be assumed?",
+          "choices": [
+            "The electrolyte must be changed to a molten state",
+            "Hydrogen will always be discharged instead of nickel",
+            "No reaction will occur at the cathode",
+            "Nickel ions can still be assumed to be selectively discharged at the cathode"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state that even if a metal is slightly above hydrogen, it can be selectively discharged through industrial means, and if a question states electroplating is taking place, the metal (e.g. nickel) can be assumed to be discharged.",
+          "d": 2
+        },
+        {
+          "question": "During electrolysis of dilute sodium chloride solution, 15 cm³ of oxygen gas is collected at the anode. Based on the mole ratio given in the notes for the products of this electrolysis, what volume of hydrogen gas would be expected at the cathode (assuming none dissolves)?",
+          "choices": [
+            "15 cm³",
+            "45 cm³",
+            "30 cm³",
+            "7.5 cm³"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state that for every mole of O₂ produced, twice the moles of H₂ is produced, so 15 cm³ of O₂ corresponds to 2 x 15 = 30 cm³ of H₂.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following statements about the electrolysis of concentrated sodium chloride solution is NOT correct?",
+          "choices": [
+            "Litmus paper at the anode turns from red to blue",
+            "The solution becomes alkaline as NaOH forms",
+            "Cl⁻ ions are selectively discharged at the anode because they are more concentrated than OH⁻ ions",
+            "Equal volumes of Cl₂ and H₂ gases are produced"
+          ],
+          "answerIndex": 0,
+          "explanation": "According to the notes, litmus paper at the anode is bleached by Cl₂, while it is litmus paper in the solution (not at the anode) that turns from red to blue as NaOH forms.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -1877,6 +3077,66 @@
           "answerIndex": 2,
           "explanation": "The impure copper anode dissolves into solution, decreasing in size, as Cu²⁺ ions form.",
           "d": 1
+        },
+        {
+          "question": "What is the half equation for the reaction occurring at the cathode during electrolytic purification of copper?",
+          "choices": [
+            "Cu (s) → Cu²⁺ (aq) + 2e⁻",
+            "2H⁺ (aq) + 2e⁻ → H₂ (g)",
+            "Cu²⁺ (aq) → Cu (s) + 2e⁻",
+            "Cu²⁺ (aq) + 2e⁻ → Cu (s)"
+          ],
+          "answerIndex": 3,
+          "explanation": "At the cathode during electrolytic purification, pure copper is deposited as Cu²⁺ ions gain electrons: Cu²⁺ (aq) + 2e⁻ → Cu (s).",
+          "d": 1
+        },
+        {
+          "question": "During electrolytic purification of copper, what happens to impurities that are more reactive than hydrogen?",
+          "choices": [
+            "They sink to the bottom of the cell",
+            "They are deposited at the cathode along with pure copper",
+            "They remain attached to the anode permanently",
+            "They dissolve into the solution"
+          ],
+          "answerIndex": 3,
+          "explanation": "Impurities that are more reactive than hydrogen dissolve into the solution, while less reactive impurities sink and are deposited at the bottom of the cell.",
+          "d": 2
+        },
+        {
+          "question": "What is the key difference in purpose between electrolytic purification of a metal and electroplating, based on the notes?",
+          "choices": [
+            "Purification requires copper electrodes, while electroplating requires inert electrodes",
+            "Purification does not involve an anode, while electroplating does",
+            "Purification aims to obtain a pure sample of the metal itself, while electroplating aims to coat a different object with a layer of metal for decoration or protection",
+            "Purification always uses a molten electrolyte, while electroplating always uses an aqueous one"
+          ],
+          "answerIndex": 2,
+          "explanation": "Electrolytic purification is used to purify an impure metal into a pure form, whereas electroplating deposits a layer of metal onto another substance to give a decorative finish or a protective, corrosion-resistant layer.",
+          "d": 2
+        },
+        {
+          "question": "Both electrolytic purification of copper and electroplating with copper electrodes use the same anode half equation, Cu (s) → Cu²⁺ (aq) + 2e⁻, and in both processes the CuSO₄ solution remains the same blue colour and concentration. What is the key reason for this, according to the notes?",
+          "choices": [
+            "For every copper ion lost at the cathode, one copper ion is released at the anode, so the concentration of Cu²⁺ ions stays constant",
+            "The anode does not dissolve in either process",
+            "SO₄²⁻ ions are discharged to balance the copper ions",
+            "Copper ions do not actually move during either process"
+          ],
+          "answerIndex": 0,
+          "explanation": "In both processes, for every copper ion deposited or lost at the cathode, one copper ion is released into solution at the dissolving anode, so the concentration of Cu²⁺ ions in the solution remains unchanged throughout.",
+          "d": 3
+        },
+        {
+          "question": "An iron spoon is being electroplated with copper using copper electrodes and a CuSO₄ electrolyte. Based on the notes' description of electroplating, which of the following correctly identifies where the copper layer forms?",
+          "choices": [
+            "On the iron spoon, which acts as the anode",
+            "Copper does not form a layer in this setup; only gas is produced",
+            "On the iron spoon, which acts as the cathode where copper forms a layer around the object",
+            "On the copper anode, since it dissolves during the process"
+          ],
+          "answerIndex": 2,
+          "explanation": "In electroplating, copper forms a layer around the object being plated at the cathode (Cu²⁺ (aq) + 2e⁻ → Cu (s)), so the iron spoon must be the cathode receiving the copper coating, while the copper electrode acts as the anode and dissolves.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2006,6 +3266,66 @@
           "answerIndex": 0,
           "explanation": "Zinc is oxidised and copper ions are reduced, giving the overall reaction Zn (s) + Cu²⁺ (aq) → Zn²⁺ (aq) + Cu (s).",
           "d": 2
+        },
+        {
+          "question": "What happens at the copper electrode in a zinc-copper simple cell?",
+          "choices": [
+            "Copper ions in the solution receive electrons and reduce to form copper",
+            "Copper reacts with zinc directly to form an alloy",
+            "No reaction occurs at the copper electrode",
+            "Copper dissolves to form Cu²⁺ ions"
+          ],
+          "answerIndex": 0,
+          "explanation": "At the copper electrode (cathode), copper ions in the solution receive electrons and are reduced to form copper metal: Cu²⁺ (aq) + 2e⁻ → Cu (s).",
+          "d": 1
+        },
+        {
+          "question": "Which electrode acts as the anode in a zinc-copper simple cell?",
+          "choices": [
+            "Both electrodes act as the anode",
+            "The copper electrode",
+            "The zinc electrode",
+            "Neither electrode, since there is no anode in a simple cell"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes label the zinc electrode as the anode, where zinc dissolves and is oxidised: Zn (s) → Zn²⁺ (aq) + 2e⁻.",
+          "d": 2
+        },
+        {
+          "question": "In a simple cell made of two different metals, why does the more reactive metal become the negative electrode?",
+          "choices": [
+            "Because it is the electrode where electrons flow from, into the circuit",
+            "Because it receives electrons from the less reactive metal",
+            "Because it is always made of copper",
+            "Because it does not dissolve during the reaction"
+          ],
+          "answerIndex": 0,
+          "explanation": "Electrons flow from the more reactive metal to the less reactive metal; since electrons flow from it, the more reactive metal becomes the negative electrode.",
+          "d": 2
+        },
+        {
+          "question": "In a zinc-copper simple cell, the zinc electrode is described as the anode. Given that the more reactive metal in a simple cell becomes the negative electrode, is the anode (zinc) in this cell positively or negatively charged?",
+          "choices": [
+            "Positively charged, because oxidation always occurs at a positive electrode",
+            "Positively charged, because it dissolves into the solution",
+            "Negatively charged, because zinc is the more reactive metal and electrons flow from it",
+            "It has no charge, since it is a metal electrode"
+          ],
+          "answerIndex": 2,
+          "explanation": "Since zinc is the more reactive metal and electrons flow from it into the circuit, zinc (the anode in this cell) is the negative electrode, per the notes' rule that the more reactive metal becomes the negative electrode.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following statements about a zinc-copper simple cell is NOT correct?",
+          "choices": [
+            "Copper ions are reduced to copper metal at the cathode",
+            "Zinc is oxidised to form Zn²⁺ ions at the anode",
+            "The overall reaction is Zn (s) + Cu²⁺ (aq) → Zn²⁺ (aq) + Cu (s)",
+            "The copper electrode is the negative electrode"
+          ],
+          "answerIndex": 3,
+          "explanation": "Copper is the less reactive metal in this cell, so it becomes the positive electrode, not the negative electrode; the negative electrode is zinc, the more reactive metal.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2191,6 +3511,66 @@
           "answerIndex": 3,
           "explanation": "Diluting the reactant slows the reaction, allowing sufficient measurements to be taken with the gas syringe.",
           "d": 2
+        },
+        {
+          "question": "Which of the following is given in the notes as an example of a fast reaction?",
+          "choices": [
+            "Precipitation of AgCl from NaCl(aq) and AgNO₃(aq)",
+            "Rusting of iron in air",
+            "Reaction of calcium with water",
+            "Fermentation"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes list the precipitation of AgCl from NaCl and AgNO₃ (along with the explosion of a petrol-air mixture) as an example of a very fast reaction, while rusting and fermentation are slow, and calcium with water is moderately fast.",
+          "d": 1
+        },
+        {
+          "question": "Besides sufficient activation energy, what other condition must be met for a collision between reactant particles to be an 'effective collision', according to the Collision Theory?",
+          "choices": [
+            "The particles must have the proper orientation",
+            "The particles must be in the solid state",
+            "The particles must be the same size",
+            "The particles must be at a low temperature"
+          ],
+          "answerIndex": 0,
+          "explanation": "For an effective collision to occur, reactants must collide, have sufficient energy (activation energy), and have the proper orientation.",
+          "d": 2
+        },
+        {
+          "question": "In the experiment measuring mass loss during the reaction of marble chips (CaCO₃) and HCl, why is a thread used to suspend the flask setup before recording mass?",
+          "choices": [
+            "So that the total mass of the setup can be recorded before the reaction starts, resulting in a less delayed reaction and less wastage",
+            "To increase the surface area of the marble chips",
+            "To cool the reaction mixture during the experiment",
+            "To keep the gas produced from escaping"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that a thread is used so the total mass of the setup can be recorded before the reaction starts, which results in a less delayed reaction and less wastage.",
+          "d": 2
+        },
+        {
+          "question": "In Experiment I, HCl at 30°C reacts with CaCO₃; in Experiment II, HCl at 60°C reacts with the same mass of CaCO₃. Both experiments produce a total of 100 cm³ of CO₂ gas, though Experiment II reaches this volume faster. What best explains why the total volume of CO₂ produced is the same in both experiments despite the temperature difference?",
+          "choices": [
+            "Higher temperature reduces the total amount of CO₂ that can be produced",
+            "HCl is the limiting reagent in both experiments",
+            "CaCO₃ is the limiting reagent, and since the same mass of CaCO₃ is used in both experiments, temperature (which only affects the rate, not the amount of reactants) does not change the total volume of gas produced",
+            "Temperature has no effect on the frequency of effective collisions"
+          ],
+          "answerIndex": 2,
+          "explanation": "Since CaCO₃ is the limiting reagent and the same mass is used in both experiments, changing the temperature only affects how quickly the reaction reaches completion (the gradient of the graph), not the total volume of CO₂ collected, which both graphs show levels off at 100 cm³.",
+          "d": 3
+        },
+        {
+          "question": "The notes state that 0.01 mol of CaCO₃ reacts with 0.02 mol of HCl (a 1:2 molar ratio) to produce 100 cm³ of CO₂. If a student instead used 0.03 mol of HCl while keeping 0.01 mol of CaCO₃, what would happen to the limiting reagent and the total volume of CO₂ produced compared to the original experiment?",
+          "choices": [
+            "CaCO₃ remains the limiting reagent, but more CO₂ is produced than before",
+            "HCl becomes the limiting reagent, and more CO₂ is produced than before",
+            "HCl becomes the limiting reagent, and less CO₂ is produced than before",
+            "CaCO₃ remains the limiting reagent, and the same volume of CO₂ is produced as before"
+          ],
+          "answerIndex": 3,
+          "explanation": "Only 0.01 mol of CaCO₃ is present, requiring just 0.02 mol of HCl to fully react; the extra 0.01 mol of HCl is simply excess. Since CaCO₃ remains the limiting reagent and its amount is unchanged, the same total volume of CO₂ (100 cm³) is produced as before.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2346,6 +3726,66 @@
           "answerIndex": 2,
           "explanation": "Exam notes specify axes must always be labelled when drawing such graphs.",
           "d": 1
+        },
+        {
+          "question": "Does adding a catalyst change the total yield (amount of product formed) of a chemical reaction?",
+          "choices": [
+            "It depends on the temperature of the reaction",
+            "Yes, it always increases the yield",
+            "Yes, it always decreases the yield",
+            "No, a catalyst only changes the speed, not the yield, of a reaction"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state that a catalyst only changes the speed and not the yield of a chemical reaction.",
+          "d": 1
+        },
+        {
+          "question": "How does a catalyst increase the speed of a chemical reaction, in terms of activation energy?",
+          "choices": [
+            "It removes the need for activation energy entirely",
+            "It increases the activation energy needed, so fewer collisions are wasted",
+            "It provides an alternative reaction pathway with a lower activation energy",
+            "It increases the temperature of the reaction mixture"
+          ],
+          "answerIndex": 2,
+          "explanation": "A catalyst increases the speed of a reaction by providing an alternative pathway with a lower activation energy than the uncatalysed reaction.",
+          "d": 2
+        },
+        {
+          "question": "Besides mass, which of the following may change for a catalyst by the end of a reaction, according to the notes?",
+          "choices": [
+            "Its selectivity for different reactions",
+            "The amount present",
+            "Its chemical properties",
+            "Its physical appearance"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state that a catalyst's physical appearance may change at the end of a reaction (though NOT its mass), while its chemical properties remain unchanged.",
+          "d": 2
+        },
+        {
+          "question": "A student explains that increasing temperature increases the speed of reaction by saying particles move faster and collide more often, but the answer earns few marks. Based on the examination tips in the notes, what key phrase is missing that should always be included when answering questions on factors affecting rate of reaction?",
+          "choices": [
+            "The reaction becomes exothermic",
+            "The catalyst is poisoned",
+            "Frequency of effective collisions increasing/decreasing",
+            "Activation energy is lowered"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes advise that answers on factors affecting rate of reaction should always include the frequency of effective collisions increasing or decreasing, which the student's answer omitted.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following statements about catalysts is NOT correct, based on the notes?",
+          "choices": [
+            "A catalyst's mass changes by the end of a reaction because some of it is used up",
+            "A catalyst is selective, with different catalysts speeding up different reactions",
+            "A catalyst provides an alternative pathway with a lower activation energy",
+            "A catalyst can be poisoned or inactivated by impurities"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that a catalyst is NOT used up during a reaction and its mass remains unchanged at the beginning and end, even though its physical appearance may change.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2496,6 +3936,66 @@
           "answerIndex": 1,
           "explanation": "Heat energy is absorbed by solid particles during melting, allowing them to overcome attractive forces.",
           "d": 1
+        },
+        {
+          "question": "According to the notes, what happens to the temperature of the reaction mixture during an endothermic reaction, such as a change from 28°C to 22°C?",
+          "choices": [
+            "The temperature drops",
+            "The temperature fluctuates unpredictably",
+            "The temperature rises",
+            "The temperature stays constant"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes describe endothermic reactions as causing a drop in temperature (e.g. 28°C to 22°C) because heat is transferred from the surroundings to the reactants.",
+          "d": 1
+        },
+        {
+          "question": "Which pair correctly identifies the reaction type for dissolving anhydrous CuSO4 in water and dissolving NH4Cl crystals in water respectively?",
+          "choices": [
+            "Exothermic; Exothermic",
+            "Endothermic; Endothermic",
+            "Exothermic; Endothermic",
+            "Endothermic; Exothermic"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes list dissolving anhydrous salts like anhydrous CuSO4 as an exothermic example, while dissolving ionic compounds like NH4Cl crystals is listed as an endothermic example.",
+          "d": 2
+        },
+        {
+          "question": "A reaction causes the reaction container to feel cooler as it proceeds. According to the notes, what is happening in terms of heat transfer?",
+          "choices": [
+            "No heat transfer occurs",
+            "Heat is transferred from the surroundings to the reactants",
+            "Heat is transferred between products only",
+            "Heat is transferred from the reactants to the surroundings"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state that in endothermic reactions, heat is transferred from the surroundings to the reactants, causing the container to feel cooler.",
+          "d": 2
+        },
+        {
+          "question": "Which of the following is NOT classified as an exothermic reaction, according to the notes?",
+          "choices": [
+            "Condensation",
+            "Photosynthesis",
+            "Corrosion of iron (rusting)",
+            "Neutralisation"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes list neutralisation, corrosion of metals, and condensation as exothermic examples, but photosynthesis is explicitly listed as an endothermic example.",
+          "d": 3
+        },
+        {
+          "question": "Thermal decomposition of CaCO3 into CaO and CO2 requires continuous heating to proceed, whereas dissolving anhydrous CuSO4 in water causes the container to feel warm without any external heating. What does this indicate about the two processes, according to the notes?",
+          "choices": [
+            "Thermal decomposition is exothermic while dissolving anhydrous CuSO4 is endothermic",
+            "Both processes are endothermic",
+            "Both processes are exothermic",
+            "Thermal decomposition is endothermic while dissolving anhydrous CuSO4 is exothermic"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes list thermal decomposition (CaCO3 → CaO + CO2, with heat) as an endothermic example, requiring continuous energy input, while dissolving anhydrous CuSO4 in water is listed as exothermic, releasing heat spontaneously and warming the container.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2645,6 +4145,66 @@
           "answerIndex": 1,
           "explanation": "Heat change/enthalpy change is measured in kilojoules (kJ).",
           "d": 1
+        },
+        {
+          "question": "According to the worked example in the notes, 1 mole of H2O molecules contains 2 O-H bonds. How many O-H bonds are present in 2 moles of H2O molecules?",
+          "choices": [
+            "8",
+            "6",
+            "2",
+            "4"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state that since 1 mol of H2O has 2 O-H bonds, 2 mol of H2O has 4 O-H bonds.",
+          "d": 1
+        },
+        {
+          "question": "Forming 1 mole of O-H bonds releases 463 kJ of energy. What is the total energy released when 4 moles of O-H bonds are formed, as occurs when 2 moles of H2O are produced?",
+          "choices": [
+            "1852 kJ",
+            "2315 kJ",
+            "1389 kJ",
+            "926 kJ"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes calculate the total energy released for bond making as 4(463) = 1852 kJ.",
+          "d": 2
+        },
+        {
+          "question": "According to the notes, why can't the number of bonds broken or formed alone be used to determine whether a reaction is exothermic or endothermic?",
+          "choices": [
+            "Because the number of bonds broken always equals the number formed",
+            "Because only the amount of energy released or absorbed determines this, not the number of bonds",
+            "Because enthalpy change only applies to reactions with equal numbers of bonds",
+            "Because bond breaking is always exothermic regardless of bond count"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes explicitly state that the number of bonds broken or formed does not tell whether a reaction is exothermic; only the energy that is released or absorbed does so.",
+          "d": 2
+        },
+        {
+          "question": "In the reaction 2H2(g) + O2(g) → 2H2O(g), the total energy absorbed for bond breaking is 1368 kJ and the total energy released for bond making is 1852 kJ, giving ΔH = −484 kJ. If this reaction were reversed, i.e. 2H2O(g) → 2H2(g) + O2(g), what would be the value of ΔH for the reverse reaction?",
+          "choices": [
+            "−968 kJ",
+            "+484 kJ",
+            "−484 kJ",
+            "+968 kJ"
+          ],
+          "answerIndex": 1,
+          "explanation": "Since ΔH = total energy of products − total energy of reactants, reversing the reaction swaps which side is 'reactants' and which is 'products', flipping the sign of ΔH from −484 kJ to +484 kJ.",
+          "d": 3
+        },
+        {
+          "question": "Breaking 1 mole of H-H bonds requires 436 kJ and breaking 1 mole of O=O bonds requires 496 kJ. If only 1 mole of H2 molecules were broken together with 1 mole of O2 molecules (instead of the 2 moles of H2 used in the notes' worked example), what would be the total energy absorbed for bond breaking?",
+          "choices": [
+            "496 kJ",
+            "436 kJ",
+            "1368 kJ",
+            "932 kJ"
+          ],
+          "answerIndex": 3,
+          "explanation": "Using the bond energies from the notes: 436 kJ (1 mol H-H) + 496 kJ (1 mol O=O) = 932 kJ, which is less than the 1368 kJ calculated in the notes for breaking 2 mol of H2 plus 1 mol of O2.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2766,6 +4326,66 @@
           "answerIndex": 2,
           "explanation": "Heat provides energy to increase particle energy so they can overcome the activation energy barrier.",
           "d": 2
+        },
+        {
+          "question": "According to the notes, when do reactant particles undergo a chemical reaction in terms of their energy relative to the activation energy (Ea)?",
+          "choices": [
+            "When their energy is less than Ea",
+            "Only when their energy is exactly zero",
+            "Regardless of their energy level",
+            "When their energy is equal to or more than Ea"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state the reaction will only occur when reactant particles possess energy equal to or more than the activation energy Ea.",
+          "d": 1
+        },
+        {
+          "question": "According to the notes, what role does heat play in starting a chemical reaction?",
+          "choices": [
+            "Heat converts less energetic particles into more energetic ones, helping them reach the activation energy needed to react",
+            "Heat has no effect on whether reactant particles can react",
+            "Heat removes energy from reactant particles so they can react",
+            "Heat only affects the products, not the reactants"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that heat provides the energy to change less energetic particles into more energetic particles, starting the reaction.",
+          "d": 2
+        },
+        {
+          "question": "What two quantities are illustrated together on an energy profile diagram, according to the notes?",
+          "choices": [
+            "The mass of reactants and products",
+            "The enthalpy change (ΔH) and the activation energy",
+            "The rate constant and reaction order",
+            "The temperature and the pressure of the reaction"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state that energy profile diagrams illustrate the change in energy as the reaction progresses, and also show the enthalpy change (ΔH) and the activation energy.",
+          "d": 2
+        },
+        {
+          "question": "Which of the following statements about activation energy is NOT correct, according to the notes?",
+          "choices": [
+            "Heat provides the energy needed to increase particle energy so a reaction can start",
+            "It acts as an energy barrier that must be overcome before reactants can form products",
+            "Reactant particles with energy less than Ea will still react, just at a slower rate",
+            "It is the minimum energy reactant particles must possess for a reaction to occur"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state that when reactant particles have energy less than Ea, no reaction occurs at all — not that the reaction proceeds slowly. The other three statements are directly supported by the notes.",
+          "d": 3
+        },
+        {
+          "question": "A reaction mixture is heated. Based on the notes, which sequence correctly explains how this leads to the reaction occurring?",
+          "choices": [
+            "Heat only affects the energy profile diagram, not the actual reactant particles",
+            "Heat increases the energy of reactant particles → particles reach or exceed the activation energy Ea → the energy barrier is overcome → the reaction occurs",
+            "Heat directly converts reactants into products without any change in particle energy",
+            "Heat decreases the energy of reactant particles → particles fall below Ea → no reaction occurs"
+          ],
+          "answerIndex": 1,
+          "explanation": "Combining the notes' facts: heat raises particle energy, the activation energy acts as a barrier, and a reaction occurs only when particle energy is equal to or exceeds Ea.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2919,6 +4539,66 @@
           "answerIndex": 3,
           "explanation": "The hydrogen-oxygen fuel cell only produces water, making it pollution-free.",
           "d": 1
+        },
+        {
+          "question": "According to the notes, what is a fuel?",
+          "choices": [
+            "A substance that reacts with water to release oxygen",
+            "A substance used only to produce carbon dioxide",
+            "A substance that burns easily in air to give out energy",
+            "A substance that absorbs energy from the air without burning"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes define fuels as substances that can burn easily in air to give out energy, e.g. coal, petroleum, natural gas, wood.",
+          "d": 1
+        },
+        {
+          "question": "In the incomplete combustion equation 4CH4(g) + 5O2(g) → 2CO(g) + 8H2O(l) + 2C(s) + heat energy, what does the presence of solid carbon (C) among the products indicate about the combustion conditions?",
+          "choices": [
+            "The fuel used was not a hydrocarbon",
+            "There was a limited/insufficient supply of oxygen",
+            "The reaction was endothermic",
+            "There was an excess supply of oxygen (excess air)"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state complete combustion occurs with excess air giving only CO2 and water, while incomplete combustion produces CO, water, and carbon, implying an insufficient oxygen supply.",
+          "d": 2
+        },
+        {
+          "question": "According to the notes, why is hydrogen considered an efficient source of energy in fuel cells?",
+          "choices": [
+            "It does not require any special storage precautions",
+            "It reacts slowly, releasing energy over a long period",
+            "It is heavier than most other fuels, so it stores more energy per unit volume",
+            "It provides twice the amount of energy compared to many other fuels"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes list as an advantage that hydrogen is an efficient source of energy, providing twice the amount of energy compared to many other fuels.",
+          "d": 2
+        },
+        {
+          "question": "Which of the following is NOT listed in the notes as a disadvantage of hydrogen fuel cells?",
+          "choices": [
+            "Hydrogen is extremely flammable and explosive, requiring special storage precautions",
+            "Hydrogen is very light and requires larger storage volumes compared to other fuels",
+            "Hydrogen fuel cells produce polluting emissions during operation",
+            "Hydrogen is expensive to obtain because electrolysis is an expensive process"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state fuel cells are pollution-free because only water is produced, so 'polluting emissions' is not a disadvantage listed; the other three are explicitly stated disadvantages.",
+          "d": 3
+        },
+        {
+          "question": "A space vehicle is designed to use a hydrogen-oxygen fuel cell rather than simply burning hydrogen gas through combustion for its electricity needs. Based on the notes, which of the following correctly explains an advantage of this choice?",
+          "choices": [
+            "Fuel cells produce electricity directly with less energy wastage compared to combustion",
+            "Fuel cells produce large amounts of carbon dioxide as a clean by-product",
+            "Fuel cells work only through incomplete combustion reactions",
+            "Fuel cells require reactants to be stored inside the cell like a battery, making them simpler"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state the hydrogen-oxygen fuel cell is used in space vehicles and that fuel cells have less wastage of energy compared to combustion, unlike batteries where reactants are contained within the cell.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -3062,6 +4742,66 @@
           "answerIndex": 0,
           "explanation": "Natural gas is about 70 to 90% methane, with the remainder being other short-chain alkanes.",
           "d": 1
+        },
+        {
+          "question": "Besides carbon and hydrogen, which other elements may be present in some organic compounds, according to the notes?",
+          "choices": [
+            "Sulfur, phosphorus and silicon",
+            "Only noble gases",
+            "Sodium, potassium and calcium",
+            "Oxygen, halogens and nitrogen"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state some organic compounds may also have oxygen, halogen and nitrogen atoms.",
+          "d": 1
+        },
+        {
+          "question": "According to the notes, what type of hydrocarbon mainly makes up petroleum?",
+          "choices": [
+            "Alkenes",
+            "Carboxylic acids",
+            "Alcohols",
+            "Alkanes"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes define petroleum as a mixture of hydrocarbons (mainly alkanes), also known as crude oil.",
+          "d": 2
+        },
+        {
+          "question": "Besides methane, which short-chain alkanes are found in natural gas, according to the notes?",
+          "choices": [
+            "Ethanol, propanol and butanol",
+            "Ethane, propane and butane",
+            "Pentane, hexane and heptane",
+            "Ethene, propene and butene"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state natural gas is about 70 to 90% methane, and about 0 to 20% other short-chain alkanes such as ethane, propane and butane.",
+          "d": 2
+        },
+        {
+          "question": "Petroleum is described as a mixture of hydrocarbons that is 'mainly alkanes,' while natural gas is 'about 70 to 90% methane, and about 0 to 20% other short-chain alkanes.' Based on this, which statement correctly compares the two?",
+          "choices": [
+            "Petroleum contains no alkanes at all, while natural gas is composed entirely of methane",
+            "Petroleum and natural gas are both composed mainly of alkenes rather than alkanes",
+            "Both are alkane-dominated mixtures, but natural gas consists mostly of methane (the simplest alkane) with only small amounts of other short-chain alkanes, while petroleum contains a broader mixture of alkanes",
+            "Natural gas is a mixture of long-chain alkanes, unlike petroleum"
+          ],
+          "answerIndex": 2,
+          "explanation": "Combining the notes' descriptions of petroleum (mainly alkanes) and natural gas (70-90% methane, 0-20% other short-chain alkanes) shows both are alkane-based mixtures, but natural gas is dominated by methane specifically.",
+          "d": 3
+        },
+        {
+          "question": "Based on the notes, which of the following correctly describes the full process from the formation of petroleum to its use as separate fuels?",
+          "choices": [
+            "Decomposed sea animals and plants form petroleum deep under the ocean floor due to heat and pressure over time; the petroleum is then extracted and separated into various fuels and hydrocarbons through fractional distillation",
+            "Natural gas is converted into petroleum through fractional distillation",
+            "Petroleum is synthetically manufactured in refineries before being buried under the ocean floor",
+            "Petroleum is first separated by fractional distillation and then forms from decomposed sea life afterward"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes explain petroleum forms from decomposed sea animals and plants under heat and pressure over time, is extracted by oil rigs/refineries, and is then separated via fractional distillation into fuels and hydrocarbons.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -3182,6 +4922,66 @@
           "answerIndex": 3,
           "explanation": "Biogas is produced when dead plants or animals decay in the absence of air.",
           "d": 1
+        },
+        {
+          "question": "According to the notes, which public transport options are given as examples for conserving petroleum?",
+          "choices": [
+            "Airplanes and ships",
+            "Buses and the MRT",
+            "Taxis and bicycles",
+            "Motorcycles and trucks"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes suggest reducing motor vehicles on the road by taking public transport such as buses and the MRT.",
+          "d": 1
+        },
+        {
+          "question": "According to the notes, what is biodiesel made from?",
+          "choices": [
+            "Plant oils, such as palm oil",
+            "Decaying animal carcasses in the absence of air",
+            "Crude oil extracted from oil rigs",
+            "A mixture of ethanol and petrol"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state biodiesel is made from plant oils like palm oil, as an example of a biofuel.",
+          "d": 2
+        },
+        {
+          "question": "According to the notes, how does driving an electric car help conserve petroleum?",
+          "choices": [
+            "Electric cars produce their own petroleum as a by-product",
+            "Electric cars run only on biodiesel",
+            "Electric cars require more frequent refuelling with petrol",
+            "Electric cars consume less petrol than conventional cars"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes list driving cars that consume less petrol, e.g. electric cars, as a way to conserve petroleum.",
+          "d": 2
+        },
+        {
+          "question": "Which of the following is NOT listed in the notes as a way to conserve petroleum?",
+          "choices": [
+            "Using alternative energy sources such as solar and nuclear energy",
+            "Increasing the number of motor vehicles on the road",
+            "Improving the design of power stations and vehicles for more efficient use of petroleum",
+            "Taking public transport such as buses and the MRT"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes recommend reducing the number of motor vehicles on the road, so increasing them is the opposite of a conservation measure and is not listed.",
+          "d": 3
+        },
+        {
+          "question": "Biogas and biodiesel are both classified as biofuels but come from different sources. Which statement correctly distinguishes the two, according to the notes?",
+          "choices": [
+            "Biogas is produced when dead plants or animals decay in the absence of air, while biodiesel is made from plant oils such as palm oil",
+            "Both are produced through decay of organic matter in the presence of air",
+            "Biogas is made from palm oil, while biodiesel is produced from decaying plants or animals",
+            "Both are produced exclusively from palm oil"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state biogas is produced when dead plants or animals decay in the absence of air, whereas biodiesel is made from plant oils like palm oil — two distinct sources.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -3311,6 +5111,66 @@
           "answerIndex": 1,
           "explanation": "Carboxylic acids have the carboxyl functional group.",
           "d": 1
+        },
+        {
+          "question": "According to the notes, which functional group characterises alcohols?",
+          "choices": [
+            "Carbon-carbon double bond",
+            "Amide linkage",
+            "Hydroxyl group",
+            "Carboxyl group"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes' table lists the hydroxyl group as the functional group for alcohols.",
+          "d": 1
+        },
+        {
+          "question": "According to the notes, what functional group is associated with esters?",
+          "choices": [
+            "Carbon-carbon double bond",
+            "Amide linkage",
+            "Hydroxyl group",
+            "-COO- linkage"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes' table lists the -COO- linkage as the functional group for esters.",
+          "d": 2
+        },
+        {
+          "question": "According to the notes' table of homologous series, which two series both have functional groups described as a 'linkage' connecting parts of the molecule, rather than a single attached group?",
+          "choices": [
+            "Alkanes and alkenes",
+            "Alkenes and esters",
+            "Alcohols and carboxylic acids",
+            "Esters and amides"
+          ],
+          "answerIndex": 3,
+          "explanation": "The table describes esters as having a '-COO- linkage' and amides as having an 'amide linkage', both explicitly using the word 'linkage', unlike the hydroxyl/carboxyl groups or the C=C bond of alkenes.",
+          "d": 2
+        },
+        {
+          "question": "A newly discovered organic compound has a hydroxyl functional group. Based on the notes, which statement correctly predicts how compounds further down this same homologous series would compare to it?",
+          "choices": [
+            "They would share the same hydroxyl functional group and similar chemical properties, but show a gradual change in physical properties",
+            "They would have identical physical properties throughout the series",
+            "They would have a completely different functional group",
+            "They would show a sudden, unpredictable change in chemical properties"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes define a homologous series (which alcohols belong to) as having the same functional group and similar chemical properties, with a gradual change in physical properties down the series.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT one of the functional groups listed in the notes for the homologous series covered (alkanes, alkenes, alcohols, carboxylic acids, esters, amides)?",
+          "choices": [
+            "Hydroxyl group",
+            "Amide linkage",
+            "Nitro group",
+            "-COO- linkage"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes list no functional group for alkanes, and C=C double bond, hydroxyl group, carboxyl group, -COO- linkage, and amide linkage for the other series — a nitro group is not among them.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -3481,6 +5341,66 @@
           "answerIndex": 0,
           "explanation": "The number indicates which carbon atom the C=C double bond begins from.",
           "d": 1
+        },
+        {
+          "question": "According to the notes, what prefix is used for an organic compound containing 5 carbon atoms?",
+          "choices": [
+            "But-",
+            "Prop-",
+            "Hex-",
+            "Pent-"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes' prefix table lists Pent- as the prefix for 5 carbon atoms.",
+          "d": 1
+        },
+        {
+          "question": "According to the notes, which suffix indicates that a compound belongs to the alkene homologous series?",
+          "choices": [
+            "-oic acid",
+            "-ane",
+            "-ene",
+            "-ol"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes' suffix table lists -ene as indicating the alkene homologous series.",
+          "d": 2
+        },
+        {
+          "question": "A compound is named 2-chloro-2-methylpropane. According to the notes, what is the correct order in which the naming components (halogen, alkyl branch, functional group/base name) are arranged?",
+          "choices": [
+            "All three components in alphabetical order regardless of type",
+            "Functional group first, then halogen, then alkyl branch",
+            "Alkyl branch first, then functional group, then halogen",
+            "Halogen first, then alkyl branch, then the functional group/base alkane name"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state that for combined naming, the halogen is named first, followed by the alkyl branch and the functional group, as in 2-chloro-2-methylpropane.",
+          "d": 2
+        },
+        {
+          "question": "A compound initially appears to be named '2-ethylpropane.' When redrawn to identify the longest possible carbon chain, it is found to actually have a 4-carbon main chain with a methyl group attached to the second carbon. According to the naming rules in the notes, what is the correct name of this compound?",
+          "choices": [
+            "3-methylbutane",
+            "2-ethylpropane",
+            "2-methylpropane",
+            "2-methylbutane"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes explicitly give this exact example: what may seem to be '2-ethylpropane' is actually wrong, and when rewritten with the longest carbon chain, it becomes 2-methylbutane.",
+          "d": 3
+        },
+        {
+          "question": "Using the naming conventions in the notes (where, for example, but-1-ene and but-2-ene indicate the position of the double bond in a 4-carbon chain), what would be the correct name for a straight-chain alcohol with 5 carbon atoms and its hydroxyl group starting at the third carbon?",
+          "choices": [
+            "Pent-1-ol",
+            "Pent-3-ol",
+            "Pent-3-ene",
+            "Hex-3-ol"
+          ],
+          "answerIndex": 1,
+          "explanation": "Combining the prefix for 5 carbons (Pent-), the suffix for alcohols (-ol), and the notes' rule that the numbering for functional group position applies to alcohols as well as alkenes, with the group starting at carbon 3, gives pent-3-ol.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -3650,6 +5570,66 @@
           "answerIndex": 0,
           "explanation": "Increased molecular size down the series strengthens IMFOA, making alkanes more viscous.",
           "d": 2
+        },
+        {
+          "question": "What type of bond do alkane molecules exclusively contain, making them saturated hydrocarbons?",
+          "choices": [
+            "Ionic bonds between carbon atoms",
+            "Carbon-carbon triple bonds",
+            "One or more carbon-carbon double bonds",
+            "Only carbon-carbon single covalent bonds"
+          ],
+          "answerIndex": 3,
+          "explanation": "Alkanes are defined as hydrocarbons that contain only carbon-carbon single covalent bonds, which is why they are described as saturated hydrocarbons.",
+          "d": 1
+        },
+        {
+          "question": "Why does the flammability of alkanes decrease down the homologous series?",
+          "choices": [
+            "Because the percentage of hydrogen increases, making combustion slower",
+            "Because longer alkanes become soluble in water, diluting the fuel",
+            "Because the percentage of carbon increases, making the alkane harder to burn and producing a smokier flame",
+            "Because the intermolecular forces of attraction decrease, reducing reactivity"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state that down the series, flammability decreases as the percentage of carbon increases, making the alkane harder to burn and producing a smokier flame.",
+          "d": 2
+        },
+        {
+          "question": "When methane is burned in a limited supply of oxygen (incomplete combustion), which set of products can form alongside water?",
+          "choices": [
+            "Carbon dioxide and oxygen",
+            "Carbon monoxide and carbon (soot)",
+            "Carbon dioxide only",
+            "Hydrogen gas and carbon dioxide"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state that if oxygen is limited, incomplete combustion still forms H2O but also produces CO and C (as soot), e.g. 4CH4 + 5O2 → 2CO + 8H2O + 2C.",
+          "d": 2
+        },
+        {
+          "question": "A student draws a proposed isomer of pentane by attaching an ethyl group to the central carbon of a 3-carbon chain. According to the rule for naming isomers described in the notes, what is actually wrong with this structure?",
+          "choices": [
+            "It is actually 2,2-dimethylpropane, since two branches are present",
+            "It is invalid because ethyl groups cannot attach to the central carbon of a chain",
+            "It is not a true isomer because the longest chain must be used, so it is actually 2-methylbutane (a 4-carbon chain with a methyl group on the 2nd carbon)",
+            "It is not an isomer because its molecular formula is not C5H12"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes explicitly warn that using an ethyl group on a 3-carbon chain seems possible but isn't a distinct isomer, because the longest chain must always be used — this structure is actually 2-methylbutane (a 4-carbon chain with a methyl group on the 2nd carbon).",
+          "d": 3
+        },
+        {
+          "question": "Methane is reacted with excess chlorine gas under UV light over a long period, eventually forming some dichloromethane (CH2Cl2). According to the notes, how does this product actually form?",
+          "choices": [
+            "In a single step, two hydrogen atoms are replaced simultaneously by two chlorine atoms while releasing H2 gas",
+            "Methane first decomposes into carbon and hydrogen before reacting with chlorine gas",
+            "Through successive substitution reactions — chloromethane forms first, then a second hydrogen atom is replaced by another chlorine atom in a separate step",
+            "Chlorine adds directly across a C-H bond without releasing HCl"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state that the reaction cannot result in H2 gas produced and 2 chlorine atoms substituted in one step — dichloroalkanes such as CH2Cl2 form via successive reactions, replacing one hydrogen atom at a time.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -3819,6 +5799,66 @@
           "answerIndex": 0,
           "explanation": "Hydration of ethene with steam (300°C, 60 atm, H3PO4 catalyst) produces ethanol.",
           "d": 1
+        },
+        {
+          "question": "What is the functional group present in all alkenes?",
+          "choices": [
+            "C=C (carbon-carbon double bond)",
+            "-OH (hydroxyl group)",
+            "C-C (carbon-carbon single bond)",
+            "-COOH (carboxyl group)"
+          ],
+          "answerIndex": 0,
+          "explanation": "Alkenes are hydrocarbons containing one or more carbon-carbon double bonds, with C=C as their functional group.",
+          "d": 1
+        },
+        {
+          "question": "Why is bromine water used to test for unsaturation instead of liquid bromine?",
+          "choices": [
+            "Bromine water produces a more vivid colour change than liquid bromine",
+            "Liquid bromine is dangerous, so bromine water is used as a safer alternative for the test",
+            "Liquid bromine does not react with alkenes at all",
+            "Bromine water reacts faster with alkanes than liquid bromine does"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state that bromine water is used instead of the dangerous liquid bromine when testing for unsaturated hydrocarbons.",
+          "d": 2
+        },
+        {
+          "question": "Why do the first three alkenes (ethene, propene, butene) exist as gases at room temperature and pressure, while heavier alkenes do not?",
+          "choices": [
+            "They contain a lower percentage of carbon than heavier alkenes",
+            "Their C=C double bonds prevent them from forming liquids",
+            "They are insoluble in water, which keeps them as gases",
+            "Their smaller molecular size means weaker intermolecular forces of attraction, requiring less energy to overcome them and vaporise"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes explain that down the alkene series, molecular size and intermolecular forces of attraction increase, requiring more energy to overcome them, which is why smaller alkenes are gases at rtp while larger ones have higher boiling points.",
+          "d": 2
+        },
+        {
+          "question": "The notes give the cracking example C18H38 → C6H14 + 6C2H4, showing hexane and ethene formed from octadecane. Using the same pattern and conservation of atoms, which equation correctly represents the cracking of C16H34 into hexane (C6H14) and ethene molecules?",
+          "choices": [
+            "C16H34 → C6H14 + 6C2H4",
+            "C16H34 → C6H14 + 4C2H4",
+            "C16H34 → C6H14 + 5C2H4",
+            "C16H34 → C6H14 + 5C2H6"
+          ],
+          "answerIndex": 2,
+          "explanation": "Subtracting C6H14 (6 carbons, 14 hydrogens) from C16H34 (16 carbons, 34 hydrogens) leaves 10 carbons and 20 hydrogens, which corresponds to 5 molecules of C2H4 (5×2=10 carbons, 5×4=20 hydrogens), matching the conservation-of-atoms pattern shown in the notes' octadecane example.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT given in the notes as a reason why cracking is industrially important?",
+          "choices": [
+            "It converts hydrocarbons of higher molecular mass into smaller molecules that are in higher demand, such as producing petrol from diesel and lubricating oils",
+            "It produces hydrogen, which is used in the manufacture of ammonia for fertilisers",
+            "It produces short-chain alkenes such as ethene, useful for making ethanol and plastics",
+            "It converts hydrocarbons that are in higher demand into ones that are in lower demand, reducing petrol output"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state cracking converts hydrocarbons of higher molecular mass (in lower demand) into smaller molecules in higher demand, such as petrol — the reverse direction described in this option is not a reason given in the notes.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -3992,6 +6032,66 @@
           "answerIndex": 0,
           "explanation": "This industrial method requires 300°C, 60 atm pressure, and a phosphoric(V) acid catalyst.",
           "d": 2
+        },
+        {
+          "question": "What functional group is present in all alcohols?",
+          "choices": [
+            "C=C (double bond)",
+            "-COO- (ester linkage)",
+            "-OH (hydroxyl group)",
+            "-COOH (carboxyl group)"
+          ],
+          "answerIndex": 2,
+          "explanation": "Alcohols are defined in the notes as a series of organic compounds with the hydroxyl (-OH) functional group.",
+          "d": 1
+        },
+        {
+          "question": "Based on the boiling point data in the notes (methanol 65°C, butanol 118°C), why does butanol have a higher boiling point than methanol?",
+          "choices": [
+            "Butanol contains a C=C double bond, unlike methanol",
+            "Butanol has a lower percentage of carbon, making it harder to vaporise",
+            "Butanol is more soluble in water, which raises its boiling point",
+            "Butanol has a larger molecular size, so its intermolecular forces of attraction are stronger and require more energy to overcome"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state that down the alcohol series, molecular size and intermolecular forces of attraction (IMFOA) increase, so more energy is needed to overcome them, resulting in a higher boiling point — consistent with butanol's 118°C versus methanol's 65°C.",
+          "d": 2
+        },
+        {
+          "question": "A student tests an unknown alcohol and finds it is soluble (but not 'very soluble') in water and boils at 97°C. Based on the data table in the notes, which alcohol is it?",
+          "choices": [
+            "Butanol",
+            "Methanol",
+            "Propanol",
+            "Ethanol"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes' table lists propanol as 'soluble' in water with a boiling point of 97°C, distinguishing it from methanol and ethanol ('very soluble') and butanol ('slightly soluble', 118°C).",
+          "d": 2
+        },
+        {
+          "question": "A manufacturer wants to produce ethanol quickly using an inorganic catalyst, without being limited by a biological process that stops once alcohol concentration reaches about 15%. Which production method and conditions from the notes should they use?",
+          "choices": [
+            "Combustion of ethanol in excess oxygen",
+            "Fermentation of glucose with yeast at 37°C in anaerobic conditions",
+            "Oxidation of ethanol with acidified potassium manganate(VII)",
+            "Catalytic addition of steam to ethene, at 300°C and 60 atm with a phosphoric(V) acid (H3PO4) catalyst"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes describe fermentation as limited because a high alcohol content kills the yeast, stopping the process at around 15%; the alternative industrial method, catalytic addition of steam to ethene (300°C, 60 atm, H3PO4 catalyst), is not limited this way and is not a biological process.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT one of the precautions described in the notes for laboratory fermentation of glucose to produce ethanol?",
+          "choices": [
+            "Keeping the temperature at 37°C to avoid denaturing the enzymes",
+            "Keeping the flask tightly stoppered to maintain anaerobic conditions",
+            "Using limewater as an air lock",
+            "Using an excess of oxidising agent to speed up the reaction"
+          ],
+          "answerIndex": 3,
+          "explanation": "Using excess oxidising agent is a condition for oxidising alcohols to carboxylic acids, not a fermentation precaution; the notes' fermentation precautions are keeping the flask stoppered, using limewater as an air lock, and maintaining 37°C.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -4146,6 +6246,66 @@
           "answerIndex": 1,
           "explanation": "Certain bacteria in the air oxidise ethanol to ethanoic acid, souring the drink.",
           "d": 2
+        },
+        {
+          "question": "What gas is produced when a reactive metal such as magnesium reacts with a carboxylic acid?",
+          "choices": [
+            "Carbon dioxide",
+            "Chlorine",
+            "Hydrogen",
+            "Oxygen"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state that carboxylic acid + metal → salt + hydrogen, e.g. 2CH3COOH(aq) + Mg(s) → (CH3COO)2Mg(aq) + H2(g).",
+          "d": 1
+        },
+        {
+          "question": "Why is the salt formed between ethanoic acid and magnesium written as (CH3COO)2Mg rather than Mg(OOCCH3)2?",
+          "choices": [
+            "Because cations are attracted to the O- in the ethanoate anion, so writing it this way keeps the structure more understandable",
+            "Because ethanoate ions only exist in this written form and no other",
+            "Because (CH3COO)2Mg has a different molecular formula from Mg(OOCCH3)2",
+            "Because magnesium must always be written first in an ionic formula"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes explain that due to the structure of the ethanoate ion, cations are attracted to the O- in the anion, so writing the salt as (CH3COO)2Mg keeps the structure more understandable.",
+          "d": 2
+        },
+        {
+          "question": "A sample of ethanoic acid solution is measured to have a pH of 5.5. What does this indicate, according to the notes?",
+          "choices": [
+            "The acid has not reacted with water at all",
+            "The acid has fully ionised in water, consistent with it being a strong acid",
+            "The solution is alkaline rather than acidic",
+            "The acid has only partially ionised in water, producing a low concentration of H+ ions, consistent with it being a weak acid"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state that carboxylic acids are weak acids because they ionise only partially in water, giving a low concentration of H+ ions and a pH of 5-6 — a pH of 5.5 is consistent with this partial ionisation.",
+          "d": 2
+        },
+        {
+          "question": "The notes show that butanoic acid (4 total carbons) has the formula C3H7COOH, following the general formula CnH2n+1COOH. Using this pattern, what would be the molecular formula of pentanoic acid (5 total carbons)?",
+          "choices": [
+            "C5H10COOH",
+            "C4H9COOH",
+            "C5H11COOH",
+            "C4H9OH"
+          ],
+          "answerIndex": 1,
+          "explanation": "Since the general formula is CnH2n+1COOH and butanoic acid (n=3) is C3H7COOH, pentanoic acid has one more carbon in the alkyl chain (n=4), giving C4H9COOH.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT a correctly matched reaction and product pairing for carboxylic acids, as described in the notes?",
+          "choices": [
+            "Carboxylic acid + reactive metal → salt + hydrogen",
+            "Carboxylic acid + alcohol → salt + water",
+            "Carboxylic acid + carbonate → salt + carbon dioxide + water",
+            "Carboxylic acid + base → salt + water"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state that carboxylic acid + alcohol produces an ester + water (esterification), not a salt + water — the other three pairings (with metals, carbonates, and bases) are correctly described in the notes.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -4287,6 +6447,66 @@
           "answerIndex": 3,
           "explanation": "Esters form through esterification, the reaction between a carboxylic acid and an alcohol.",
           "d": 1
+        },
+        {
+          "question": "Which of the following correctly describes the physical properties of esters, according to the notes?",
+          "choices": [
+            "Sour-smelling, coloured solids that are very soluble in water",
+            "Sweet-smelling, colourless liquids that are insoluble in water",
+            "Sweet-smelling liquids that are very soluble in water",
+            "Odourless gases at room temperature"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes describe esters as sweet-smelling, colourless liquids that are insoluble in water.",
+          "d": 1
+        },
+        {
+          "question": "In the name 'ethyl ethanoate', which part of the name is derived from the alcohol used to form the ester?",
+          "choices": [
+            "Neither part — the name comes only from the catalyst used",
+            "'Ethyl'",
+            "Both parts equally",
+            "'Ethanoate'"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state that an ester's name has two parts: the first part is derived from the alcohol, and the second part is derived from the carboxylic acid — so 'ethyl' comes from the alcohol (ethanol) and 'ethanoate' from the acid (ethanoic acid).",
+          "d": 2
+        },
+        {
+          "question": "How are soaps produced from naturally-occurring esters such as animal fats and vegetable oils, according to the notes?",
+          "choices": [
+            "By cracking them at high temperature with a catalyst",
+            "By boiling them with sodium hydroxide",
+            "By fermenting them with yeast",
+            "By boiling them with concentrated sulfuric acid"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state that soaps are made by boiling naturally-occurring esters, such as animal fats and vegetable oils, with sodium hydroxide.",
+          "d": 2
+        },
+        {
+          "question": "In the esterification of ethanoic acid and ethanol, the notes describe the -OH group of ethanoic acid being replaced by the -C2H5O group from ethanol. Based on this description, which atoms/groups actually combine to form the water molecule released?",
+          "choices": [
+            "The water molecule comes from the concentrated H2SO4 catalyst, not the reactants",
+            "Two -OH groups, one from each reactant molecule",
+            "The -OH removed from the ethanoic acid, and the H atom remaining from ethanol",
+            "The -OH from ethanol, and the H atom remaining from ethanoic acid"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state that the -OH in ethanoic acid is replaced by the -C2H5O from ethanol, and this displaced -OH joins with the remaining H (left over from ethanol's -OH after the -C2H5O group is taken) to form water.",
+          "d": 3
+        },
+        {
+          "question": "A perfume manufacturer needs an ingredient that, per the notes, is sweet-smelling and insoluble in water so it lingers on the skin rather than washing off. Which class of compound and production method fits these requirements?",
+          "choices": [
+            "A carboxylic acid, produced by oxidation of an alcohol with acidified KMnO4",
+            "An alcohol, produced by fermentation of carbohydrates with yeast",
+            "An ester, produced by the addition of steam to an alkene",
+            "An ester, produced by esterification of a carboxylic acid and an alcohol with a concentrated H2SO4 catalyst"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes describe esters as sweet-smelling and insoluble in water, used in perfumes, and formed through esterification (a carboxylic acid and alcohol reacting with a concentrated H2SO4 catalyst) — not through hydration, which the notes describe as producing alcohols, not esters.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -4464,6 +6684,66 @@
           "answerIndex": 3,
           "explanation": "Addition polymerisation of alkenes typically requires high pressure, high temperature and a catalyst.",
           "d": 1
+        },
+        {
+          "question": "How many types of condensation polymers are described in the notes?",
+          "choices": [
+            "Four — including nylon, Terylene, PVC, and PVA",
+            "One — only polyamides",
+            "Two — polyamides and polyesters",
+            "Three — polyamides, polyesters, and polyethenes"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state there are two types of condensation polymers: polyamides (like Nylon) and polyesters (like Terylene).",
+          "d": 1
+        },
+        {
+          "question": "Based on the general properties of addition polymers described in the notes, why is Teflon (polytetrafluoroethylene) suitable for making non-stick frying pans?",
+          "choices": [
+            "Addition polymers are resistant to chemical attack, so Teflon does not react with food during cooking",
+            "Addition polymers are formed through condensation reactions, releasing water that prevents sticking",
+            "Addition polymers are biodegradable, so Teflon breaks down safely after use",
+            "Addition polymers conduct heat and electricity well, allowing even cooking"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that addition polymers are resistant to chemical attack (and good insulators), which explains why Teflon is used for non-stick pans — it doesn't react with the food being cooked.",
+          "d": 2
+        },
+        {
+          "question": "A company wants to make curtains and sleeping bags that are shrink-proof and crease-proof, and easier to wash and dry than natural fibres. Which polymers, per the notes, would be suitable?",
+          "choices": [
+            "Nylon and Terylene",
+            "Polyvinyl chloride (PVC) and polystyrene",
+            "Cellulose and wool",
+            "Starch and natural rubber"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes identify Terylene and nylon as the best-known synthetic fibres, describing items (such as curtains and sleeping bags) made from them as shrink-proof, crease-proof, and easier to wash and dry.",
+          "d": 2
+        },
+        {
+          "question": "A condensation polymer's repeat unit is found to contain the amide linkage -CONH-. Based on the notes, what two types of monomers, with what functional groups, must have combined to form this polymer?",
+          "choices": [
+            "A dicarboxylic acid (-COOH at both ends) and a diol (-OH at both ends)",
+            "A dicarboxylic acid (-COOH at both ends) and a diamine (-NH2 at both ends)",
+            "A diamine (-NH2 at both ends) and a diol (-OH at both ends)",
+            "An alkene monomer containing a C=C bond at each end"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state that polyamides such as Nylon are formed from a dicarboxylic acid (-COOH at both ends) and a diamine (-NH2 at both ends), and that the repeat unit of a polyamide contains the amide linkage -CONH-.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT listed in the notes as a form of pollution caused by plastics?",
+          "choices": [
+            "Ozone layer depletion caused by gases released from plastics",
+            "Land pollution, since plastics are non-biodegradable and build up in soil",
+            "Air pollution, since burning plastics produces poisonous gases",
+            "Water pollution, since marine animals mistake plastics for food and choke on them"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes describe land, air, and water pollution caused by plastics, but do not mention ozone layer depletion as one of the pollution problems associated with plastics.",
+          "d": 3
         }
       ],
       "shortAnswer": [

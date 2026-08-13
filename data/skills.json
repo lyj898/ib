@@ -99,6 +99,54 @@
           "answerIndex": 2,
           "explanation": "The notes state your analysis must always be accurate and clear.",
           "d": 1
+        },
+        {
+          "question": "Besides symbols/messages and provenance, what does the general approach to source-based questions say you should identify within the source itself?",
+          "choices": [
+            "The publisher's marketing strategy",
+            "The total word count of the source",
+            "The characters and what is going on in the source",
+            "The examiner's personal opinion of the source"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes instruct you to 'identify the characters and what is going on in the source' as part of the general approach.",
+          "d": 2
+        },
+        {
+          "question": "Which of the following is explicitly listed in the notes as something to look out for when approaching a source-based question?",
+          "choices": [
+            "Possible hidden messages",
+            "The font style used in printing the source",
+            "The number of sentences in the source",
+            "The examiner's personal background"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes explicitly instruct students to 'identify possible hidden messages' when analysing a source.",
+          "d": 2
+        },
+        {
+          "question": "A source-based question asks: 'What can you learn from this source about the actions of the Soviet Union during the Cold War?' Applying the reasoning behind the notes' Korean War example, what should the student's inference focus on?",
+          "choices": [
+            "The actions of the United States, since it opposed the Soviet Union",
+            "The actions of the Soviet Union specifically, since that is the main issue named in the question",
+            "The Cold War in general, deliberately ignoring which country is named",
+            "Only the background information provided before the source"
+          ],
+          "answerIndex": 1,
+          "explanation": "The Korean War example shows the inference must match the main issue named in the question (there, the Korean War itself, not China or America specifically). Here the question names the Soviet Union's actions, so that is the question issue to address.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT something the notes instruct you to look for or identify when approaching a source-based question?",
+          "choices": [
+            "The exam grading criteria for the specific question",
+            "Symbols and messages in the source",
+            "The source's provenance",
+            "Possible hidden messages"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes list symbols/messages, provenance, characters/what is happening, and hidden messages as things to identify. Grading criteria are never mentioned as part of source analysis.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -248,6 +296,66 @@
           "answerIndex": 0,
           "explanation": "The notes state Inference questions are also known as 'Message' questions.",
           "d": 1
+        },
+        {
+          "question": "What is the example starting sentence the notes suggest for an Inference (Message) answer?",
+          "choices": [
+            "Source A is not reliable/reliable as...",
+            "Sources B and C agree...",
+            "The message of the source...",
+            "The source was published to influence/persuade..."
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes give 'The message of the source...' as the example starting sentence for Inference/Message questions.",
+          "d": 1
+        },
+        {
+          "question": "How do the notes distinguish 'sentiments' from 'attitudes' as possible inference angles?",
+          "choices": [
+            "Sentiments refer to feelings such as pride or disgust, while attitudes are similar to tone, such as being critical or condemnatory",
+            "Sentiments and attitudes are identical terms used interchangeably",
+            "Sentiments apply only to cartoons, while attitudes apply only to written sources",
+            "Sentiments refer to tone words like sceptical or cynical, while attitudes refer to feelings like pity"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes describe sentiments as feelings (e.g. proud, patriotic, pity, disgusted) and attitudes as similar to tone (e.g. critical, harsh, pessimistic, condemnatory).",
+          "d": 2
+        },
+        {
+          "question": "According to the notes, why should you avoid repeating words found in the source when writing your inference?",
+          "choices": [
+            "Because repeating source words means you are describing the source rather than inferring beyond it",
+            "Because it exceeds the recommended word count for the answer",
+            "Because repeated words are considered grammatically incorrect",
+            "Because the examiner has not read the source and would be confused"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes instruct: 'do not repeat any of the words found in the source in your inference (do not describe the source)' — repeating source words amounts to describing rather than inferring.",
+          "d": 2
+        },
+        {
+          "question": "A student's entire inference for a cartoon reads only: 'The source shows anger.' Which TWO mistakes from the notes does this response make?",
+          "choices": [
+            "It repeats keywords from the question and omits the context paragraph",
+            "It is a one-word inference and focuses on only one small aspect instead of the bigger picture of the source",
+            "It fails to quote a speech bubble and exceeds the paragraph limit",
+            "It uses forbidden tone words and omits the link back to the question"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes warn against making one-word inferences and against pointing out only one small aspect rather than the bigger picture of the entire source — this response does both.",
+          "d": 3
+        },
+        {
+          "question": "A student links their inference to a historical factor that has no real connection to the source's evident theme. Which notes-based guidance does this most directly violate?",
+          "choices": [
+            "The requirement to use a single paragraph rather than two",
+            "The requirement that context must be in sync and relevant/aligned with your inference, avoiding absurd inferences",
+            "The rule that speech bubbles must always be quoted",
+            "The instruction to repeat keywords from the question in your answer"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state context must be 'in sync and relevant/aligned with your inference' and warn against making 'absurd or overly simple inferences' unconnected to a real factor or perspective.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -370,6 +478,54 @@
           "answerIndex": 2,
           "explanation": "These verbs describe content rather than the persuasive intention behind the source, which is the focus of a purpose question.",
           "d": 2
+        },
+        {
+          "question": "Which of the following is one of the example question types listed for Inference with Purpose?",
+          "choices": [
+            "How reliable is Source A?",
+            "How useful is Source A as evidence?",
+            "Is the cartoonist an opponent or supporter of the issue?",
+            "To what extent do the sources agree?"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes list 'Is the cartoonist an opponent or supporter of the issue?' as one of the Inference with Purpose question types, alongside 'Why was this cartoon published?' and questions about the cartoonist's intention.",
+          "d": 1
+        },
+        {
+          "question": "Which of the following is explicitly prohibited in an Inference with Purpose answer, according to the notes?",
+          "choices": [
+            "Making a one-word inference",
+            "Using an example starting sentence",
+            "Referring to the cartoonist's intention",
+            "Writing only one well-elaborated paragraph"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state 'Do not make one-word inferences' as a rule for Inference with Purpose answers.",
+          "d": 2
+        },
+        {
+          "question": "Which list of verbs does the notes explicitly say to avoid when opening an Inference with Purpose answer?",
+          "choices": [
+            "To criticise, to justify, to persuade, to educate, to influence",
+            "To explain, to describe, to summarise, to narrate",
+            "To argue, to defend, to advocate, to promote",
+            "To show, to portray, to tell, to illustrate, to depict, to inform"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state: 'Avoid the following verbs: to show, to portray, to tell, to illustrate, to depict, to inform.'",
+          "d": 2
+        },
+        {
+          "question": "A student spends 20 minutes writing three separate paragraphs for a 7-mark Inference with Purpose ('Why') question. Which two notes-based guidelines has the student violated?",
+          "choices": [
+            "Using the wrong example starting sentence and avoiding purposive verbs",
+            "Failing to identify the source's provenance",
+            "Repeating words from the source and making a one-word inference",
+            "Exceeding the recommended time budget and writing more paragraphs than necessary"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes specify the question is worth 7 marks and should take about 10-12 minutes, and that 'one paragraph will suffice if well written and elaborated upon' — 20 minutes and three paragraphs breaks both guidelines.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -511,6 +667,66 @@
           "answerIndex": 1,
           "explanation": "The notes state that if audience outcome is too generic, focus instead on comparing the speaker's intention.",
           "d": 2
+        },
+        {
+          "question": "How many paragraphs does the recommended Comparison answer structure have in total?",
+          "choices": [
+            "3",
+            "2",
+            "5",
+            "4"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes specify a 3-paragraph structure for Comparison answers: two paragraphs on agreement/disagreement, and a third on purpose, perspective, and provenance.",
+          "d": 1
+        },
+        {
+          "question": "In a Comparison answer, what determines whether the 'agree' paragraph or the 'disagree' paragraph comes first?",
+          "choices": [
+            "Whichever source is provenanced earliest",
+            "The 'agree' paragraph must always come first",
+            "Whichever similarity or difference the question asks for first",
+            "The 'disagree' paragraph must always come first"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state that 'whether similarity or difference comes first depends on what the question asks for first.'",
+          "d": 2
+        },
+        {
+          "question": "According to the notes, what should you actually compare between two sources in a Comparison answer?",
+          "choices": [
+            "An inference made about the issue, not simply what the sources say",
+            "The length of each source",
+            "The examiner's expected mark allocation",
+            "The exact wording each source uses"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state: 'Do not compare descriptions (what the source says) - compare an inference made about the issue.'",
+          "d": 2
+        },
+        {
+          "question": "In the notes' Treaty of Versailles example, Sources B and C disagree. If the original question instead asked 'To what extent do the sources agree on the Treaty of Versailles?', which word should the answer use to describe the sources' relationship, following the notes' phrasing rule?",
+          "choices": [
+            "'Contrast', as a more academic alternative",
+            "'Oppose', since the sources are politically opposed",
+            "'Agree'/'disagree', since that is the exact word given in the question",
+            "'Different', since the sources are not similar"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes require using the exact word given in the question (e.g. if 'agree' is used, answer with 'agree'/'disagree', not 'similar'/'different'); the Treaty of Versailles sources disagree.",
+          "d": 3
+        },
+        {
+          "question": "A Comparison question asks 'How different are Sources B and C in their tone?' Which statement correctly applies the notes' rules to this question?",
+          "choices": [
+            "The answer should describe both tones as 'neutral' if they seem balanced",
+            "The answer should avoid discussing tone altogether, since tone cannot be compared",
+            "The answer should use 'agree'/'disagree' regardless of the question's actual wording",
+            "The answer should use 'different' as worded, and note the tones are not the same, since there is no such thing as comparing a 'neutral tone'"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes require matching the question's exact word ('different') and state 'there is no such phrase as neutral tone - the comparison of tone will always be different.'",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -658,6 +874,66 @@
           "answerIndex": 0,
           "explanation": "The notes list 'credible, trustworthy, believe, prove, accept' as reliability-related terms; 'surprising' belongs to the separate Surprised question type.",
           "d": 2
+        },
+        {
+          "question": "What does the first paragraph of a Reliability answer focus on, according to the notes?",
+          "choices": [
+            "Cross-referencing the source to contextual knowledge",
+            "Making an inference with the source's own content, supported by a quotation or description",
+            "Examining the source's provenance and purpose",
+            "Listing the limitations of the source"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state the first paragraph answers the question 'by making an inference with source content', supported by evidence and elaboration.",
+          "d": 1
+        },
+        {
+          "question": "If a Reliability answer concludes a source is only partly trustworthy, how should the second paragraph's concluding link be phrased, according to the notes?",
+          "choices": [
+            "'Thus, Source A is completely reliable.'",
+            "'Thus, Source A cannot be assessed.'",
+            "'Thus, Source A has limited reliability.'",
+            "'Thus, Source A is completely unreliable.'"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes give 'Thus, Source A has limited reliability' as the link phrasing when the source is only partly supported by contextual knowledge.",
+          "d": 2
+        },
+        {
+          "question": "Besides 'reliable', 'trustworthy', and 'believe', which of the following is also listed among the 'Other Possible Questions' phrasings for Reliability?",
+          "choices": [
+            "Biased",
+            "Prove",
+            "Similar",
+            "Useful"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes list 'Credible, Trustworthy, Believe, Prove, Accept' as other possible phrasings for Reliability questions.",
+          "d": 2
+        },
+        {
+          "question": "A Reliability question asks: 'To what extent can Source A be trusted?' Applying the notes' guidance on structure and exact wording, which statement is correct?",
+          "choices": [
+            "The answer should have 3 paragraphs (typically split 2:1 either way) and should use the word 'trusted' rather than 'reliable', matching the question's own wording",
+            "The answer should have 3 paragraphs always split evenly",
+            "The answer should have exactly 2 paragraphs, using the word 'reliable' throughout",
+            "The answer should default to using the word 'believe', regardless of the question asked"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes specify 3 paragraphs split 2:1 (rarely all one way), and require using the exact word given in the question (e.g. 'trustworthy' not 'reliable') — here that word is 'trusted'.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT part of the third paragraph's examination of a source's reliability, according to the notes?",
+          "choices": [
+            "The speaker's context or situation, based on provenance",
+            "The presence of bias and the speaker's position (biased or unbiased)",
+            "The speaker's intention, examined through purposed verbs",
+            "Cross-referencing the source's content to contextual knowledge to check factual accuracy"
+          ],
+          "answerIndex": 3,
+          "explanation": "Cross-referencing to contextual knowledge is the job of the second paragraph; the third paragraph instead examines provenance, purpose, and bias.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -779,6 +1055,66 @@
           "answerIndex": 0,
           "explanation": "The notes state that even though the propaganda poster is clearly unreliable, it is still useful because it highlights the issues faced.",
           "d": 2
+        },
+        {
+          "question": "What does the first paragraph of a Usefulness answer focus on, according to the notes?",
+          "choices": [
+            "Listing the limitations of the source",
+            "Making an inference with the source's own content",
+            "Cross-referencing to contextual knowledge",
+            "Examining the speaker's bias and position"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state the first paragraph 'answer[s] the question by making an inference with source content', supported by evidence and elaboration.",
+          "d": 1
+        },
+        {
+          "question": "How many total paragraphs does the recommended Usefulness answer structure have, and what is the typical split?",
+          "choices": [
+            "4 paragraphs, split 2:2",
+            "3 paragraphs, always entirely useful",
+            "2 paragraphs, split 1:1",
+            "3 paragraphs, typically split 2:1 in either direction (rarely entirely one way)"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes specify 3 paragraphs, 'either 2 paragraphs on useful and one on not useful, or vice versa (rarely entirely useful or completely not useful).'",
+          "d": 2
+        },
+        {
+          "question": "Which of the following is the example starting sentence given in the notes for a Usefulness answer?",
+          "choices": [
+            "Source A is not reliable/reliable as...",
+            "Source A is not useful/useful as...",
+            "Sources B and C agree...",
+            "The source was published to influence/persuade..."
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes give 'Source A is not useful/useful as...' as the example starting sentence for Usefulness answers.",
+          "d": 2
+        },
+        {
+          "question": "In the Policy of Appeasement example given in the notes, which reason for adopting the policy does the source actually discuss?",
+          "choices": [
+            "Fear of communism",
+            "The need for time to rearm",
+            "British public opinion",
+            "The need to protect economies and colonies"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes' example states the source 'only discusses one reason... which is the fear of communism,' while not covering the need for time to rearm or the need to protect economies and colonies.",
+          "d": 3
+        },
+        {
+          "question": "A student writes: 'Source A remains useful because of its purpose,' and stops there. According to the notes, what is wrong with this statement?",
+          "choices": [
+            "The student must instead argue the source is not useful, since sources with a purpose are always unreliable",
+            "The student must state what the purpose actually is, rather than simply asserting usefulness follows from having a purpose",
+            "The student must state that the source is reliable, since only reliable sources can be useful",
+            "The student must remove any mention of purpose, since purpose is irrelevant to usefulness"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes warn: 'Do not simply state that the source remains useful based on its purpose - state what that purpose is.' The notes also clarify an unreliable source can still be useful, so usefulness does not require reliability.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -912,6 +1248,54 @@
           "answerIndex": 2,
           "explanation": "The notes lay out a 6-paragraph structure: several source-based paragraphs plus a final analysis/context/link paragraph.",
           "d": 1
+        },
+        {
+          "question": "What is the recommended target ratio when splitting sources into 'agree' and 'disagree' categories for a Testing Assertion answer?",
+          "choices": [
+            "3:3",
+            "2:2",
+            "1:1",
+            "4:0"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state: 'Typically, try to make it balanced in a 2:2 ratio.'",
+          "d": 1
+        },
+        {
+          "question": "Besides a perfectly balanced 2:2 split, which other ratios does the notes say will also work for dividing sources between 'agree' and 'disagree'?",
+          "choices": [
+            "1:1 only, with no exceptions",
+            "5:0",
+            "2:3, 3:2, or even 3:1",
+            "4:0 or 0:4 only"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state: 'if not possible, a 2:3 or 3:2 ratio works as well. Even a 3:1 ratio will work.'",
+          "d": 2
+        },
+        {
+          "question": "In the notes' worked example, which sources are placed in the 'agree with the statement' category?",
+          "choices": [
+            "Source A and Source E",
+            "Source B and Source C",
+            "Source A and Source B",
+            "Source C and Source D"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes' example table places Source A and Source E in the 'Agree with the statement' column, with Sources B, C, and D disagreeing.",
+          "d": 2
+        },
+        {
+          "question": "The notes' example categorises Source A and Source E as agreeing, and Sources B, C, and D as disagreeing. Given that the structure calls for 6 total paragraphs, how are those 6 paragraphs divided?",
+          "choices": [
+            "6 paragraphs are all dedicated to individual sources, with no separate concluding paragraph",
+            "4 paragraphs for sources and 2 for conclusion",
+            "5 paragraphs for the 5 individual sources (A, E, B, C, D), plus 1 final paragraph for general analysis, context, and linking back to the claim",
+            "3 paragraphs for sources and 3 for conclusion, matching a 3:2 ratio"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes list one paragraph per source (A, E, B, C, D = 5 sources) followed by a sixth paragraph of 'general analysis... context... link back to the claim' — 5 source paragraphs plus 1 concluding paragraph.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -1061,6 +1445,66 @@
           "answerIndex": 1,
           "explanation": "The notes explicitly say the opening sentence/conclusion for each paragraph can differ and this is acceptable.",
           "d": 2
+        },
+        {
+          "question": "In the example question given for Hybrid Reliability (with a primary source) — 'Does Source A prove that Source B is wrong about Hitler's rule?' — what does Source A represent?",
+          "choices": [
+            "A source created specifically after Source B to contradict it",
+            "A secondary opinion piece with no bearing on reliability",
+            "A primary source used to test whether Source B is wrong",
+            "An official meeting minute unrelated to Source B"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes label this question type as involving a primary source, noting explicitly '(There is a primary source - Source A)'.",
+          "d": 1
+        },
+        {
+          "question": "According to the notes' 'Big Idea', what does the Hybrid Reliability (with primary source) skill fundamentally involve?",
+          "choices": [
+            "Critical analysis of the reliability of one source using another source, similar to Reliability skills but involving more than one source",
+            "Determining which source is more useful as historical evidence",
+            "Comparing the audience outcome of two sources only",
+            "Listing the limitations of a single source's coverage of an issue"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state: 'Involves the critical analysis of the reliability of one source using another source. The skills are very much like reliability, but involve the use of more than one source.'",
+          "d": 2
+        },
+        {
+          "question": "In the first paragraph, if Source A and Source B's content is found to be similar upon comparison, what conclusion follows, according to the notes?",
+          "choices": [
+            "The question cannot be answered without further information",
+            "Source A and Source B must be by the same author",
+            "Source A cannot prove Source B wrong / Source A is reliable",
+            "Source A can prove Source B wrong / Source A is not reliable"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state: 'If the source content is similar -> cannot prove wrong/reliable.'",
+          "d": 2
+        },
+        {
+          "question": "Per the notes' summary table, if Paragraph 1 finds Source A and Source B's content to be DIFFERENT (suggesting 'can prove wrong'), and Paragraph 2's cross-referencing to context CONFIRMS Source A is accurate, what conclusion is carried forward?",
+          "choices": [
+            "Source A cannot prove anything",
+            "Source A can prove Source B wrong",
+            "Source A cannot prove Source B wrong",
+            "The sources must be by opposing authors and are therefore irrelevant"
+          ],
+          "answerIndex": 1,
+          "explanation": "The summary table states: if Paragraph 1 found the sources different in inference (can prove wrong) and contextual knowledge matches, the conclusion is 'can prove wrong'.",
+          "d": 3
+        },
+        {
+          "question": "Based on the mark scheme, an answer that only makes an inference comparing the similarity/difference between Source A and B, without cross-referencing context or examining provenance, would most likely be capped at which level and mark range?",
+          "choices": [
+            "L2/3, 2-3 marks",
+            "L1, 1 mark",
+            "L5, 6-7 marks",
+            "L3/4, 4-5 marks"
+          ],
+          "answerIndex": 0,
+          "explanation": "The mark scheme assigns similarity/difference comparison (Step 1) to L2/3 [2-3 marks]; reaching L3/4 requires cross-referencing to context (Step 2) and L5 requires critical analysis of provenance (Step 3), neither of which was done here.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -1170,6 +1614,66 @@
           "answerIndex": 1,
           "explanation": "The notes state if source content is similar, you cannot trust Source A more (i.e., they are consistent with each other).",
           "d": 3
+        },
+        {
+          "question": "According to the notes, how many paragraphs does a Hybrid Reliability (No Primary Source) answer typically have, and how are they split between 'can prove wrong' and 'cannot prove wrong'?",
+          "choices": [
+            "3 paragraphs, all arguing the same conclusion throughout",
+            "4 paragraphs, always split evenly between 'can' and 'cannot' prove wrong",
+            "3 paragraphs, either 2 on 'can prove wrong' and 1 on 'cannot prove wrong', or vice versa",
+            "2 paragraphs, one for each source only"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state the structure is '3 Paragraphs. Either 2 paragraphs on can prove wrong and one on cannot prove wrong, or vice versa (rarely entirely one or the other).'",
+          "d": 1
+        },
+        {
+          "question": "According to the notes, what type of documents are given as an example of sources that are typically objective and unbiased?",
+          "choices": [
+            "Private diary entries",
+            "Meeting minutes or official documents",
+            "Newspaper editorials",
+            "Propaganda posters"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state: 'Meeting minutes or official documents are objective and unbiased.'",
+          "d": 2
+        },
+        {
+          "question": "In paragraph 2 of a Hybrid Reliability (No Primary Source) answer, what is the rare/unlikely scenario described when cross-referencing both sources to contextual knowledge?",
+          "choices": [
+            "Context is irrelevant to this paragraph",
+            "Context always supports Source A over Source B",
+            "Context does not support either source, meaning you cannot trust Source A more",
+            "Context supports both sources equally, meaning Source A is automatically more reliable"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state: 'If context does not support either source -> cannot trust anything (Source A) (unlikely scenario).'",
+          "d": 2
+        },
+        {
+          "question": "Source A and Source B describe a historical event with very similar content and perspective (paragraph 1 finding). However, in paragraph 3, closer analysis of provenance and purpose reveals Source A is unbiased while Source B is shown to be a biased, one-sided account. Following the notes' logic for each paragraph, what would the paragraph 3 conclusion be, even though paragraph 1 concluded the sources cannot be used to trust one more than the other?",
+          "choices": [
+            "Paragraph 3 cannot reach any conclusion once paragraph 1 has already reached one",
+            "Paragraph 3 must agree with paragraph 1 and conclude Source A cannot be trusted more",
+            "Paragraph 3 would conclude Source B can be trusted more because it discusses purpose",
+            "Paragraph 3 would conclude that Source A can be trusted more, since it is found more reliable while Source B is found less reliable upon analysis of purpose and provenance"
+          ],
+          "answerIndex": 3,
+          "explanation": "Per the notes, 'if Source A is found unbiased/more reliable upon analysing purpose and provenance -> can trust Source A more'; each paragraph reaches its own conclusion, and the structure notes it is 'rarely entirely one or the other' across the 3 paragraphs.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT listed in the notes as a useful word/phrase for this type of answer?",
+          "choices": [
+            "Objective",
+            "Unbiased",
+            "Exaggerated",
+            "Comprehensive"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes list 'unbiased, objective, subjective, biased, official, and exaggerated...' as useful words/phrases; 'comprehensive' is not mentioned.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -1251,6 +1755,54 @@
           "answerIndex": 2,
           "explanation": "The notes state paragraph three analyses what was found in the first two paragraphs to determine which source is useful/useless.",
           "d": 1
+        },
+        {
+          "question": "According to the notes, what three things does paragraph 2 of a Separate Inference answer do, specifically regarding Source B?",
+          "choices": [
+            "Analyse only Source B's provenance, ignoring its content",
+            "Only quote Source B without analysis",
+            "Make an inference from Source B's content, cross-reference Source B to context, and critically analyse Source B's purpose and provenance",
+            "Directly compare Source B's wording to Source A's wording"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state paragraph 2 involves making 'an inference from the content of Source B, cross-reference Source B to context, and critically analyse the source's purpose and provenance.'",
+          "d": 1
+        },
+        {
+          "question": "In the Separate Inference structure, do paragraphs 1 and 2 directly compare Source A and Source B to each other, or does that comparison happen elsewhere?",
+          "choices": [
+            "Paragraphs 1 and 2 analyse each source separately; the direct comparison/conclusion happens in paragraph 3",
+            "All three paragraphs compare the sources equally throughout",
+            "Only paragraph 1 compares the sources; paragraphs 2 and 3 do not mention either source",
+            "Paragraphs 1 and 2 directly compare the two sources line by line"
+          ],
+          "answerIndex": 0,
+          "explanation": "Paragraphs 1 and 2 separately analyse Source A and Source B respectively; only paragraph 3 'analyse[s] what you have found in the first two paragraphs to ascertain which source is useful/useless.'",
+          "d": 2
+        },
+        {
+          "question": "In paragraph 1, a student finds Source A's inference is supported by context and shows an unbiased purpose. In paragraph 2, the student finds Source B's inference is contradicted by context and reveals a clearly biased purpose. Applying the Separate Inference structure, what should paragraph 3 most likely conclude?",
+          "choices": [
+            "Both sources are equally useless, since they were analysed separately",
+            "No conclusion can be drawn without a primary source",
+            "Source A is more useful/reliable while Source B is useless, based on analysing the findings of paragraphs 1 and 2",
+            "Source B is more useful because it was analysed second"
+          ],
+          "answerIndex": 2,
+          "explanation": "Paragraph 3 'analyse[s] what you have found in the first two paragraphs to ascertain which source is useful/useless' -- since Source A held up well and Source B did not, Source A would be found more useful.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT part of the analysis conducted on a source in paragraphs 1 or 2 of a Separate Inference answer?",
+          "choices": [
+            "Making an inference from its content",
+            "Cross-referencing it to contextual knowledge",
+            "Critically analysing its purpose and provenance",
+            "Directly comparing its wording to the other source's wording"
+          ],
+          "answerIndex": 3,
+          "explanation": "Direct comparison between the two sources only happens in paragraph 3, which 'analyse[s] what you have found in the first two paragraphs'; paragraphs 1 and 2 only cover inference, context cross-referencing, and purpose/provenance for one source each.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -1400,6 +1952,66 @@
           "answerIndex": 2,
           "explanation": "The notes explicitly state the conclusion can differ across paragraphs and this is acceptable.",
           "d": 1
+        },
+        {
+          "question": "According to the notes, what is the 'Big Idea' behind a 'Surprised' question, in simple terms?",
+          "choices": [
+            "Comparing two sources to see which is more reliable",
+            "Determining whether a source is a primary or secondary source",
+            "Looking at a source's content and seeing if it is contrary to what we commonly know or have learnt",
+            "Judging whether a source is biased or unbiased"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state: 'Essentially and very simply looking at a source's content and seeing if it is contrary to what we commonly know or have learnt.'",
+          "d": 1
+        },
+        {
+          "question": "In paragraph 2 of a 'Surprised' answer, what exactly is being checked when cross-referencing to contextual knowledge?",
+          "choices": [
+            "The reliability of the source's author",
+            "Whether the source is a primary or secondary source",
+            "A content match -- not reliability, and not the person's position",
+            "The person's position and intentions"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes explicitly note: 'this paragraph is checking for a content match (not reliability, not a person's position).'",
+          "d": 2
+        },
+        {
+          "question": "What common phrasing mistake does the notes warn against when writing paragraph 1 of a 'Surprised' answer?",
+          "choices": [
+            "Discussing the source's provenance too early",
+            "Forgetting to mention contextual knowledge in paragraph 1",
+            "Simply stating content is 'in the source so it means this...so it is surprising' instead of basing surprise on the person's position (e.g. 'said..., meaning..., so it is surprising')",
+            "Using the phrase 'I am surprised' as an opening sentence"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state: 'you must always discuss the element of surprise based on the person's position, not just \"...is in the source so it means this...so it is surprising\" - instead: \"...said..., meaning..., so it is surprising.\"'",
+          "d": 2
+        },
+        {
+          "question": "A photograph shows a concentration camp survivor publicly thanking a former camp guard for good treatment. Based on the notes' logic about a source's purpose only being surprising when it presents an outcome contrary to the expected idea (as with the example of a Jew praising Hitler), would this photograph's purpose be surprising or not, and why?",
+          "choices": [
+            "Surprising, only because it is a photograph rather than a written document",
+            "Surprising, because it presents an outcome contrary to what would normally be expected",
+            "Not surprising, because survivors commonly praised camp guards",
+            "Not surprising, because photographs are always considered objective and unbiased"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state a source's purpose 'is surprising only when the purpose presents an outcome contrary to one's expected idea,' using the example that 'a photo of a Jew seen praising Hitler is surprising as it is unexpected' -- this new scenario follows the same logic.",
+          "d": 3
+        },
+        {
+          "question": "Suppose paragraph 1 of a 'Surprised' answer concludes 'not surprised' based on the source's content, but in paragraph 2, cross-referencing to contextual knowledge reveals the source's content is actually challenged by that context. What should paragraph 2 conclude, and is having a different conclusion from paragraph 1 acceptable?",
+          "choices": [
+            "Paragraph 2 should conclude 'surprising', but this is not acceptable and the whole answer must be rewritten",
+            "Paragraph 2 cannot reach a conclusion once paragraph 1 already has",
+            "Paragraph 2 should conclude 'surprising', since challenge = surprised for this question type; yes, differing conclusions across paragraphs are acceptable",
+            "Paragraph 2 must conclude 'not surprising' to stay consistent with paragraph 1"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state 'Support = not surprised; Challenge = surprised' for the CR to CK step, and explicitly note 'It is alright for the conclusion to change (e.g. not surprising at the start, but surprising now).'",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -1509,6 +2121,66 @@
           "answerIndex": 0,
           "explanation": "Paragraph one compares the sources for similarity or difference in content, views, or perspectives to determine initial surprise.",
           "d": 1
+        },
+        {
+          "question": "What is the example starting sentence given in the notes for a 'Surprised with 2 Sources' answer?",
+          "choices": [
+            "Source A cannot be trusted more than Source B about...",
+            "(Main source) does/does not make me feel surprised by (other source)...",
+            "After reading Source F, I am surprised/not surprised...",
+            "I am surprised/not surprised, as a standalone opener with no source named"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes give the example starting sentence: 'After reading Source F, I am surprised/not surprised...'",
+          "d": 1
+        },
+        {
+          "question": "Based on the pattern shown in the notes' table, what determines which source is the 'main source' in a Surprised-with-2-sources question?",
+          "choices": [
+            "The main source is always whichever source is named first in the question",
+            "The main source is always Source A, regardless of phrasing",
+            "The main source is determined by which source is more reliable",
+            "The main source is the one you are asked whether you're surprised 'about' (the object of surprise), not the one you are described as having 'read' first"
+          ],
+          "answerIndex": 3,
+          "explanation": "Per the table, 'Does Source A make you surprised about Source B?' has Main Source = Source B, and 'Having read Source B, are you surprised about Source A?' has Main Source = Source A -- in both cases the main source is the one appearing after 'about', not the one 'read'.",
+          "d": 2
+        },
+        {
+          "question": "In the notes' example ('Source F comes from President Truman... I am surprised by Source E...'), what does this illustrate about the attention given to each source in paragraph 2?",
+          "choices": [
+            "Only the other source (Source F) is analysed in paragraph 2, not the main source",
+            "Both sources receive exactly equal, detailed analysis in paragraph 2",
+            "Contextual knowledge is not used at all in this example",
+            "The main source (Source E) is analysed in detail against contextual knowledge, while the other source (Source F) is given only minor attention, such as a short sentence justifying its reliability"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state paragraph 2 should 'Cross-reference the main source with contextual knowledge, with minor attention given to the other source,' and the example gives only a short justifying sentence for Source F while focusing on Source E.",
+          "d": 2
+        },
+        {
+          "question": "In paragraph 1, the two sources share very similar perspectives (so not surprised so far). But in paragraph 3, the main source is found to have a far more biased purpose and provenance than the other source. Following the notes' logic, what would paragraph 3 conclude, and is having a different conclusion from paragraph 1 acceptable?",
+          "choices": [
+            "Paragraph 3 would conclude 'surprised', since the main source is less reliable while the other source is more reliable upon analysis; yes, differing conclusions across paragraphs are acceptable",
+            "Paragraph 3 cannot draw a conclusion because paragraph 1 already did",
+            "Paragraph 3 must conclude 'not surprised' to remain consistent with paragraph 1",
+            "Paragraph 3 would conclude 'surprised' only if paragraph 1 also concluded 'surprised'"
+          ],
+          "answerIndex": 0,
+          "explanation": "Per the notes, if 'the other source has a more objective purpose... while the main source is more biased... surprised by the main source,' and the important notes confirm conclusions 'can differ across paragraphs and this is acceptable.'",
+          "d": 3
+        },
+        {
+          "question": "According to the notes, which of the following is NOT something paragraph 3 of a Surprised-with-2-sources answer substantiates its claim with?",
+          "choices": [
+            "Elaboration",
+            "Provenance",
+            "Contextual knowledge",
+            "Purpose"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state paragraph 3 should 'Substantiate your claim with purpose, provenance and elaboration' -- contextual knowledge is the focus of paragraph 2, not paragraph 3.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -1610,6 +2282,66 @@
           "answerIndex": 0,
           "explanation": "The notes describe Hybrid Surprised questions as focusing on the cause, with Source A as the main source.",
           "d": 2
+        },
+        {
+          "question": "What is the example starting sentence given in the notes for a Hybrid Surprised answer?",
+          "choices": [
+            "Having read Source A, are you surprised about Source B?",
+            "After reading Source F, I am surprised/not surprised...",
+            "Source A cannot be trusted more than Source B about...",
+            "(Main source) does/does not make me feel surprised by (other source)..."
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes give the example starting sentence: '(Main source) does/does not make me feel surprised by (other source)...'",
+          "d": 1
+        },
+        {
+          "question": "According to the notes, what conclusion follows in paragraph 2 of a Hybrid Surprised answer if the main source IS supported by contextual knowledge?",
+          "choices": [
+            "The other source becomes the new main source",
+            "The main source does not make me feel surprised by the other source, since it is unreliable",
+            "The main source does make me feel surprised by the other source, since the main source is reliable when considering contextual knowledge",
+            "No conclusion can be drawn from contextual knowledge in this question type"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state: 'If main source is supported by contextual knowledge -> the main source does make me feel surprised by the other source, as the main source is in itself a reliable source when considering contextual knowledge.'",
+          "d": 2
+        },
+        {
+          "question": "In paragraph 3 of a Hybrid Surprised answer, what is the outcome if you can understand, using intention and context, why the two sources are different?",
+          "choices": [
+            "Surprised",
+            "The answer depends entirely on paragraph 1's conclusion",
+            "No conclusion can be reached",
+            "Not surprised"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state: 'If you can understand why they are different, you are also not surprised' -- understanding the reason, whether for similarity or difference, leads to 'not surprised.'",
+          "d": 2
+        },
+        {
+          "question": "Two sources give very different accounts in paragraph 1 (so surprised, based on content). In paragraph 3, using intention and context, the student can fully explain why the sources differ. According to the notes' logic, what would paragraph 1 conclude versus paragraph 3, and is this acceptable?",
+          "choices": [
+            "Paragraph 3 also concludes surprised, since the sources are still different in content",
+            "Paragraph 1 must be rewritten to match paragraph 3's conclusion",
+            "Both paragraphs must reach the same conclusion, so this scenario is invalid",
+            "Paragraph 1 concludes surprised (content differs); paragraph 3 concludes not surprised (the difference is understood); yes, this is acceptable since conclusions can differ across paragraphs"
+          ],
+          "answerIndex": 3,
+          "explanation": "Per the notes, differing content leads to 'surprised by the main source' in paragraph 1, while 'If you can understand why they are different, you are also not surprised' in paragraph 3; the notes confirm the conclusion 'can differ across paragraphs and this is acceptable.'",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT a way that the Hybrid Surprised structure is described as differing from the 'Surprised with 2 Sources' structure, according to the notes?",
+          "choices": [
+            "Paragraph 1 does not need to compare the two sources' content",
+            "Paragraph 2 does not need minor attention paid to the other source",
+            "Paragraph 3 examines the purpose and provenance/context of BOTH sources, not just the main source",
+            "The main source identification logic is reversed (cause-focused vs effect-focused)"
+          ],
+          "answerIndex": 0,
+          "explanation": "Paragraph 1 in Hybrid Surprised still involves comparing the sources ('Compare the sources and look for similarities or differences'), the same as in Surprised with 2 Sources; the actual listed differences are paragraph 2's lack of minor attention to the other source, paragraph 3 examining both sources, and the reversed main-source logic.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -1731,6 +2463,66 @@
           "answerIndex": 2,
           "explanation": "The notes state 3 questions are given, Question 1 is compulsory, and you choose 1 of Question 2 or 3.",
           "d": 1
+        },
+        {
+          "question": "How does the notes define 'social identity' (as distinct from 'social identity creation')?",
+          "choices": [
+            "A process of redefining membership qualities and seeking legitimisation",
+            "Essential qualities that determine membership in a certain social group (something that defines you and what you do)",
+            "Changes in political, economic, social, and cultural structures in society",
+            "The total population belonging to a particular nation"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes define 'Social identity' as 'essential qualities that determine membership in a certain social group (something that defines you and what you do).'",
+          "d": 1
+        },
+        {
+          "question": "According to the guiding rules for essays, what is typically used to flag the specific factor being asked about in an essay question?",
+          "choices": [
+            "A date range mentioned in the question",
+            "The name of a specific case study",
+            "A weighing word, such as 'most', 'key', or 'primarily driven'",
+            "A question mark at the end of the sentence"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state: 'Identify the factor in the question... usually flagged by a weighing word like most, key, or primarily driven.'",
+          "d": 2
+        },
+        {
+          "question": "Besides answering the given factor with content knowledge, what must an essay also do regarding the other factors, per the guiding rules?",
+          "choices": [
+            "Answer why the chosen factor is more important than the other factors",
+            "List every other possible factor without explanation",
+            "Only mention other factors in the conclusion",
+            "Ignore the other factors entirely"
+          ],
+          "answerIndex": 0,
+          "explanation": "The guiding rules end with: 'Answer why the chosen factor is more important than the other factors.'",
+          "d": 2
+        },
+        {
+          "question": "A student spends 50 minutes writing the first essay out of the 1 hour 30 minutes given for the essay section. According to the notes' time guidance, how much time is left for the second essay, and does the 50 minutes spent on the first essay comply with the notes' recommendation?",
+          "choices": [
+            "40 minutes are left, and the 50 minutes spent does not comply, since each essay should take no more than 45 minutes",
+            "45 minutes are left, and 50 minutes spent is fine since it's close to 45",
+            "30 minutes are left, and the 50 minutes spent complies with the guidance",
+            "40 minutes are left, and the guidance has no maximum time per essay"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state 'Time given: 1 hour 30 minutes (spend roughly 45 minutes on each essay, no more than 45 minutes each)'; 90 minus 50 leaves 40 minutes, and 50 minutes exceeds the 'no more than 45 minutes' limit.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT listed among the 'Overall Guiding Questions for Essays' in the notes?",
+          "choices": [
+            "How did people's views and perspectives shape their interpretation of these developments?",
+            "How did these developments impact societies?",
+            "What were the major forces and developments during this period?",
+            "What is the best essay structure to memorise word-for-word?"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes list six guiding questions about forces/developments, causes, key players, influence on decisions/actions, perspectives, and impact on societies -- memorising an essay structure word-for-word is not among them.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -1877,6 +2669,66 @@
           "answerIndex": 3,
           "explanation": "The notes state the conclusion should reiterate your stand and evaluate your points using a basis of comparison, e.g. long term vs short term.",
           "d": 1
+        },
+        {
+          "question": "According to the notes, what should the 'Evidence' component of a Level 1 essay body paragraph consist of?",
+          "choices": [
+            "Statistical data without any descriptive context",
+            "A case study (an event, or an action by a group/person) -- just one, with an adequate description of about 4-5 lines",
+            "Multiple case studies covering every possible example",
+            "A direct quotation from a historian only"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state: 'Evidence: a case study (an event, or an action taken by a group of people/single person - just 1, with an adequate description of relevant information, 4-5 lines).'",
+          "d": 1
+        },
+        {
+          "question": "What must an Extreme/Relative Importance essay do regarding the chosen factor, beyond just arguing that it is a factor?",
+          "choices": [
+            "Ignore the other two factors completely",
+            "Answer why the chosen factor is more important than the other two factors (requires weighing)",
+            "List the other two factors without any explanation",
+            "Prove the other two factors are irrelevant to the question"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state the final step for Extreme/Relative Importance questions is: 'Answer why the chosen factor is more important than the other two factors (requires weighing).'",
+          "d": 2
+        },
+        {
+          "question": "For a Balanced Perspective question, what must the essay do instead of arguing for only one side?",
+          "choices": [
+            "Avoid content knowledge and rely on hypothetical reasoning",
+            "Only argue the side the question statement suggests",
+            "Present just one body paragraph covering both sides briefly",
+            "Answer why both sides can happen, providing a balanced perspective"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state the final step for Balanced Perspective questions is: 'Answer why both sides can happen (provide a balanced perspective).'",
+          "d": 2
+        },
+        {
+          "question": "A student answering 'War is inevitable. How far do you agree?' writes a paragraph imagining 'If Country X had acted differently, war might have been avoided.' According to the notes, is this acceptable, and why or why not?",
+          "choices": [
+            "Acceptable, but only if it appears in the conclusion",
+            "Acceptable, as hypothetical reasoning is encouraged for Balanced Perspective questions",
+            "Not acceptable -- the notes state you must NEVER use a hypothetical situation, especially for questions on whether war was inevitable",
+            "Not acceptable, but only because it names a specific country"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes explicitly warn: 'NEVER use a hypothetical situation (especially for questions on whether war was inevitable).'",
+          "d": 3
+        },
+        {
+          "question": "An essay has a 3-line introduction and 4 body paragraphs, each containing only a Point, Evidence, and Link (no separate Elaboration). Comparing this to the structure described in the notes, what two things are structurally wrong with this essay?",
+          "choices": [
+            "Nothing is wrong -- 4 body paragraphs with 3 elements each matches the notes exactly",
+            "It should have 3 body paragraphs, not 4, and each paragraph should also include an Elaboration linking the evidence to the point",
+            "It should have 5 body paragraphs, and the introduction should be removed entirely",
+            "The introduction should be 4-5 lines, and body paragraphs need a Point only"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes specify '3 Body Paragraphs' each containing 'Point... Evidence... Elaboration... Link' -- this essay has one paragraph too many and is missing the Elaboration element.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2040,6 +2892,66 @@
           "answerIndex": 2,
           "explanation": "The notes specify the introduction should include short context about the case studies and the question, plus a thesis statement listing your arguments.",
           "d": 1
+        },
+        {
+          "question": "How does the notes define 'social transitions'?",
+          "choices": [
+            "A permanent, irreversible shift in a country's government structure",
+            "A quicker-paced transition, whereby a sudden change occurs in an instant or over a few days",
+            "Deliberate and intentional changes that people move and act towards",
+            "Change that is not forced, occurring over time from one period to another"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes define: 'Social transitions - a quicker-paced transition, whereby a sudden change occurs in an instant or over a few days.'",
+          "d": 1
+        },
+        {
+          "question": "According to the 'Overall Guiding Rules for Comparative Essays', what two things must an answer do to address the question?",
+          "choices": [
+            "Memorise dates for both case studies; name the key leaders involved",
+            "A content match -- comparing reasons, cause and effect, or impact/consequence; and analysis based on a criterion, such as social/political/economic, country, situation, people, or government",
+            "List every similarity between the case studies and list every difference between the case studies",
+            "Pick the case study you know best; ignore the other case study"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state: 'Answer the question through: (a) content match - comparison of reasons, cause and effect, impact/consequence; (b) analysis based on criterion - social/political/economic, country, situation, people, government.'",
+          "d": 2
+        },
+        {
+          "question": "Which of the following is listed in the notes as a possible comparative topic for a Direct Compare and Contrast essay on dictatorships?",
+          "choices": [
+            "The number of years each dictator attended school",
+            "Policies for the control of people/consolidation of power/securing power",
+            "The dictators' personal family backgrounds",
+            "Trade agreements signed between the two dictatorships"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes list 'possible comparative topics: power and authority; reasons for the rise to power; policies for the control of people/consolidation of power/securing power; impact of the dictatorship.'",
+          "d": 2
+        },
+        {
+          "question": "According to the criteria and perspectives table in the notes, which of the following is NOT one of the perspectives listed under the 'Time' criterion?",
+          "choices": [
+            "Start of the movement/During a movement/At the end of a movement",
+            "Short-term/Long-term",
+            "Local/National",
+            "Immediate/Future"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes list four Time perspectives: Short-term/Long-term, Immediate/Future, Peace time/During a crisis, and Start/During/End of movement -- 'Local/National' is not among them.",
+          "d": 3
+        },
+        {
+          "question": "A Direct Compare and Contrast essay has an introduction, only 2 body paragraphs (each with a Point, Evidence, Elaboration, and Link), and a conclusion. Based on the structure described in the notes, what is structurally incomplete about this essay?",
+          "choices": [
+            "Nothing is incomplete -- 2 body paragraphs matches the notes",
+            "It should have 5 body paragraphs, not 2",
+            "It should not have a conclusion at all",
+            "It should have 3 body paragraphs, not 2"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes specify the structure includes '3 Body Paragraphs' for a Direct Compare and Contrast essay, so an essay with only 2 is missing one paragraph.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2194,6 +3106,66 @@
           "answerIndex": 0,
           "explanation": "The notes state this is an exception where thorough explanation helps avoid losing the 4th mark.",
           "d": 2
+        },
+        {
+          "question": "According to the notes, what is required for a question with marks allocated as [3+3]?",
+          "choices": [
+            "3 points and 3 explanations",
+            "3 points with no explanations",
+            "6 points with no explanations",
+            "2 points and 2 explanations"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes' table states that [3+3] questions require 3 points and 3 explanations, distinct from [2+2] which needs 2 points and 2 explanations.",
+          "d": 1
+        },
+        {
+          "question": "Why does the notes advise looking generally rather than too specifically when answering a 'Compare' question?",
+          "choices": [
+            "Because a very narrow comparison shows a lack of understanding",
+            "Because general answers take less time to mark",
+            "Because specific comparisons are always factually wrong",
+            "Because only differences should ever be given"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state to 'look generally and not too specifically, because a very narrow comparison shows a lack of understanding.'",
+          "d": 2
+        },
+        {
+          "question": "For 'Factors / Reasons' questions, besides applying the ESPN framework, what does the notes say should always be included?",
+          "choices": [
+            "A numerical calculation",
+            "Only environmental factors",
+            "A relevant case study only",
+            "Push and pull factors"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state 'For factor questions, always try to give push and pull factors' in addition to using ESPN across all aspects, not just social or economic.",
+          "d": 2
+        },
+        {
+          "question": "Which of the following statements about giving a variety of answers is FALSE according to the notes?",
+          "choices": [
+            "For 'Factors/Reasons' questions, both push-pull factors and the ESPN framework should be considered",
+            "For 'Impacts' questions, both positive and negative impacts should generally be given",
+            "Repeating the same point in a different way, e.g. 'less congestion in MEDC, more in LEDC', only earns 1 mark",
+            "A narrow, very specific comparison shows a strong understanding of the topic"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes actually say the opposite: a narrow, specific comparison shows a LACK of understanding, not a strong one. The other three statements are all directly supported by the notes.",
+          "d": 3
+        },
+        {
+          "question": "A student answering an 'Impacts' question is very confident that a certain policy produces only positive impacts, with no negative impacts at all. According to the notes, what should the student do to still give a diversity of answers?",
+          "choices": [
+            "Switch to discussing push and pull factors instead",
+            "Still use the ESPN framework to diversify the positive impacts across different aspects",
+            "Invent negative impacts even though none exist, to appear balanced",
+            "Write only one positive impact and stop there"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state: 'If you are very sure there is only one type (either only positive or only negative), then once again give your answers based on ESPN,' meaning the student should diversify using ESPN rather than force a false balance.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2347,6 +3319,66 @@
           "answerIndex": 2,
           "explanation": "The notes state the answer must always make reference to given data representations with specific, accurate and relevant data.",
           "d": 1
+        },
+        {
+          "question": "What is required for a 'Calculate / Define' command word, per the notes?",
+          "choices": [
+            "Give a full explanation with data",
+            "State the reason with supporting data",
+            "Compare two objects using a common criterion",
+            "Just calculate or define; no data or explanation is needed"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state that for 'Calculate / Define', you should 'Just calculate or define; no need for data or explanation.'",
+          "d": 1
+        },
+        {
+          "question": "If a question asks a student to 'support your explanation with an example', what must that example include, per the notes?",
+          "choices": [
+            "A single word answer",
+            "A diagram only, with no text at all",
+            "A definition with no elaboration",
+            "At least 2 sentences with specific numbers/details"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state: 'the example should be at least 2 sentences and must have some details with specific numbers.'",
+          "d": 2
+        },
+        {
+          "question": "For a 'Relationship' command word, what must the answer state, per the notes?",
+          "choices": [
+            "A calculation with no reference to data",
+            "Only whether two variables are exactly equal",
+            "Whether it is a direct or inverse relationship, supported by data",
+            "A comparison using the ESPN framework"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state: 'Relationship — State whether it is a direct or inverse relationship and provide data to show the relationship.'",
+          "d": 2
+        },
+        {
+          "question": "According to the notes, what structural requirement is shared by both 'Describe/Suggest' and 'Explain/Account for' answers?",
+          "choices": [
+            "Both require no reference to any data given in the question",
+            "Both must begin with a general statement addressing the question and end with a concluding statement linking back to it",
+            "Both must only state facts without any interpretation",
+            "Both must always include a diagram, even if none was provided"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state for both command words that answers 'should always begin with a general statement that directs the answer or directly answers the question' and 'must also end with a concluding statement that links back to the question.'",
+          "d": 3
+        },
+        {
+          "question": "A town's population grows from 20 million (A) to 25 million (B). Using the rate-of-change formula given in the notes, (B−A)/A × 100%, what is the percentage rate of change?",
+          "choices": [
+            "45%",
+            "5%",
+            "20%",
+            "25%"
+          ],
+          "answerIndex": 3,
+          "explanation": "Applying the formula: (25−20)/20 × 100% = 5/20 × 100% = 25%, exactly as defined in the notes for calculating rate of change.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2462,6 +3494,66 @@
           "answerIndex": 0,
           "explanation": "The notes list relief rain formation, convectional rain formation, and monsoon diagrams as required sketches.",
           "d": 1
+        },
+        {
+          "question": "How many main types of diagram-related questions are identified in the notes?",
+          "choices": [
+            "Two",
+            "Four",
+            "Five",
+            "Three"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes list exactly three types: a well-labelled diagram, an annotated diagram, and 'With the aid of a well-labelled diagram, explain the…' type questions.",
+          "d": 1
+        },
+        {
+          "question": "What is the first step recommended in the notes' approach to a diagram sketching question?",
+          "choices": [
+            "Skip straight to labelling without identifying the diagram type",
+            "Identify the diagram you need to sketch, then proceed to sketch it",
+            "Ask to see a model answer before starting",
+            "Write a full paragraph explanation before sketching anything"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state: 'Identify the diagram you need to sketch and then proceed to sketch it' as the first step in the approach.",
+          "d": 2
+        },
+        {
+          "question": "Which set of three diagrams is explicitly listed in the notes as ones you need to know how to sketch?",
+          "choices": [
+            "Relief rain formation, Convectional rain formation, Plate boundary diagrams",
+            "Relief rain formation, Volcanic island arc, Monsoon diagrams",
+            "Relief rain formation, Convectional rain formation, Monsoon diagrams",
+            "Convectional rain formation, Earthquake epicentre, Monsoon diagrams"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes list exactly these three under 'Types of diagrams you need to know how to sketch': Relief rain formation, Convectional rain formation, and Monsoon diagrams.",
+          "d": 2
+        },
+        {
+          "question": "A question states: 'The diagram shows plates X and Y at a boundary. With the aid of a well-labelled diagram, account for the formation of a volcanic island arc, referring to the plates given.' Per the notes' guidance, which TWO requirements must the answer meet together?",
+          "choices": [
+            "The sketch must be numbered with a paragraph below explaining the process by number, and it must retain the given plate names X and Y",
+            "The sketch must be annotated with short descriptions only, and the plate names may be renamed",
+            "Only a paragraph is needed, with no sketch at all",
+            "Only labels are needed, with no paragraph, and the plate names can be omitted"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes require this question type to have a numbered diagram with a corresponding process paragraph below it, and separately state that any information given (like place/plate names) must be shown in the sketch.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT one of the three main types of diagram-related questions identified in the notes?",
+          "choices": [
+            "An unlabelled rough sketch with no annotations",
+            "A well-labelled diagram",
+            "'With the aid of a well-labelled diagram, explain the…' type question",
+            "An annotated diagram"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes list only three types of possible questions — a well-labelled diagram, an annotated diagram, and the 'with the aid of…' type. An unlabelled rough sketch is not one of them.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2554,6 +3646,66 @@
           "answerIndex": 3,
           "explanation": "The notes instruct reading and analysing the infographic thoroughly before answering.",
           "d": 1
+        },
+        {
+          "question": "Which earthquake event is used as the example in the notes' sample infographic analysis questions?",
+          "choices": [
+            "The 2008 Sichuan Earthquake",
+            "The 2010 Haiti Earthquake",
+            "The 2015 Nepal Earthquake",
+            "The 2011 Tohoku Earthquake"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes' example analysis questions both reference 'the 2015 Nepal Earthquake' (e.g. aftershocks and economic impact).",
+          "d": 1
+        },
+        {
+          "question": "According to the notes, why does the guidance point students to the Handout on Graphical Skills regarding infographics?",
+          "choices": [
+            "Because infographics are never assessed in exams",
+            "Because graphical skills are unrelated to infographic analysis",
+            "Because infographics have different types, each with advantages and disadvantages for different data representation",
+            "Because only one type of infographic exists"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state: 'Infographics also have different types, with advantages and disadvantages to different types of data representation (refer to the Handout on Graphical Skills).'",
+          "d": 2
+        },
+        {
+          "question": "What does the approach section of the notes warn students to avoid when analysing an infographic?",
+          "choices": [
+            "Being careless in analysing the infographic",
+            "Writing a concluding statement",
+            "Referencing any data at all",
+            "Reading the infographic too many times"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state: 'Do not be careless in analysing the infographic.'",
+          "d": 2
+        },
+        {
+          "question": "Which of the following is NOT an example of a data-retrieval type question about an infographic, per the notes' classification?",
+          "choices": [
+            "State… [something shown]",
+            "Define… [a given term]",
+            "What is the epicentre?",
+            "Describe how the 2015 Nepal Earthquake has affected the economy"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes classify 'What is the epicentre?', 'Define…' and 'State…' as data retrieval questions, but 'Describe how the earthquake has affected the economy' is listed as an analysis question requiring inference, not retrieval.",
+          "d": 3
+        },
+        {
+          "question": "A student answering an infographic question correctly names the epicentre, but then explains the earthquake's effects purely from memorised textbook knowledge, without mentioning any figures, names, or maps shown in the infographic. Based on the notes' approach guidance, what is the main problem with this?",
+          "choices": [
+            "There is no problem, since textbook knowledge is always preferred over infographic data",
+            "The answer must always use the infographic's data — names, figures, maps, images, information — so ignoring it, even in the analysis part, goes against the guidance to not be careless",
+            "The only problem is that the epicentre answer itself was wrong",
+            "The student should have used the ESPN framework instead of infographic data"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state 'every answer must use the data, including names, figures, maps, images, information, etc.' and warn 'Do not be careless in analysing the infographic' — ignoring the infographic's data in the analysis violates both points.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2719,6 +3871,66 @@
           "answerIndex": 1,
           "explanation": "The notes explicitly state not to include examples in the conclusion.",
           "d": 1
+        },
+        {
+          "question": "What is the minimum number of sentences required for the 'Elaborate' component of a body paragraph, per the notes?",
+          "choices": [
+            "1 sentence",
+            "3 sentences",
+            "5 sentences",
+            "8 sentences"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state for Elaborate: 'This part should minimally be at least 3 sentences.'",
+          "d": 1
+        },
+        {
+          "question": "What three-part format does the notes suggest for presenting Evidence in a body paragraph?",
+          "choices": [
+            "(a) name a place, (b) statistics and data, (c) terms",
+            "(a) topic sentence, (b) elaboration, (c) evaluation",
+            "(a) opinion, (b) rhetorical question, (c) analogy",
+            "(a) definition, (b) scope, (c) stand"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state you 'may adopt the format: (a) name a place, (b) statistics and data, (c) terms' when giving evidence.",
+          "d": 2
+        },
+        {
+          "question": "According to the 'Other notes for Essay' section, what should NOT be done regarding issues within a single body paragraph?",
+          "choices": [
+            "Do not use any evidence in a paragraph",
+            "Do not write a topic sentence",
+            "Do not exceed 3 sentences in a paragraph",
+            "Do not address two issues or two points in one paragraph"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes explicitly state: 'Do not address two issues or two points in one paragraph.'",
+          "d": 2
+        },
+        {
+          "question": "Which of the following is NOT advised by the notes' 'Other notes for Essay' section?",
+          "choices": [
+            "Avoid regurgitation and repetition without processing and adapting content to answer the question",
+            "Always include case studies but only provide the relevant evidence",
+            "Each paragraph must have at least 8 sentences",
+            "Repeat information exactly as memorised, since more content earns more marks regardless of relevance"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes explicitly warn to 'Avoid regurgitation and repetition in the essay without processing and adapting content to answer the question' — the opposite of repeating memorised content for its own sake.",
+          "d": 3
+        },
+        {
+          "question": "In the notes' worked example for the question 'To what extent is climate change a threat?', what is identified as the statement's 'extreme word', and what does defining it tell the student to focus on?",
+          "choices": [
+            "'Threat' — it shows the essay should focus on the negative effects, challenges and risks of climate change",
+            "'Climate' — it shows the essay is only about rainfall patterns",
+            "'Change' — it shows the essay must only discuss historical comparisons",
+            "'Extent' — it shows the student must fully agree with the statement"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes' worked example defines the keyword 'Threat' as meaning 'we are looking at the negative effects — the threats, challenges and risks of climate change,' identifying it as the extreme word.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2849,6 +4061,66 @@
           "answerIndex": 0,
           "explanation": "The notes conclude no solution is perfect, and success depends on timeliness/effectiveness of government and the concepts discussed.",
           "d": 1
+        },
+        {
+          "question": "Per the notes, a strong essay response should be able to synthesise how many or more geographical concepts in a well-structured way?",
+          "choices": [
+            "Two",
+            "Three or more",
+            "All eight",
+            "One"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state a strong response can 'Synthesise three or more concepts in a well-structured way.'",
+          "d": 1
+        },
+        {
+          "question": "According to the Concept of Processes, migration and weathering are given as examples of what?",
+          "choices": [
+            "Human or physical mechanisms of change that operate on varying timescales",
+            "Proportionality across time and space",
+            "Alternative futures that geographers can model or predict",
+            "Flows of activity linking two places into interdependence"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes define Processes as 'human or physical mechanisms of change (i.e. something ongoing), such as migration or weathering. They operate on varying timescales.'",
+          "d": 2
+        },
+        {
+          "question": "How is the Concept of Scale defined in the notes?",
+          "choices": [
+            "The mindsets of people that limit responses",
+            "Proportionality, with both temporal and spatial perspectives, e.g. a short vs long time period, or a small area vs a global scale",
+            "Flows of activity that link two places into interdependence",
+            "The ability of governments to decide on measures and responses"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state: 'Scale, at a basic definition, has to do with proportionality. It has both temporal and spatial perspectives... a short or longer period of time, or the impact of something on either a small area or a global scale.'",
+          "d": 2
+        },
+        {
+          "question": "Two countries begin sharing climate data and low-carbon technology across their border, making each increasingly reliant on the other to tackle rising temperatures. Which geographical concept from the notes does this scenario best illustrate?",
+          "choices": [
+            "Concept of Time, since it is only about how quickly drills are conducted",
+            "Concept of Spatial Interaction, since it involves flows — including information and technology — linking places into interdependence",
+            "Concept of People, since it is only about mindsets limiting responses",
+            "Concept of Scale, since it is only about the proportion of land area affected"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes define Spatial Interaction as flows (physical or ethereal, like information/technology) linking places, causing them to 'become interdependent and reliant on one another' — matching the scenario, unlike Scale, Time, or People.",
+          "d": 3
+        },
+        {
+          "question": "A wealthy, stable government funds detailed earthquake drills, and its educated citizens understand and follow them well. Despite this, an earthquake occurs that is far more powerful than the drills were designed for, causing significant damage. Drawing on both the Concept of Place and the Concept of Power in the notes, why might the drills still fail?",
+          "choices": [
+            "Because the Concept of Place guarantees that drills always succeed, regardless of hazard size",
+            "Because Power also refers to the magnitude of the hazard itself, which an emergency drill (enabled by Place-related resources) may not adequately prepare for",
+            "Because the Concept of Place only concerns physical landscapes, not government funding or education",
+            "Because the Concept of Power only concerns corrupt governments in LEDCs"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state that 'power could also refer to the magnitude of an earthquake, which an emergency drill may not adequately prepare for,' even where Place-related factors (funding, education) support good drills.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2938,6 +4210,66 @@
           "answerIndex": 2,
           "explanation": "Formation of Fold Mountains is not among the listed topics; the others are explicitly named.",
           "d": 2
+        },
+        {
+          "question": "Which of the following is listed as a case study topic related to river management, per the overview list?",
+          "choices": [
+            "Ecosystem Services",
+            "Population Pyramids",
+            "Soft River Protection Measures",
+            "Fold Mountain Formation"
+          ],
+          "answerIndex": 2,
+          "explanation": "'Soft River Protection Measures' (alongside 'Hard River Protection Measures') is directly listed in the overview.",
+          "d": 1
+        },
+        {
+          "question": "Which two categories in the overview list represent 'Examples' (rather than 'Responses', 'Causes' or 'Impacts') for climate change case studies?",
+          "choices": [
+            "Mitigation and Adaptation",
+            "International and National",
+            "Positive and Negative",
+            "Natural and Anthropogenic"
+          ],
+          "answerIndex": 0,
+          "explanation": "The list distinguishes 'Examples of mitigation' and 'Examples of adaptation' from 'Responses on an international/national level', 'Natural/Anthropogenic Causes', and 'Positive/Negative Impacts'.",
+          "d": 2
+        },
+        {
+          "question": "In the overview list, which aspect of climate change is split into 'Positive' and 'Negative' case study topics, unlike Causes, which is split into 'Natural' and 'Anthropogenic'?",
+          "choices": [
+            "Impacts of Climate Change",
+            "Responses to Climate Change",
+            "Coastal Protection Measures",
+            "River Protection Measures"
+          ],
+          "answerIndex": 0,
+          "explanation": "The list has 'Positive Impacts of Climate Change' and 'Negative Impacts of Climate Change' as its Impacts categories, contrasting with 'Natural Causes' and 'Anthropogenic and Human Causes'.",
+          "d": 2
+        },
+        {
+          "question": "Which of the following is NOT listed as a case study topic under Globalisation in the overview?",
+          "choices": [
+            "Role of Transnational Corporations in Globalisation",
+            "Globalisation and Urban Sprawl",
+            "Driving Forces and Aspects of Globalisation",
+            "Impact of Globalisation on Resources"
+          ],
+          "answerIndex": 1,
+          "explanation": "The overview lists Driving Forces and Aspects, Role of Transport and Technology, Impact on Resources, Challenges, and Role of Transnational Corporations under Globalisation — 'Globalisation and Urban Sprawl' is not among them.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT listed as a case study topic under Coastal or River management in the overview?",
+          "choices": [
+            "Longshore Drift Formation",
+            "Soft River Protection Measures",
+            "Hard River Protection Measures",
+            "Hard Coastal Protection Measures"
+          ],
+          "answerIndex": 0,
+          "explanation": "The overview lists Soft/Hard Coastal Protection Measures and Soft/Hard River Protection Measures, but 'Longshore Drift Formation' does not appear on the list.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -3067,6 +4399,66 @@
           "answerIndex": 2,
           "explanation": "The notes state 284 km² was deforested in January 2020 alone — 83 times the size of Central Park.",
           "d": 1
+        },
+        {
+          "question": "How many tonnes of sulfur dioxide and ash did Mount Pinatubo's 1991 eruption release, according to the notes?",
+          "choices": [
+            "200 million tonnes",
+            "20 million tonnes",
+            "20 billion tonnes",
+            "2 million tonnes"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state the eruption released 'an estimated 20 million tonnes of sulfur dioxide and ash particles.'",
+          "d": 1
+        },
+        {
+          "question": "According to the notes, by how much are solar variations expected to continue modulating warming and cooling trends over many years — distinct from the 0.6°C total century rise or the 0.15°C attributed to solar heating specifically?",
+          "choices": [
+            "25 to 50 degrees Celsius",
+            "0.1 to 0.2 degrees Celsius",
+            "1.5 to 2.0 degrees Celsius",
+            "0.6 degrees Celsius"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state: 'Solar variations are expected to continue to modulate both warming and cooling trends at the level of 0.1 to 0.2 degrees Celsius over many years,' separate from the ~0.6°C total rise and the 0.15°C/25% solar-heating share.",
+          "d": 2
+        },
+        {
+          "question": "According to the notes, by how much did global carbon emissions from fossil fuels grow in 2018?",
+          "choices": [
+            "36.81%",
+            "11%",
+            "0.89%",
+            "1.5%"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state: 'Carbon emissions from fossil fuels grew 1.5% in 2017, 0.89% in 2018, and were expected to reach 36.81 billion tonnes in 2019.'",
+          "d": 2
+        },
+        {
+          "question": "The notes state that January 2020 alone saw deforestation of 284 km², described as an area 83 times the size of New York's Central Park. Based on this, approximately what area does the notes imply Central Park covers?",
+          "choices": [
+            "Approximately 83 km²",
+            "Approximately 284 km²",
+            "Approximately 34 km²",
+            "Approximately 3.4 km²"
+          ],
+          "answerIndex": 3,
+          "explanation": "Dividing the given figures: 284 km² ÷ 83 ≈ 3.4 km², the implied size of Central Park based on the notes' comparison.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT stated in the notes as an anthropogenic (human) cause or contributing figure of climate change?",
+          "choices": [
+            "Carbon emissions from fossil fuels were expected to reach 36.81 billion tonnes in 2019",
+            "Trash released nearly 800 million metric tons of CO2 equivalent in 2010",
+            "Deforestation amounted to a loss of 284 km² in January 2020 alone",
+            "Solar heating accounts for approximately 25% of the past century's temperature increase"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes place solar heating's 25% contribution under 'Natural Causes', whereas fossil fuel emissions, trash/methane, and deforestation are all listed under 'Anthropogenic Causes.'",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -3189,6 +4581,66 @@
           "answerIndex": 2,
           "explanation": "The notes state sea level rise turned large tracts of agricultural land into wasteland in Cuddalore.",
           "d": 1
+        },
+        {
+          "question": "Which new crops can now be cultivated in the UK as a result of climate change, according to the notes?",
+          "choices": [
+            "Coffee and cocoa",
+            "Blackberries, citrus fruits and maize",
+            "Olives and grapes",
+            "Rice, wheat and barley"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state that in the UK, new crops such as blackberries, citrus fruits and maize can now be cultivated due to climate change.",
+          "d": 1
+        },
+        {
+          "question": "In 2019, were the recorded temperature increases in Siberia larger in mid-winter or mid-summer?",
+          "choices": [
+            "Mid-winter (3.4°C–9.1°C), larger than mid-summer",
+            "Temperatures were only recorded in autumn",
+            "Mid-summer (1.9°C–5.7°C), larger than mid-winter",
+            "The increases were identical in both seasons"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes report mid-winter increases of 3.4°C to 9.1°C, compared to smaller mid-summer increases of 1.9°C to 5.7°C, making Siberia's winters notably warmer and more habitable.",
+          "d": 2
+        },
+        {
+          "question": "What factor is cited as enabling the Northern Sea Route (NSR) to generate additional income for European and East Asian countries?",
+          "choices": [
+            "Year-round, unhampered navigability allowing shorter and cheaper trade routes",
+            "Increased fish stocks discovered in Arctic waters",
+            "Reduced piracy and lower shipping insurance costs",
+            "New oil discoveries beneath the melting ice"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that under year-round and unhampered navigability, about 5% of world trade could be shipped through the NSR, with shorter, cheaper travel distances generating additional income for European and East Asian countries.",
+          "d": 2
+        },
+        {
+          "question": "The UK's average growing season increased from 252 days (1961–1990 average) to up to 270 days in the early 21st century. What is this increase as a percentage, to the nearest whole percent?",
+          "choices": [
+            "7%",
+            "18%",
+            "10%",
+            "5%"
+          ],
+          "answerIndex": 0,
+          "explanation": "The increase of 18 days (270−252) out of the original 252 days is 18/252 ≈ 7.1%, which rounds to 7%.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT identified in the notes as a positive impact of climate change?",
+          "choices": [
+            "Increased habitability of Siberia due to rising winter temperatures",
+            "Shorter shipping distances between Asia and Europe via the Northern Sea Route",
+            "Ability to cultivate new crops such as blackberries and citrus in the UK",
+            "Reduced global risk of contracting dengue fever"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state that rising temperatures combined with population growth could put 5 to 6 billion people at risk of dengue fever by the 2080s — this is a negative impact, not a reduction in risk.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -3374,6 +4826,66 @@
           "answerIndex": 3,
           "explanation": "The notes state the Protocol was not enforced and world CO2 emissions increased 51% since 1997.",
           "d": 1
+        },
+        {
+          "question": "Under the Singapore Green Plan, what proportion of trips is targeted to be taken on mass public transport by 2030?",
+          "choices": [
+            "65%",
+            "75%",
+            "50%",
+            "90%"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state the Singapore Green Plan aims to increase the share of trips taken on mass public transport to 75% by 2030.",
+          "d": 1
+        },
+        {
+          "question": "What limitation of the Building Construction Authority (BCA) Green Mark Scheme is noted?",
+          "choices": [
+            "It only applies to government-owned buildings",
+            "It was cancelled before reaching its 2005 target",
+            "It is more expensive to build due to costly materials, making it less popular with developers",
+            "It has no measurable effect on energy savings"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state that a limitation of the Green Mark Scheme is that it is more expensive to build due to expensive material costs, making it less popular with developers.",
+          "d": 2
+        },
+        {
+          "question": "How does the Kyoto Protocol's Clean Development Mechanism (CDM) function, based on the notes?",
+          "choices": [
+            "Developed countries work with developing countries on carbon-reducing projects in exchange for carbon credits",
+            "Developed countries transfer their emissions quotas directly to developing countries",
+            "All countries are assigned identical emissions targets regardless of development level",
+            "Developing countries pay fines to developed countries for excess emissions"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes explain that the CDM encourages developed countries to work with developing countries on carbon-reducing projects, earning carbon credits in return while helping developing countries develop sustainably.",
+          "d": 2
+        },
+        {
+          "question": "Global CO2 emissions rose by 51% since 1997, even though original Kyoto Protocol parties cut their own CO2 emissions by 12.5% between 1990 and 2012. What does this contrast best illustrate?",
+          "choices": [
+            "That the 1990–2012 reduction figure was inaccurate",
+            "That developing countries reduced emissions faster than developed countries",
+            "That the Protocol's lack of enforcement meant reductions by signatories were outweighed by rising emissions from non-binding or non-signatory sources",
+            "That the Kyoto Protocol directly caused emissions to rise"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state the Protocol was not enforced and did not require support for high-emission countries, and that non-signatories like the US, India and China contributed 42% of global emissions — explaining how global emissions rose despite signatory reductions.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT stated in the notes as part of the UK's actions relevant to the Paris Agreement?",
+          "choices": [
+            "Bringing forward the coal power phase-out from 2025 to 2024",
+            "Banning all fossil-fuel electricity generation by 2025",
+            "Committing to reach 40 GW of offshore wind capacity by 2030",
+            "Allowing onshore wind and solar to compete in renewables auctions in 2021"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state the UK is only on track for a 54–56% reduction below 1990 levels by 2030, below its 68% target — a full ban on fossil-fuel electricity by 2025 is not mentioned.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -3480,6 +4992,66 @@
           "answerIndex": 1,
           "explanation": "Bangladesh has floating vegetable gardens that rise and fall with water and double as shelter during monsoon season.",
           "d": 1
+        },
+        {
+          "question": "How many windows were installed as part of the Empire State Building's retrofit?",
+          "choices": [
+            "10,000",
+            "6,514",
+            "40,000",
+            "4,000"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state the Empire State Building was retrofitted with 6,514 windows.",
+          "d": 1
+        },
+        {
+          "question": "What percentage of old materials were reused during the Empire State Building's retrofit?",
+          "choices": [
+            "75%",
+            "96%",
+            "38%",
+            "50%"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state the retrofit reused 96% of old materials, alongside reducing energy use by 38%.",
+          "d": 2
+        },
+        {
+          "question": "Why are the Netherlands' floating homes best classified as adaptation rather than mitigation?",
+          "choices": [
+            "They reduce carbon emissions from residential energy use",
+            "They were built specifically to lower CO2 output from construction",
+            "They adjust to rising and falling water levels rather than reducing the greenhouse gas emissions causing climate change",
+            "They replace the need for a storm surge barrier"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes describe floating homes remaining stable despite rising and falling water — an adjustment to the effects of climate change (adaptation), not a reduction of its causes (mitigation).",
+          "d": 2
+        },
+        {
+          "question": "The Empire State Building saved 4,000 metric tons of carbon by 2012, equivalent to the offset from 750 acres of pine forest. To one decimal place, approximately how many metric tons of carbon does this imply per acre of pine forest?",
+          "choices": [
+            "12.0",
+            "5.3",
+            "8.4",
+            "1.9"
+          ],
+          "answerIndex": 1,
+          "explanation": "Dividing 4,000 metric tons by 750 acres gives approximately 5.3 metric tons of carbon offset per acre.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT an adaptation measure described in the notes (it instead reduces emissions rather than adjusting to climate impacts)?",
+          "choices": [
+            "The Netherlands' floating homes",
+            "The Netherlands' storm surge barrier near Rotterdam",
+            "Retrofitting the Empire State Building",
+            "Bangladesh's floating vegetable gardens"
+          ],
+          "answerIndex": 2,
+          "explanation": "The Empire State Building retrofit is a mitigation measure (reducing emissions), whereas floating homes, floating vegetable gardens and the storm surge barrier are adaptation measures that help communities adjust to climate impacts like sea level rise and flooding.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -3618,6 +5190,66 @@
           "answerIndex": 0,
           "explanation": "Mappleton was protected using revetments and two large rock groynes costing GBP 2 million.",
           "d": 1
+        },
+        {
+          "question": "How many properties did the UK's Lincshore beach nourishment scheme protect from tidal floods?",
+          "choices": [
+            "15,000",
+            "50,000",
+            "3,000",
+            "30,000"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state the Lincshore scheme protected 30,000 properties and 35,000 hectares of land from tidal floods.",
+          "d": 1
+        },
+        {
+          "question": "Why did the 2004 tsunami cause far fewer deaths in Kapuhenwala than in nearby Wanduruppa, both in southern Sri Lanka?",
+          "choices": [
+            "Kapuhenwala's population had already evacuated before the tsunami struck",
+            "Kapuhenwala was surrounded by 200 hectares of dense mangroves and scrub forest, unlike Wanduruppa's degraded mangroves",
+            "Wanduruppa is located much closer to the earthquake epicentre",
+            "Kapuhenwala had a seawall while Wanduruppa did not"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes attribute Kapuhenwala's low death toll (2 deaths) to its dense mangrove and scrub forest cover, in contrast to Wanduruppa's degraded mangroves, where 5,000–6,000 people died in the district.",
+          "d": 2
+        },
+        {
+          "question": "What long-term outcome demonstrates the effectiveness of Mappleton's 1991 hard engineering scheme?",
+          "choices": [
+            "The town was relocated further inland to avoid future erosion",
+            "Mappleton's coastline expanded due to the deposited rock groynes",
+            "Farmland and tourist sites such as caravan parks and villages remain in place decades later, despite the earlier threat of losing 30 houses",
+            "Mappleton became uninhabited due to construction costs"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state that despite the 1990 threat of losing 30 houses, farmland and tourist sites in Mappleton remain today following the revetments and rock groynes built in 1991.",
+          "d": 2
+        },
+        {
+          "question": "In the Indonesia mangrove case study, coastal erosion area was 37,904 km² without mangroves and 27,865 km² with mangroves present. What is the absolute reduction in erosion area attributable to mangroves?",
+          "choices": [
+            "10,039 km²",
+            "8,921 km²",
+            "9,504 km²",
+            "11,145 km²"
+          ],
+          "answerIndex": 0,
+          "explanation": "37,904 km² minus 27,865 km² equals 10,039 km², the absolute reduction in erosion area with mangroves present (a 26.5% decrease).",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT accurately described in the notes as an outcome of a coastal protection measure?",
+          "choices": [
+            "Indonesia's mangroves completely eliminated coastal erosion from storm surges",
+            "Pondicherry's seawall kept the city centre dry during the 2004 tsunami",
+            "Ishinomaki's breakwaters substantially reduced building destruction during the 2011 tsunami",
+            "Lincshore's beach nourishment scheme became a tourist attraction"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes report mangroves reduced erosion area by 26.5%, not eliminated it entirely — erosion still occurred (27,865 km²) even with mangroves present.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -3739,6 +5371,66 @@
           "answerIndex": 3,
           "explanation": "The notes state repair costs totalled US$1.9 billion.",
           "d": 1
+        },
+        {
+          "question": "How many serious floods did Pickering, Yorkshire suffer in the 10 years before the 'Slowing the Flow' scheme began in 2009?",
+          "choices": [
+            "Six",
+            "Four",
+            "Three",
+            "Two"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state the town had suffered four serious floods in 10 years before the scheme was enacted in 2009.",
+          "d": 1
+        },
+        {
+          "question": "What rainfall conditions triggered the 2016 flood event during which Pickering's tree-planting scheme reduced peak river flow by 20%?",
+          "choices": [
+            "75mm of rain in 48 hours",
+            "20mm of rain in 12 hours",
+            "50mm of rain in 36 hours",
+            "100mm of rain in 24 hours"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state that 50mm of rain fell in 36 hours during the 2016 flood, during which the 40,000 planted trees reduced peak river flow by 20%.",
+          "d": 2
+        },
+        {
+          "question": "Which groups does the Beam Washlands scheme in Dagenham protect from flood risk, according to the notes?",
+          "choices": [
+            "Agricultural land exclusively",
+            "570 homes, 90 businesses (including the Ford Dagenham plant), and major infrastructure such as Barking power station",
+            "Only residential homes in the local area",
+            "900 businesses and no residential properties"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state the £4.5 million scheme reduces flood risk to 570 homes, 90 businesses including the Ford Dagenham plant, and major infrastructure including Barking power station.",
+          "d": 2
+        },
+        {
+          "question": "Samuel Muñoz found that overall Mississippi River flood risk has increased by 20%, with 75% of that increase attributable to human engineering. Approximately what percentage-point increase in flood risk is attributable to human engineering alone?",
+          "choices": [
+            "75 percentage points",
+            "15 percentage points",
+            "20 percentage points",
+            "5 percentage points"
+          ],
+          "answerIndex": 1,
+          "explanation": "75% of the 20% overall increase equals 0.75 × 20 = 15 percentage points attributable to human engineering of the river.",
+          "d": 3
+        },
+        {
+          "question": "Both the Ebro River Basin reservoirs and the Mississippi River's artificial levees are hard engineering measures. Which statement correctly contrasts their effects, based on the notes?",
+          "choices": [
+            "Both reduced flood risk by exactly the same percentage",
+            "Both measures increased flood risk due to structural failure",
+            "Ebro reservoirs reduced peak flows by up to 80% downstream, while human engineering of the Mississippi is linked to a 20% increase in overall flood risk",
+            "Ebro reservoirs increased flood risk while Mississippi levees decreased it"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state Ebro reservoirs reduced peak flows downstream by as much as 80%, whereas Mississippi flood risk has risen 20% overall, with 75% of that increase linked to human engineering such as levees — showing hard engineering can have very different effects in different contexts.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -3901,6 +5593,66 @@
           "answerIndex": 3,
           "explanation": "81% of Singapore's exports to India benefit from tariff reduction/elimination.",
           "d": 1
+        },
+        {
+          "question": "How many international migrants were there worldwide in 2020, according to UN estimates cited in the notes?",
+          "choices": [
+            "220 million",
+            "244 million",
+            "248 million",
+            "281 million"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state the number of international migrants reached 281 million in 2020, up from 248 million in 2015.",
+          "d": 1
+        },
+        {
+          "question": "By how much did Singapore's FDI inflows increase from 2018 to 2019, according to UNCTAD's World Investment Report 2020?",
+          "choices": [
+            "US$171 billion",
+            "US$9 billion",
+            "US$13 billion",
+            "US$21 billion"
+          ],
+          "answerIndex": 2,
+          "explanation": "FDI inflows rose from US$79 billion in 2018 to US$92 billion in 2019, an increase of US$13 billion.",
+          "d": 2
+        },
+        {
+          "question": "How does the Maersk Triple E achieve lower fuel costs despite carrying more cargo, per the notes?",
+          "choices": [
+            "It uses smaller engines that reduce total capacity",
+            "It travels shorter routes than older ships",
+            "It relies on wind power rather than fuel",
+            "Its design increases capacity by 16% (up to 2,500 more containers) while reducing fuel consumption by 37%"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state the Maersk Triple E carries up to 2,500 more containers with a 16% capacity increase, while also reducing fuel consumption by 37%.",
+          "d": 2
+        },
+        {
+          "question": "Using the UN migrant figures in the notes, by how many million did the number of international migrants increase between 2010 (220 million) and 2020 (281 million)?",
+          "choices": [
+            "61 million",
+            "33 million",
+            "41 million",
+            "81 million"
+          ],
+          "answerIndex": 0,
+          "explanation": "281 million minus 220 million equals 61 million, the increase in international migrants between 2010 and 2020.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT identified in the notes as a driver of globalisation through transportation or technology improvements?",
+          "choices": [
+            "The Maersk Triple E's 16% increase in shipping capacity",
+            "The reduction of ship loading times from about a week in 1956 to 5 hours by 2015",
+            "Introduction of autonomous cargo drones for last-mile delivery",
+            "Growth of internet users from 361 million in 2000 to 3 billion in 2015"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes discuss shipping technology (Maersk Triple E, faster loading) and internet growth as drivers of globalisation, but do not mention autonomous cargo drones.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -4042,6 +5794,66 @@
           "answerIndex": 0,
           "explanation": "The notes state fossil fuels provide 80% of total electricity.",
           "d": 1
+        },
+        {
+          "question": "How many people were lifted out of poverty in China alone between 1992 and 2015, according to the notes?",
+          "choices": [
+            "1 billion",
+            "300 million",
+            "600 million",
+            "100 million"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state 600 million people were lifted out of poverty in China alone between 1992 and 2015, out of 1 billion globally since 1990.",
+          "d": 1
+        },
+        {
+          "question": "How is global air travel projected to change between 2018 and 2040, according to the International Civil Aviation Organisation figures in the notes?",
+          "choices": [
+            "Passenger numbers will remain flat at 4.3 billion",
+            "Passengers are projected to grow from 4.3 billion to about 10 billion, with departures rising to 90 million",
+            "Passengers are projected to fall from 10 billion to 4.3 billion",
+            "Departures will fall to under 50 million by 2040"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state that the 4.3 billion airline passengers carried in 2018 are expected to grow to about 10 billion by 2040, with departures rising to 90 million.",
+          "d": 2
+        },
+        {
+          "question": "How does globalisation's effect on cultural diversity manifest in Singapore, per the notes?",
+          "choices": [
+            "Restriction of immigrant communities to designated zones",
+            "Complete replacement of local Chinese culture with Western culture",
+            "Integration of Malay, Indian, Eurasian, Western and Chinese immigrant food, culture and festivals, seen in areas like Chinatown and Little India",
+            "Elimination of ethnic enclaves in favour of a single unified culture"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes describe Singapore's integration of Malay, Indian, Eurasian, Western and Chinese immigrant food, culture, festivals and dressing, visible in areas like Chinatown and Little India.",
+          "d": 2
+        },
+        {
+          "question": "Since 1990, 1 billion people worldwide have been lifted out of poverty due to globalisation, and 600 million of these were in China (1992–2015). What percentage of the total global figure does China's poverty reduction represent?",
+          "choices": [
+            "90%",
+            "60%",
+            "75%",
+            "40%"
+          ],
+          "answerIndex": 1,
+          "explanation": "600 million out of 1 billion equals 60%, the share of global poverty reduction accounted for by China alone.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT described in the notes as a negative impact of globalisation?",
+          "choices": [
+            "Rising obesity rates in Nigeria linked to Westernised diets and lifestyles",
+            "The Kafala sponsorship system restricting migrant workers' freedom of movement in the Middle East",
+            "Unsustainable growth in global energy demand driven by fossil fuels",
+            "Increased global cooperation through agreements such as the Paris Agreement and Kyoto Protocol"
+          ],
+          "answerIndex": 3,
+          "explanation": "Increased global cooperation on climate agreements is listed in the notes as a positive environmental impact of globalisation, not a negative one.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -4191,6 +6003,66 @@
           "answerIndex": 2,
           "explanation": "The plant created nearly 800 jobs after opening in 1997.",
           "d": 1
+        },
+        {
+          "question": "How many jobs did the Shell Foundation support, according to figures cited in the notes?",
+          "choices": [
+            "193,700",
+            "584,297",
+            "700,000",
+            "48,150"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state the Shell Foundation has supported 584,297 jobs, alongside reducing 48.15 million tonnes of carbon emissions and improving livelihoods for 193.7 million people.",
+          "d": 1
+        },
+        {
+          "question": "In the Netherlands, how many full-time equivalent (FTE) jobs did foreign-owned TNCs contribute indirectly to other companies in 2014, according to the notes?",
+          "choices": [
+            "650,000",
+            "700,000",
+            "350,000",
+            "150,000"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state foreign-owned TNCs created over 700,000 FTE jobs directly and contributed a further 650,000 FTEs indirectly to other companies.",
+          "d": 2
+        },
+        {
+          "question": "What made Daewoo's investment in Bangladesh's Desh Garment Company significant beyond simply increasing export revenue, per the notes?",
+          "choices": [
+            "Daewoo banned other foreign TNCs from investing in Bangladesh",
+            "Daewoo provided training programmes, start-up capital and international marketing expertise, creating a multiplier effect",
+            "Daewoo took full ownership of all Bangladeshi garment factories",
+            "Daewoo relocated its headquarters to Bangladesh"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state Daewoo provided training programmes, start-up capital and international marketing expertise to Desh Garment Company, demonstrating a multiplier effect on the economy and workforce beyond export growth alone.",
+          "d": 2
+        },
+        {
+          "question": "The Bhopal disaster caused 3,000 immediate deaths in December 1984, with a further 20,000 deaths occurring over the following 25 years due to toxic seepage. What is the total number of deaths attributable to the disaster, according to the notes?",
+          "choices": [
+            "120,000",
+            "143,000",
+            "20,000",
+            "23,000"
+          ],
+          "answerIndex": 3,
+          "explanation": "3,000 immediate deaths plus a further 20,000 subsequent deaths equals 23,000 total deaths; the figure of 120,000 refers to health problem cases, not deaths.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT described in the notes as a positive socio-economic contribution of a TNC?",
+          "choices": [
+            "Union Carbide's pesticide plant operations in Bhopal, India",
+            "The Shell Foundation reducing carbon emissions and supporting jobs through its endowment",
+            "Foreign-owned TNCs creating 20% of full-time jobs in the Netherlands",
+            "Daewoo's transfer of training, capital and marketing expertise to Bangladesh's garment industry"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes describe the Bhopal disaster as an example of environmental destruction and harm caused by a TNC, not a positive socio-economic contribution.",
+          "d": 3
         }
       ],
       "shortAnswer": [

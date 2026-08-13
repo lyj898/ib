@@ -123,6 +123,66 @@
           "answerIndex": 1,
           "explanation": "Capitalism (USA) had healthcare managed by the private sector, while Communism (USSR) had free healthcare services.",
           "d": 2
+        },
+        {
+          "question": "Which two nations emerged as the dominant 'superpowers' after the Second World War, replacing previously powerful countries such as France, Britain and Germany?",
+          "choices": [
+            "China and Britain",
+            "USA and USSR",
+            "Germany and Japan",
+            "Britain and France"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state that after WWII, France, Britain and Germany became poorer and less powerful, while world history was shaped by the new superpowers, the USA and USSR.",
+          "d": 1
+        },
+        {
+          "question": "Which statement correctly matches an economic feature to the ideology described in the notes?",
+          "choices": [
+            "Capitalism (USA) — a market economy where production and prices are determined by market forces and competition",
+            "Communism (USSR) — a market economy where prices are set by competition",
+            "Communism (USSR) — multi-party elections with freedom of speech",
+            "Capitalism (USA) — a state-controlled economy where the government owns the means of production"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes describe Capitalism (USA) as having individual enterprises in a market economy where 'production determined by market forces; prices set by competition', while Communism (USSR) has a state-controlled command economy and one-party rule.",
+          "d": 2
+        },
+        {
+          "question": "According to the flow chart in the notes, what was the direct consequence of both the USA and USSR believing their own ideology was superior and wanting to spread its influence?",
+          "choices": [
+            "Mistrust and suspicion began to spread between Americans and Soviets",
+            "The United Nations was formed to mediate",
+            "Both countries immediately went to war",
+            "Germany was divided into occupation zones"
+          ],
+          "answerIndex": 0,
+          "explanation": "The flow chart states that after both sides wanted to spread their ideology's influence, 'mistrust and suspicion began to spread between Americans and Soviets', which then escalated into rising tensions.",
+          "d": 2
+        },
+        {
+          "question": "Which of the following was NOT described in the notes as a feature of the Communist system practised by the USSR?",
+          "choices": [
+            "A classless system aiming for equitable distribution",
+            "Multi-party elections with freedom of speech",
+            "A state-controlled, command economy",
+            "Free healthcare services"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes describe Communism as a classless, command economy with free healthcare and a one-party state; multi-party elections and freedom of speech are listed instead as features of Capitalism/democracy.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following correctly reflects the order of the flow chart in the notes explaining how ideological conflict led to the Cold War?",
+          "choices": [
+            "Both sides wanted to spread influence → tensions rose → ideological conflict emerged → mistrust spread",
+            "Mistrust spread → ideological conflict emerged → both sides sought influence → Cold War began",
+            "Tensions rose → ideological conflict emerged → mistrust spread → both sides wanted influence",
+            "Ideological conflict existed → both sides wanted to spread their ideology's influence → mistrust and suspicion spread → tensions and hostilities rose into the Cold War"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes' flow chart runs: capitalist vs communist ideology exists → both sides wanted to spread their ideology's influence → mistrust and suspicion spread between Americans and Soviets → tensions and hostilities rose, resulting in the Cold War.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -298,6 +358,66 @@
           "answerIndex": 2,
           "explanation": "Roosevelt died on 12 April 1945 and was succeeded by Truman, who was more anticommunist and suspicious of Stalin.",
           "d": 3
+        },
+        {
+          "question": "At the Yalta Conference, what new international body did the Big Three agree to establish as the successor to the League of Nations?",
+          "choices": [
+            "Cominform",
+            "The United Nations",
+            "NATO",
+            "The Warsaw Pact"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state: 'On the United Nations: The Big Three agreed to the new United Nations, successor of the League of Nations, to keep peace after the war.'",
+          "d": 1
+        },
+        {
+          "question": "What did the Declaration of Liberated Europe, agreed at Yalta, promise for countries freed from German occupation?",
+          "choices": [
+            "They would be divided into four occupation zones like Germany",
+            "They would be placed under joint Soviet-American military administration",
+            "They would automatically join the United Nations",
+            "They would be allowed to hold free elections regarding their own government"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state: 'The Declaration of Liberated Europe promised that countries liberated from the German army would be allowed to hold free elections regarding their government.'",
+          "d": 2
+        },
+        {
+          "question": "What approach to the German economy did the Allied leaders agree upon at the Potsdam Conference?",
+          "choices": [
+            "Complete deindustrialisation and conversion to a purely agricultural economy",
+            "Immediate rebuilding of German military industry to speed recovery",
+            "Permanent division of the German economy into four separate national economies",
+            "Primary emphasis on agriculture and non-military industry, with Germany treated as a single economic unit"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state the leaders 'agreed to place primary emphasis on the development of agriculture and non-military industry... all of Germany would be treated as a single economic unit.'",
+          "d": 2
+        },
+        {
+          "question": "Which of the following was NOT listed in the notes as a disagreement discussed at the Potsdam Conference?",
+          "choices": [
+            "How much in reparations the USSR should be allowed to take",
+            "Where to draw the Polish-German border and zone boundaries",
+            "Establishing the United Nations as successor to the League of Nations",
+            "Whether free elections would be held in Eastern Europe"
+          ],
+          "answerIndex": 2,
+          "explanation": "The UN's establishment was agreed at Yalta, not discussed at Potsdam; Potsdam's disagreements covered borders, elections, reparations, Poland, nuclear secrecy and Germany's future.",
+          "d": 3
+        },
+        {
+          "question": "Based on the dates given in the notes, which sequence of events is correct?",
+          "choices": [
+            "Roosevelt died (12 April 1945) → Germany was defeated (May 1945) → the atomic bomb was tested (16 July 1945) → the Potsdam Conference began",
+            "Germany was defeated → the Potsdam Conference began → Roosevelt died → the atomic bomb was tested",
+            "The atomic bomb was tested → Germany was defeated → Roosevelt died → the Potsdam Conference began",
+            "The Potsdam Conference began → Roosevelt died → the atomic bomb was tested → Germany was defeated"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes give Roosevelt's death as 12 April 1945, Germany's defeat in May, the atomic bomb test on 16 July 1945, and Potsdam beginning in July 1945 after Yalta and Germany's defeat, with Truman informing Stalin of the bomb at the start of Potsdam.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -445,6 +565,54 @@
           "answerIndex": 3,
           "explanation": "Churchill stated that except in Czechoslovakia, there was no true democracy in the Eastern states.",
           "d": 1
+        },
+        {
+          "question": "In what year, according to the notes, did the Russian Revolution take place, causing fear within the West about the threat of communism?",
+          "choices": [
+            "1946",
+            "1939",
+            "1905",
+            "1917"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state: '1917 Russian Revolution: In 1917, communist ideology led to a revolution which overthrew the Duma provisional government. This event caused fear within the West.'",
+          "d": 1
+        },
+        {
+          "question": "Why, according to the notes, did the success of the Manhattan Project increase Soviet suspicion of the West?",
+          "choices": [
+            "Because the USSR was forced to fund the project",
+            "Because its development was kept secret from Stalin, shocking and angering him about Western motives",
+            "Because the USA immediately used it against the USSR",
+            "Because it was tested inside Soviet territory without permission"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state: 'The success of the first nuclear arms had shocked and angered Stalin, as its development was kept secret from him. This caused feelings of wariness and suspicion in the USSR about the motives of the West.'",
+          "d": 2
+        },
+        {
+          "question": "By 1948, according to the notes, which was the only Eastern European country that did not have a communist government?",
+          "choices": [
+            "Yugoslavia",
+            "Greece",
+            "Poland",
+            "Czechoslovakia"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state: 'By 1948, only Greece did not have a communist government.'",
+          "d": 2
+        },
+        {
+          "question": "In the excerpt of Churchill's Iron Curtain speech quoted in the notes, which city is named only as a source of control over Eastern Europe, rather than as one of the cities lying behind the Iron Curtain?",
+          "choices": [
+            "Moscow",
+            "Budapest",
+            "Warsaw",
+            "Prague"
+          ],
+          "answerIndex": 0,
+          "explanation": "Churchill's speech lists Warsaw, Berlin, Prague, Vienna, Budapest, Belgrade, Bucharest and Sofia as cities behind the curtain that are subject 'to a very high... measure of control from Moscow' — Moscow is named as the controlling city, not one of the captured capitals.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -616,6 +784,66 @@
           "answerIndex": 3,
           "explanation": "Civil war broke out between Soviet-backed communists and British-backed monarchists, prompting Truman's intervention.",
           "d": 2
+        },
+        {
+          "question": "What animal symbol did the notes state was commonly used to represent Communism/the USSR, alongside Uncle Sam for America?",
+          "choices": [
+            "Dragon",
+            "Eagle",
+            "Bear",
+            "Wolf"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state: 'Common symbols: Uncle Sam as America; Bear as communism/USSR.'",
+          "d": 1
+        },
+        {
+          "question": "Why, according to the notes, did Britain intend to withdraw its troops from Greece in 1946, prompting Truman to intervene?",
+          "choices": [
+            "Britain's troops were needed to fight in Czechoslovakia",
+            "Britain could not afford the cost of the war",
+            "Britain had signed a treaty with the USSR to withdraw",
+            "Britain supported the communist side and wanted them to win"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state: 'The British could not afford such a war and intended to withdraw their troops, previously sent to Greece to restore order and supervise free elections.'",
+          "d": 2
+        },
+        {
+          "question": "What happened to the pro-American Czechoslovak minister Jan Masaryk in 1948, and how did Americans interpret it?",
+          "choices": [
+            "He was arrested and exiled; Americans believed he escaped to the West",
+            "He was elected president; Americans believed the vote was rigged",
+            "He fled to Moscow; Americans believed he had defected",
+            "He was found dead below his open window; the communists claimed suicide, but Americans suspected he was pushed"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state: 'A pro-American minister, Jan Masaryk, was found dead below his open window. The communists said he had jumped; the Americans suspected he'd been pushed.'",
+          "d": 2
+        },
+        {
+          "question": "Which of the following was NOT one of the reasons the notes give for why the Marshall Plan was created?",
+          "choices": [
+            "Concern that a poor Western Europe would become vulnerable to Soviet influence",
+            "Desire to create new markets for American goods and avoid a repeat of the Great Depression",
+            "Fear that communism would spread through weakened, war-torn Western Europe",
+            "A desire to help rebuild the Soviet Union's war-torn economy"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes conclude the Marshall Plan was driven by '(1) fear of communist takeover of weakened Western Europe, and (2) fear of the loss of a free market for American goods' — and note Stalin forbade Eastern Bloc states from accepting the aid, so helping rebuild the USSR was never a stated aim.",
+          "d": 3
+        },
+        {
+          "question": "The Marshall Plan committed $17 billion to be paid over 4 years starting in 1948. On average, how much aid did this amount to per year?",
+          "choices": [
+            "$1.7 billion",
+            "$6.8 billion",
+            "$17 billion",
+            "$4.25 billion"
+          ],
+          "answerIndex": 3,
+          "explanation": "$17 billion divided by 4 years equals $4.25 billion per year, as the notes state Congress approved '$17 billion over 4 years from 1948.'",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -739,6 +967,66 @@
           "answerIndex": 3,
           "explanation": "Cominform also aimed to build collective heavy industry in Eastern European countries.",
           "d": 1
+        },
+        {
+          "question": "In what year was the Cominform (Communist Information Bureau) created?",
+          "choices": [
+            "1947",
+            "1955",
+            "1945",
+            "1949"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state: 'The Cominform (Communist Information Bureau) was created in 1947 to coordinate the activities of Communist Parties in Europe under the direction of the USSR.'",
+          "d": 1
+        },
+        {
+          "question": "According to the notes, how did Cominform work to spread Communist ideals, beyond coordinating Communist Parties?",
+          "choices": [
+            "By building a joint Eastern European currency",
+            "By running elections for satellite governments",
+            "By providing military aid directly to satellite armies",
+            "By publishing its own newspaper and holding conferences in the Eastern Bloc"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state: 'It published its own newspaper to spread Communist ideals and held conferences in the Eastern Bloc.'",
+          "d": 2
+        },
+        {
+          "question": "What was Comecon's full name and its main purpose, according to the notes?",
+          "choices": [
+            "Committee for Military Economic Alliance — to coordinate the armies of the Warsaw Pact",
+            "Congress for Marxist Economic Advancement — to spread Communist Party propaganda",
+            "Council for Mutual Economic Assistance — to coordinate the economic development, planning and trade of Soviet-bloc Eastern European countries",
+            "Council for Mutual European Autonomy — to grant satellite states independence from Moscow"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state: 'Comecon (Council for Mutual Economic Assistance) — Established in 1949 to facilitate and coordinate the economic development, planning and trade of the Eastern European countries belonging to the Soviet bloc.'",
+          "d": 2
+        },
+        {
+          "question": "Cominform (1947) and Comecon (1949) were both Soviet responses to Western actions, but how did their purposes differ according to the notes?",
+          "choices": [
+            "Cominform coordinated economic trade, while Comecon coordinated Communist Party politics",
+            "Both had identical purposes and were created for the same reason",
+            "Cominform coordinated Communist Party political activity across Europe, while Comecon coordinated the Soviet bloc's economic development and trade",
+            "Cominform was a military alliance, while Comecon was a political one"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes describe Cominform as coordinating 'the activities of Communist Parties in Europe,' while Comecon existed 'to facilitate and coordinate the economic development, planning and trade' of the Soviet bloc — a political-versus-economic distinction.",
+          "d": 3
+        },
+        {
+          "question": "Placing Cominform, Comecon and the Warsaw Pact in the order they were created according to the notes, which option is correct, and what triggered the last of the three?",
+          "choices": [
+            "Cominform (1947) → Comecon (1949) → Warsaw Pact (1955), triggered by West Germany joining NATO",
+            "Comecon (1947) → Warsaw Pact (1949) → Cominform (1955), triggered by the Marshall Plan",
+            "Warsaw Pact (1947) → Cominform (1949) → Comecon (1955), triggered by the Berlin Blockade",
+            "Cominform (1949) → Comecon (1947) → Warsaw Pact (1955), triggered by the Truman Doctrine"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes date Cominform to 1947, Comecon to 1949, and the Warsaw Pact to 1955, with the Pact 'created in response to the admission of West Germany as a member state of NATO.'",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -890,6 +1178,66 @@
           "answerIndex": 0,
           "explanation": "West Berlin was isolated deep within the Soviet zone, with access routes crossing Soviet-controlled territory.",
           "d": 2
+        },
+        {
+          "question": "What was Truman's original plan for Germany immediately after the war, before growing concern over the USSR changed his mind?",
+          "choices": [
+            "Rebuild German industry immediately to rearm against the USSR",
+            "Divide Germany permanently into two independent countries",
+            "Merge Germany fully into the Soviet Union's economy",
+            "Remove all German industry and make it an agricultural country"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state: 'Initially, Truman intended to remove all German industry and make it an agricultural country so it could never wage war again.'",
+          "d": 1
+        },
+        {
+          "question": "Why did Truman ultimately decide against stripping Germany of its industry, according to the notes?",
+          "choices": [
+            "German industry was already too badly destroyed to remove further",
+            "The Soviet Union demanded Germany's industry be preserved",
+            "A strong Germany could be a useful ally against the USSR, and without industry recovering, millions would starve",
+            "Britain and France refused to allow deindustrialisation"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state: 'growing concerns over the USSR made Truman decide that a strong Germany might be a useful ally. It was also clear that if German industries were not allowed to recover, millions would starve.'",
+          "d": 2
+        },
+        {
+          "question": "According to the notes, what risk did the West face if it had chosen to ram through Stalin's blockade by force?",
+          "choices": [
+            "The USSR would have offered to negotiate instead",
+            "It would have immediately ended the blockade with no consequences",
+            "It would have been seen as an act of war and the West blamed as the aggressor",
+            "West Berlin's residents would have been evacuated safely"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes list this option as: 'break down and ram the blockade, potentially initiating a war with the USSR and being blamed as the aggressor.'",
+          "d": 2
+        },
+        {
+          "question": "The Berlin Airlift delivered about 1.5 million tons of supplies over roughly 200,000 flights. What was the approximate average amount of supplies delivered per flight?",
+          "choices": [
+            "15 tons",
+            "0.75 tons",
+            "75 tons",
+            "7.5 tons"
+          ],
+          "answerIndex": 3,
+          "explanation": "1,500,000 tons divided by 200,000 flights equals 7.5 tons per flight, matching the notes' figures of '1.5 million tons of supplies' delivered over '200,000 flights.'",
+          "d": 3
+        },
+        {
+          "question": "Which of the following was NOT given in the notes as a reason for Stalin's decision to blockade Berlin in 1948?",
+          "choices": [
+            "He wanted to gain control of the newly introduced Deutsche Mark currency",
+            "He feared Germany growing strong and threatening the USSR again",
+            "He wanted to show Western leaders he would fight back if they encroached on the Soviet sphere of influence",
+            "He hoped to force the Western powers to abandon Berlin, giving him a propaganda victory"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes cite Stalin's fear of a resurgent Germany and his wish to demonstrate resolve and force a Western withdrawal from Berlin; wanting to 'gain control' of the Deutsche Mark is not stated — the currency's introduction to aid West Germany's recovery only alarmed him further.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -1061,6 +1409,54 @@
           "answerIndex": 1,
           "explanation": "Arguments over the war's bill led China to feel the USSR was unreliable, contributing to the later Sino-Soviet Split.",
           "d": 2
+        },
+        {
+          "question": "The ANZUS Pact, signed in 1951 as a result of the Korean War, was an alliance between the USA and which two other countries?",
+          "choices": [
+            "France and Taiwan",
+            "Japan and the Philippines",
+            "Australia and New Zealand",
+            "Britain and Canada"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state: 'in 1951 signed the ANZUS Pact with Australia and New Zealand.'",
+          "d": 1
+        },
+        {
+          "question": "According to the notes, which set of conditions had to be met before Stalin finally agreed, in April 1950, to support North Korea's invasion?",
+          "choices": [
+            "The founding of NATO, the Marshall Plan's success, and the Berlin Blockade's end",
+            "UN membership for China, a peace treaty with Japan, and US troop withdrawal from Japan",
+            "Kim Il Sung's military training in the USSR, Chinese recognition of North Korea, and US isolationism",
+            "Mao's communist victory in China, US troop withdrawal from South Korea, and successful Soviet nuclear testing"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state: 'Only in April did Stalin agree, after: (1) Mao had secured a communist victory in the Chinese Civil War; (2) US troops had withdrawn from South Korea; and (3) the USSR had successfully tested their first nuclear weapons.'",
+          "d": 2
+        },
+        {
+          "question": "What was the outcome of the UN's landing at Incheon on 15 September 1950, according to the notes?",
+          "choices": [
+            "It faced little opposition and allowed UN/South Korean troops to break out of the Pusan Perimeter and push North Korean troops back",
+            "It resulted in the capture of Pyongyang the same day",
+            "It failed completely, forcing a UN retreat",
+            "It led directly to China's entry into the war"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state: 'UN forces staged an ambitious landing at Incheon, facing very little opposition. One day later, UN and South Korean troops began to break out of the Pusan Perimeter, advancing North and pushing North Korean troops back quickly.'",
+          "d": 2
+        },
+        {
+          "question": "The notes state the US defence budget rose from $48 billion in 1951 to $60 billion in 1952 due to militarisation following the Korean War. What was the approximate percentage increase?",
+          "choices": [
+            "60%",
+            "8%",
+            "25%",
+            "12%"
+          ],
+          "answerIndex": 2,
+          "explanation": "($60bn - $48bn) / $48bn = $12bn / $48bn = 25%, based on the notes' figures of 'defence budget shot up to $48 billion in 1951 and $60 billion by 1952.'",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -1242,6 +1638,66 @@
           "answerIndex": 1,
           "explanation": "The decisive Vietminh victory at Dien Bien Phu led to French withdrawal from French Indochina.",
           "d": 1
+        },
+        {
+          "question": "Under the 1954 Geneva Accords described in the notes, at what parallel was Vietnam divided into North and South?",
+          "choices": [
+            "38th parallel",
+            "49th parallel",
+            "17th parallel",
+            "20th parallel"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state Vietnam 'was split into the North and South at the 17th parallel until 1956, when democratic elections could be held to decide its future.'",
+          "d": 1
+        },
+        {
+          "question": "Why, according to the notes, did Mao Zedong support North Vietnam?",
+          "choices": [
+            "He wanted to gain access to Vietnam's natural resources",
+            "He wanted to reclaim Vietnam as a former Chinese territory",
+            "He was ordered to by the Soviet Union",
+            "He wanted to lead international revolutionary communism and feared American intervention in Vietnam would threaten China's security"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state Mao 'had a vision to be leader of international revolutionary communism and was keen to extend communist influence to Southeast Asia. Also feared American intervention in Vietnam would lead to a security threat towards China.'",
+          "d": 2
+        },
+        {
+          "question": "What tactic did Southern/US forces use specifically to remove the Viet Cong's jungle hiding spots?",
+          "choices": [
+            "Recruiting local guides to identify Viet Cong hideouts",
+            "Using napalm, Agent Orange and other defoliating agents to strip vegetation",
+            "Building the Ho Chi Minh Trail to redirect Viet Cong supply routes",
+            "Digging tunnel networks to search for the enemy"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state: 'Napalm, Agent Orange and Explosives (Southern/US troops): Such defoliating agents removed bushes and other vegetation, removing hiding spots for the Viet Cong.'",
+          "d": 2
+        },
+        {
+          "question": "The notes state that under the draft system, as many as 40,000 young men were called into service each month. At that rate, approximately how many draftees would be called up over a full year?",
+          "choices": [
+            "240,000",
+            "40,000",
+            "480,000",
+            "500,000"
+          ],
+          "answerIndex": 2,
+          "explanation": "40,000 draftees per month multiplied by 12 months equals 480,000 per year, based on the notes' figure that 'as many as 40,000 young men were called into service each month.'",
+          "d": 3
+        },
+        {
+          "question": "Which of the following was NOT listed in the notes as a reason for US involvement in Vietnam?",
+          "choices": [
+            "Domino Theory — fear that neighbouring countries would fall to communism in turn",
+            "Economics — maintaining an open door for US trade",
+            "Colonial Reacquisition — helping France reclaim its former Indochina colonies",
+            "Containment Policy — preventing the further spread of communism"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes list six reasons for US involvement — Containment Policy, Ideology, Economics, Security, US Politics and Domino Theory — but do not list helping France reclaim its colonies as a reason for direct US involvement.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -1401,6 +1857,66 @@
           "answerIndex": 2,
           "explanation": "The notes state South Vietnam could not hold on to power without US help.",
           "d": 2
+        },
+        {
+          "question": "Which US president succeeded Johnson and worked together with Henry Kissinger to end American involvement in Vietnam?",
+          "choices": [
+            "Gerald Ford",
+            "Richard Nixon",
+            "Dwight D. Eisenhower",
+            "John F. Kennedy"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state Johnson 'was succeeded by President Richard Nixon, who worked towards ending American involvement in Vietnam together with Henry Kissinger.'",
+          "d": 2
+        },
+        {
+          "question": "Before the Paris Peace Accords were signed, how did North and South Vietnam respond to earlier peace agreements proposed by the US and the UN?",
+          "choices": [
+            "Both North and South Vietnam refused to sign them",
+            "Only North Vietnam refused to sign",
+            "Both sides signed the agreements but later broke them",
+            "Only South Vietnam refused to sign"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes specify that 'both North and South Vietnam had earlier refused to sign agreements proposed by the US-UN' before the Paris Peace Accords were reached.",
+          "d": 2
+        },
+        {
+          "question": "Under what political system were North and South Vietnam unified in 1975?",
+          "choices": [
+            "Communism",
+            "A constitutional monarchy",
+            "A UN-administered trusteeship",
+            "A capitalist democracy"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state: '1975: North and South Vietnam unified under communism, with the capture of Saigon.'",
+          "d": 1
+        },
+        {
+          "question": "Which of the following correctly orders these events according to the notes?",
+          "choices": [
+            "The capture of Saigon, then the Paris Peace Accords, then US troop withdrawal, then the North Vietnamese invasion",
+            "The North Vietnamese invasion, then the Paris Peace Accords, then US troop withdrawal, then the capture of Saigon",
+            "The Paris Peace Accords, then US troop withdrawal, then the North Vietnamese invasion, then the capture of Saigon",
+            "US troop withdrawal, then the Paris Peace Accords, then the capture of Saigon, then the North Vietnamese invasion"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes describe the Paris Peace Accords (Jan 1973) requiring US troop withdrawal within 60 days, after which North Vietnam invaded the unsupported South, culminating in the 1975 capture of Saigon and unification.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following statements about the end of the Vietnam War is NOT supported by the notes?",
+          "choices": [
+            "The US continued to provide full military support to South Vietnam after withdrawing its troops",
+            "North Vietnam refused to hold elections after the peace agreement",
+            "South Vietnam was unable to retain power without US assistance",
+            "The Paris Peace Accords were signed in January 1973"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that after troop withdrawal 'the South Vietnamese were left alone, although economic aid was still supplied' — not full military support — and 'without US support, the South eventually fell to the North.'",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -1568,6 +2084,66 @@
           "answerIndex": 3,
           "explanation": "The installation was a response to US missiles in Turkey and gave the USSR political leverage.",
           "d": 2
+        },
+        {
+          "question": "What products made Cuba economically significant to the US and Europe historically, according to the notes?",
+          "choices": [
+            "Coffee, cotton and textiles",
+            "Oil, gold and silver",
+            "Bananas, coffee and rubber",
+            "Rum, sugar and tobacco"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes describe Cuba as 'a major producer of rum, sugar and tobacco, which were in high demand in both Europe and America.'",
+          "d": 1
+        },
+        {
+          "question": "What happened after the US intervened in the Cuban War of Independence in 1898?",
+          "choices": [
+            "The US supported the Cuban independence fighters, won the war, and continued its interests in the region even after withdrawing troops in 1902",
+            "Cuba gained full independence with no further US involvement",
+            "The US lost the war and withdrew all involvement in Cuba",
+            "The US annexed Cuba permanently as a US territory"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state the US 'intervened, supporting the Cuban independence fighters, and America won the war. Even after withdrawing troops from Cuba in 1902, the US continued its interests in the region.'",
+          "d": 2
+        },
+        {
+          "question": "Why did the US remain reluctant to withdraw support from Batista despite his corruption and use of secret police?",
+          "choices": [
+            "The United Nations required the US to maintain support",
+            "Batista threatened military retaliation against the US",
+            "The US feared that his opponents might bring communism into its 'backyard'",
+            "Batista had overwhelming popular support among Cubans"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state: 'The US was nonetheless reluctant to withdraw support, for fear of communism being brought by his opponents into their backyard.'",
+          "d": 2
+        },
+        {
+          "question": "Which explanation best matches the notes' account of why Cuba ended up aligning itself with the USSR?",
+          "choices": [
+            "The US requested that Cuba ally with the USSR to balance Cold War power",
+            "Disillusionment with the corrupt, US-backed government and constant US interference drove Cuba toward the USSR — the chief antagonist of the US — as a form of protection",
+            "Cuba sought a new market for sugar exports after the US ended the Sugar Quota entirely",
+            "The USSR directly invaded Cuba to install a communist government"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state 'Cuba aligned itself with the USSR because the USSR was the major antagonist of the USA, and the corruption of the US-instituted government in Cuba and its constant meddling in Cuban affairs' drove Cuba 'towards the USSR as a form of protection and defense against the USA.'",
+          "d": 3
+        },
+        {
+          "question": "Which of the following was NOT stated in the notes as a source of Cuban resentment toward the US-installed government?",
+          "choices": [
+            "A large income gap existed between rich Cuban elites and the poor majority",
+            "Puppet presidents used secret police to remove political opponents",
+            "The US banned the Catholic Church from operating in Cuba",
+            "Cuba's government could not make alliances with other nations without US approval"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes mention the alliance restriction, the income gap/inequality, and Batista's secret police, but never mention any ban on the Catholic Church.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -1741,6 +2317,66 @@
           "answerIndex": 0,
           "explanation": "Soviet Defence Minister Malinovsky instructed Cuba not to use the missiles.",
           "d": 1
+        },
+        {
+          "question": "What excuse was given to the media for Kennedy's return to Washington on 19th October 1962?",
+          "choices": [
+            "A cold",
+            "An election fraud investigation",
+            "A scheduled press briefing",
+            "A family emergency"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state: 'The media is told the President must return due to a \"cold\"; the real reasons are withheld.'",
+          "d": 1
+        },
+        {
+          "question": "What did the additional US spy flights ordered on 18th October discover, and why did this change the American assessment of the threat?",
+          "choices": [
+            "They found seven more missile sites with medium- and long-range missiles, whose number and range signalled an offensive purpose",
+            "They found the missile sites had been dismantled, confirming a defensive purpose",
+            "They found no additional sites, so the US assumed the threat had passed",
+            "They found only short-range training missiles, confirming a defensive purpose"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state the new flights 'discover seven more missile sites, including medium and long-range missiles (the excessive number of sites and the range of the missiles signalled to the US that they were for offensive purposes).'",
+          "d": 2
+        },
+        {
+          "question": "What realisation did Kennedy come to after spending 17th October meeting with his advisors?",
+          "choices": [
+            "That a naval blockade was illegal under international law",
+            "The grave possibility of war",
+            "That Khrushchev intended to withdraw the missiles voluntarily",
+            "That the USSR had no missiles in Cuba"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state that on 17th October Kennedy 'discusses various courses of action and their potential consequences, and realises the grave possibility of war.'",
+          "d": 2
+        },
+        {
+          "question": "What is the key difference between the events of 22nd and 23rd October 1962, according to the timeline?",
+          "choices": [
+            "On 22nd October the blockade went into effect; on 23rd October it was lifted",
+            "On 22nd October Kennedy addressed the nation on television about the danger of nuclear war; on 23rd October he ordered the naval blockade of Cuba",
+            "On 22nd October Kennedy ordered the naval blockade; on 23rd October he addressed the nation on television",
+            "Both events involved Kennedy addressing the nation on television"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state: '22nd October — President Kennedy goes live on national television...23rd October — Kennedy orders a naval blockade of Cuba.'",
+          "d": 3
+        },
+        {
+          "question": "How did Khrushchev's response on 24th October reveal a contradiction between his public and private actions?",
+          "choices": [
+            "He publicly apologised to Kennedy while secretly preparing Cuban forces for war",
+            "He ignored the blockade entirely, both publicly and privately",
+            "He publicly admitted defeat while privately continuing to arm Cuba",
+            "He publicly condemned the blockade and told Castro the USSR would ignore it, while privately ordering recently-departed Soviet ships to turn back to avoid escalation"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state the USSR 'condemn[ed] the blockade as an illegal act of war' and Khrushchev wrote to Castro promising to ignore it, yet 'simultaneously ordered recently-departed Soviet ships to return to port to prevent further escalation.'",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -1904,6 +2540,66 @@
           "answerIndex": 1,
           "explanation": "Both wars involved heavy loss of life and were fought partly to contain communism's spread.",
           "d": 2
+        },
+        {
+          "question": "Which two rival Vietnamese states emerged from the post-WWII power vacuum, according to the notes?",
+          "choices": [
+            "North Vietnam and the Communist Party of Cuba",
+            "The State of Vietnam (Hanoi) and the Democratic Republic of Vietnam (Saigon)",
+            "The Republic of Korea and the Democratic Republic of Korea",
+            "The Democratic Republic of Vietnam (Hanoi) and the State of Vietnam (Saigon)"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes describe the Viet Minh setting up the 'Democratic Republic of Vietnam (DRV) with Hanoi as its capital' and the French-backed Bao Dai setting up 'the State of Vietnam with Saigon as its capital.'",
+          "d": 1
+        },
+        {
+          "question": "According to the notes' comparison table, which three key factors are listed as causes of BOTH the Korean War and the Vietnam War?",
+          "choices": [
+            "Colonial independence movements, religious conflict, and famine",
+            "Superpower involvement, nuclear parity, and détente",
+            "Superpower involvement, difference in ideology, and protection of allies/geopolitical significance",
+            "Nuclear brinkmanship, economic sanctions, and UN intervention"
+          ],
+          "answerIndex": 2,
+          "explanation": "The comparison table lists identical 'Key factors' for both wars: superpower involvement, difference in ideology, and protection of allies/geopolitical significance.",
+          "d": 2
+        },
+        {
+          "question": "What fear is described as driving the escalation of the Korean conflict from a civil war into a proxy war?",
+          "choices": [
+            "Fear of a Chinese invasion of the Pacific",
+            "Fear of a domino effect in Western Europe",
+            "Fear of the 'bamboo curtain' falling on the Korean Peninsula",
+            "Fear of the Iron Curtain spreading to Japan"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state 'the war progressed from a civil war into a proxy war, out of fear of the \"bamboo curtain\" falling on the Korean peninsula.'",
+          "d": 2
+        },
+        {
+          "question": "Adding together the killed, wounded, and refugee figures given in the notes, approximately how many Vietnamese people in total were affected by the Vietnam War?",
+          "choices": [
+            "15 million",
+            "20 million",
+            "12 million",
+            "17 million"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state 'an estimated 2 million Vietnamese were killed, another 3 million wounded, and 12 million more became refugees,' which totals 2 + 3 + 12 = 17 million.",
+          "d": 3
+        },
+        {
+          "question": "Which of the following is NOT listed among the effects of the Cuban Missile Crisis in the notes?",
+          "choices": [
+            "Cuba gaining permanent membership on the UN Security Council",
+            "Signing of the Nuclear Test Ban Treaty",
+            "Worsening of Sino-Soviet relations",
+            "Khrushchev's dismissal as Soviet leader in 1964"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes list Khrushchev's dismissal, worsened Sino-Soviet relations, improved USA-USSR détente, and treaties like the Nuclear Test Ban Treaty as effects — but never mention Cuba gaining UN Security Council membership.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2027,6 +2723,66 @@
           "answerIndex": 0,
           "explanation": "A global currency is not one of the UN's three listed main purposes.",
           "d": 1
+        },
+        {
+          "question": "Which powers did the 26-nation wartime coalition unite to fight, according to the notes?",
+          "choices": [
+            "The League of Nations",
+            "The Communist Bloc",
+            "The Allied powers",
+            "The Axis powers"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state: 'During the war, 26 nations forged a coalition to fight the Axis powers.'",
+          "d": 1
+        },
+        {
+          "question": "What set of principles did the wartime coalition adopt to underpin their efforts, later embodied by the UN?",
+          "choices": [
+            "Free trade, national sovereignty and self-determination",
+            "Democracy, capitalism and equality",
+            "Freedom, human rights and justice for all",
+            "Disarmament, neutrality and non-aggression"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state the coalition 'adopted a set of principles to underpin their efforts: freedom, human rights and justice for all.'",
+          "d": 2
+        },
+        {
+          "question": "What historical atrocity of WWII is mentioned in the notes as part of the context for the UN's founding in 1945?",
+          "choices": [
+            "The fall of Berlin",
+            "The Great Depression",
+            "The bombing of Pearl Harbor",
+            "The Holocaust"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state the UN was 'Founded in 1945, in the aftermath of the war and the horrors of the Holocaust.'",
+          "d": 2
+        },
+        {
+          "question": "According to the notes, what did the international community hope the UN would achieve?",
+          "choices": [
+            "Prevent future catastrophes like those of WWII by stabilising international relations and giving peace a more secure foundation",
+            "Establish a single global currency",
+            "Create a world government to replace individual nations",
+            "Enforce free trade among all member nations"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state 'it was hoped that the UN would be able to prevent such catastrophes from happening in the future by stabilising international relations and giving peace a more secure foundation.'",
+          "d": 2
+        },
+        {
+          "question": "Which of the following is NOT stated in the notes as part of the United Nations' founding purpose or context?",
+          "choices": [
+            "It embodies principles of freedom, human rights and justice adopted by the wartime Allied coalition",
+            "It is widely seen as a successor to the failed League of Nations",
+            "It was founded in 1945 in the aftermath of WWII and the Holocaust",
+            "It was designed to replace national armies with a single unified UN military force"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes describe the UN's 1945 founding, its status as successor to the League of Nations, and its embodiment of the coalition's principles — but never mention it replacing national armies with a unified force.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2194,6 +2950,66 @@
           "answerIndex": 3,
           "explanation": "It was a protracted, costly conflict for the USSR lasting from 1979-1989.",
           "d": 1
+        },
+        {
+          "question": "Who pioneered the policy of Détente, alongside Nixon and Brezhnev?",
+          "choices": [
+            "Mikhail Gorbachev",
+            "Ronald Reagan",
+            "Jimmy Carter",
+            "Henry Kissinger"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state Détente was 'Pioneered by US National Security Adviser Henry Kissinger, alongside Nixon and Brezhnev.'",
+          "d": 1
+        },
+        {
+          "question": "What diplomatic breakthrough did Nixon achieve during his 1972 visit to Beijing?",
+          "choices": [
+            "He signed the Anti-Ballistic Missile Treaty with China",
+            "He began the normalisation of relations with the PRC after 25 years of diplomatic isolation",
+            "He established a permanent US military base in China",
+            "He negotiated an end to the Korean War armistice"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state Nixon 'Visited Beijing in 1972, beginning the normalisation of relations with the PRC after 25 years of diplomatic isolation.'",
+          "d": 2
+        },
+        {
+          "question": "Why were the Pershing II missiles, announced for deployment in West Germany in 1983, particularly alarming to the USSR?",
+          "choices": [
+            "They were permanently stationed in Cuba",
+            "They could only be intercepted by the Strategic Defence Initiative",
+            "They carried more nuclear warheads than any Soviet missile",
+            "They were mobile, more accurate, and within striking range of the western USSR"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes describe Pershing II missiles as 'mobile, more accurate, and within striking range of the western part of the USSR,' which 'exacerbated tensions and the arms race.'",
+          "d": 2
+        },
+        {
+          "question": "Which of the following was NOT listed among the external (foreign) factors leading to the end of the Cold War in the notes?",
+          "choices": [
+            "The state of the US economy under Reagan",
+            "Military buildup, including SDI, Pershing II missiles and the Able Archer 83 incident",
+            "The Soviet-Afghan War",
+            "The fall of the Berlin Wall"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes list exactly three external factors — Military Buildup, US Economy, and the Soviet-Afghan War — and never mention the fall of the Berlin Wall in this section.",
+          "d": 3
+        },
+        {
+          "question": "How many of the specific events described under 'Military Buildup' (SDI, Pershing II missiles, and Able Archer) took place in 1983, according to the notes?",
+          "choices": [
+            "None",
+            "Two",
+            "One",
+            "Three"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes date the SDI announcement to 1983, the Pershing II announcement to 1983, and the Able Archer exercise (named 'Able Archer 83') also to 1983 — all three events.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2357,6 +3173,66 @@
           "answerIndex": 1,
           "explanation": "The USSR gave subsidies to allies and funded governments like Cuba, straining its finances.",
           "d": 1
+        },
+        {
+          "question": "What caused the widespread problem of alcoholism among Soviet workers, according to the notes?",
+          "choices": [
+            "Stress from political persecution",
+            "Free alcohol distributed by factories to boost morale",
+            "The relatively cheap price of alcohol and the lack of other consumer goods to spend money on",
+            "Government-sponsored alcohol production campaigns"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state alcoholism was 'caused partly by the relatively cheap price of alcohol and the lack of other consumer goods for workers to spend on.'",
+          "d": 1
+        },
+        {
+          "question": "Why did the USSR's inefficient transport and distribution system lead to wasted crops, according to the notes?",
+          "choices": [
+            "Because of the USSR's vast size, factories were located far from raw materials, and long waiting times caused crops to spoil",
+            "There was a severe shortage of farm workers",
+            "Farmers refused to harvest crops in protest against the government",
+            "The government banned the export of crops"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state this was 'partly due to the vastness of the USSR — factories were located far from the raw materials they needed. Due to inefficient transport, much of the crops produced were wasted due to long waiting times.'",
+          "d": 2
+        },
+        {
+          "question": "How many state companies are described in the notes as loss-making?",
+          "choices": [
+            "35,000",
+            "50,000",
+            "3,000",
+            "24,000"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state: 'There were 24,000 loss-making state companies.'",
+          "d": 2
+        },
+        {
+          "question": "Which chain of cause and effect best describes how the shortage of consumer goods contributed to the USSR's financial troubles, according to the notes?",
+          "choices": [
+            "Shortages led directly to increased grain exports, straining the economy",
+            "Consumer shortages were fully resolved through imports from Warsaw Pact allies",
+            "Black market profits were used to directly fund the Soviet military budget",
+            "Basic needs went unmet, so a black market developed, causing the government to lose revenue and contributing to the USSR's bankruptcy"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state: 'With increased demand for consumer goods, a \"black market\" developed, which also meant the government lost a great deal of revenue. As a result, the USSR was bankrupt.'",
+          "d": 3
+        },
+        {
+          "question": "Which of the following was NOT listed in the notes as a way the USSR increased its government spending abroad?",
+          "choices": [
+            "Funding infrastructure development projects in Western Europe",
+            "Providing US$3 billion in subsidies for oil, gas and metals sold to allies",
+            "Sponsoring third-world communist governments such as Cuba",
+            "Providing financial support to Eastern European countries through COMECON"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes mention $3 billion in subsidies, sponsoring third-world communist governments like Cuba, and COMECON support to Eastern Europe — but never funding infrastructure in Western Europe.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2524,6 +3400,66 @@
           "answerIndex": 2,
           "explanation": "The first openly contested elections since 1917 were held in March 1989.",
           "d": 1
+        },
+        {
+          "question": "Which prominent Soviet dissident was allowed to return to Moscow under Glasnost after being exiled?",
+          "choices": [
+            "Andrei Sakharov",
+            "Leon Trotsky",
+            "Nikita Khrushchev",
+            "Boris Yeltsin"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state 'Andrei Sakharov, one of the most prominent critics of the communist regime, was allowed back into Moscow after being exiled.'",
+          "d": 1
+        },
+        {
+          "question": "Why did Gorbachev give a televised speech admitting the facts of the Chernobyl disaster in April 1986?",
+          "choices": [
+            "International pressure from the UN forced disclosure",
+            "He was ordered to by the Politburo",
+            "He wanted to blame Western sabotage for the explosion",
+            "He was shocked that little information had been released to the public despite health risks, and that some reporting had been deliberately misleading"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state: 'Despite obvious health risks, little information was released to the public...and some reporting was deliberately misleading. Shocked by this response, Gorbachev appeared on Soviet television and gave a speech with a serious admission of the facts.'",
+          "d": 2
+        },
+        {
+          "question": "Which 1939 massacre of Polish soldiers did the Soviet government finally acknowledge responsibility for in 1989, as part of Glasnost's historical openness?",
+          "choices": [
+            "The Nanjing Massacre",
+            "The Kronstadt rebellion suppression",
+            "The Katyn massacre",
+            "The Babi Yar massacre"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state: 'in 1989, Soviet responsibility was finally acknowledged for the Katyn mass murders of Polish soldiers in 1939.'",
+          "d": 2
+        },
+        {
+          "question": "Gorbachev intended Glasnost to strengthen the communist system by encouraging debate. Which of the following best explains why the notes describe the opposite outcome occurring?",
+          "choices": [
+            "The KGB revealed the failures to deliberately sabotage Gorbachev",
+            "Corruption trials of officials caused an international economic boycott of the USSR",
+            "Free debate and disclosure uncovered decades of hidden failures (corruption, the Afghan war, Chernobyl, ecological damage), releasing long-suppressed public bitterness and leading people to call for the end of communist rule instead of its reform",
+            "Western media campaigns turned the Soviet public against Gorbachev"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state Gorbachev 'wanted to encourage people to debate freely in order to improve the communist system, not to end it. Instead, people began to call for the end of communist rule,' as decades of 'bitterness and resentment...surfaced once press censorship ended.'",
+          "d": 3
+        },
+        {
+          "question": "Which combination of Perestroika's economic effects is correctly matched to its figure, according to the notes?",
+          "choices": [
+            "Inflation rose to 10% in 1989 and the economy shrank by 4% in 1990",
+            "Unemployment rose to 10% and inflation reached 4%",
+            "Inflation rose to 10% in 1990 and the economy grew by 4% in 1989",
+            "Inflation rose to 4% in 1989 and the economy shrank by 10% in 1990"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state 'the economy shrank by 4% in 1990' and 'inflation, which rose to 10% in 1989.'",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2667,6 +3603,66 @@
           "answerIndex": 1,
           "explanation": "Its fall symbolised the end of the divide between the communist and capitalist blocs.",
           "d": 2
+        },
+        {
+          "question": "Which Czechoslovak leader did Alexander Dubcek replace as First Secretary of the Communist Party?",
+          "choices": [
+            "Erich Honecker",
+            "Antonin Novotny",
+            "Gustav Husak",
+            "Leonid Brezhnev"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state that Antonin Novotny, the Stalinist ruler of Czechoslovakia, was succeeded as First Secretary by Alexander Dubcek.",
+          "d": 1
+        },
+        {
+          "question": "What phrase from the notes describes Dubcek's reform program during the Prague Spring?",
+          "choices": [
+            "Communism with a democratic face",
+            "Socialism with a human face",
+            "The Prague Doctrine",
+            "Communism with a human face"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes describe Dubcek's effort to establish 'communism with a human face' as the defining phrase of his reforms.",
+          "d": 2
+        },
+        {
+          "question": "Beyond its official 'antifascist bulwark' justification, what real purpose did the Berlin Wall serve according to the notes?",
+          "choices": [
+            "It enforced a new East German currency reform",
+            "It separated Catholic and Protestant populations",
+            "It prevented a NATO military invasion of East Germany",
+            "It primarily served to stem mass defections from East to West"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state that although officially meant to keep Western 'fascists' out, the Wall 'primarily served to stem mass defections from East to West.'",
+          "d": 2
+        },
+        {
+          "question": "According to the notes, which of the following did NOT happen when the Berlin Wall fell on 9 November 1989?",
+          "choices": [
+            "Some people used hammers and picks to chip at the wall",
+            "The Soviet Union sent tanks to crush the crowds, as it had in Prague in 1968",
+            "Crowds crossed freely into West Berlin",
+            "The head of the East German Communist Party announced citizens could cross the border freely"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes describe ecstatic, unopposed crowds crossing and chipping at the wall after the announcement — unlike the Prague Spring, there is no mention of Soviet tanks being deployed against the 1989 Berlin crowds.",
+          "d": 3
+        },
+        {
+          "question": "The notes describe the harsh Soviet crackdown on the Prague Spring in 1968 and the peaceful fall of the Berlin Wall in 1989 as evidence of what shared underlying trend, despite their very different immediate outcomes?",
+          "choices": [
+            "A long-term, growing desire for freedom and democracy among communist subjects that ultimately overcame communism",
+            "The permanent stability of the Soviet bloc's political system",
+            "The increasing military dominance of the Warsaw Pact over Western Europe",
+            "Rising economic prosperity achieved under communist rule"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes' conclusions frame both events as signs of 'the desire for freedom and democracy among communist subjects' and 'a general shift against communism,' which eventually 'contributed to its collapse.'",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2794,6 +3790,66 @@
           "answerIndex": 1,
           "explanation": "These two movements are named as the case studies discussed.",
           "d": 1
+        },
+        {
+          "question": "According to the notes, through what kind of sites is the negotiation of power between dominant and subordinated groups in Southeast Asian society often articulated?",
+          "choices": [
+            "Military bases",
+            "Universities",
+            "Heritage/cultural sites",
+            "Stock exchanges"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state that the negotiation of power between dominant and subordinated groups 'is often articulated through struggles over particular cultural sites, e.g. struggles over heritage sites.'",
+          "d": 1
+        },
+        {
+          "question": "How do local social movements in Southeast Asia typically make use of transnational networks, according to the notes?",
+          "choices": [
+            "They avoid transnational networks to preserve local identity",
+            "They leverage transnational networks, shaped by global concerns and funding, to pursue local causes",
+            "They rely on transnational networks solely to recruit foreign fighters",
+            "They use transnational networks to replace domestic political institutions entirely"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state that local movements are 'shaped by funding and repertoires of action, and are able to leverage transnational networks to pursue local causes.'",
+          "d": 2
+        },
+        {
+          "question": "Which processes does the section on 'constructing identities' identify as contributing to the emergence of social groups amid uneven political and economic arrangements?",
+          "choices": [
+            "Colonialism, famine and taxation",
+            "Industrialization, urbanisation and warfare",
+            "Globalization, migration and tourism",
+            "Democratization, secularism and militarization"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state that social groups emerge in relation to uneven arrangements 'wrought by processes such as globalization, migration and tourism.'",
+          "d": 2
+        },
+        {
+          "question": "Which of the following is NOT identified in the notes as a factor making Southeast Asia a hotbed for social change?",
+          "choices": [
+            "Wealth in resources",
+            "A history of colonialism",
+            "A wide spectrum of political systems",
+            "A single shared religion across the whole region"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes list resource wealth, religious influence, colonial history and a wide spectrum of political systems as factors, but also note SEA comprises a Buddhist-majority mainland and an Islam-majority maritime region — not a single shared religion.",
+          "d": 3
+        },
+        {
+          "question": "A group organizes solely to pressure its government into adopting stronger environmental protections, without any aim of taking over the government itself. Based on the notes' distinction between social and political movements, how should this group be classified?",
+          "choices": [
+            "A social movement, because it seeks concessions such as policy change from the state rather than aiming to govern",
+            "A political movement, because environmental protection requires new legislation",
+            "A political movement, because it is engaging with government policy",
+            "Neither, because the notes state such groups must be registered NGOs"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes distinguish social movements from political movements by noting that political movements 'aim to govern,' while social movements 'seek concessions from the state in the form of policy changes, protection or other forms of action' — matching this group's goal.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -2957,6 +4013,66 @@
           "answerIndex": 0,
           "explanation": "Suharto's centralisation of power under the New Order alienated Aceh politically.",
           "d": 2
+        },
+        {
+          "question": "What name did the Indonesian central government use to refer to the GAM insurgency?",
+          "choices": [
+            "Sumatra Liberation Front",
+            "Darul Islam Movement",
+            "Aceh National Army",
+            "Aceh Security Disturbance Movement (GPK)"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state the insurgency was 'known to the central government as the Aceh Security Disturbance Movement (GPK).'",
+          "d": 1
+        },
+        {
+          "question": "Why, according to the notes, did calls by GAM leaders for support from countries like the US often go unheeded?",
+          "choices": [
+            "Aceh had no natural resources to interest outside powers",
+            "The 2004 tsunami had destroyed all channels of communication",
+            "Those nations and the international community wanted to maintain good ties with Indonesia",
+            "International law barred any nation from responding to separatist appeals"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes explain that GAM's appeals were 'often ignored, as those nations and the general international community wanted to maintain good ties with Indonesia.'",
+          "d": 2
+        },
+        {
+          "question": "According to the notes, roughly how many people were killed in the first three years of Operational Military Status (DOM) between 1989 and 1992?",
+          "choices": [
+            "About 6,000",
+            "About 500",
+            "About 2,000",
+            "About 12,000"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state that DOM 'led to about 2,000 people being killed in the first 3 years of operations (1989-1992).'",
+          "d": 2
+        },
+        {
+          "question": "Which of the following was NOT listed in the notes as an economic driving force behind GAM's formation?",
+          "choices": [
+            "Aceh's GDP declining during the 1997 recession",
+            "Increased central government subsidies to Aceh during an oil boom",
+            "Aceh's natural gas and petroleum accounting for a large share of Indonesia's exports",
+            "Acehnese living in poverty while Javanese exploited Aceh's resources"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes describe exploitation of Aceh's resources and the 1997 recession's impact on Aceh's GDP as economic driving forces, but never mention increased central government subsidies — the opposite of the exploitation narrative in the notes.",
+          "d": 3
+        },
+        {
+          "question": "The notes state Aceh's GDP declined 5.9% in 1998 and a further 2.9% in 1999. What was the combined percentage decline in Aceh's GDP across these two years?",
+          "choices": [
+            "8.8%",
+            "3.0%",
+            "5.9%",
+            "2.9%"
+          ],
+          "answerIndex": 0,
+          "explanation": "Adding the two consecutive declines given in the notes: 5.9% + 2.9% = 8.8%.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -3130,6 +4246,66 @@
           "answerIndex": 2,
           "explanation": "The debt-to-GDP ratio was reduced by 30%.",
           "d": 1
+        },
+        {
+          "question": "According to the notes, how many known killings occurred under the authoritarian Marcos regime?",
+          "choices": [
+            "2,000,000",
+            "35,000",
+            "3,200",
+            "24,400"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes state there were '3,200 known killings and 35,000 documented cases of torture under the authoritarian Marcos regime' — 3,200 is the killings figure, while 35,000 refers to torture cases.",
+          "d": 1
+        },
+        {
+          "question": "What allowed Marcos to extend his rule to 14 years instead of the original 2-year term, according to the notes?",
+          "choices": [
+            "Martial law alone, without any constitutional change",
+            "A peace agreement mediated by the United Nations",
+            "Formal backing from the Catholic Church",
+            "A new constitution, facilitated further by the rigged 1986 snap elections"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state 'a new constitution allowed Marcos to rule for 14 years instead of two (facilitated further by the rigged snap elections of 1986).'",
+          "d": 2
+        },
+        {
+          "question": "By what percentage did the Philippine economy contract over the two years following the 1980s economic collapse, according to the notes?",
+          "choices": [
+            "3.4%",
+            "80%",
+            "30%",
+            "7.3%"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes state the 'economy contracted by 7.3% over the following 2 years,' distinct from the peso's 80% loss in value, the 30% debt-to-GDP reduction, and the 3.4% average growth under Aquino.",
+          "d": 2
+        },
+        {
+          "question": "Which of the following movements is NOT cited in the notes as part of the People Power Movement's legacy of inspiring later protest movements?",
+          "choices": [
+            "The Hong Kong protests (2019)",
+            "The Arab Spring (2010)",
+            "The Burmese Civil Disobedience Movement (2021)",
+            "The Tiananmen Square protests (1989)"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes credit the People Power Movement's legacy for inspiring the Arab Spring (2010), Hong Kong protests (2019) and the Burmese Civil Disobedience Movement (2021), but do not mention the Tiananmen Square protests.",
+          "d": 3
+        },
+        {
+          "question": "The notes state the Philippines' debt was about $24.4 billion by 1982, and that President Aquino later paid off $4 billion of the debt incurred under Marcos. Approximately what percentage of the 1982 debt figure did Aquino's repayment represent?",
+          "choices": [
+            "About 16%",
+            "About 4%",
+            "About 30%",
+            "About 60%"
+          ],
+          "answerIndex": 0,
+          "explanation": "$4 billion divided by $24.4 billion is approximately 16.4%, distinct from the unrelated 30% figure for the debt-to-GDP ratio reduction mentioned elsewhere in the notes.",
+          "d": 3
         }
       ],
       "shortAnswer": [
@@ -3299,6 +4475,66 @@
           "answerIndex": 2,
           "explanation": "Political corruption was widespread in city government and services.",
           "d": 1
+        },
+        {
+          "question": "Which historical event is cited in the notes as a push factor behind Irish immigration to the United States?",
+          "choices": [
+            "The Great Depression",
+            "The Korean War",
+            "World War I",
+            "The Great Irish Potato Famine of 1845"
+          ],
+          "answerIndex": 3,
+          "explanation": "The notes list 'poor working and living conditions (e.g. the Great Irish Potato Famine of 1845)' as a push factor for immigration.",
+          "d": 1
+        },
+        {
+          "question": "How did the development of telephones contribute to US urbanisation, according to the notes?",
+          "choices": [
+            "It eased communication, boosting efficiency and helping fuel the rise of larger national companies",
+            "It reduced the need for railway transportation",
+            "It enabled the government to enforce immigration quotas",
+            "It allowed farmers to sell crops directly to city markets"
+          ],
+          "answerIndex": 0,
+          "explanation": "The notes state that communication technology, 'particularly the development of telephones,' eased communication, 'boosting efficiency and helping fuel the rise of larger national companies and corporations.'",
+          "d": 2
+        },
+        {
+          "question": "Which of the following is listed in the notes as a political factor influencing immigration to the United States during this period?",
+          "choices": [
+            "Mandatory military conscription for immigrants",
+            "Rent control legislation",
+            "Immigration quotas",
+            "State-sponsored religious conversion programs"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes list political factors as 'laws from the United States (a country built by immigrants); immigration quotas.'",
+          "d": 2
+        },
+        {
+          "question": "Which of the following was NOT listed in the notes as a push factor for immigration to the United States?",
+          "choices": [
+            "Poverty and conflict from WWI, WWII and the Korean War",
+            "Religious persecution, such as of Eastern European Jews during the European wars",
+            "High demand for labour offering financial and economic security",
+            "Poor working and living conditions, such as the Great Irish Potato Famine"
+          ],
+          "answerIndex": 2,
+          "explanation": "The notes classify 'high demand for labour' and 'financial/economic security' as a pull factor drawing immigrants to the US, not a push factor driving them from their homelands.",
+          "d": 3
+        },
+        {
+          "question": "As city housing demand outpaced supply during this period, what response by landlords does the notes describe, and what problem did it cause?",
+          "choices": [
+            "Landlords drastically lowered rents to attract more tenants",
+            "Landlords subdivided houses into apartments and tenements that were often poorly maintained and unsanitary",
+            "Landlords built free public housing developments funded by the government",
+            "Landlords converted apartment buildings into single-family mansions"
+          ],
+          "answerIndex": 1,
+          "explanation": "The notes state landlords 'took advantage of the demand for housing by subdividing city houses into apartments and building tenements,' which 'were often poorly maintained and unsanitary.'",
+          "d": 3
         }
       ],
       "shortAnswer": [
