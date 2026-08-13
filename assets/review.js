@@ -1,9 +1,31 @@
 // Daily mix (cross-subject due cards + weighted quiz round) and mistakes drill.
 (function () {
   const mode = qs("m") || "mix";
+  const subjectFilter = qs("s") || "all";
   initHeader(null, mode === "mistakes" ? "mistakes" : "mix");
   initStudyKeys();
   const content = document.getElementById("content");
+
+  function subjectPicker() {
+    return `
+      <label style="display:block;margin:0 0 1rem;color:var(--text-muted);font-size:0.9rem;">
+        Subject:
+        <select id="mix-subject" style="margin-left:0.5rem;padding:0.35rem 0.5rem;border-radius:8px;border:1px solid var(--border);background:var(--bg-elevated);color:var(--text);">
+          <option value="all">All subjects</option>
+          ${SUBJECTS.map((s) => `<option value="${s.id}" ${s.id === subjectFilter ? "selected" : ""}>${s.title}</option>`).join("")}
+        </select>
+      </label>`;
+  }
+  function wireSubjectPicker() {
+    const sel = document.getElementById("mix-subject");
+    if (sel)
+      sel.addEventListener("change", () => {
+        location.href = `review.html?s=${sel.value}${mode === "mistakes" ? "&m=mistakes" : ""}`;
+      });
+  }
+  function inFilter(sid) {
+    return subjectFilter === "all" || sid === subjectFilter;
+  }
 
   function subjectTitle(s) {
     const m = SUBJECTS.find((x) => x.id === s);
@@ -76,7 +98,7 @@
   function sampleQuiz(all, n) {
     const seen = new Set();
     const picks = [];
-    for (const m of shuffle(SRS.mistakeList()).slice(0, 3)) {
+    for (const m of shuffle(SRS.mistakeList().filter((x) => inFilter(x.s))).slice(0, 3)) {
       const topic = getTopic(all, m.s, m.t);
       const q = topic && topic.quiz ? topic.quiz[m.idx] : null;
       if (q) {
@@ -88,7 +110,7 @@
     const pool = [];
     for (const sid in all) {
       const d = all[sid];
-      if (!d || !d.topics) continue;
+      if (!d || !d.topics || !inFilter(sid)) continue;
       for (const topic of d.topics) {
         (topic.quiz || []).forEach((q, i) => {
           const k = `${sid}:${topic.id}:${i}`;
@@ -104,6 +126,7 @@
   // ---------- daily mix ----------
   function runMix(all) {
     const due = SRS.dueCards()
+      .filter((d) => inFilter(d.s))
       .map((d) => {
         const topic = getTopic(all, d.s, d.t);
         const card = topic && topic.flashcards ? topic.flashcards[d.idx] : null;
@@ -115,9 +138,11 @@
     document.title = "Daily Mix — Year 4 Study Guide";
     content.innerHTML = `
       <h1>Daily mix</h1>
+      ${subjectPicker()}
       <p class="progress-text">${due.length} card${due.length === 1 ? "" : "s"} due · ${quizPicks.length} quiz questions</p>
       <div id="mix-body"></div>
     `;
+    wireSubjectPicker();
     const body = document.getElementById("mix-body");
     let reviewed = 0;
 
@@ -225,7 +250,7 @@
   // ---------- mistakes drill ----------
   function runMistakes(all) {
     document.title = "Mistakes — Year 4 Study Guide";
-    const items = shuffle(SRS.mistakeList())
+    const items = shuffle(SRS.mistakeList().filter((m) => inFilter(m.s)))
       .map((m) => {
         const topic = getTopic(all, m.s, m.t);
         const q = topic && topic.quiz ? topic.quiz[m.idx] : null;
@@ -235,9 +260,11 @@
 
     content.innerHTML = `
       <h1>Mistakes drill</h1>
+      ${subjectPicker()}
       <p class="progress-text">Questions you've gotten wrong — answer each correctly twice to clear it.</p>
       <div id="mix-body"></div>
     `;
+    wireSubjectPicker();
     const body = document.getElementById("mix-body");
 
     if (!items.length) {

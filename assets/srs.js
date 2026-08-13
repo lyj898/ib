@@ -292,6 +292,63 @@ const SRS = (() => {
   }
   migrate();
 
+  // ---- one-time migration: the "skills" subject was split into history/geography ----
+  function migrateSkillsSplit() {
+    if (localStorage.getItem("sg2:skillsSplit")) return;
+    const H = ["question-approach-and-source-analysis", "inference", "inference-with-purpose", "comparison", "reliability", "usefulness", "testing-assertion", "hybrid-reliability-with-primary-source", "hybrid-reliability-no-primary-source", "separate-inference", "surprised", "surprised-with-2-sources", "hybrid-surprised", "essay-key-notes-and-overview", "level-1-essay-questions", "comparative-essay-questions"];
+    const UNIT_MAP = { "source-basics": "history", "source-evaluation": "history", "surprised-essays": "history", "geography-technique": "geography", "case-studies-climate": "geography", "case-studies-management": "geography" };
+    const newSubject = (topicOrUnit, isUnit) =>
+      isUnit ? UNIT_MAP[topicOrUnit] || "geography" : H.includes(topicOrUnit) ? "history" : "geography";
+
+    const remapKeys = (storeKey, isUnit) => {
+      const obj = load(storeKey, null);
+      if (!obj) return;
+      let changed = false;
+      for (const k of Object.keys(obj)) {
+        if (!k.startsWith("skills:")) continue;
+        const rest = k.slice("skills:".length);
+        const first = rest.includes(":") ? rest.slice(0, rest.indexOf(":")) : rest;
+        const nk = `${newSubject(first, isUnit)}:${rest}`;
+        if (!(nk in obj)) obj[nk] = obj[k];
+        delete obj[k];
+        changed = true;
+      }
+      if (changed) save(storeKey, obj);
+    };
+
+    remapKeys("sg2:srs", false);
+    remapKeys("sg2:quiz", false);
+    remapKeys("sg2:mistakes", false);
+    remapKeys("sg2:checkpoints", true);
+    const p = load("sg2:path", null);
+    if (p) {
+      for (const part of ["learned", "practiced"]) {
+        const m = p[part] || {};
+        for (const k of Object.keys(m)) {
+          if (!k.startsWith("skills:")) continue;
+          const t = k.slice("skills:".length);
+          m[`${newSubject(t, false)}:${t}`] = m[k];
+          delete m[k];
+        }
+      }
+      save("sg2:path", p);
+    }
+    const last = load("sg2:last", null);
+    if (last && last.s === "skills") {
+      last.s = newSubject(last.t, false);
+      save("sg2:last", last);
+    }
+    const ab = load("sg2:ability", null);
+    if (ab && "skills" in ab) {
+      delete ab.skills;
+      save("sg2:ability", ab);
+    }
+    try {
+      localStorage.setItem("sg2:skillsSplit", "1");
+    } catch (e) { /* ignore */ }
+  }
+  migrateSkillsSplit();
+
   return {
     todayStr,
     rate,

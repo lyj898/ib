@@ -2,9 +2,8 @@ const SUBJECTS = [
   { id: "chinese", title: "高级华文", desc: "Advanced Chinese: writing technique, vocabulary, poetry", icon: "🈶", color: "#e11d48" },
   { id: "chemistry", title: "Chemistry", desc: "Periodic table, reactivity, electrolysis, energy, organic chemistry", icon: "⚗️", color: "#059669" },
   { id: "physics", title: "Physics", desc: "Pressure, light, waves, electricity, magnetism, electromagnetism", icon: "⚛️", color: "#2563eb" },
-  { id: "geography", title: "Geography", desc: "Weather & climate, climate change, hydrology, rivers, coasts", icon: "🌍", color: "#0891b2" },
-  { id: "history", title: "History", desc: "Cold War, Vietnam, Cuban Missile Crisis, social movements", icon: "🏛️", color: "#b45309" },
-  { id: "skills", title: "Exam Skills", desc: "History source analysis & Geography data-response technique", icon: "🎯", color: "#7c3aed" },
+  { id: "geography", title: "Geography", desc: "Weather & climate, rivers, coasts, globalisation, exam technique & case studies", icon: "🌍", color: "#0891b2" },
+  { id: "history", title: "History", desc: "Cold War, Vietnam, Cuba, social movements, source-analysis skills", icon: "🏛️", color: "#b45309" },
 ];
 
 function applySubjectTheme(subjectId) {

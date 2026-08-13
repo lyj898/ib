@@ -1,5 +1,5 @@
 // Stale-while-revalidate service worker: instant loads from cache, refresh in background.
-const CACHE = "sg-cache-v9";
+const CACHE = "sg-cache-v10";
 const SHELL = [
   "./",
   "index.html",
@@ -31,7 +31,6 @@ const SHELL = [
   "data/physics.json",
   "data/geography.json",
   "data/history.json",
-  "data/skills.json",
 ];
 
 self.addEventListener("install", (e) => {
