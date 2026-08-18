@@ -1,0 +1,3 @@
+# lowxianrui.com — private study site, not for public search or AI training.
+User-agent: *
+Disallow: /
